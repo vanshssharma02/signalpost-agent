@@ -1,0 +1,57 @@
+{
+  "run_id": "run-20261003T211401Z",
+  "dataset": "out/smoke-100-input.jsonl",
+  "dataset_sha256": "c84b5a0ac2d63f9c1a1abd2dacd7cf00e7062b4cbfe7942d3ebfaa6d44faae0b",
+  "started_at": "2026-10-03T21:14:01Z",
+  "completed_at": "2026-10-03T21:17:13Z",
+  "wall_time_seconds": 192.4,
+  "total_inputs": 100,
+  "emitted_envelopes": 100,
+  "emission_ratio": 1.0,
+  "duplicates": 0,
+  "malformed": 0,
+  "status_counts": {
+    "available": 100,
+    "ambiguous": 0,
+    "not_available": 0,
+    "not_applicable": 0,
+    "failed": 0
+  },
+  "latency": {
+    "p50_seconds": 11.039,
+    "p95_seconds": 46.703
+  },
+  "cost_usd": 0.0,
+  "claims": {
+    "total_claims": 2725,
+    "total_evidence_records": 885
+  },
+  "family_coverage_available": {
+    "identity": 100,
+    "accounts": 100,
+    "leadership": 99,
+    "locations": 71,
+    "website": 3,
+    "brand": 3,
+    "company_profiles": 3,
+    "hiring": 1,
+    "accounts_history": 0,
+    "activity": 0,
+    "group": 0
+  },
+  "validation": {
+    "passed": true,
+    "envelopes_checked": 100,
+    "spans_checked": 2725,
+    "spans_bad": 0,
+    "schema_errors": 0
+  },
+  "human_audit": {
+    "sample_type": "all_published_websites_and_profiles",
+    "total_published_websites": 3,
+    "correct_company_verdicts": 3,
+    "wrong_company_verdicts": 0,
+    "cannot_tell_verdicts": 0,
+    "wrong_company_rate": 0.0
+  }
+}

@@ -449,6 +449,7 @@ def build_cli_parser() -> argparse.ArgumentParser:
     parser.add_argument("--no-llm", action="store_true", help="Disable LLM calls")
     parser.add_argument("--strategies", default="config/strategies.toml", help="Path to strategies.toml")
     parser.add_argument("--offline", action="store_true", help="Offline mode (no network)")
+    parser.add_argument("--viewer", help="Path to emit static standalone HTML viewer")
     return parser
 
 
@@ -475,6 +476,18 @@ def main() -> None:
             resume=args.resume,
         )
     )
+
+    if args.viewer:
+        from signalpost.viewer import build_viewer_site
+        viewer_path = Path(args.viewer)
+        site_dir = viewer_path.parent / "site"
+        build_viewer_site(
+            envelopes_path=args.output,
+            out_dir=site_dir,
+            standalone_path=viewer_path,
+            run_meta=report,
+        )
+
     print(json.dumps(report, indent=2))
     sys.exit(0 if report["validation"]["passed"] else 1)
 

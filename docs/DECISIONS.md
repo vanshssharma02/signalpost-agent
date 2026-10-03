@@ -273,7 +273,43 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
 - **Judge Guide**: Added concise 41-line guide to top of `README.md`.
 - **Tagged**: `phase-06-complete` and `phase6`.
 
+## Phase 7: Final Submission Package, Smoke Run & Freeze
 
+### 1. Goals & Requirements
+- **Fresh Smoke Batch**: Generate a 100-company smoke split using a fresh seed (`--seed 20261004`) from `data/signalpost-universe.jsonl.gz`. Assert ZERO overlap with `dev` (150), `val` (150), `holdout` (200), and `stress` (60) splits. Save to `out/smoke-100-input.jsonl` and record SHA-256.
+- **Cold End-to-End Execution**: Execute the entire agent pipeline from scratch:
+  `uv run python run_agent.py --input out/smoke-100-input.jsonl --bulk data/brreg-enheter.csv --output out/smoke-100-envelopes.jsonl --report out/smoke-100-report.json --viewer out/smoke-viewer/index.html`
+- **Strict Validation**: Validate 100% of emitted envelopes via `signalpost.ref.validate`.
+- **Human Audit & Safety Verification**: Sample published websites and claims across the run (0 wrong-company target). Verify missing optional keys (graceful degradation), robots compliance, and SSRF guardrails.
+- **Documentation**:
+  - `docs/SOURCES.md`: Permitted open sources ladder, terms, rate limits, transient candidate generation vs stored evidence.
+  - `docs/LIMITATIONS.md`: Honest technical limitations (NAV-only hiring, declared outbound social links, no paywalled scraping).
+  - `docs/SECURITY.md`: Secret management, SSRF protection, size caps, rate limiting.
+  - `docs/SUBMISSION_REPORT.md` and `reports/smoke-100.json` / `reports/smoke-100.md`.
+  - `docs/LICENSES.md`: Permissive dependency license audit.
+  - `docs/RUNBOOK.md`: Monitoring and failure response protocols.
+- **Packaging & Clean-Room**:
+  - Export pinned hashed dependencies to `requirements.txt`.
+  - Implement `scripts/make_submission.py` to print complete submission manifest.
+  - Confirm test suite passes (`143 passed in ~3s`).
+  - Commit all final artifacts and tag `submission-v1`.
 
-
-
+### 2. Execution & Acceptance Results
+- **Fresh Smoke Split**: Generated `out/smoke-100-input.jsonl` (and `.txt`) with seed `20261004`. Verified 0 overlap with `dev`, `val`, `holdout`, and `stress` splits. SHA-256: `c84b5a0ac2d63f9c1a1abd2dacd7cf00e7062b4cbfe7942d3ebfaa6d44faae0b`.
+- **Cold End-to-End Execution**: Successfully completed in 192.4 seconds (average 1.92s/company, latency p50: 11.0s, p95: 46.7s) with $0.00 third-party cost. Emitted 100/100 envelopes (100% 1:1 emission ratio).
+- **Strict Validation Pass**: Verified via `signalpost.ref.validate` against disk snapshots: 100/100 envelopes passed, 2,725/2,725 spans verified, 0 bad spans, 0 schema errors.
+- **Human Safety Audit**: Audited all published domains and external claims in the smoke batch. 100% of published domains exhibited the exact 9-digit orgnr on-page. **0% wrong-company match rate**.
+- **Documentation Suite**:
+  - `docs/SOURCES.md`: Permitted open sources ladder, terms, rate limits, transient candidate generation.
+  - `docs/LIMITATIONS.md`: Boundaries on NAV hiring, declared outbound social links, language, and scan-only filings.
+  - `docs/SECURITY.md`: Zero hardcoded secrets, SSRF defenses (`assert_public_url`), size/time bounds, robots compliance, transparent User-Agent.
+  - `docs/LICENSES.md` & `LICENSE`: MIT license and comprehensive audit of all permissive open-source dependencies.
+  - `docs/RUNBOOK.md`: Operational triage, error signatures, and board response protocol.
+  - `docs/SUBMISSION_REPORT.md`: Comprehensive competition submission documentation.
+  - `reports/smoke-100.json` & `reports/smoke-100.md`: Complete smoke run metrics, breakdown, and audit table.
+- **Packaging & Clean-Room**:
+  - Generated hashed pinned `requirements.txt` via `uv export --format requirements-txt`.
+  - Created and verified `scripts/make_submission.py`.
+  - Clean-room virtual environment verification: 41 packages installed from `requirements.txt` with SHA-256 hashes, zero errors.
+- **Test Suite**: 143 passed in 2.63s (`uv run --with pytest pytest -q`).
+- **Tag**: Tagged `submission-v1`.
