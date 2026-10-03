@@ -1,0 +1,11 @@
+out/
+snapshots/
+state/
+.env
+.venv/
+data/*.csv
+data/*.gz
+data/*.jsonl
+__pycache__/
+*.partial
+*.tmp

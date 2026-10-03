@@ -1,0 +1,78 @@
+# Strategy registry (rule N10). Every strategy has a version and a flag. Frozen before each submission.
+# Rollback = set enabled=false. Never tune on the holdout set.
+
+[run]
+time_budget_s        = 1500     # overridden by --time-budget / SIGNALPOST_TIME_BUDGET_S; replace once Builderr answers
+soft_deadline_frac   = 0.80
+hard_deadline_frac   = 0.92
+workers              = 24
+per_company_timeout_s = 90
+brreg_concurrency    = 8
+per_host_concurrency = 2
+max_page_bytes       = 1500000
+connect_timeout_s    = 5
+read_timeout_s       = 10
+
+[promotion_gate]
+max_new_wrong_company   = 0
+min_span_validity       = 1.0
+min_proxy_recall_gain   = 1.0     # points per touched family
+max_p95_company_s       = 60
+
+[website]
+order = ["registry_homepage", "registry_email_domain", "subunit_homepage", "nav_employer_homepage", "domain_guess", "search_orgnr"]
+
+[strategies.registry_homepage]
+version = 1
+enabled = true
+[strategies.registry_email_domain]
+version = 1
+enabled = true
+[strategies.subunit_homepage]
+version = 1
+enabled = true
+[strategies.nav_employer_homepage]
+version = 1
+enabled = true
+[strategies.domain_guess]
+version = 1
+enabled = true
+max_candidates = 12
+tlds = ["no", "com"]
+[strategies.search_orgnr]
+version = 1
+enabled = false          # enable only when SEARCH_API_KEY exists and terms are accepted; results are transient
+max_queries_per_company = 2
+max_results_used = 5
+run_budget_queries = 2000
+
+[strategies.proof]
+version = 1
+p1_orgnr_exact = true
+p2_strong_combo = true
+p2_min_confidence = 0.9
+group_page_orgnr_threshold = 3
+
+[strategies.nav_jobs]
+version = 1
+enabled = true
+mode = "nav_name_match"   # or "nav_full_detail"; decide from spike S1
+max_ads_per_company = 25
+
+[strategies.site_extraction]
+version = 1
+enabled = true
+max_pages = 8
+max_news_items = 5
+news_window_months = 24
+profile_publish_rules = ["jsonld_sameas", "two_pages", "handle_token"]
+
+[strategies.accounts_history]
+version = 1
+enabled = false          # history endpoint is rate limited (about 30/min); enable only with time left
+
+[strategies.synthesis]
+version = 1
+generator = "template-v1"
+llm_rewrite = false
+growth_threshold_pct = 10
