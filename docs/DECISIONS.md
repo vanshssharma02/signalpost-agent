@@ -97,7 +97,33 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
 9. `src/norway_company_agent/sentiment.py`
 10. `scripts/score_competition_v3.py` (scored obsolete 55/15/10/12/8 rubric)
 
-All tests in `tests/` and `tests/ref/` (108 tests) are green. Zero source occurrences of forbidden platform keywords in `src/` or `scripts/`.
+## Phase 1: Evaluation Harness & Starter Baseline
+- **Evaluation Splits**:
+  - Deterministically stratified from `data/signalpost-universe.jsonl.gz` using fixed seed (`seed=42`).
+  - `dev` (150 companies, SHA-256: `0d81c410d630e60ef5b2835286863359eb8e19644528a3a5da26f4039f9fc090`, guaranteed 28 registry websites).
+  - `val` (150 companies, SHA-256: `8e482fde0d02f658f3fe05c891f535fbf77184f54c53632892a2f8fc00058edc`, 28 registry websites).
+  - `holdout` (200 companies, SHA-256: `3c4fd69b43f44c918bf0c10a54153fdd0d52840b6e654de58880ffd364bee5d6`, 36 registry websites). Untouched until final submission.
+  - `stress` (60 companies, SHA-256: `47eaa711713cd399a359e6c12e5639664f437bc824cd2ed795d59593f517807f`): 10 bankrupt, 10 liquidating, 10 missing filings, 10 diacritic-rich names, 10 token collision pairs (5 pairs), 10 special legal forms (`NUF`, `BRL`, `ESEK`, `STI`).
+  - Verified 100% pairwise disjoint sets (0 duplicate organisations across splits).
+  - All 560 organisation numbers verified Modulo-11 valid via `signalpost.ref.orgnr.is_valid`.
+- **Manual Labelling Interface**:
+  - Created `eval/label.py` generating `eval/dev-labels-template.csv`, `eval/dev-labels-template.jsonl`, and interactive browser review interface `eval/labels/sheet.html`.
+  - Estimated labelling effort: ~1.5 min per company (~3.7 hours total for 150 companies).
+  - Initial seed gold dataset committed at `eval/gold/dev_labels.jsonl`.
+- **Metrics & Promotion Gate**:
+  - Implemented `eval/score.py` computing family coverage, claim density, proxy recall (0.7 company + 0.3 claims), website precision against gold, evidence backing, and Builderr competition proxy.
+  - Implemented `eval/promote.py` enforcing rule N10: 0 new wrong-company publications, non-decreasing precision, 100% span validity, +1.0 min recall gain, p95 <= 60s. Decision log saved under `reports/decisions/`.
+  - Eval test suite: `eval/test_eval.py` (9 tests passing).
+- **Baseline Starter Measurement**:
+  - Executed unmodified starter batch against 150 dev companies (`out/baseline-dev-raw.jsonl`).
+  - Runtime: 165.9 seconds across 8 worker threads; 918 HTTP requests (6.12 req/co), 17.38 MB.
+  - Registry website present in dev: 18.67% (28 / 150 companies).
+  - Passing starter identity gate: 16.67% (25 / 150 companies).
+  - Roles coverage: 100.0% (150 / 150 companies, 677 claims).
+  - Subunits coverage: 77.33% (116 / 150 companies, 120 claims).
+  - Financials coverage: 82.67% (124 / 150 companies, 323 claims).
+  - Proxy Score: Recall 29.60, Evidence 30.00, Synthesis 7.20, UX 3.20 (Total: 70.00).
+  - Calibrated against Builderr official leaderboard baseline: Starter scores 42.21 (best entry 45.59; qualification target 65.0+).
 
 ## Phase 2: Batch Runner & Superset Result Envelope
 - Integrated `signalpost.ref.guard` (`parse_inputs`, `Deadline`, `EnvelopeWriter`, `run_batch`) and `signalpost.ref.envelope` (`new_envelope`, `make_evidence`, `make_claim`, `finalize`, `failure_envelope`).

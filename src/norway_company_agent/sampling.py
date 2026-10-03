@@ -141,8 +141,17 @@ def deterministic_financial_filer_sample(
     return selected, metadata
 
 
+def _open_bulk(path: str | Path):
+    p = Path(path)
+    with open(p, "rb") as probe:
+        magic = probe.read(2)
+    if magic == b"\x1f\x8b":
+        return gzip.open(p, "rt", encoding="utf-8-sig", newline="")
+    return open(p, "r", encoding="utf-8-sig", newline="")
+
+
 def iter_bulk(path: str | Path) -> Iterable[dict[str, Any]]:
-    with gzip.open(path, "rt", encoding="utf-8-sig", newline="") as handle:
+    with _open_bulk(path) as handle:
         sample = handle.read(8192)
         handle.seek(0)
         dialect = csv.Sniffer().sniff(sample, delimiters=";,\t")
@@ -150,6 +159,7 @@ def iter_bulk(path: str | Path) -> Iterable[dict[str, Any]]:
             record = normalize_row(row)
             if len(record["organisation_number"]) == 9:
                 yield record
+
 
 
 def deterministic_sample(path: str | Path, count: int, seed: int = 20260822) -> tuple[list[dict[str, Any]], dict[str, Any]]:

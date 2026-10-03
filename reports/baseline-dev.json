@@ -1,0 +1,129 @@
+{
+  "cohort_size": 150,
+  "envelopes_count": 150,
+  "scores": {
+    "recall": 29.6,
+    "evidence": 30.0,
+    "synthesis": 7.2,
+    "ux": 3.2,
+    "total_proxy": 70.0
+  },
+  "website_precision": {
+    "published_count": 25,
+    "same_company_count": 22,
+    "wrong_company_count": 3,
+    "precision_pct": 88.0,
+    "wrong_companies": [
+      {
+        "orgnr": "988387657",
+        "published": "https://www.obos.no/naringseiendom",
+        "gold": "https://www.obos.no/bedrift/naringseiendom/"
+      },
+      {
+        "orgnr": "983923534",
+        "published": "https://hjertebarn.no/",
+        "gold": "https://www.ffhb.no"
+      },
+      {
+        "orgnr": "980502155",
+        "published": "https://tidetec.com/",
+        "gold": "https://www.tidetec.no"
+      }
+    ]
+  },
+  "evidence_integrity": {
+    "total_claims": 1445,
+    "valid_evidence_claims": 1445,
+    "claim_evidence_pct": 100.0,
+    "total_evidences": 1161,
+    "valid_evidences": 1161,
+    "span_validity_pct": 100.0
+  },
+  "operations": {
+    "total_requests": 918,
+    "requests_per_company": 6.12,
+    "p50_latency_s": 6.12,
+    "p95_latency_s": 12.43,
+    "third_party_cost_usd": 0.0
+  },
+  "field_states": {},
+  "families": {
+    "identity": {
+      "covered_companies": 150,
+      "company_coverage_pct": 100.0,
+      "claims_count": 300,
+      "claims_per_covered": 2.0,
+      "proxy_recall": 0.9
+    },
+    "brand": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "accounts": {
+      "covered_companies": 124,
+      "company_coverage_pct": 82.67,
+      "claims_count": 323,
+      "claims_per_covered": 2.6,
+      "proxy_recall": 0.794
+    },
+    "accounts_history": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "leadership": {
+      "covered_companies": 150,
+      "company_coverage_pct": 100.0,
+      "claims_count": 677,
+      "claims_per_covered": 4.51,
+      "proxy_recall": 1.0
+    },
+    "locations": {
+      "covered_companies": 116,
+      "company_coverage_pct": 77.33,
+      "claims_count": 120,
+      "claims_per_covered": 1.03,
+      "proxy_recall": 0.7813
+    },
+    "group": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "website": {
+      "covered_companies": 25,
+      "company_coverage_pct": 16.67,
+      "claims_count": 25,
+      "claims_per_covered": 1.0,
+      "proxy_recall": 0.1667
+    },
+    "company_profiles": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "hiring": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "activity": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    }
+  }
+}

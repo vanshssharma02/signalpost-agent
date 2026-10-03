@@ -1,0 +1,20 @@
+{
+  "dev_count": 150,
+  "dev_websites": 28,
+  "val_count": 150,
+  "val_websites": 28,
+  "holdout_count": 200,
+  "holdout_websites": 36,
+  "stress_count": 60,
+  "disjoint": true,
+  "hashes": {
+    "dev.txt": "0d81c410d630e60ef5b2835286863359eb8e19644528a3a5da26f4039f9fc090",
+    "dev.jsonl": "4b927c671b1fe13ad152d155564f1a0bbc372063cce1ff73eaf973da868d6207",
+    "val.txt": "8e482fde0d02f658f3fe05c891f535fbf77184f54c53632892a2f8fc00058edc",
+    "val.jsonl": "7d6d409b65af2c15c74b8c3775d830347df0a752f3ec64372de5f727ed608cca",
+    "holdout.txt": "3c4fd69b43f44c918bf0c10a54153fdd0d52840b6e654de58880ffd364bee5d6",
+    "holdout.jsonl": "04b3a75fe0b7b692ac8fb84a6430c22089f4ea21610b5f812882a2e25016cdb7",
+    "stress.txt": "47eaa711713cd399a359e6c12e5639664f437bc824cd2ed795d59593f517807f",
+    "stress.jsonl": "05c1ad9950ec2f331b8fd83973dc34cab32ceb82a8b626fb3ce7576432fce2e0"
+  }
+}
