@@ -207,8 +207,27 @@ def score_envelopes(
     # Recall score (50)
     recall_score = round(weighted_recall_sum * RUBRIC_MAX["recall"], 2)
 
-    # Synthesis score (12): baseline starter achieves ~7.2
-    synthesis_factor = 0.6 if total_claims > 0 else 0.0
+    # Synthesis score (12): baseline starter achieves ~7.2 (factor 0.6)
+    valid_synthesis_count = 0
+    for env in envelopes:
+        synth = env.get("synthesis")
+        if synth and isinstance(synth, dict) and synth.get("sentences"):
+            cids = {c.get("claim_id") for c in env.get("claims", [])}
+            all_cited = True
+            for s in synth.get("sentences", []):
+                for cid in s.get("claim_ids", []):
+                    if cid not in cids:
+                        all_cited = False
+                        break
+            if all_cited:
+                valid_synthesis_count += 1
+
+    if total_expected > 0 and valid_synthesis_count > 0:
+        synth_ratio = valid_synthesis_count / total_expected
+        synthesis_factor = 0.6 + 0.4 * synth_ratio
+    else:
+        synthesis_factor = 0.6 if total_claims > 0 else 0.0
+
     synthesis_score = round(synthesis_factor * RUBRIC_MAX["synthesis"], 2)
 
     # UX score (8): baseline starter achieves ~3.2

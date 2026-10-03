@@ -92,8 +92,8 @@ def make_run_metadata(run_id: str, started_at: str, strategy_set: str = "default
         "terminal_status": "completed",
         "agent": {
             "name": "signalpost",
-            "version": "0.4.0",
-            "git_commit": "phase-04",
+            "version": "0.5.0",
+            "git_commit": "phase-05",
         },
         "strategy_set": strategy_set,
     }
@@ -106,6 +106,7 @@ async def run_batch_process(
     output_path: str | Path,
     report_path: str | Path,
     snapshots_dir: str | Path = "out/snapshots",
+    previous_path: str | Path | None = None,
     run_id: str | None = None,
     time_budget_s: float = 1500.0,
     expected_count: int | None = None,
@@ -157,6 +158,31 @@ async def run_batch_process(
     bulk_meta: dict[str, Any] = {}
     if bulk_path and Path(bulk_path).exists():
         bulk_profiles, bulk_meta = load_bulk_subset(bulk_path, set(valid_orgs_ordered))
+
+    # Load previous envelopes if provided for differential refresh (Workflow /05)
+    previous_envelopes: dict[str, dict[str, Any]] = {}
+    if previous_path:
+        p_path = Path(previous_path)
+        if p_path.is_file():
+            for line in p_path.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    try:
+                        e = json.loads(line)
+                        if "organisation_number" in e:
+                            previous_envelopes[e["organisation_number"]] = e
+                    except Exception:
+                        pass
+        elif p_path.is_dir():
+            for f in p_path.glob("*.jsonl"):
+                for line in f.read_text(encoding="utf-8").splitlines():
+                    if line.strip():
+                        try:
+                            e = json.loads(line)
+                            if "organisation_number" in e:
+                                previous_envelopes[e["organisation_number"]] = e
+                        except Exception:
+                            pass
+        logger.info("Loaded %d previous envelopes for differential refresh from %s", len(previous_envelopes), previous_path)
 
     # Pre-fetch NAV feed items if online (Workflow /04)
     nav_token = None
@@ -314,7 +340,12 @@ async def run_batch_process(
                 "latencies_ms": [m.elapsed_ms for m in metrics],
             }
 
-        return profile_to_envelope(profile, run=run_meta, snapshots_dir=snapshots_dir)
+        return profile_to_envelope(
+            profile,
+            run=run_meta,
+            snapshots_dir=snapshots_dir,
+            previous_env=previous_envelopes.get(org),
+        )
 
     # Filter tasks to those not already completed (resume support)
     pending_orgs = [o for o in valid_orgs_ordered if o not in writer.done()]
@@ -356,6 +387,23 @@ async def run_batch_process(
     if expected_count is not None and len(order_all) != expected_count:
         warnings.append(f"Expected count {expected_count} differed from input count {len(order_all)}")
 
+    # Save change events to out/changes.jsonl (Workflow /05)
+    all_changes = [ch for e in final_envelopes for ch in e.get("changes", [])]
+    changes_file = out_path.parent / "changes.jsonl"
+    changes_file.write_text(
+        "\n".join(json.dumps(ch, ensure_ascii=False) for ch in all_changes) + ("\n" if all_changes else ""),
+        encoding="utf-8"
+    )
+
+    # Save claim store to state/claims.jsonl (Workflow /05)
+    state_dir = Path("state")
+    state_dir.mkdir(parents=True, exist_ok=True)
+    claims_file = state_dir / "claims.jsonl"
+    all_claims = [c for e in final_envelopes for c in e.get("claims", [])]
+    with claims_file.open("w", encoding="utf-8") as f:
+        for c in all_claims:
+            f.write(json.dumps(c, ensure_ascii=False) + "\n")
+
     status_counts = dict(Counter(e.get("status") for e in final_envelopes))
     report = {
         "run_id": run_id,
@@ -368,6 +416,7 @@ async def run_batch_process(
         "malformed": malformed,
         "warnings": warnings,
         "status_counts": status_counts,
+        "total_changes": len(all_changes),
         "p50_s": round(statistics.median(timings), 3) if timings else None,
         "p95_s": round(sorted(timings)[int(0.95 * (len(timings) - 1))], 3) if timings else None,
         "validation": validation,
@@ -417,6 +466,7 @@ def main() -> None:
             output_path=args.output,
             report_path=args.report,
             snapshots_dir=args.snapshots_dir,
+            previous_path=args.previous,
             run_id=args.run_id,
             time_budget_s=args.time_budget,
             expected_count=args.expected_count,

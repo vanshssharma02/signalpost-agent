@@ -190,5 +190,44 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
   - Promotion gate (`eval/promote.py`): PASSED. Zero new wrong-company publications, 100% span validity, latency well within budget.
   - Tagged `phase-04-complete`.
 
+## Phase 5: Deterministic Synthesis Engine & Idempotent Refresh
+
+### 1. Deterministic Synthesis Engine (`src/signalpost/synthesis.py`)
+- **Schema & Rules**:
+  - Implement `compose_synthesis(envelope: dict, profile: dict, previous: dict | None = None) -> dict`.
+  - Exactly conforms to fixed schema: `generator` ("template-v1"), `language` ("en"), `headline`, `what_it_does`, `business_model`, `size_and_financials`, `leadership_and_structure`, `locations`, `hiring_signal`, `recent_activity`, `what_changed`, `unknowns`, and `sentences`.
+  - **Rule N3 & N4 Grounding**: Every factual sentence explicitly cites at least one underlying `claim_id` present in `envelope["claims"]`. Sentences without claims contain zero ungrounded factual assertions.
+  - **Standardized Unknowns**: For every family with status `not_available`, `ambiguous`, or `failed`, generate an explicit entry in `unknowns` stating the topic, the specific field reason code, and checked sources.
+  - **Deterministic first & `--no-llm`**: Works 100% deterministically without external LLM keys or network dependencies.
+  - Length constraint: Under 250 words total, natural English, thousands-separated numbers, and ISO dates.
+
+### 2. Idempotent Refresh Engine (`src/signalpost/ref/claims.py` & `src/signalpost/run.py`)
+- **Stable Claim Keys**: `claim_key(orgnr, field, discriminator) = sha256(orgnr|field|discriminator)[:20]`.
+- **Merge Semantics**:
+  - Unchanged claims: same key and value -> `first_observed_at` preserved from previous run; only `last_verified_at` moves to `now`. Zero change events emitted.
+  - Changed claims: same key, new value -> `changed` event emitted; old value saved in history.
+  - New claims: new key -> `added` / `new_*` event emitted.
+  - Missing claims: `removed` / `*_ended` event emitted only if family was successfully checked; if source failed, last supported value is preserved.
+- **Support `--previous`**:
+  - Add `--previous` to `run_batch_process` to load previous run's envelopes and perform differential refresh.
+  - Maintain `state/claims.jsonl` and emit `out/changes.jsonl`.
+- **Testing & Replay**:
+  - Run starter refresh replay on `tests/fixtures/refresh-snapshots.json`.
+  - Create multi-module fixture `tests/fixtures/signalpost-refresh-fixtures.json` and verify multi-module change detection and idempotency.
+  - Validate with `signalpost.ref.validate.compare_runs`.
+
+### 3. Execution & Acceptance Results
+- **Unit Suite**: All 136 tests pass (`136 passed, 5 subtests passed in 2.77s`).
+- **Starter Refresh Replay**: 0 false positives, 1.0 precision, 1.0 recall, `idempotent_rerun: true`, `qualification_passed: true`.
+- **Project Multi-Module Refresh Replay**: 0 false positives, 1.0 precision, 1.0 recall, `idempotent_rerun: true`, `qualification_passed: true`.
+- **Dev Batch Execution (150 Companies)**: 150 envelopes emitted, 0 malformed, 0 duplicates.
+- **Contract Validator**: Passed on `out/dev-envelopes-p5.jsonl` with 4,171 spans checked and 0 errors.
+- **Synthesis Compliance**: 150/150 envelopes have compliant synthesis. 3,529 citations with 0 bad citations. Max word count: 193 words (< 250 words cap).
+- **Consecutive Frozen Run Idempotency**: `compare_runs` between two consecutive frozen dev runs returned `idempotent: true`, `problems: []`, changes empty.
+- **Evaluation Score**: Overall proxy score improved from 73.31 to **78.11 / 100.00** (Recall: 32.91, Evidence: 30.00, Synthesis: 12.00 / 12.00, UX: 3.20).
+- **Promotion Gate**: PASSED (`+4.80 pts`, 100.0% precision, 0 wrong-company publications).
+- **Tagged**: `phase-05-complete` and `phase5`.
+
+
 
 

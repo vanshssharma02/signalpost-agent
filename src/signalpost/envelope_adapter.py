@@ -9,7 +9,7 @@ from dataclasses import asdict, is_dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
-from signalpost.ref.claims import claim_key
+from signalpost.ref.claims import canonical, claim_key
 from signalpost.ref.envelope import (
     FAMILIES,
     STATES,
@@ -24,6 +24,44 @@ from signalpost.ref.envelope import (
     sha256_hex,
     utc_now,
 )
+from signalpost.synthesis import compose_synthesis
+
+
+def _determine_change_type(field: str, action: str) -> str:
+    """Map field and action to standardized change type enum (Workflow /05)."""
+    if action == "removed":
+        if field == "role_holder":
+            return "role_ended"
+        if field == "subunit":
+            return "location_closed"
+        if field == "job_posting":
+            return "closed_job"
+        return "status_changed"
+    if action == "added":
+        if field in ("revenue", "operating_result", "annual_result", "profit_before_tax", "assets", "equity", "debt"):
+            return "new_filing"
+        if field == "role_holder":
+            return "new_role"
+        if field == "subunit":
+            return "new_location"
+        if field == "job_posting":
+            return "new_job"
+        if field == "official_website":
+            return "new_website"
+        if field == "company_news_item":
+            return "news_item_added"
+        if field == "company_profile":
+            return "profile_added"
+        return "description_changed"
+    # action == "changed"
+    if field == "official_website":
+        return "website_changed"
+    if field == "role_holder":
+        return "new_role"
+    if field in ("revenue", "operating_result", "annual_result"):
+        return "new_filing"
+    return "description_changed"
+
 
 
 def store_snapshot(snapshots_dir: Path | str | None, text_or_bytes: str | bytes) -> tuple[str, str | None]:
@@ -50,6 +88,7 @@ def profile_to_envelope(
     *,
     run: dict,
     snapshots_dir: Path | str | None = None,
+    previous_env: dict | None = None,
 ) -> dict[str, Any]:
     """Convert an enriched profile dict into a compliant contract envelope."""
     orgnr = str(profile.get("organisation_number") or "")
@@ -704,13 +743,90 @@ def profile_to_envelope(
         if env["field_states"][fam]["availability"] == "failed" and env["field_states"][fam]["reason"] == "not_checked":
             set_field_state(env, fam, "not_available", "checked_nothing_found")
 
-    # 9. Record operations metrics
+    # Operations metrics
     metrics = profile.get("run_metrics") or {}
     env["operations"] = {
         "requests": metrics.get("requests", 0),
         "runtime_ms": int(sum(metrics.get("latencies_ms", []))),
         "third_party_cost_usd": 0.0,
     }
+
+    # 11. Differential claim merge with previous observation (Workflow /05)
+    if previous_env:
+        prev_claims = {c["claim_id"]: c for c in previous_env.get("claims", []) if "claim_id" in c}
+        current_claim_ids = set()
+
+        for c in env["claims"]:
+            cid = c["claim_id"]
+            current_claim_ids.add(cid)
+            if cid in prev_claims:
+                old_c = prev_claims[cid]
+                # Preserve stable first_observed_at
+                c["first_observed_at"] = old_c.get("first_observed_at") or old_c.get("last_verified_at") or now
+                c["last_verified_at"] = now
+                if canonical(old_c.get("value")) != canonical(c.get("value")):
+                    # Material change detected
+                    ch_type = _determine_change_type(c["field"], "changed")
+                    old_ev = (old_c.get("evidence_ids") or [None])[0]
+                    new_ev = (c.get("evidence_ids") or [None])[0]
+                    env["changes"].append({
+                        "type": ch_type,
+                        "orgnr": orgnr,
+                        "field": c["field"],
+                        "claim_id": cid,
+                        "old": old_c.get("value"),
+                        "new": c.get("value"),
+                        "old_evidence_id": old_ev,
+                        "new_evidence_id": new_ev,
+                        "detected_at": now,
+                        "material": True,
+                    })
+            else:
+                # New claim observed
+                c["first_observed_at"] = now
+                c["last_verified_at"] = now
+                ch_type = _determine_change_type(c["field"], "added")
+                new_ev = (c.get("evidence_ids") or [None])[0]
+                env["changes"].append({
+                    "type": ch_type,
+                    "orgnr": orgnr,
+                    "field": c["field"],
+                    "claim_id": cid,
+                    "old": None,
+                    "new": c.get("value"),
+                    "old_evidence_id": None,
+                    "new_evidence_id": new_ev,
+                    "detected_at": now,
+                    "material": True,
+                })
+
+        # Check for claims present in previous but missing in current
+        for old_cid, old_c in prev_claims.items():
+            if old_cid not in current_claim_ids:
+                fam = old_c.get("family", "")
+                st = env["field_states"].get(fam, {})
+                if st.get("availability") in ("available", "not_available"):
+                    # Family was successfully checked, so this claim ended
+                    ch_type = _determine_change_type(old_c["field"], "removed")
+                    old_ev = (old_c.get("evidence_ids") or [None])[0]
+                    env["changes"].append({
+                        "type": ch_type,
+                        "orgnr": orgnr,
+                        "field": old_c["field"],
+                        "claim_id": old_cid,
+                        "old": old_c.get("value"),
+                        "new": None,
+                        "old_evidence_id": old_ev,
+                        "new_evidence_id": None,
+                        "detected_at": now,
+                        "material": True,
+                    })
+                else:
+                    # Family check failed or was not completed: KEEP last supported claim!
+                    env["claims"].append(old_c)
+
+    # 12. Structured source-grounded synthesis (Workflow /05)
+    env["synthesis"] = compose_synthesis(env, profile=profile, previous=previous_env)
 
     def _to_json_safe(obj: Any) -> Any:
         if is_dataclass(obj) and not isinstance(obj, type):

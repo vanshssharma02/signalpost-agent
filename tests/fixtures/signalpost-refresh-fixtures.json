@@ -1,0 +1,139 @@
+{
+  "corpus": "signalpost-pipeline multi-module refresh replay fixture",
+  "pipeline": "signalpost",
+  "modules": ["registry_live", "financials", "roles", "locations"],
+  "profiles": [
+    {
+      "organisation_number": "923352333",
+      "name": "XOURCE GROUP AS",
+      "legal_form": "AS",
+      "employees": 0,
+      "website": "www.xource.no",
+      "evidence": {}
+    }
+  ],
+  "expected_changes": [
+    {"organisation_number": "923352333", "field": "registry.employees"},
+    {"organisation_number": "923352333", "field": "financials.records"},
+    {"organisation_number": "923352333", "field": "roles.roles"}
+  ],
+  "snapshots": {
+    "old": {
+      "retrieved_at": "2026-08-01T00:00:00Z",
+      "effective_at": "2026-07-31T23:59:59Z",
+      "responses": {
+        "https://data.brreg.no/enhetsregisteret/api/enheter/923352333": {
+          "status": 200,
+          "body": {
+            "organisasjonsnummer": "923352333",
+            "navn": "XOURCE GROUP AS",
+            "organisasjonsform": {"kode": "AS"},
+            "antallAnsatte": 0,
+            "hjemmeside": "www.xource.no",
+            "forretningsadresse": {"adresse": ["Postboks 1730 Vika"], "postnummer": "0121", "poststed": "OSLO", "landkode": "NO"},
+            "naeringskode1": {"kode": "70.200", "beskrivelse": "Bedriftsrådgivning"}
+          }
+        },
+        "https://data.brreg.no/regnskapsregisteret/regnskap/923352333": {
+          "status": 200,
+          "body": [
+            {
+              "id": 1,
+              "regnskapstype": "SELSKAP",
+              "valuta": "NOK",
+              "regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+              "resultatregnskapResultat": {
+                "driftsresultat": {"driftsinntekter": {"sumDriftsinntekter": 500000.0}, "driftsresultat": 50000.0},
+                "aarsresultat": 40000.0
+              },
+              "eiendeler": {"sumEiendeler": 200000.0},
+              "egenkapitalGjeld": {"egenkapital": {"sumEgenkapital": 100000.0}, "gjeldOversikt": {"sumGjeld": 100000.0}}
+            }
+          ]
+        },
+        "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller": {
+          "status": 200,
+          "body": {
+            "rollegrupper": [
+              {
+                "type": {"kode": "STYR", "beskrivelse": "Styre"},
+                "roller": [
+                  {"type": {"kode": "LEDE", "beskrivelse": "Styrets leder"}, "person": {"navn": {"fornavn": "Ola", "etternavn": "Nordmann"}}}
+                ]
+              }
+            ]
+          }
+        },
+        "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923352333&size=1000": {
+          "status": 200,
+          "body": {"_embedded": {"underenheter": []}}
+        }
+      }
+    },
+    "new": {
+      "retrieved_at": "2026-08-02T00:00:00Z",
+      "effective_at": "2026-08-01T23:59:59Z",
+      "responses": {
+        "https://data.brreg.no/enhetsregisteret/api/enheter/923352333": {
+          "status": 200,
+          "body": {
+            "organisasjonsnummer": "923352333",
+            "navn": "XOURCE GROUP AS",
+            "organisasjonsform": {"kode": "AS"},
+            "antallAnsatte": 5,
+            "hjemmeside": "www.xource.no",
+            "forretningsadresse": {"adresse": ["Postboks 1730 Vika"], "postnummer": "0121", "poststed": "OSLO", "landkode": "NO"},
+            "naeringskode1": {"kode": "70.200", "beskrivelse": "Bedriftsrådgivning"}
+          }
+        },
+        "https://data.brreg.no/regnskapsregisteret/regnskap/923352333": {
+          "status": 200,
+          "body": [
+            {
+              "id": 1,
+              "regnskapstype": "SELSKAP",
+              "valuta": "NOK",
+              "regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+              "resultatregnskapResultat": {
+                "driftsresultat": {"driftsinntekter": {"sumDriftsinntekter": 500000.0}, "driftsresultat": 50000.0},
+                "aarsresultat": 40000.0
+              },
+              "eiendeler": {"sumEiendeler": 200000.0},
+              "egenkapitalGjeld": {"egenkapital": {"sumEgenkapital": 100000.0}, "gjeldOversikt": {"sumGjeld": 100000.0}}
+            },
+            {
+              "id": 2,
+              "regnskapstype": "SELSKAP",
+              "valuta": "NOK",
+              "regnskapsperiode": {"fraDato": "2025-01-01", "tilDato": "2025-12-31"},
+              "resultatregnskapResultat": {
+                "driftsresultat": {"driftsinntekter": {"sumDriftsinntekter": 1200000.0}, "driftsresultat": 150000.0},
+                "aarsresultat": 120000.0
+              },
+              "eiendeler": {"sumEiendeler": 450000.0},
+              "egenkapitalGjeld": {"egenkapital": {"sumEgenkapital": 220000.0}, "gjeldOversikt": {"sumGjeld": 230000.0}}
+            }
+          ]
+        },
+        "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller": {
+          "status": 200,
+          "body": {
+            "rollegrupper": [
+              {
+                "type": {"kode": "STYR", "beskrivelse": "Styre"},
+                "roller": [
+                  {"type": {"kode": "LEDE", "beskrivelse": "Styrets leder"}, "person": {"navn": {"fornavn": "Ola", "etternavn": "Nordmann"}}},
+                  {"type": {"kode": "MEDL", "beskrivelse": "Styremedlem"}, "person": {"navn": {"fornavn": "Kari", "etternavn": "Nordmann"}}}
+                ]
+              }
+            ]
+          }
+        },
+        "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923352333&size=1000": {
+          "status": 200,
+          "body": {"_embedded": {"underenheter": []}}
+        }
+      }
+    }
+  }
+}
