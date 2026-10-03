@@ -18,7 +18,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 CONFIG_PATH = ROOT / "config" / "strategies.toml"
 DECISIONS_DIR = ROOT / "reports" / "decisions"
 
@@ -96,16 +98,39 @@ def evaluate_promotion(
     return passed, failures, decision
 
 
+def load_report_or_envelopes(path_str: str, gold_path: Path | None, orgs_path: Path | None) -> dict[str, Any]:
+    p = Path(path_str)
+    if p.suffix == ".jsonl":
+        from eval.score import load_envelopes, load_gold_labels, score_envelopes
+        envs = load_envelopes(p)
+        gold = load_gold_labels(gold_path) if gold_path and gold_path.exists() else {}
+        expected = [l.strip() for l in orgs_path.read_text(encoding="utf-8").splitlines() if l.strip()] if orgs_path and orgs_path.exists() else [e.get("organisation_number") for e in envs if e.get("organisation_number")]
+        return score_envelopes(envs, expected, gold)
+    return load_json(p)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Promotion gate for Signalpost challenger strategies")
-    parser.add_argument("baseline", help="Baseline evaluation report JSON")
-    parser.add_argument("challenger", help="Challenger evaluation report JSON")
+    parser.add_argument("baseline_pos", nargs="?", help="Baseline evaluation report JSON or envelopes JSONL")
+    parser.add_argument("challenger_pos", nargs="?", help="Challenger evaluation report JSON or envelopes JSONL")
+    parser.add_argument("--baseline", dest="baseline_flag", help="Baseline evaluation report JSON or envelopes JSONL")
+    parser.add_argument("--challenger", dest="challenger_flag", help="Challenger evaluation report JSON or envelopes JSONL")
+    parser.add_argument("--gold", default=str(ROOT / "eval" / "gold" / "dev_labels.jsonl"), help="Path to gold truth labels")
+    parser.add_argument("--orgs", default=str(ROOT / "eval" / "sets" / "dev.txt"), help="Path to expected orgs file")
     parser.add_argument("--min-gain", type=float, default=1.0, help="Minimum required proxy recall gain")
     parser.add_argument("--decision-file", help="Path to write decision report")
     args = parser.parse_args()
 
-    baseline_data = load_json(Path(args.baseline))
-    challenger_data = load_json(Path(args.challenger))
+    b_path = args.baseline_flag or args.baseline_pos
+    c_path = args.challenger_flag or args.challenger_pos
+    if not b_path or not c_path:
+        parser.error("Both baseline and challenger paths must be provided.")
+
+    gold_path = Path(args.gold) if args.gold else None
+    orgs_path = Path(args.orgs) if args.orgs else None
+
+    baseline_data = load_report_or_envelopes(b_path, gold_path, orgs_path)
+    challenger_data = load_report_or_envelopes(c_path, gold_path, orgs_path)
 
     passed, failures, decision = evaluate_promotion(
         baseline_data, challenger_data, min_recall_gain=args.min_gain

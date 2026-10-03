@@ -30,6 +30,7 @@ from norway_company_agent.official import (
 )
 from norway_company_agent.sampling import iter_bulk
 from norway_company_agent.website import fetch_website
+from signalpost.discovery import discover_company_website
 from signalpost.envelope_adapter import profile_to_envelope
 from signalpost.ref.envelope import FAMILIES, STATES, failure_envelope, finalize, utc_now
 from signalpost.ref.guard import Deadline, EnvelopeWriter, InputRow, parse_inputs
@@ -194,19 +195,60 @@ async def run_batch_process(
             modules_to_fetch = {"financials", "roles", "locations", "group"}
             def fetch_more():
                 records, metrics = fetch_official_modules(org, modules_to_fetch)
-                if profile.get("website"):
-                    try:
-                        web_record, web_metrics = fetch_website(profile.get("website"))
-                        gated = apply_website_identity_gate(profile, web_record)
-                        records["website"] = gated["website"]
-                        metrics.append(FetchResult(
-                            url=profile["website"],
-                            status=web_record.get("status", 200),
-                            elapsed_ms=sum(web_metrics.get("latencies_ms", [])),
-                            bytes_received=web_metrics.get("bytes", 0),
-                        ))
-                    except Exception as e:
-                        logger.warning("Error fetching website for %s: %s", org, e)
+                # Exact-entity website discovery ladder (Workflow /03)
+                subunits = (records.get("locations", {}).get("value") or {}).get("locations") or []
+                family_orgnrs = {org}
+                for sub in subunits:
+                    if isinstance(sub, dict) and sub.get("organisation_number"):
+                        family_orgnrs.add(str(sub["organisation_number"]))
+
+                grp_val = records.get("group", {}).get("value") or {}
+                parent = grp_val.get("morselskap") or grp_val.get("overordnetEnhet")
+                if parent:
+                    family_orgnrs.add(str(parent))
+                for dat in grp_val.get("datterselskaper") or []:
+                    dat_id = dat.get("organisasjonsnummer") if isinstance(dat, dict) else dat
+                    if dat_id:
+                        family_orgnrs.add(str(dat_id))
+
+                web_metrics: list[FetchResult] = []
+                try:
+                    discovered = discover_company_website(
+                        profile,
+                        subunits=subunits,
+                        family_orgnrs=family_orgnrs,
+                        trace_log_path="out/discovery_trace.jsonl",
+                        metrics_out=web_metrics,
+                    )
+                    if discovered:
+                        records["website"] = {
+                            "status": "available",
+                            "source_url": discovered.homepage_url,
+                            "retrieved_at": discovered.retrieved_at,
+                            "value": {
+                                "homepage": discovered.homepage_url,
+                                "final_url": discovered.verified_url,
+                                "registrable_domain": discovered.registrable_domain,
+                                "strategy": discovered.strategy,
+                                "proof_level": discovered.proof_level,
+                                "claim_span": discovered.claim_span,
+                                "page_html": discovered.page_html,
+                                "page_text": discovered.page_text,
+                                "brand_name": discovered.brand_name,
+                            },
+                        }
+                    else:
+                        records["website"] = {
+                            "status": "not_available",
+                            "note": "discovery_ladder_exhausted_unverified",
+                        }
+                except Exception as e:
+                    logger.warning("Error running discovery ladder for %s: %s", org, e)
+                    records["website"] = {
+                        "status": "not_available",
+                        "note": f"discovery_error: {type(e).__name__}",
+                    }
+                metrics.extend(web_metrics)
                 return records, metrics
             records, metrics = await loop.run_in_executor(None, fetch_more)
             profile.setdefault("evidence", {}).update(records)

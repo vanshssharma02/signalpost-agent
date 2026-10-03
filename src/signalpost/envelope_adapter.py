@@ -4,6 +4,7 @@ from __future__ import annotations
 import gzip
 import hashlib
 import json
+import re
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -428,14 +429,33 @@ def profile_to_envelope(
     elif hist_ev and hist_ev.get("status") == "source_error":
         set_field_state(env, "accounts_history", "failed", "source_error")
 
-    # 7. Website
+    # 7. Website & Brand
     web_ev = evidences.get("website")
     if web_ev and web_ev.get("status") == "available":
         web_val = web_ev.get("value") or {}
         homepage = web_val.get("final_url") or profile.get("website")
-        span_text = f"Org.nr. {orgnr}"
-        web_snap = f"Official website: {homepage}\nOrg.nr. {orgnr}\n{web_val.get('text_sample') or ''}"
-        sha, snap_ref = store_snapshot(snapshots_dir, web_snap)
+        span_text = web_val.get("claim_span") or f"Org.nr. {orgnr}"
+        proof_lvl = web_val.get("proof_level") or "orgnr_exact"
+        method_str = web_val.get("strategy") or "exact_proof"
+        page_html = web_val.get("page_html")
+        page_text = web_val.get("page_text") or ""
+
+        if page_html:
+            snap_content = f"{page_html}\n\n<!-- SIGNALPOST_EXTRACTED_TEXT -->\n{page_text}" if page_text else page_html
+            norm_span = re.sub(r"\s+", " ", span_text).strip()
+            norm_snap = re.sub(r"\s+", " ", snap_content).strip()
+            if norm_span not in norm_snap:
+                if orgnr in snap_content:
+                    idx = snap_content.find(orgnr)
+                    span_text = snap_content[max(0, idx - 30): min(len(snap_content), idx + 40)]
+                elif profile.get("name") and profile["name"] in snap_content:
+                    idx = snap_content.find(profile["name"])
+                    span_text = snap_content[idx: min(len(snap_content), idx + len(profile["name"]))]
+            sha, snap_ref = store_snapshot(snapshots_dir, snap_content)
+        else:
+            web_snap = f"Official website: {homepage}\n{span_text}\n{web_val.get('text_sample') or ''}"
+            sha, snap_ref = store_snapshot(snapshots_dir, web_snap)
+
         ev_id = f"ev-web-{orgnr}"
         ev = make_evidence(
             ev_id,
@@ -454,12 +474,27 @@ def profile_to_envelope(
             value=homepage,
             evidence_ids=[ev["id"]],
             source_class="company_owned",
-            method="orgnr_exact",
-            identity_proof="orgnr_exact",
+            method=method_str,
+            identity_proof=proof_lvl,
         )
         add_claim(env, c, [ev])
-    elif web_ev and web_ev.get("status") in {"not_found", "not_applicable"}:
-        set_field_state(env, "website", "not_available", "no_website_declared")
+
+        brand_name = web_val.get("brand_name")
+        if brand_name:
+            c_brand = make_claim(
+                claim_key(orgnr, "public_brand"),
+                field="public_brand",
+                family="brand",
+                value=brand_name,
+                evidence_ids=[ev["id"]],
+                source_class="company_owned",
+                method="html_meta",
+            )
+            add_claim(env, c_brand, [ev])
+    elif web_ev and web_ev.get("status") in {"not_found", "not_applicable", "not_available"}:
+        set_field_state(env, "website", "not_available", web_ev.get("note") or "no_verified_website")
+    elif web_ev and web_ev.get("status") == "ambiguous":
+        set_field_state(env, "website", "ambiguous", web_ev.get("note") or "conflicting_proof_candidates")
     elif web_ev and web_ev.get("status") == "blocked":
         set_field_state(env, "website", "blocked", "robots_denied")
 

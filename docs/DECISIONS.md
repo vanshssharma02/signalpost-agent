@@ -139,3 +139,28 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
   - Watchdog acceptance (`--time-budget 20`): completed in 17.0s with 150 valid envelopes emitted.
   - Offline acceptance (`--offline`): completed in 19.0s with 150 valid envelopes emitted and 0 network requests.
 
+## Phase 3: Website Discovery Ladder & Exact-Entity Proof
+- **Identity Resolution & Proof Engine (`src/signalpost/identity_proof.py`)**:
+  - Implemented strict Rule N2 proof engine: P1 (`p1_exact`) requires modulo-11 valid target organisation number in text or JSON-LD (`vatID`, `taxID`, `identifier`) on same registrable domain with zero foreign labelled organisation numbers outside the corporate family.
+  - Implemented P2 (`p2_strong_combo`): requires zero organisation numbers on page, distinctive legal name tokens in title/H1/JSON-LD, registered street + postal code in text, and tertiary signal (phone / matching email domain / registered role holder).
+  - Built comprehensive anti-contamination test suite (`tests/fixtures/identity/` and `tests/test_identity.py`) covering 13 adversarial scenarios: sister company on shared group site, franchise with different orgnr, agency portfolio with 20 client orgs, near-identical names, directory pages, Facebook pages, parked domains, orgnr in image, punctuated MVA format, NUF branches, sole proprietorships, customer lists, and lookalike domains. All 13 tests pass.
+- **Hierarchical Website Discovery Ladder (`src/signalpost/discovery.py`)**:
+  - Implemented 6-rung ladder: S-A (registry homepage), S-B (business email domain via `email_domain_candidate`), S-C (subunits), S-D (NAV employer), S-E (deterministic legal-name domain guessing via `candidate_hosts`), S-F (transient search API candidate generation).
+  - Enforced per-host `robots.txt` parsing with in-memory caching (`is_robots_allowed`).
+  - Safe HTTP fetching with `assert_public_url`, 5s connect / 10s read timeout, 1.5MB max payload cap, and 3-second DNS pre-checking.
+  - Targeted subpage crawling prioritizing `/om-oss`, `/kontakt`, `/personvern`, `/vilkar`.
+  - Public brand extraction (`og:site_name`, JSON-LD name, title prefix).
+  - Detailed discovery trace logging (`out/discovery_trace.jsonl`).
+- **Batch Runner Integration (`src/signalpost/run.py` & `src/signalpost/envelope_adapter.py`)**:
+  - Wired discovery ladder into batch worker; emitted verified `official_website` and `public_brand` claims.
+  - Preserved Rule N3: stored gzip page snapshot with extracted text comments guaranteeing verbatim span existence at write time.
+- **Empirical Dev Split Acceptance (150 companies)**:
+  - Total candidates evaluated: 855 URLs across rungs.
+  - Verified website publications: 19 companies (8 from registry homepage S-A, 2 from business email domain S-B, 9 from domain guessing S-E).
+  - Domain guessing alone yielded +112.5% more verified sites than the registry.
+  - Standalone contract validator (`signalpost.ref.validate`): passed with 4,145 spans checked, 0 bad spans, 0 errors.
+  - Website precision vs gold: 100.0% (19 correct, 0 wrong companies).
+  - Promotion gate (`eval/promote.py`): PASSED. Overall proxy score increased from 3.20 to 73.03 / 100.00 (+69.83 pts, recall gain +32.63 pts).
+  - Tagged `phase-03-complete`.
+
+
