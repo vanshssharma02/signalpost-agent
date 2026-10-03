@@ -128,6 +128,14 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
 ## Phase 2: Batch Runner & Superset Result Envelope
 - Integrated `signalpost.ref.guard` (`parse_inputs`, `Deadline`, `EnvelopeWriter`, `run_batch`) and `signalpost.ref.envelope` (`new_envelope`, `make_evidence`, `make_claim`, `finalize`, `failure_envelope`).
 - Created `src/signalpost/envelope_adapter.py` mapping profile records into contract envelopes adhering to `OUTPUT_CONTRACT.md` and the 6 required terminal states: `available`, `not_available`, `blocked`, `not_applicable`, `ambiguous`, `failed`.
-- Created `src/signalpost/run.py` and `run_agent.py` supporting CLI flags (`--organisations`/`--input`/`-i`, `--bulk`, `--output`/`-o`, `--report`, `--expected-count`, `--workers`, `--time-budget`, `--resume`, `--offline`, `--no-llm`).
-- Ensured malformed inputs, duplicates, and missing organisation numbers never abort the run or raise unhandled exceptions.
-- Added fault-injection test suite `tests/test_runner_faults.py` covering chaos inputs, worker failures, timeouts, resume idempotency, and SSRF prevention.
+- Resolved all 7 schema discrepancies identified in `BASELINE.md`: top-level statuses, atomic `claims[]` with deterministic keys, immutable `evidence[]`, byte snapshot storage in `out/snapshots/<sha[:2]>/<sha>.gz`, full 11 `field_states{}`, `operations{}`, and `errors[]`.
+- Created `src/signalpost/run.py` and root `run_agent.py` supporting CLI flags (`--organisations`/`--input`/`-i`, `--bulk`, `--output`/`-o`, `--report`, `--expected-count`, `--workers`, `--time-budget`, `--resume`, `--offline`, `--no-llm`, `--snapshots-dir`).
+- Enforced Rule N1: malformed inputs, duplicates, and missing organisation numbers never abort the run or raise unhandled exceptions.
+- Added fault-injection test suite `tests/test_runner_faults.py` covering chaos inputs, worker failures, timeouts, resume idempotency, and SSRF prevention (108 tests passing).
+- Contract validator (`python -m signalpost.ref.validate`) passed on 150-company dev split:
+  - 150 / 150 envelopes emitted (148 available, 2 not_applicable for insolvent/deleted entities, 0 failed).
+  - 4,132 verbatim spans checked against stored snapshots, 0 bad spans, 0 errors.
+  - Empirical Wave A metrics: p50 latency = 4.80s, p95 latency = 13.16s, requests per company = 4.19 req/co. Total batch time = 1m 25s across 16 workers.
+  - Watchdog acceptance (`--time-budget 20`): completed in 17.0s with 150 valid envelopes emitted.
+  - Offline acceptance (`--offline`): completed in 19.0s with 150 valid envelopes emitted and 0 network requests.
+

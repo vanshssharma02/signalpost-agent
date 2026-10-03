@@ -21,12 +21,15 @@ if str(ROOT / "src") not in sys.path:
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
+from norway_company_agent.http import FetchResult
+from norway_company_agent.identity import apply_website_identity_gate
 from norway_company_agent.official import (
     accounting_obligation_assessment,
     fetch_official_modules,
     normalize_entity,
 )
 from norway_company_agent.sampling import iter_bulk
+from norway_company_agent.website import fetch_website
 from signalpost.envelope_adapter import profile_to_envelope
 from signalpost.ref.envelope import FAMILIES, STATES, failure_envelope, finalize, utc_now
 from signalpost.ref.guard import Deadline, EnvelopeWriter, InputRow, parse_inputs
@@ -82,7 +85,7 @@ def make_run_metadata(run_id: str, started_at: str, strategy_set: str = "default
         "agent": {
             "name": "signalpost",
             "version": "0.2.0",
-            "git_commit": "local",
+            "git_commit": "phase-02",
         },
         "strategy_set": strategy_set,
     }
@@ -94,6 +97,7 @@ async def run_batch_process(
     bulk_path: str | Path | None,
     output_path: str | Path,
     report_path: str | Path,
+    snapshots_dir: str | Path = "out/snapshots",
     run_id: str | None = None,
     time_budget_s: float = 1500.0,
     expected_count: int | None = None,
@@ -105,20 +109,23 @@ async def run_batch_process(
     run_id = run_id or f"run-{started_at.replace(':', '').replace('-', '')}"
     run_meta = make_run_metadata(run_id, started_at)
     deadline = Deadline(time_budget_s)
-    
+
     input_rows = parse_inputs(input_text)
     out_path = Path(output_path)
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    
+    partial_path = out_path.with_name(out_path.name + ".partial")
+    if not resume and partial_path.exists():
+        partial_path.unlink()
+
     writer = EnvelopeWriter(out_path)
-    
+
     # Identify unique valid orgnrs, duplicates, and malformed entries
     valid_orgs_ordered: list[str] = []
     order_all: list[str] = []
     duplicates: list[str] = []
     malformed: list[Any] = []
     annotations: dict[str, dict] = {}
-    
+
     for row in input_rows:
         if row.problem == "malformed":
             raw_str = str(row.raw)
@@ -146,7 +153,7 @@ async def run_batch_process(
     # Async worker for a single organisation
     async def worker(org: str, d: Deadline) -> dict[str, Any]:
         loop = asyncio.get_running_loop()
-        
+
         # Check bulk first
         profile = copy.deepcopy(bulk_profiles.get(org))
         if profile is None:
@@ -182,11 +189,25 @@ async def run_batch_process(
         if org in annotations:
             profile.update(annotations[org])
 
-        # If online and time permits, enrich with accounts, roles, subunits
+        # If online and time permits, enrich with accounts, roles, subunits, group, website
         if not offline and not d.soft_passed():
-            modules_to_fetch = {"financials", "roles", "locations"}
+            modules_to_fetch = {"financials", "roles", "locations", "group"}
             def fetch_more():
-                return fetch_official_modules(org, modules_to_fetch)
+                records, metrics = fetch_official_modules(org, modules_to_fetch)
+                if profile.get("website"):
+                    try:
+                        web_record, web_metrics = fetch_website(profile.get("website"))
+                        gated = apply_website_identity_gate(profile, web_record)
+                        records["website"] = gated["website"]
+                        metrics.append(FetchResult(
+                            url=profile["website"],
+                            status=web_record.get("status", 200),
+                            elapsed_ms=sum(web_metrics.get("latencies_ms", [])),
+                            bytes_received=web_metrics.get("bytes", 0),
+                        ))
+                    except Exception as e:
+                        logger.warning("Error fetching website for %s: %s", org, e)
+                return records, metrics
             records, metrics = await loop.run_in_executor(None, fetch_more)
             profile.setdefault("evidence", {}).update(records)
             profile["run_metrics"] = {
@@ -194,7 +215,7 @@ async def run_batch_process(
                 "latencies_ms": [m.elapsed_ms for m in metrics],
             }
 
-        return profile_to_envelope(profile, run=run_meta)
+        return profile_to_envelope(profile, run=run_meta, snapshots_dir=snapshots_dir)
 
     # Filter tasks to those not already completed (resume support)
     pending_orgs = [o for o in valid_orgs_ordered if o not in writer.done()]
@@ -221,21 +242,21 @@ async def run_batch_process(
             timings.append(time.monotonic() - t0)
 
     await asyncio.gather(*(run_one(o) for o in pending_orgs))
-    
+
     # Finalize writer in original order
     writer.finalize(order_all, lambda o: failure_envelope(o, run_meta, "missing", "Not finalized", stage="scheduler"))
-    
+
     # Read finalized envelopes
     final_envelopes = [writer.envelopes[k] for k in order_all if k in writer.envelopes]
-    
+
     # Validate against expected inputs
     expected_org_list = [o for o in valid_orgs_ordered]
-    validation = validate_envelopes(final_envelopes, expected_org_list)
-    
+    validation = validate_envelopes(final_envelopes, expected_org_list, Path(snapshots_dir) if snapshots_dir else None)
+
     warnings = []
     if expected_count is not None and len(order_all) != expected_count:
         warnings.append(f"Expected count {expected_count} differed from input count {len(order_all)}")
-        
+
     status_counts = dict(Counter(e.get("status") for e in final_envelopes))
     report = {
         "run_id": run_id,
@@ -252,7 +273,7 @@ async def run_batch_process(
         "p95_s": round(sorted(timings)[int(0.95 * (len(timings) - 1))], 3) if timings else None,
         "validation": validation,
     }
-    
+
     Path(report_path).parent.mkdir(parents=True, exist_ok=True)
     Path(report_path).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     return report
@@ -288,7 +309,7 @@ def main() -> None:
     args, unknown = parser.parse_known_args()
     if unknown:
         print(f"Warning: ignoring unknown arguments: {unknown}", file=sys.stderr)
-        
+
     input_text = Path(args.input).read_text(encoding="utf-8")
     report = asyncio.run(
         run_batch_process(
@@ -296,6 +317,7 @@ def main() -> None:
             bulk_path=args.bulk,
             output_path=args.output,
             report_path=args.report,
+            snapshots_dir=args.snapshots_dir,
             run_id=args.run_id,
             time_budget_s=args.time_budget,
             expected_count=args.expected_count,
