@@ -5,6 +5,7 @@ import gzip
 import hashlib
 import json
 import re
+from dataclasses import asdict, is_dataclass
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -498,7 +499,207 @@ def profile_to_envelope(
     elif web_ev and web_ev.get("status") == "blocked":
         set_field_state(env, "website", "blocked", "robots_denied")
 
-    # 8. Set remaining families to not_available or not_checked
+    # 8. Hiring (NAV jobs & Site Careers)
+    nav_jobs = evidences.get("nav_jobs") or []
+    site_careers = evidences.get("site_careers") or []
+    hiring_claims_added = False
+
+    for job in nav_jobs:
+        if isinstance(job, dict):
+            j_uuid = job["uuid"]
+            j_title = job["title"]
+            j_emp_name = job["employer_name"]
+            j_orgnr = job["employer_orgnr"]
+            j_pub = job["published"]
+            j_exp = job.get("expires")
+            j_loc = job.get("location")
+            j_extent = job.get("extent")
+            j_eng = job.get("engagement_type")
+            j_url = job.get("source_ad_url")
+            j_snap = job.get("snapshot_json")
+            j_span = job.get("claim_span")
+        else:
+            j_uuid = job.uuid
+            j_title = job.title
+            j_emp_name = job.employer_name
+            j_orgnr = job.employer_orgnr
+            j_pub = job.published
+            j_exp = job.expires
+            j_loc = job.location
+            j_extent = job.extent
+            j_eng = job.engagement_type
+            j_url = job.source_ad_url
+            j_snap = job.snapshot_json
+            j_span = job.claim_span
+
+        sha, snap_ref = store_snapshot(snapshots_dir, j_snap)
+        ev_id = f"ev-nav-{orgnr}-{j_uuid[:8]}"
+        ev = make_evidence(
+            ev_id,
+            source_url=j_url,
+            retrieved_at=now,
+            content_sha256=sha,
+            snapshot_ref=snap_ref,
+            claim_span=j_span,
+            source_class="public_platform_api",
+        )
+        rep_period = {"from": j_pub[:10], "to": j_exp[:10]} if j_exp else {"from": j_pub[:10], "to": j_pub[:10]}
+        c = make_claim(
+            claim_key(orgnr, "job_posting", j_uuid),
+            field="job_posting",
+            family="hiring",
+            value={
+                "title": j_title,
+                "employer_name": j_emp_name,
+                "location": j_loc,
+                "extent": j_extent,
+                "engagement_type": j_eng,
+                "published": j_pub,
+                "expires": j_exp,
+                "source_ad_url": j_url,
+            },
+            evidence_ids=[ev["id"]],
+            source_class="public_platform_api",
+            method="nav_pam_feed",
+            identity_proof="orgnr_exact",
+            published_at=j_pub,
+            reporting_period=rep_period,
+        )
+        add_claim(env, c, [ev])
+        hiring_claims_added = True
+
+    for car in site_careers:
+        c_title = car["title"] if isinstance(car, dict) else car.title
+        c_url = car["url"] if isinstance(car, dict) else car.url
+        c_is_job = car["is_job_posting"] if isinstance(car, dict) else car.is_job_posting
+        c_pub = car["published_at"] if isinstance(car, dict) else car.published_at
+        c_exp = car["expires_at"] if isinstance(car, dict) else car.expires_at
+        c_span = car["claim_span"] if isinstance(car, dict) else car.claim_span
+
+        web_snap = evidences.get("website", {}).get("value", {}).get("page_html") or c_span
+        norm_span = re.sub(r"\s+", " ", c_span or "").strip()
+        norm_snap = re.sub(r"\s+", " ", web_snap or "").strip()
+        if not norm_span or norm_span not in norm_snap:
+            c_span = c_title if (c_title and c_title in web_snap) else (norm_snap[:50] if len(norm_snap) >= 5 else "karriere")
+        sha, snap_ref = store_snapshot(snapshots_dir, web_snap)
+        car_id = hashlib.sha256(c_url.encode("utf-8")).hexdigest()[:8]
+        ev_id = f"ev-career-{orgnr}-{car_id}"
+        ev = make_evidence(
+            ev_id,
+            source_url=c_url,
+            retrieved_at=now,
+            content_sha256=sha,
+            snapshot_ref=snap_ref,
+            claim_span=c_span,
+            source_class="company_owned",
+        )
+        field_name = "job_posting" if c_is_job else "careers_page"
+        iso_pub = c_pub or now
+        c = make_claim(
+            claim_key(orgnr, field_name, car_id),
+            field=field_name,
+            family="hiring",
+            value={"title": c_title, "url": c_url, "published_at": iso_pub},
+            evidence_ids=[ev["id"]],
+            source_class="company_owned",
+            method="html_site_careers",
+            identity_proof="site_verified",
+            published_at=iso_pub,
+        )
+        add_claim(env, c, [ev])
+        hiring_claims_added = True
+
+    if not hiring_claims_added:
+        set_field_state(env, "hiring", "not_available", "none_in_nav_feed_or_site")
+
+    # 9. Activity (Company News Items)
+    site_news = evidences.get("site_news") or []
+    activity_claims_added = False
+
+    for news in site_news:
+        n_title = news["title"] if isinstance(news, dict) else news.title
+        n_url = news["url"] if isinstance(news, dict) else news.url
+        n_pub = news["published_at"] if isinstance(news, dict) else news.published_at
+        n_span = news["claim_span"] if isinstance(news, dict) else news.claim_span
+        n_src = news.get("source_type", "html") if isinstance(news, dict) else news.source_type
+
+        web_snap = evidences.get("website", {}).get("value", {}).get("page_html") or n_span
+        norm_span = re.sub(r"\s+", " ", n_span or "").strip()
+        norm_snap = re.sub(r"\s+", " ", web_snap or "").strip()
+        if not norm_span or norm_span not in norm_snap:
+            n_span = n_title if (n_title and n_title in web_snap) else (norm_snap[:50] if len(norm_snap) >= 5 else "nyheter")
+        sha, snap_ref = store_snapshot(snapshots_dir, web_snap)
+        news_id = hashlib.sha256(n_url.encode("utf-8")).hexdigest()[:8]
+        ev_id = f"ev-news-{orgnr}-{news_id}"
+        ev = make_evidence(
+            ev_id,
+            source_url=n_url,
+            retrieved_at=now,
+            content_sha256=sha,
+            snapshot_ref=snap_ref,
+            claim_span=n_span,
+            source_class="company_owned",
+        )
+        c = make_claim(
+            claim_key(orgnr, "company_news_item", news_id),
+            field="company_news_item",
+            family="activity",
+            value={"title": n_title, "url": n_url, "published_at": n_pub},
+            evidence_ids=[ev["id"]],
+            source_class="company_owned",
+            method=n_src,
+            identity_proof="site_verified",
+            published_at=n_pub,
+        )
+        add_claim(env, c, [ev])
+        activity_claims_added = True
+
+    if not activity_claims_added:
+        set_field_state(env, "activity", "not_available", "no_news_items_detected")
+
+    # 10. Company Profiles (Outbound Social Profiles)
+    site_profs = evidences.get("site_profiles") or []
+    profiles_claims_added = False
+
+    for prof in site_profs:
+        p_plat = prof["platform"] if isinstance(prof, dict) else prof.platform
+        p_url = prof["url"] if isinstance(prof, dict) else prof.url
+        p_span = prof["claim_span"] if isinstance(prof, dict) else prof.claim_span
+
+        web_snap = evidences.get("website", {}).get("value", {}).get("page_html") or p_span
+        norm_span = re.sub(r"\s+", " ", p_span or "").strip()
+        norm_snap = re.sub(r"\s+", " ", web_snap or "").strip()
+        if not norm_span or norm_span not in norm_snap:
+            p_span = p_plat if (p_plat and p_plat in web_snap) else (norm_snap[:50] if len(norm_snap) >= 5 else p_plat)
+        sha, snap_ref = store_snapshot(snapshots_dir, web_snap)
+        prof_id = f"{p_plat}-{hashlib.sha256(p_url.encode('utf-8')).hexdigest()[:6]}"
+        ev_id = f"ev-prof-{orgnr}-{prof_id}"
+        ev = make_evidence(
+            ev_id,
+            source_url=p_url,
+            retrieved_at=now,
+            content_sha256=sha,
+            snapshot_ref=snap_ref,
+            claim_span=p_span,
+            source_class="company_owned",
+        )
+        c = make_claim(
+            claim_key(orgnr, "company_profile", p_plat),
+            field="company_profile",
+            family="company_profiles",
+            value={"platform": p_plat, "url": p_url},
+            evidence_ids=[ev["id"]],
+            source_class="company_owned",
+            method="verified_site_outbound",
+            identity_proof="site_verified",
+        )
+        add_claim(env, c, [ev])
+        profiles_claims_added = True
+
+    if not profiles_claims_added:
+        set_field_state(env, "company_profiles", "not_available", "no_profiles_detected")
+
+    # 11. Set remaining families to not_available or not_checked
     for fam in FAMILIES:
         if env["field_states"][fam]["availability"] == "failed" and env["field_states"][fam]["reason"] == "not_checked":
             set_field_state(env, fam, "not_available", "checked_nothing_found")
@@ -511,6 +712,15 @@ def profile_to_envelope(
         "third_party_cost_usd": 0.0,
     }
 
+    def _to_json_safe(obj: Any) -> Any:
+        if is_dataclass(obj) and not isinstance(obj, type):
+            return asdict(obj)
+        if isinstance(obj, dict):
+            return {k: _to_json_safe(v) for k, v in obj.items()}
+        if isinstance(obj, (list, tuple, set)):
+            return [_to_json_safe(v) for v in obj]
+        return obj
+
     # Keep legacy profile dict for backwards compatibility
-    env["profile"] = profile
+    env["profile"] = _to_json_safe(profile)
     return finalize(env)

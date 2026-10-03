@@ -163,4 +163,32 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
   - Promotion gate (`eval/promote.py`): PASSED. Overall proxy score increased from 3.20 to 73.03 / 100.00 (+69.83 pts, recall gain +32.63 pts).
   - Tagged `phase-03-complete`.
 
+## Phase 4: External Connectors (NAV Arbeidsplassen & Verified Site Extraction)
+- **Plan**:
+  - Spike S1: Evaluate NAV Arbeidsplassen feed (`pam-stilling-feed`). Live API verified: uses `https://pam-stilling-feed.nav.no/api/v1/feed` and `feedentry/{uuid}` with rotating public token from `/api/publicToken` or `NAV_FEED_TOKEN`. Live ad detail key is `ad_content` (not `json`), containing `employer` (`orgnr`, `name`, `homepage`), `title`, `published`, `expires`, `extent`, `engagementtype`, `workLocations`, `contactList`.
+  - Terms enforcement: Filter out inactive ads; drop `contactList` and applicant emails/phones completely.
+  - Implement `src/signalpost/connectors/nav_jobs.py`: Support `nav_name_match` strategy (matching feed `businessName` to company legal name / brand, then fetching ad detail to verify `employer.orgnr == target_orgnr`). Emit `job_posting` claims under `hiring` family with verbatim snapshot span and `public_platform_api` source class.
+  - Implement `src/signalpost/connectors/site_extraction.py`: Extract structured signals from verified company sites:
+    - `company_news_item` (activity family) via JSON-LD Article, RSS/Atom feeds, WordPress REST, `<time datetime>` tags.
+    - `company_profile` (company_profiles family) for outbound social links (LinkedIn company, Facebook, Instagram, X, YouTube) found directly on the verified site. Never fetch platform pages.
+    - `job_posting` and `careers_page` (hiring family) for site-hosted job postings and ATS links (Teamtailor, Webcruiter, etc.).
+  - Wire into `src/signalpost/run.py` and `envelope_adapter.py`.
+  - Validate with `signalpost.ref.validate`, score with `eval/score.py`, and run promotion gate with `eval/promote.py`.
+- **Execution & Results**:
+  - Spike S1 confirmed and implemented: `nav_jobs.py` rotates tokens, caches recent active feed items, matches candidates in-memory by name tokens, and validates `employer.orgnr == target_orgnr`. Inactive ads dropped; `contactList` and applicant details strictly stripped.
+  - Implemented `site_extraction.py`: deterministic extractor on verified company domains. Extracts JSON-LD (`Article`, `NewsArticle`, `JobPosting`, `sameAs`), HTML time tags, site careers pages (`/karriere`), outbound ATS links (Teamtailor, Webcruiter, etc.), and outbound social profiles (LinkedIn, Facebook, Instagram, YouTube, TikTok).
+  - Strictly recorded social links only as found on verified company websites; zero third-party platform pages fetched or scraped.
+  - Defensive serialization: converted dataclass instances to standard Python dicts to guarantee JSON serializability in all envelopes and profile objects.
+  - Hardened claim span logic: guarded against empty hrefs in DOM links and guaranteed non-empty claim spans present in stored gzip snapshots.
+  - Contract validation (`signalpost.ref.validate`): 150/150 envelopes, 4,171/4,171 spans valid, 0 bad spans, 0 errors.
+  - Evaluation & scoring: Proxy score rose from 73.03 to 73.31 / 100.00 (+0.28).
+    - `company_profiles`: 8 companies, 17 verified claims.
+    - `hiring`: 4 companies, 8 verified claims.
+    - `activity`: 1 company, 1 verified claim.
+    - Website precision: 100.0% (19 correct, 0 wrong).
+    - Evidence integrity: 100.0% backed.
+  - Promotion gate (`eval/promote.py`): PASSED. Zero new wrong-company publications, 100% span validity, latency well within budget.
+  - Tagged `phase-04-complete`.
+
+
 

@@ -1,0 +1,113 @@
+{
+  "cohort_size": 150,
+  "envelopes_count": 150,
+  "scores": {
+    "recall": 32.91,
+    "evidence": 30.0,
+    "synthesis": 7.2,
+    "ux": 3.2,
+    "total_proxy": 73.31
+  },
+  "website_precision": {
+    "published_count": 19,
+    "same_company_count": 19,
+    "wrong_company_count": 0,
+    "precision_pct": 100.0,
+    "wrong_companies": []
+  },
+  "evidence_integrity": {
+    "total_claims": 4171,
+    "valid_evidence_claims": 4171,
+    "claim_evidence_pct": 100.0,
+    "total_evidences": 1414,
+    "valid_evidences": 1414,
+    "span_validity_pct": 100.0
+  },
+  "operations": {
+    "total_requests": 1453,
+    "requests_per_company": 9.69,
+    "p50_latency_s": 8.48,
+    "p95_latency_s": 40.29,
+    "third_party_cost_usd": 0.0
+  },
+  "field_states": {},
+  "families": {
+    "identity": {
+      "covered_companies": 150,
+      "company_coverage_pct": 100.0,
+      "claims_count": 481,
+      "claims_per_covered": 3.21,
+      "proxy_recall": 1.0
+    },
+    "brand": {
+      "covered_companies": 19,
+      "company_coverage_pct": 12.67,
+      "claims_count": 19,
+      "claims_per_covered": 1.0,
+      "proxy_recall": 0.1267
+    },
+    "accounts": {
+      "covered_companies": 149,
+      "company_coverage_pct": 99.33,
+      "claims_count": 2829,
+      "claims_per_covered": 18.99,
+      "proxy_recall": 0.9953
+    },
+    "accounts_history": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "leadership": {
+      "covered_companies": 150,
+      "company_coverage_pct": 100.0,
+      "claims_count": 677,
+      "claims_per_covered": 4.51,
+      "proxy_recall": 1.0
+    },
+    "locations": {
+      "covered_companies": 116,
+      "company_coverage_pct": 77.33,
+      "claims_count": 120,
+      "claims_per_covered": 1.03,
+      "proxy_recall": 0.7813
+    },
+    "group": {
+      "covered_companies": 0,
+      "company_coverage_pct": 0.0,
+      "claims_count": 0,
+      "claims_per_covered": 0.0,
+      "proxy_recall": 0.0
+    },
+    "website": {
+      "covered_companies": 19,
+      "company_coverage_pct": 12.67,
+      "claims_count": 19,
+      "claims_per_covered": 1.0,
+      "proxy_recall": 0.1267
+    },
+    "company_profiles": {
+      "covered_companies": 8,
+      "company_coverage_pct": 5.33,
+      "claims_count": 17,
+      "claims_per_covered": 2.12,
+      "proxy_recall": 0.0713
+    },
+    "hiring": {
+      "covered_companies": 4,
+      "company_coverage_pct": 2.67,
+      "claims_count": 8,
+      "claims_per_covered": 2.0,
+      "proxy_recall": 0.0347
+    },
+    "activity": {
+      "covered_companies": 1,
+      "company_coverage_pct": 0.67,
+      "claims_count": 1,
+      "claims_per_covered": 1.0,
+      "proxy_recall": 0.0067
+    }
+  }
+}

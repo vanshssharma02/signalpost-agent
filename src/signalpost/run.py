@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import copy
+from dataclasses import asdict
 import hashlib
 import json
 import logging
@@ -30,6 +31,12 @@ from norway_company_agent.official import (
 )
 from norway_company_agent.sampling import iter_bulk
 from norway_company_agent.website import fetch_website
+from signalpost.connectors.nav_jobs import (
+    find_company_nav_job_postings,
+    get_nav_token,
+    ingest_recent_nav_feed,
+)
+from signalpost.connectors.site_extraction import extract_all_site_signals
 from signalpost.discovery import discover_company_website
 from signalpost.envelope_adapter import profile_to_envelope
 from signalpost.ref.envelope import FAMILIES, STATES, failure_envelope, finalize, utc_now
@@ -85,8 +92,8 @@ def make_run_metadata(run_id: str, started_at: str, strategy_set: str = "default
         "terminal_status": "completed",
         "agent": {
             "name": "signalpost",
-            "version": "0.2.0",
-            "git_commit": "phase-02",
+            "version": "0.4.0",
+            "git_commit": "phase-04",
         },
         "strategy_set": strategy_set,
     }
@@ -151,6 +158,19 @@ async def run_batch_process(
     if bulk_path and Path(bulk_path).exists():
         bulk_profiles, bulk_meta = load_bulk_subset(bulk_path, set(valid_orgs_ordered))
 
+    # Pre-fetch NAV feed items if online (Workflow /04)
+    nav_token = None
+    nav_feed_items: list[dict[str, Any]] = []
+    if not offline:
+        try:
+            nav_token = get_nav_token()
+            if nav_token:
+                logger.info("Ingesting NAV Arbeidsplassen feed for active jobs...")
+                nav_feed_items = ingest_recent_nav_feed(nav_token, max_pages=5, days_back=30)
+                logger.info("Ingested %d active NAV feed items.", len(nav_feed_items))
+        except Exception as exc:
+            logger.warning("Could not ingest NAV feed: %s", exc)
+
     # Async worker for a single organisation
     async def worker(org: str, d: Deadline) -> dict[str, Any]:
         loop = asyncio.get_running_loop()
@@ -212,6 +232,7 @@ async def run_batch_process(
                         family_orgnrs.add(str(dat_id))
 
                 web_metrics: list[FetchResult] = []
+                discovered = None
                 try:
                     discovered = discover_company_website(
                         profile,
@@ -249,6 +270,42 @@ async def run_batch_process(
                         "note": f"discovery_error: {type(e).__name__}",
                     }
                 metrics.extend(web_metrics)
+
+                # Structured site extraction on verified company domain (Workflow /04)
+                if discovered and getattr(discovered, "page_html", None):
+                    try:
+                        legal_name = profile.get("name") or ""
+                        signals = extract_all_site_signals(
+                            discovered.page_html,
+                            discovered.verified_url,
+                            legal_name=legal_name,
+                        )
+                        if signals.news_items:
+                            records["site_news"] = [asdict(x) for x in signals.news_items]
+                        if signals.social_profiles:
+                            records["site_profiles"] = [asdict(x) for x in signals.social_profiles]
+                        if signals.careers_items:
+                            records["site_careers"] = [asdict(x) for x in signals.careers_items]
+                    except Exception as e:
+                        logger.warning("Error extracting site signals for %s: %s", org, e)
+
+                # NAV Arbeidsplassen active job postings (Workflow /04)
+                if nav_feed_items and nav_token:
+                    try:
+                        legal_name = profile.get("name") or ""
+                        brand_name = getattr(discovered, "brand_name", None) if discovered else None
+                        jobs = find_company_nav_job_postings(
+                            org,
+                            legal_name,
+                            brand=brand_name,
+                            feed_items=nav_feed_items,
+                            token=nav_token,
+                        )
+                        if jobs:
+                            records["nav_jobs"] = [asdict(x) for x in jobs]
+                    except Exception as e:
+                        logger.warning("Error matching NAV jobs for %s: %s", org, e)
+
                 return records, metrics
             records, metrics = await loop.run_in_executor(None, fetch_more)
             profile.setdefault("evidence", {}).update(records)
