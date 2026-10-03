@@ -1,0 +1,1589 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "76acfc365a2ac0227508",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 193052.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "928d62bfb57eb31148b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -326030.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b0f9599c10e3d0df82ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 568614.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3b31f9840040eb7b66c1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1853008.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3dae589c0f9aec3152c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2958570.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5147bd3f79f1cd6bf6d1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2723884.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d75a1a158c8d37459c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3227417.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ece0f82b447b32fc96e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3336627.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c986931d9f2cf0e174b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3764366.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "023707a7c90fd2c47014",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -805795.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7efe6456a08e14fc8b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1374409.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8eae978b39c758ed42c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -612743.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "211328a9f1b97be03f2c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -322956.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e1273be68df5d501171d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 195256.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f1c541880daa5fe589de",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 568872.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7d2d78fc3f97a1fd648",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -326030.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dfa37a78d7024ec21259",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 568614.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eba41d00fca768163061",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 193052.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "98de3e0e75c46169be9b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5524742.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9ae33eae5dd465b30348",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6659922.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b3b7eb13c38f6568d548",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928469824-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3438935.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a90a957c4c8ac0e67216",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-928469824"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "TESTFLOW AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2568ece877d3e14203c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928469824"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "62.100"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e21a46dafcb635f60831",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928469824"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "86da3a619b56a1d58972",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928469824"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "TESTFLOW AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f3b1c612ac4813435ec",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-5748f0c88e7a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rolf Ragnvald Tamber",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8bcd37898c87bb479c3f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-748b13f77b60"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ole Martin Kristiansen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b4f4edf625e4f6efcdd0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-5ec8ee66b286"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Thomas Kjellberg",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d1036a97dbb5b79391ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-300187f88711"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Erik Hauglid",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "daad3701f15433704075",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-d9ce0dcd8935"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Erik Hauglid",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f25530f83ce26c4eb3e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928469824-810763f92808"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "VALUE GROUP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "11738fda312942d820a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-928469824-928495426"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Fridtjof Nansens vei 12"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0369",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Dataprogrammeringstjenester",
+          "kode": "62.100"
+        },
+        "name": "TESTFLOW AS",
+        "organisation_number": "928495426"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6a98cf317db158cc0e75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-928469824"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "domain_guess",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://testflow.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 3438935.0, operating_result: -322956.0, profit_before_tax: -326030.0, annual_result: -326030.0, assets: 1853008.0, equity: -1374409.0, debt: 3227417.0",
+      "content_sha256": "8a1f034ed30f26093ac06cd0fe61f95feff8146f40619855fe216abaa333bfcf",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "http_status": 200,
+      "id": "ev-fin-928469824-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:03.364053Z",
+      "snapshot_ref": "8a/8a1f034ed30f26093ac06cd0fe61f95feff8146f40619855fe216abaa333bfcf.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 5524742.0, operating_result: 568872.0, profit_before_tax: 568614.0, annual_result: 568614.0, assets: 2958570.0, equity: -805795.0, debt: 3764366.0",
+      "content_sha256": "59cbe89a08126162db43db732425ad4b161a3c1819b2b6441ff399da0dba1d2f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "http_status": 200,
+      "id": "ev-fin-928469824-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:03.364053Z",
+      "snapshot_ref": "59/59cbe89a08126162db43db732425ad4b161a3c1819b2b6441ff399da0dba1d2f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 6659922.0, operating_result: 195256.0, profit_before_tax: 193052.0, annual_result: 193052.0, assets: 2723884.0, equity: -612743.0, debt: 3336627.0",
+      "content_sha256": "e15cc41798ae20551f78f38505ef6d26fe2308024f8699638bc8b962c62d00ab",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "http_status": 200,
+      "id": "ev-fin-928469824-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:03.364053Z",
+      "snapshot_ref": "e1/e15cc41798ae20551f78f38505ef6d26fe2308024f8699638bc8b962c62d00ab.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 928495426: TESTFLOW AS",
+      "content_sha256": "5cb5fdaf3ddb055538bb3f71bf99860469c78158092e7659bb7b4f8c986268b1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928469824&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-928469824-928495426",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:06.916994Z",
+      "snapshot_ref": "5c/5cb5fdaf3ddb055538bb3f71bf99860469c78158092e7659bb7b4f8c986268b1.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928469824&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 928469824 TESTFLOW AS",
+      "content_sha256": "5768d6d67be6ad3e6f3f77220ccf1ded09a8acd549273db911b4e210c3341e99",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-928469824",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "57/5768d6d67be6ad3e6f3f77220ccf1ded09a8acd549273db911b4e210c3341e99.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Erik Hauglid",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-300187f88711",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Rolf Ragnvald Tamber",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-5748f0c88e7a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Thomas Kjellberg",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-5ec8ee66b286",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ole Martin Kristiansen",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-748b13f77b60",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: VALUE GROUP AS",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-810763f92808",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Erik Hauglid",
+      "content_sha256": "020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "http_status": 200,
+      "id": "ev-role-928469824-d9ce0dcd8935",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.513460Z",
+      "snapshot_ref": "02/020dd6118ffa93304bd49c0fad7db96754d6ddad7b8180eef75df2d069f53c9b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "sikkerhet Cookie Policy Status © 2026 Testflow AS · Org nr. 928 469 824 · hei@testflow.no Fridtjof Nansens vei 12, 0369 Oslo Vis in",
+      "content_sha256": "c8d1918215aa8bc4ab41665c31434a7db83e2119f63101a780727fdd4f320933",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://testflow.no/",
+      "http_status": 200,
+      "id": "ev-web-928469824",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:08Z",
+      "snapshot_ref": "c8/c8d1918215aa8bc4ab41665c31434a7db83e2119f63101a780727fdd4f320933.gz",
+      "source_class": "company_owned",
+      "source_url": "https://testflow.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "023707a7c90fd2c47014",
+        "0d75a1a158c8d37459c6",
+        "211328a9f1b97be03f2c",
+        "3b31f9840040eb7b66c1",
+        "3dae589c0f9aec3152c5",
+        "3ece0f82b447b32fc96e",
+        "5147bd3f79f1cd6bf6d1",
+        "76acfc365a2ac0227508",
+        "928d62bfb57eb31148b3",
+        "98de3e0e75c46169be9b",
+        "9ae33eae5dd465b30348",
+        "a7d2d78fc3f97a1fd648",
+        "b0f9599c10e3d0df82ef",
+        "b3b7eb13c38f6568d548",
+        "c7efe6456a08e14fc8b5",
+        "c8eae978b39c758ed42c",
+        "c986931d9f2cf0e174b5",
+        "dfa37a78d7024ec21259",
+        "e1273be68df5d501171d",
+        "eba41d00fca768163061",
+        "f1c541880daa5fe589de"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a90a957c4c8ac0e67216"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "86da3a619b56a1d58972",
+        "c2568ece877d3e14203c",
+        "e21a46dafcb635f60831"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1f3b1c612ac4813435ec",
+        "8bcd37898c87bb479c3f",
+        "b4f4edf625e4f6efcdd0",
+        "d1036a97dbb5b79391ce",
+        "daad3701f15433704075",
+        "f25530f83ce26c4eb3e5"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "11738fda312942d820a3"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6a98cf317db158cc0e75"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "86da3a619b56a1d58972",
+      "e21a46dafcb635f60831",
+      "c2568ece877d3e14203c"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "TESTFLOW AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 6465,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "928469824",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.729966Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "928469824",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "723f8757d131975df59393ec826eea1799bc734b8bc8fe5ca6d06ce8f3372d0a",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:03.364053Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928469824",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -326030.0,
+              "assets": 1853008.0,
+              "currency": "NOK",
+              "debt": 3227417.0,
+              "equity": -1374409.0,
+              "operating_result": -322956.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -326030.0,
+              "record_id": 4796717,
+              "revenue": 3438935.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 568614.0,
+              "assets": 2958570.0,
+              "currency": "NOK",
+              "debt": 3764366.0,
+              "equity": -805795.0,
+              "operating_result": 568872.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 568614.0,
+              "record_id": 5826835,
+              "revenue": 5524742.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 193052.0,
+              "assets": 2723884.0,
+              "currency": "NOK",
+              "debt": 3336627.0,
+              "equity": -612743.0,
+              "operating_result": 195256.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 193052.0,
+              "record_id": 6752460,
+              "revenue": 6659922.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:05.740860Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/928469824",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9a9eb16e80506728ee80b1401f4711d2a790d743fb83c5f5e96d644d5d1d17ef",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:06.916994Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928469824&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Fridtjof Nansens vei 12"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0369",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Dataprogrammeringstjenester",
+                "kode": "62.100"
+              },
+              "name": "TESTFLOW AS",
+              "organisation_number": "928495426"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "928469824",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Selge tjenester og varer innen digital brukertesting -og annet som naturlig sammenfaller med dette - samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Fridtjof Nansens vei 12",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0369",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2021-11-24",
+          "fravalgRevisjonDato": "2022-01-05",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-01-05",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Dataprogrammeringstjenester",
+          "naeringskode1.kode": "62.100",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "TESTFLOW AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "928469824",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+          "registreringsdatoForetaksregisteret": "2022-01-05",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2022-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-03-29",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-05-10",
+          "registreringsdatoenhetsregisteret": "2022-01-05",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-11-24",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-09-27",
+          "vedtektsfestetFormaal": "Selge tjenester og varer innen digital brukertesting -og annet som naturlig sammenfaller med dette - samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "0e3b32a19c62bd113a52d4eb8456029e4bc98ea75ed57a270e8d907da9481d62",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:04.513460Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928469824/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2025-04-11",
+              "name": "Erik Hauglid",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-24",
+              "name": "Thomas Kjellberg",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-24",
+              "name": "Rolf Ragnvald Tamber",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-24",
+              "name": "Erik Hauglid",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-24",
+              "name": "Ole Martin Kristiansen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-04-13",
+              "name": [
+                "VALUE GROUP AS"
+              ],
+              "organisation_number": "915156975",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:48:08Z",
+        "source_url": "https://testflow.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "TESTFLOW AS",
+          "claim_span": "sikkerhet Cookie Policy Status © 2026 Testflow AS · Org nr. 928 469 824 · hei@testflow.no Fridtjof Nansens vei 12, 0369 Oslo Vis in",
+          "final_url": "https://testflow.no/",
+          "homepage": "https://testflow.no/",
+          "page_html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\"/><title data-next-head=\"\">Testflow</title><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/apple-touch-icon.png\"/><link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon/favicon-32x32.png\"/><link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon/favicon-16x16.png\"/><link rel=\"manifest\" href=\"/favicon/site.webmanifest\"/><link rel=\"mask-icon\" href=\"/favicon/safari-pinned-tab.svg\" color=\"#5bbad5\"/><meta name=\"msapplication-TileColor\" content=\"#da532c\"/><meta name=\"theme-color\" content=\"#ffffff\"/><meta name=\"description\" content=\"Få raske tilbakemeldinger fra brukere uavhengig av tid og sted via video.\" data-next-head=\"\"/><meta property=\"og:image\" content=\"https://testflow.no/api/og?title=Testflow+%E2%80%93+Brukertesting+gjort+enkelt\" data-next-head=\"\"/><link rel=\"preload\" href=\"/_next/static/media/InstrumentSansVF-s.p.0b28qo41lep3s.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/chunks/18q0gxgzpeia7.css\" as=\"style\"/><script id=\"gtag-consent-default\" data-nscript=\"beforeInteractive\">\n          window.dataLayer = window.dataLayer || [];\n          function gtag(){dataLayer.push(arguments);}\n          gtag('consent', 'default', {\n            'ad_storage': 'denied',\n            'ad_user_data': 'denied',\n            'ad_personalization': 'denied',\n            'analytics_storage': 'denied'\n          });\n        </script><link rel=\"stylesheet\" href=\"/_next/static/chunks/18q0gxgzpeia7.css\" data-n-g=\"\"/><noscript data-n-css=\"\"></noscript><script src=\"/_next/static/chunks/3t5acbcnilbhn.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0kxy13att9fad.js\" defer=\"\"></script><script src=\"/_next/static/chunks/3kpfbk4-4-248.js\" defer=\"\"></script><script src=\"/_next/static/chunks/228-yo4ztlzc5.js\" defer=\"\"></script><script src=\"/_next/static/chunks/turbopack-2pc75yt4fwxaw.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0oqxpkflqt1qz.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0bd9k73d3cank.js\" defer=\"\"></script><script src=\"/_next/static/chunks/37ek0dui7t7wy.js\" defer=\"\"></script><script src=\"/_next/static/chunks/14q20gd7sfepq.js\" defer=\"\"></script><script src=\"/_next/static/chunks/2igfs1fqy7w8k.js\" defer=\"\"></script><script src=\"/_next/static/chunks/1weh8w86nv9tg.js\" defer=\"\"></script><script src=\"/_next/static/chunks/turbopack-36c8l-xa23zds.js\" defer=\"\"></script><script src=\"/_next/static/dcKFCNBwbJqVUAuOY3Isw/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/dcKFCNBwbJqVUAuOY3Isw/_ssgManifest.js\" defer=\"\"></script><script src=\"/_next/static/dcKFCNBwbJqVUAuOY3Isw/_clientMiddlewareManifest.js\" defer=\"\"></script></head><body class=\"bg-white text-black \"><div id=\"__next\"><main class=\" myfont_42ec44d7-module__u0Xj-a__variable instrument_serif_412f4c73-module___Rrg5q__variable\"><div class=\"font-sans \"><div class=\"rounded-b-3xl bg-light-background\"><main class=\"bg-light-background\"><header class=\"py-2  md:py-10 mx-4 lg:mx-20  bg-light-background\"><nav class=\"top-0 w-full shadow-sm  z-50 flex justify-between bg-light-background\"><div class=\" gap-x-4 md:gap-x-12  \"><a class=\" bg-slate-200 \" aria-label=\"Home\" href=\"/\"><div class=\"pt-4\"><svg width=\"150\" height=\"58\" viewBox=\"0 0 256 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M39.1324 13.6982V29.2636H30.0423C28.6799 29.2636 27.3309 29.532 26.0723 30.0536C24.8137 30.5752 23.6702 31.3397 22.7072 32.3033C21.7441 33.267 20.9804 34.411 20.4597 35.6699C19.9389 36.9289 19.6714 38.2781 19.6723 39.6405V48.7305H4.10693V40.3934C4.10693 33.3134 6.91945 26.5234 11.9258 21.5171C16.9321 16.5108 23.7221 13.6982 30.8021 13.6982H39.1324Z\" fill=\"black\"></path><path d=\"M39.1324 42.5222C39.1324 39.0972 36.3559 36.3207 32.9309 36.3207C29.5059 36.3207 26.7294 39.0972 26.7294 42.5222C26.7294 45.9472 29.5059 48.7237 32.9309 48.7237C36.3559 48.7237 39.1324 45.9472 39.1324 42.5222Z\" fill=\"black\"></path><path d=\"M64.5202 42.5975C63.616 42.625 62.7173 42.4472 61.8918 42.0773C61.2186 41.7915 60.6632 41.2843 60.3175 40.6398C59.9603 39.8739 59.7914 39.0338 59.8246 38.1894V26.1834H66.3273V20.1462H59.8246V13.7462H52.9797V15.8612C53.0225 16.4448 52.9437 17.0309 52.7481 17.5823C52.5525 18.1337 52.2444 18.6385 51.8434 19.0647C50.9598 19.8283 49.8127 20.2164 48.6469 20.1462H48.1266V26.1834H52.9797V38.5864C52.9797 41.7122 53.8558 44.1536 55.6081 45.9104C57.3604 47.6673 59.8223 48.5457 62.9938 48.5457C63.5072 48.5457 64.0822 48.5457 64.7187 48.4704C65.3553 48.3951 65.8961 48.3541 66.3478 48.2856V42.4401L65.3895 42.5427C65.1008 42.5753 64.8107 42.5935 64.5202 42.5975Z\" fill=\"black\"></path><path d=\"M92.7145 23.6029C91.5323 22.305 90.0787 21.2837 88.4569 20.6116C86.6072 19.8567 84.6225 19.4886 82.6251 19.5301C80.1538 19.4978 77.7203 20.138 75.585 21.3823C73.4497 22.6266 71.6929 24.4281 70.5027 26.5941C69.2377 28.8992 68.5959 31.4945 68.6409 34.1235C68.6096 36.7138 69.2311 39.2702 70.4479 41.5571C71.6165 43.7588 73.366 45.5982 75.5063 46.8756C77.8023 48.2248 80.428 48.9097 83.0905 48.8538C84.9008 48.8727 86.7005 48.5762 88.409 47.9776C89.9532 47.4359 91.3797 46.6042 92.6118 45.5271C93.7225 44.5713 94.5904 43.3655 95.1444 42.0089L89.6685 39.2709C89.0198 40.4113 88.0702 41.3515 86.9234 41.9888C85.7766 42.6262 84.4768 42.9362 83.1658 42.885C81.7191 42.9147 80.294 42.53 79.0588 41.7761C77.8767 41.0436 76.942 39.9729 76.3756 38.7028C76.0037 37.8873 75.7723 37.0148 75.6911 36.1222H95.8905C96.0058 35.6722 96.0904 35.2148 96.1438 34.7532C96.2123 34.2404 96.2466 33.7237 96.2464 33.2063C96.2615 31.4012 95.9483 29.6083 95.3224 27.9152C94.7274 26.3287 93.8431 24.8665 92.7145 23.6029ZM78.8603 26.2108C79.9811 25.4891 81.2924 25.1196 82.6251 25.1498C83.9668 25.1266 85.2834 25.5161 86.3966 26.2655C87.449 26.9718 88.2515 27.9923 88.6897 29.1815C88.9007 29.7533 89.0275 30.3528 89.0661 30.9612H75.9239C76.0302 30.3964 76.193 29.8437 76.4099 29.3115C76.8934 28.0534 77.748 26.972 78.8603 26.2108Z\" fill=\"black\"></path><path d=\"M107.232 25.848C108.023 25.3102 108.968 25.048 109.923 25.1019C111.285 25.0779 112.623 25.4642 113.763 26.2107C114.866 26.9337 115.708 27.9919 116.165 29.2293L121.326 26.8542C120.539 24.6056 119.008 22.6931 116.987 21.433C114.877 20.1426 112.443 19.4823 109.97 19.5301C108.115 19.4919 106.274 19.8611 104.577 20.6116C103.105 21.2539 101.838 22.2887 100.915 23.6028C100.018 24.9457 99.5585 26.5335 99.6004 28.1479C99.5715 29.9875 100.211 31.7751 101.401 33.1789C102.839 34.7464 104.712 35.8498 106.781 36.3481L111.374 37.587C111.946 37.7563 112.499 37.9857 113.023 38.2715C113.468 38.4999 113.864 38.8139 114.187 39.1956C114.486 39.5878 114.641 40.0714 114.625 40.5645C114.628 40.9785 114.532 41.3872 114.347 41.7572C114.161 42.1272 113.891 42.448 113.557 42.6933C112.704 43.2856 111.678 43.5748 110.641 43.5147C109.103 43.5281 107.602 43.0483 106.356 42.1457C105.048 41.1924 104.002 39.9231 103.317 38.4563L98.204 40.8794C99.0355 43.2854 100.666 45.334 102.824 46.6839C105.161 48.1569 107.879 48.9114 110.641 48.8537C112.548 48.8982 114.442 48.5292 116.192 47.7722C117.676 47.1084 118.958 46.0648 119.909 44.7468C120.827 43.4418 121.306 41.879 121.278 40.2839C121.33 38.4225 120.666 36.6122 119.423 35.2255C117.953 33.7083 116.098 32.6198 114.057 32.0768L109.567 30.7831C108.974 30.5969 108.395 30.3681 107.835 30.0987C107.382 29.8951 106.985 29.5851 106.678 29.1951C106.388 28.7994 106.24 28.3166 106.261 27.8261C106.252 27.4426 106.336 27.0626 106.505 26.7183C106.674 26.3739 106.924 26.0754 107.232 25.848Z\" fill=\"black\"></path><path d=\"M139.328 42.5975C138.422 42.6244 137.521 42.4466 136.693 42.0773C136.022 41.7873 135.468 41.2813 135.119 40.6398C134.764 39.8733 134.598 39.0332 134.633 38.1894V26.1834H141.135V20.1462H134.633V13.7462H127.788V15.8612C127.83 16.4442 127.751 17.0295 127.557 17.5807C127.363 18.1318 127.057 18.637 126.658 19.0647C125.773 19.83 124.623 20.2183 123.455 20.1462H122.942V26.1834H127.788V38.5864C127.788 41.7122 128.666 44.1536 130.423 45.9104C132.18 47.6673 134.64 48.5457 137.802 48.5457C138.322 48.5457 138.897 48.5457 139.534 48.4704C140.17 48.3951 140.711 48.3541 141.156 48.2856V42.4401L140.204 42.5427C139.914 42.5755 139.621 42.5938 139.328 42.5975Z\" fill=\"black\"></path><path d=\"M166.516 20.1461H155.633V19.27C155.587 18.6837 155.676 18.0946 155.895 17.5485C156.113 17.0024 156.455 16.5141 156.892 16.1213C157.897 15.38 159.13 15.0143 160.376 15.0877C160.616 15.0877 160.883 15.0877 161.177 15.0877C161.5 15.1077 161.82 15.1512 162.136 15.2178V9.4133C161.726 9.33026 161.313 9.26857 160.897 9.22848C160.376 9.15319 159.911 9.15319 159.487 9.15319C157.536 9.10754 155.601 9.51278 153.833 10.3374C152.284 11.0848 150.992 12.2761 150.123 13.7598C149.198 15.4331 148.742 17.3249 148.802 19.2358V20.1119H143.901V26.1491H148.802V48.1898H155.647V26.1833H166.53V48.224H173.293V9.15319H166.53L166.516 20.1461Z\" fill=\"black\"></path><path d=\"M199.331 21.4125C197.015 20.1734 194.428 19.5251 191.801 19.5251C189.175 19.5251 186.588 20.1734 184.272 21.4125C181.999 22.6554 180.11 24.4987 178.813 26.7413C177.515 28.984 176.858 31.5399 176.914 34.1303C176.876 36.7778 177.573 39.384 178.926 41.6597C180.236 43.8459 182.096 45.6511 184.32 46.8961C186.611 48.1489 189.18 48.8054 191.791 48.8054C194.402 48.8054 196.971 48.1489 199.262 46.8961C201.484 45.6605 203.345 43.8676 204.663 41.694C206.016 39.4182 206.713 36.8121 206.675 34.1646C206.728 31.5779 206.073 29.026 204.781 26.7846C203.489 24.5431 201.609 22.6973 199.345 21.4467L199.331 21.4125ZM198.557 38.5864C197.922 39.8056 196.978 40.837 195.819 41.5776C194.618 42.3137 193.231 42.6891 191.822 42.6591C190.397 42.6863 188.992 42.3115 187.77 41.5776C186.592 40.8487 185.643 39.8025 185.032 38.559C184.362 37.1853 184.026 35.6723 184.053 34.144C184.024 32.654 184.37 31.1806 185.059 29.8591C185.701 28.6513 186.644 27.6302 187.797 26.8953C189.016 26.1696 190.407 25.7865 191.825 25.7865C193.244 25.7865 194.635 26.1696 195.854 26.8953C197.011 27.6371 197.955 28.6681 198.592 29.8865C199.28 31.2181 199.626 32.7001 199.598 34.1988C199.627 35.7256 199.269 37.235 198.557 38.5864Z\" fill=\"black\"></path><path d=\"M244.535 20.1461L238.676 37.8129L232.46 20.1461H226.416L220.201 37.8129L214.342 20.1461H207.216L216.868 48.224H222.857L229.455 29.2636L235.965 48.224H242.002L251.708 20.1461H244.535Z\" fill=\"black\"></path></svg></div></a></div><div class=\"hidden items-center  gap-x-4 md:gap-x-8\"><div class=\"hidden md:flex md:gap-x-6\"><a class=\"group inline-flex mt-4 mr-2  items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900\" href=\"/#\">Kontakt</a></div></div><div class=\"flex  md:w-80 items-center gap-x-6 md:gap-x-8\"><div class=\"-mr-1 md:hidden\"><div data-headlessui-state=\"\"><button class=\"relative z-10 flex h-8 w-8 items-center justify-center ui-not-focus-visible:outline-none\" aria-label=\"Toggle Navigation\" type=\"button\" aria-expanded=\"false\" data-headlessui-state=\"\"><svg aria-hidden=\"true\" class=\"h-3.5 w-3.5 overflow-visible stroke-slate-700\" fill=\"none\" stroke-width=\"2\" stroke-linecap=\"round\"><path d=\"M0 1H14M0 7H14M0 13H14\" class=\"origin-center transition\"></path><path d=\"M2 2L12 12M12 2L2 12\" class=\"origin-center transition scale-90 opacity-0\"></path></svg></button></div><span hidden=\"\" style=\"position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none\"></span></div><div class=\"hidden md:block\"><div class=\"-my-1 flex-1 md:flex gap-x-2\"><div class=\"relative inline-block text-left\"><div><button type=\"button\" class=\"group inline-flex mt-4 mr-2 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900\" id=\"menu-button\" aria-expanded=\"true\" aria-haspopup=\"true\">Logg inn<svg class=\"-mr-1 h-5 w-5 text-gray-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\" aria-hidden=\"true\"><path fill-rule=\"evenodd\" d=\"M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z\" clip-rule=\"evenodd\"></path></svg></button></div></div><a class=\"group inline-flex mt-4 mr-2  items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900\" href=\"/panel\">Bli tester</a></div></div></div></nav></header><div class=\"mx-auto max-w-7xl  px-4 sm:px-6 lg:px-4 pb-2  rounded-b-3xl    bg-light-background\"><main class=\"grid  lg:grid-cols-2 place-items-center pt-6 p-4 md:p-2 md:pt-12  lg:pt-16 pb-8 md:pb-12 max-w-7xl mx-auto\"><div class=\" md:block\"><div class=\"\"><img alt=\"Header\" loading=\"lazy\" width=\"480\" height=\"500\" decoding=\"async\" data-nimg=\"1\" class=\"block\" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2FtestHero2.png&amp;w=640&amp;q=75 1x, /_next/image?url=%2Fimages%2FtestHero2.png&amp;w=1080&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2FtestHero2.png&amp;w=1080&amp;q=75\"/></div></div><div class=\"mt-4\"><h2 class=\" font-medium   ~text-2xl/5xl leading-tight   \"><span class=\"text-gray-950\"><span class=\"\">Få<!-- --> </span><span class=\"bg-highlight pr-[0.5%] pl-[1%] rounded-2xl \">relevant<!-- --> </span><span class=\"\">kundeinnsikt<!-- --> </span><span class=\"bg-highlight pr-[0.5%] pl-[1%] rounded-2xl \">raskt<!-- --> </span><span class=\"\">og<!-- --> </span><span class=\"bg-highlight pr-[0.5%] pl-[1%] rounded-2xl \">enkelt<!-- --> </span></span></h2><p class=\" text-gray-900 max-w-2xl  ~text-lg/2xl   \">Testflow er en selvbetjent plattform for digital brukertesting fra A til Å. </p><ul class=\"  text-base list-disc list-inside mt-4 text-gray-900\"><li>Norsk tjeneste</li><li>Vi rekrutterer testere</li><li>Få en gratis demo-test</li></ul><div class=\"mt-6 flex flex-col sm:flex-row gap-3\"><button class=\"group inline-flex items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900  ~px-4/5 ~py-3/3 ~text-sm/base \"><span>Få gratis test nå</span></button></div></div></main></div></main></div><div class=\"min-h-screen\"><main class=\"bg-light-background\"><div class=\"mx-auto max-w-7xl  px-4 sm:px-6 lg:px-4 pb-2   \"><section class=\"mx-auto pt-2 \"><div class=\"container md:px-4 mx-auto \"><div class=\"flex flex-col md:w-6/12 mx-auto mb-4 text-center\"><p class=\" ~text-xs/base  mt-0 text-black-light mb-2\">Leverer kundeinnsikt til noen av Norges fremste merkevarer</p></div><ul class=\"grid grid-cols-3 md:grid-cols-5 lg:grid-cols-7 gap-6 mb-6 text-center \"><li class=\"flex items-center justify-center \"><img alt=\"Vy\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvy.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvy.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvy.png&amp;w=640&amp;q=75\"/></li><li class=\"flex items-center justify-center \"><img alt=\"Tryg\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ftryg.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ftryg.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ftryg.png&amp;w=640&amp;q=75\"/></li><li class=\"flex items-center justify-center \"><img alt=\"Vipps\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvipps.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvipps.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fvipps.png&amp;w=640&amp;q=75\"/></li><li class=\"flex items-center justify-center \"><img alt=\"Finn\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ffinn.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ffinn.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Ffinn.png&amp;w=640&amp;q=75\"/></li><li class=\"flex items-center justify-center \"><img alt=\"Norsk Helsenett\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fnhn.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fnhn.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Fnhn.png&amp;w=640&amp;q=75\"/></li><li class=\"flex items-center justify-center \"><img alt=\"Lyse\" loading=\"lazy\" width=\"230\" height=\"230\" decoding=\"async\" data-nimg=\"1\" class=\"block object-contain h-10 \" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Flyse.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Flogos%2Fcolor%2Flyse.png&amp;w=640&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Flogos%2Fcolor%2Flyse.png&amp;w=640&amp;q=75\"/></li></ul></div></section><p class=\" ~text-base/2xl  w-96 mx-auto text-center mt-20  text-gray-900  max-w-3xl\">Slik fungerer Testflow:</p><section class=\" mb-2 md:mb-20\"><div class=\"max-w-7xl md:mx-auto\"><section class=\"py-2  flex-1 md:flex \"><div class=\" w-3/4  mb-2 md:mb-0 md:w-2/6 mx-auto grid place-items-center\"><img alt=\"\" loading=\"lazy\" width=\"600\" height=\"400\" decoding=\"async\" data-nimg=\"1\" class=\"w-full rounded-3xl\" style=\"color:transparent\" src=\"/_next/static/media/tf-step1.11_iujew3ztbq.svg\"/></div><div class=\"md:w-4/6 grid place-items-center \"><div class=\"md:px-20 justify-center\"><h3 class=\"~text-lg/2xl font-medium   text-black-light [text-wrap:balance] \"><span class=\"bg-highlight px-[1%]\">1. Velg målgruppe</span></h3><p class=\"~text-base/lg mt-1 text-gray-dark max-w-xl\">Velg hvilken enhet du vil teste på, lengde på testen og antall testere du vil ha, og gjør målrettet rekruttering - vi garanterer at du får kvalitetsresultater tilbake.</p></div></div></section><section class=\"py-2   flex-1 md:flex md:flex-row-reverse  \"><div class=\" w-3/4  mb-2 md:mb-0 md:w-2/6 mx-auto grid place-items-center\"><img alt=\"\" loading=\"lazy\" width=\"600\" height=\"400\" decoding=\"async\" data-nimg=\"1\" class=\"w-full rounded-3xl\" style=\"color:transparent\" src=\"/_next/static/media/tf-step2.1hu8llfif4ewm.svg\"/></div><div class=\"md:w-4/6 grid place-items-center \"><div class=\"md:px-20 justify-center\"><h3 class=\"~text-lg/2xl font-medium   text-black-light [text-wrap:balance] \"><span class=\"bg-highlight px-[1%]\">2. Lag oppgaver</span></h3><p class=\"~text-base/lg mt-1 text-gray-dark max-w-xl\">Still spørsmål og lag oppgaver som du vil testerne skal utføre eller svare på. Spør spørsmål eller gi brukerne oppgaver å gjennomføre, legg ved lenker til det du skal teste og publisèr. Testflow hjelper deg i gang.</p></div></div></section><section class=\"py-2  flex-1 md:flex \"><div class=\" w-3/4  mb-2 md:mb-0 md:w-2/6 mx-auto grid place-items-center\"><img alt=\"\" loading=\"lazy\" width=\"600\" height=\"400\" decoding=\"async\" data-nimg=\"1\" class=\"w-full rounded-3xl\" style=\"color:transparent\" sizes=\"52.75rem\" srcSet=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftf-step3.0wg08kl0pnen1.png&amp;w=3840&amp;q=75\"/></div><div class=\"md:w-4/6 grid place-items-center \"><div class=\"md:px-20 justify-center\"><h3 class=\"~text-lg/2xl font-medium   text-black-light [text-wrap:balance] \"><span class=\"bg-highlight px-[1%]\">3. Se videoer og resultater</span></h3><p class=\"~text-base/lg mt-1 text-gray-dark max-w-xl\">Se igjennom opptakene av menneskene som sitter hjemme på sin egen PC og tester din prototype, ditt nettsted eller ditt produkt. Vår notatfunksjon hjelper deg og ditt team analysere funnene.</p></div></div></section></div></section><main class=\"grid grid-cols-2 place-items-center gap-4 pt-16 pb-8   max-w-4xl mx-auto \"><div class=\"py-2 md:py-6 md:block\"><div class=\"  \"><img alt=\"Header\" loading=\"lazy\" width=\"350\" height=\"350\" decoding=\"async\" data-nimg=\"1\" class=\"block rounded-md\" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Fnorstat.jpg&amp;w=384&amp;q=75 1x, /_next/image?url=%2Fimages%2Fnorstat.jpg&amp;w=750&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Fnorstat.jpg&amp;w=750&amp;q=75\"/></div></div><div><h2 class=\"~text-lg/2xl font-medium  text-black leading-tight \"><span class=\"text-black\">Nå din målgruppe via Norstatpanel</span> </h2><p class=\" ~text-base/lg mt-1   text-gray-dark max-w-2xl\">Kombiner vår lynraske selvbetjent plattform for brukertesting med muligheten til å nå akkurat de du trenger tilbakemeldinger fra med avansert målretting.</p><div class=\"mt-6 flex flex-col sm:flex-row gap-3\"><button class=\"group inline-flex items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900  \"><span>Les mer</span></button></div></div></main><hr class=\"mb-8\"/><div class=\" grid  grid-cols-1 md:grid-cols-2 text-center mx-auto mt-12 mb-24\"><figure class=\"  bg-white border-brand-1  border-2 rounded-lg p-6 max-w-2xl md:mr-4 \"><svg aria-hidden=\"true\" width=\"105\" height=\"78\" class=\"relative left-6 top-6 fill-slate-100\"><path d=\"M25.086 77.292c-4.821 0-9.115-1.205-12.882-3.616-3.767-2.561-6.78-6.102-9.04-10.622C1.054 58.534 0 53.411 0 47.686c0-5.273.904-10.396 2.712-15.368 1.959-4.972 4.746-9.567 8.362-13.786a59.042 59.042 0 0 1 12.43-11.3C28.325 3.917 33.599 1.507 39.324 0l11.074 13.786c-6.479 2.561-11.677 5.951-15.594 10.17-3.767 4.219-5.65 7.835-5.65 10.848 0 1.356.377 2.863 1.13 4.52.904 1.507 2.637 3.089 5.198 4.746 3.767 2.41 6.328 4.972 7.684 7.684 1.507 2.561 2.26 5.5 2.26 8.814 0 5.123-1.959 9.19-5.876 12.204-3.767 3.013-8.588 4.52-14.464 4.52Zm54.24 0c-4.821 0-9.115-1.205-12.882-3.616-3.767-2.561-6.78-6.102-9.04-10.622-2.11-4.52-3.164-9.643-3.164-15.368 0-5.273.904-10.396 2.712-15.368 1.959-4.972 4.746-9.567 8.362-13.786a59.042 59.042 0 0 1 12.43-11.3C82.565 3.917 87.839 1.507 93.564 0l11.074 13.786c-6.479 2.561-11.677 5.951-15.594 10.17-3.767 4.219-5.65 7.835-5.65 10.848 0 1.356.377 2.863 1.13 4.52.904 1.507 2.637 3.089 5.198 4.746 3.767 2.41 6.328 4.972 7.684 7.684 1.507 2.561 2.26 5.5 2.26 8.814 0 5.123-1.959 9.19-5.876 12.204-3.767 3.013-8.588 4.52-14.464 4.52Z\"></path></svg><blockquote class=\"relative -top-7\"><p class=\"~text-base/lg   text-gray-dark\">Testflow har gjort brukertesting så enkelt for oss i banken at vi er i stand til å teste i mye større skala enn tidligere - hvilket er avgjørende for oss da det hjelper oss å ta bedre valg, og ikke minst bedre diskusjoner internt.</p></blockquote><figcaption class=\"relative mt-6 flex items-center justify-between pt-2\"><div class=\"text-center  max-w-lg mx-auto \"><p class=\"font-medium text-black\">– Eivind Håverstad</p><div class=\"mt-1 ~text-sm/base text-gray-dark\">Growth Manager, Sparebanken Sør</div></div></figcaption></figure><figure class=\"  bg-white border-brand-1  border-2 rounded-lg p-6 max-w-2xl md:ml-4 \"><svg aria-hidden=\"true\" width=\"105\" height=\"78\" class=\"relative left-6 top-6 fill-slate-100\"><path d=\"M25.086 77.292c-4.821 0-9.115-1.205-12.882-3.616-3.767-2.561-6.78-6.102-9.04-10.622C1.054 58.534 0 53.411 0 47.686c0-5.273.904-10.396 2.712-15.368 1.959-4.972 4.746-9.567 8.362-13.786a59.042 59.042 0 0 1 12.43-11.3C28.325 3.917 33.599 1.507 39.324 0l11.074 13.786c-6.479 2.561-11.677 5.951-15.594 10.17-3.767 4.219-5.65 7.835-5.65 10.848 0 1.356.377 2.863 1.13 4.52.904 1.507 2.637 3.089 5.198 4.746 3.767 2.41 6.328 4.972 7.684 7.684 1.507 2.561 2.26 5.5 2.26 8.814 0 5.123-1.959 9.19-5.876 12.204-3.767 3.013-8.588 4.52-14.464 4.52Zm54.24 0c-4.821 0-9.115-1.205-12.882-3.616-3.767-2.561-6.78-6.102-9.04-10.622-2.11-4.52-3.164-9.643-3.164-15.368 0-5.273.904-10.396 2.712-15.368 1.959-4.972 4.746-9.567 8.362-13.786a59.042 59.042 0 0 1 12.43-11.3C82.565 3.917 87.839 1.507 93.564 0l11.074 13.786c-6.479 2.561-11.677 5.951-15.594 10.17-3.767 4.219-5.65 7.835-5.65 10.848 0 1.356.377 2.863 1.13 4.52.904 1.507 2.637 3.089 5.198 4.746 3.767 2.41 6.328 4.972 7.684 7.684 1.507 2.561 2.26 5.5 2.26 8.814 0 5.123-1.959 9.19-5.876 12.204-3.767 3.013-8.588 4.52-14.464 4.52Z\"></path></svg><blockquote class=\"relative -top-7\"><p class=\"~text-base/lg   text-gray-dark\">Testflow gjør at vi i Vy Digital kan kvalitetssikre hypoteser og idéer på en enkel og rask måte. Testpersonene gir oss nyttig innsikt ved at de forteller oss hvordan de tenker mens de utfører testene.</p></blockquote><figcaption class=\"relative mt-6 flex items-center justify-between pt-2\"><div class=\"text-center  max-w-lg mx-auto \"><p class=\"font-medium text-black\">– Hilde Strømner Hatt</p><div class=\"mt-1 ~text-sm/base text-gray-dark\">Digital Designer, Vy</div></div></figcaption></figure></div><div class=\"mb-10\"><section class=\"mb-20 break-words  md:break-normal\"><div class=\" max-w-6xl\"><h3 class=\"~text-2xl/3xl  font-medium  text-black leading-tight [text-wrap:balance] \">Vi startet Testflow slik at norske bedrifter raskere og enklere kan innhente relevante tilbakemeldinger fra brukere. På den måten kan vi bygge bedre digitale tjenester og produkter for alle.  </h3><h4 class=\"mt-4  ~text-base/lg\">Du kan bruke Testflow til å teste ut blant annet:</h4></div><div class=\"grid sm:grid-cols-2 md:grid-cols-4 mt-4 gap-4\"><div class=\"flex gap-4 items-start\"><div class=\"flex bg-white border-brand-1  border-2 rounded-lg p-6 \"><div class=\"lg:h-60 h-full\"><div class=\"mt-1 mb-4  rounded-full  p-2 w-12 h-12 shrink-0\"><div><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M20.1213 2.70705C18.9498 1.53547 17.0503 1.53548 15.8787 2.70705L9.04094 9.5448C8.71981 9.86592 8.51754 10.2868 8.46739 10.7381L8.00612 14.8895C7.97258 15.1914 8.07809 15.4922 8.2929 15.707C8.50771 15.9219 8.80851 16.0274 9.11044 15.9938L13.2618 15.5326C13.7132 15.4824 14.134 15.2801 14.4552 14.959L21.2929 8.12126C22.4645 6.94969 22.4645 5.0502 21.2929 3.87862L20.1213 2.70705ZM17.2929 4.12126C17.6834 3.73074 18.3166 3.73074 18.7071 4.12126L19.8787 5.29284C20.2692 5.68336 20.2692 6.31653 19.8787 6.70705L19 7.58573L16.4142 4.99994L17.2929 4.12126ZM15 6.41416L17.5858 8.99994L13.0409 13.5448L10.1319 13.868L10.4552 10.959L15 6.41416ZM4 7C4 5.89543 4.89543 5 6 5H10.2014C10.7537 5 11.2014 4.55228 11.2014 4C11.2014 3.44772 10.7537 3 10.2014 3H6C3.79086 3 2 4.79086 2 7V18C2 20.2091 3.79086 22 6 22H17C19.2091 22 21 20.2091 21 18V13.9167C21 13.3644 20.5523 12.9167 20 12.9167C19.4477 12.9167 19 13.3644 19 13.9167V18C19 19.1046 18.1046 20 17 20H6C4.89543 20 4 19.1046 4 18V7Z\" fill=\"black\"></path></svg></div></div><h3 class=\"font-medium text-lg\">Skisser og prototyper</h3><p class=\"~text-base/lg mt-0 font-normal  text-gray-dark max-w-md\">Valider tidlige hypoteser, skisser og prototyper for tidlig innspill</p></div></div></div><div class=\"flex gap-4 items-start\"><div class=\"flex bg-white border-brand-1  border-2 rounded-lg p-6 \"><div class=\"lg:h-60 h-full\"><div class=\"mt-1 mb-4  rounded-full  p-2 w-12 h-12 shrink-0\"><div><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11 4C7.13401 4 4 7.13401 4 11C4 14.866 7.13401 18 11 18C14.866 18 18 14.866 18 11C18 7.13401 14.866 4 11 4ZM2 11C2 6.02944 6.02944 2 11 2C15.9706 2 20 6.02944 20 11C20 13.125 19.2635 15.078 18.0319 16.6177L22.2071 20.7929C22.5976 21.1834 22.5976 21.8166 22.2071 22.2071C21.8166 22.5976 21.1834 22.5976 20.7929 22.2071L16.6177 18.0319C15.078 19.2635 13.125 20 11 20C6.02944 20 2 15.9706 2 11ZM11.9864 6.8356C11.906 6.35341 11.4888 6 11 6C10.5112 6 10.094 6.35341 10.0136 6.8356L9.91189 7.44591C9.70115 8.71032 8.71032 9.70115 7.4459 9.91189L6.8356 10.0136C6.35341 10.094 6 10.5112 6 11C6 11.4888 6.35341 11.906 6.8356 11.9864L7.44591 12.0881C8.71032 12.2988 9.70115 13.2897 9.91189 14.5541L10.0136 15.1644C10.094 15.6466 10.5112 16 11 16C11.4888 16 11.906 15.6466 11.9864 15.1644L12.0881 14.5541C12.2988 13.2897 13.2897 12.2988 14.5541 12.0881L15.1644 11.9864C15.6466 11.906 16 11.4888 16 11C16 10.5112 15.6466 10.094 15.1644 10.0136L14.5541 9.91189C13.2897 9.70115 12.2988 8.71032 12.0881 7.4459L11.9864 6.8356ZM9.88881 11C10.3152 10.6905 10.6905 10.3152 11 9.88881C11.3095 10.3152 11.6848 10.6905 12.1112 11C11.6848 11.3095 11.3095 11.6848 11 12.1112C10.6905 11.6848 10.3152 11.3095 9.88881 11Z\" fill=\"black\"></path></svg></div></div><h3 class=\"font-medium text-lg\">Nettsider og apper</h3><p class=\"~text-base/lg mt-0 font-normal  text-gray-dark max-w-md\">Få dypere innsikt brukerbehov og forståelse for hvordan brukere opplever produktet eller tjenesten din.</p></div></div></div><div class=\"flex gap-4 items-start\"><div class=\"flex bg-white border-brand-1  border-2 rounded-lg p-6 \"><div class=\"lg:h-60 h-full\"><div class=\"mt-1 mb-4  rounded-full  p-2 w-12 h-12 shrink-0\"><div><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.49 1.35861C19.4364 0.983641 19.1756 0.671122 18.8162 0.551344C18.4569 0.431566 18.0607 0.525088 17.7929 0.79292L14.7929 3.79292C14.6054 3.98046 14.5 4.23481 14.5 4.50003V8.08581L12.518 10.0678C12.3528 10.0236 12.1792 10 12 10C10.8954 10 10 10.8955 10 12C10 13.1046 10.8954 14 12 14C13.1046 14 14 13.1046 14 12C14 11.8209 13.9764 11.6472 13.9323 11.482L15.9142 9.50003H19.5C19.7652 9.50003 20.0196 9.39467 20.2071 9.20713L23.2071 6.20713C23.4749 5.9393 23.5685 5.54313 23.4487 5.1838C23.3289 4.82446 23.0164 4.56364 22.6414 4.51008L19.8839 4.11614L19.49 1.35861ZM20.3787 6.20713L19.0858 7.50003H16.5V4.91424L17.7929 3.62135L18.0101 5.14145C18.0729 5.58143 18.4186 5.92712 18.8586 5.98998L20.3787 6.20713ZM7.85276 5.15896C9.24255 4.31643 10.856 3.91718 12.4783 4.01435C13.0296 4.04737 13.5033 3.62722 13.5363 3.07592C13.5693 2.52463 13.1492 2.05094 12.5979 2.01792C10.57 1.89646 8.55319 2.39553 6.81595 3.44869C5.07872 4.50184 3.70345 6.05914 2.87321 7.91328C2.04297 9.76742 1.79715 11.8305 2.16846 13.8278C2.53977 15.8251 3.5106 17.6619 4.95172 19.0938C6.39285 20.5257 8.23591 21.4847 10.2356 21.8431C12.2352 22.2016 14.2966 21.9425 16.1454 21.1003C17.9942 20.2582 19.5426 18.8729 20.5845 17.129C21.6265 15.385 22.1126 13.365 21.9781 11.3379C21.9415 10.7869 21.4651 10.3698 20.914 10.4063C20.363 10.4429 19.9459 10.9193 19.9825 11.4704C20.0901 13.092 19.7012 14.708 18.8676 16.1032C18.0341 17.4984 16.7953 18.6066 15.3163 19.2803C13.8373 19.954 12.1882 20.1613 10.5885 19.8745C8.98873 19.5878 7.51428 18.8206 6.36138 17.6751C5.20848 16.5296 4.43181 15.0601 4.13477 13.4622C3.83772 11.8644 4.03438 10.2139 4.69857 8.73063C5.36276 7.24732 6.46297 6.00148 7.85276 5.15896ZM9.84657 8.62917C10.5215 8.19799 11.3104 7.97935 12.111 8.00157C12.663 8.01689 13.123 7.58177 13.1383 7.0297C13.1537 6.47762 12.7185 6.01766 12.1665 6.00234C10.9655 5.96901 9.78228 6.29696 8.76986 6.94373C7.75744 7.5905 6.96249 8.52631 6.48794 9.62998C6.01339 10.7337 5.88108 11.9544 6.10816 13.1341C6.33523 14.3138 6.91123 15.3982 7.76157 16.2469C8.61191 17.0955 9.69744 17.6694 10.8776 17.8941C12.0578 18.1189 13.2782 17.9841 14.381 17.5074C15.4837 17.0307 16.4179 16.2339 17.0627 15.2202C17.7075 14.2065 18.0331 13.0226 17.9974 11.8217C17.9809 11.2697 17.5201 10.8355 16.9681 10.8519C16.416 10.8683 15.9818 11.3291 15.9982 11.8811C16.022 12.6817 15.805 13.471 15.3751 14.1468C14.9453 14.8226 14.3225 15.3538 13.5873 15.6716C12.8522 15.9894 12.0385 16.0792 11.2517 15.9294C10.465 15.7796 9.74128 15.397 9.17438 14.8313C8.60749 14.2655 8.22349 13.5426 8.07211 12.7561C7.92072 11.9696 8.00893 11.1558 8.3253 10.42C8.64166 9.68422 9.17163 9.06035 9.84657 8.62917Z\" fill=\"black\"></path></svg></div></div><h3 class=\"font-medium text-lg\">Betalingsflyt og konvertering</h3><p class=\"~text-base/lg mt-0 font-normal  text-gray-dark max-w-md\">Test hvordan tekst, film eller budskap forståes og kan finpusses før du lanserer nye kampanjer.</p></div></div></div><div class=\"flex gap-4 items-start\"><div class=\"flex bg-white border-brand-1  border-2 rounded-lg p-6 \"><div class=\"lg:h-60 h-full\"><div class=\"mt-1 mb-4  rounded-full  p-2 w-12 h-12 shrink-0\"><div><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.54766 6.53259C2.90026 4.49121 4.67112 3 6.74272 3C9.00755 3 10.8593 4.76857 10.9923 7H13.0076C13.1406 4.76857 14.9924 3 17.2572 3C19.3288 3 21.0997 4.49121 21.4523 6.53258L22.8854 14.8298L22.8632 14.8336C22.9527 15.2078 23 15.5984 23 16C23 18.7614 20.7614 21 18 21C15.2386 21 13 18.7614 13 16V15C13 14.7348 12.8946 14.4804 12.7071 14.2929C12.5196 14.1054 12.2652 14 12 14C11.7348 14 11.4804 14.1054 11.2929 14.2929C11.1054 14.4804 11 14.7348 11 15C11 15.0045 11 15.009 10.9999 15.0135V15.9697L11 16C11 18.7614 8.76142 21 6 21C3.23858 21 1 18.7614 1 16C1 15.5984 1.04735 15.2078 1.13677 14.8336L1.1145 14.8298L2.54766 6.53259ZM10.9999 12.1716C11.3181 12.0591 11.656 12 12 12C12.3439 12 12.6818 12.0591 13 12.1716V9H10.9999V12.1716ZM8.99991 16V15.9766C8.98731 14.3305 7.64903 13 6 13C4.34315 13 3 14.3431 3 16C3 17.6569 4.34315 19 6 19C7.65685 19 9 17.6569 9 16H8.99991ZM8.99991 7.25719V11.9996C8.16427 11.3719 7.12557 11 6 11C5.17466 11 4.39603 11.2 3.70992 11.5541L4.51847 6.873C4.70542 5.79065 5.64435 5 6.74272 5C7.98933 5 8.99991 6.01058 8.99991 7.25719ZM15 16C15 14.3431 16.3431 13 18 13C19.6569 13 21 14.3431 21 16C21 17.6569 19.6569 19 18 19C16.3431 19 15 17.6569 15 16ZM15 11.9996V7.25719C15 6.01058 16.0106 5 17.2572 5C18.3556 5 19.2945 5.79065 19.4814 6.873L20.29 11.5541C19.6039 11.2 18.8253 11 18 11C16.8744 11 15.8357 11.3719 15 11.9996Z\" fill=\"black\"></path></svg></div></div><h3 class=\"font-medium text-lg\">Skrivebordsanalyse og innsikt</h3><p class=\"~text-base/lg mt-0 font-normal  text-gray-dark max-w-md\">Få relevant og ny innsikt fra spissede målgrupper ved åpne spørsmål før du bygger nye konsepter.</p></div></div></div></div></section></div></div></main></div><footer class=\"bg-white\"><div class=\"mx-auto max-w-7xl  px-4 sm:px-6 lg:px-4 pb-2\"><div class=\"py-16\"><div class=\"pt-4\"><svg width=\"150\" height=\"58\" viewBox=\"0 0 256 100\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M39.1324 13.6982V29.2636H30.0423C28.6799 29.2636 27.3309 29.532 26.0723 30.0536C24.8137 30.5752 23.6702 31.3397 22.7072 32.3033C21.7441 33.267 20.9804 34.411 20.4597 35.6699C19.9389 36.9289 19.6714 38.2781 19.6723 39.6405V48.7305H4.10693V40.3934C4.10693 33.3134 6.91945 26.5234 11.9258 21.5171C16.9321 16.5108 23.7221 13.6982 30.8021 13.6982H39.1324Z\" fill=\"black\"></path><path d=\"M39.1324 42.5222C39.1324 39.0972 36.3559 36.3207 32.9309 36.3207C29.5059 36.3207 26.7294 39.0972 26.7294 42.5222C26.7294 45.9472 29.5059 48.7237 32.9309 48.7237C36.3559 48.7237 39.1324 45.9472 39.1324 42.5222Z\" fill=\"black\"></path><path d=\"M64.5202 42.5975C63.616 42.625 62.7173 42.4472 61.8918 42.0773C61.2186 41.7915 60.6632 41.2843 60.3175 40.6398C59.9603 39.8739 59.7914 39.0338 59.8246 38.1894V26.1834H66.3273V20.1462H59.8246V13.7462H52.9797V15.8612C53.0225 16.4448 52.9437 17.0309 52.7481 17.5823C52.5525 18.1337 52.2444 18.6385 51.8434 19.0647C50.9598 19.8283 49.8127 20.2164 48.6469 20.1462H48.1266V26.1834H52.9797V38.5864C52.9797 41.7122 53.8558 44.1536 55.6081 45.9104C57.3604 47.6673 59.8223 48.5457 62.9938 48.5457C63.5072 48.5457 64.0822 48.5457 64.7187 48.4704C65.3553 48.3951 65.8961 48.3541 66.3478 48.2856V42.4401L65.3895 42.5427C65.1008 42.5753 64.8107 42.5935 64.5202 42.5975Z\" fill=\"black\"></path><path d=\"M92.7145 23.6029C91.5323 22.305 90.0787 21.2837 88.4569 20.6116C86.6072 19.8567 84.6225 19.4886 82.6251 19.5301C80.1538 19.4978 77.7203 20.138 75.585 21.3823C73.4497 22.6266 71.6929 24.4281 70.5027 26.5941C69.2377 28.8992 68.5959 31.4945 68.6409 34.1235C68.6096 36.7138 69.2311 39.2702 70.4479 41.5571C71.6165 43.7588 73.366 45.5982 75.5063 46.8756C77.8023 48.2248 80.428 48.9097 83.0905 48.8538C84.9008 48.8727 86.7005 48.5762 88.409 47.9776C89.9532 47.4359 91.3797 46.6042 92.6118 45.5271C93.7225 44.5713 94.5904 43.3655 95.1444 42.0089L89.6685 39.2709C89.0198 40.4113 88.0702 41.3515 86.9234 41.9888C85.7766 42.6262 84.4768 42.9362 83.1658 42.885C81.7191 42.9147 80.294 42.53 79.0588 41.7761C77.8767 41.0436 76.942 39.9729 76.3756 38.7028C76.0037 37.8873 75.7723 37.0148 75.6911 36.1222H95.8905C96.0058 35.6722 96.0904 35.2148 96.1438 34.7532C96.2123 34.2404 96.2466 33.7237 96.2464 33.2063C96.2615 31.4012 95.9483 29.6083 95.3224 27.9152C94.7274 26.3287 93.8431 24.8665 92.7145 23.6029ZM78.8603 26.2108C79.9811 25.4891 81.2924 25.1196 82.6251 25.1498C83.9668 25.1266 85.2834 25.5161 86.3966 26.2655C87.449 26.9718 88.2515 27.9923 88.6897 29.1815C88.9007 29.7533 89.0275 30.3528 89.0661 30.9612H75.9239C76.0302 30.3964 76.193 29.8437 76.4099 29.3115C76.8934 28.0534 77.748 26.972 78.8603 26.2108Z\" fill=\"black\"></path><path d=\"M107.232 25.848C108.023 25.3102 108.968 25.048 109.923 25.1019C111.285 25.0779 112.623 25.4642 113.763 26.2107C114.866 26.9337 115.708 27.9919 116.165 29.2293L121.326 26.8542C120.539 24.6056 119.008 22.6931 116.987 21.433C114.877 20.1426 112.443 19.4823 109.97 19.5301C108.115 19.4919 106.274 19.8611 104.577 20.6116C103.105 21.2539 101.838 22.2887 100.915 23.6028C100.018 24.9457 99.5585 26.5335 99.6004 28.1479C99.5715 29.9875 100.211 31.7751 101.401 33.1789C102.839 34.7464 104.712 35.8498 106.781 36.3481L111.374 37.587C111.946 37.7563 112.499 37.9857 113.023 38.2715C113.468 38.4999 113.864 38.8139 114.187 39.1956C114.486 39.5878 114.641 40.0714 114.625 40.5645C114.628 40.9785 114.532 41.3872 114.347 41.7572C114.161 42.1272 113.891 42.448 113.557 42.6933C112.704 43.2856 111.678 43.5748 110.641 43.5147C109.103 43.5281 107.602 43.0483 106.356 42.1457C105.048 41.1924 104.002 39.9231 103.317 38.4563L98.204 40.8794C99.0355 43.2854 100.666 45.334 102.824 46.6839C105.161 48.1569 107.879 48.9114 110.641 48.8537C112.548 48.8982 114.442 48.5292 116.192 47.7722C117.676 47.1084 118.958 46.0648 119.909 44.7468C120.827 43.4418 121.306 41.879 121.278 40.2839C121.33 38.4225 120.666 36.6122 119.423 35.2255C117.953 33.7083 116.098 32.6198 114.057 32.0768L109.567 30.7831C108.974 30.5969 108.395 30.3681 107.835 30.0987C107.382 29.8951 106.985 29.5851 106.678 29.1951C106.388 28.7994 106.24 28.3166 106.261 27.8261C106.252 27.4426 106.336 27.0626 106.505 26.7183C106.674 26.3739 106.924 26.0754 107.232 25.848Z\" fill=\"black\"></path><path d=\"M139.328 42.5975C138.422 42.6244 137.521 42.4466 136.693 42.0773C136.022 41.7873 135.468 41.2813 135.119 40.6398C134.764 39.8733 134.598 39.0332 134.633 38.1894V26.1834H141.135V20.1462H134.633V13.7462H127.788V15.8612C127.83 16.4442 127.751 17.0295 127.557 17.5807C127.363 18.1318 127.057 18.637 126.658 19.0647C125.773 19.83 124.623 20.2183 123.455 20.1462H122.942V26.1834H127.788V38.5864C127.788 41.7122 128.666 44.1536 130.423 45.9104C132.18 47.6673 134.64 48.5457 137.802 48.5457C138.322 48.5457 138.897 48.5457 139.534 48.4704C140.17 48.3951 140.711 48.3541 141.156 48.2856V42.4401L140.204 42.5427C139.914 42.5755 139.621 42.5938 139.328 42.5975Z\" fill=\"black\"></path><path d=\"M166.516 20.1461H155.633V19.27C155.587 18.6837 155.676 18.0946 155.895 17.5485C156.113 17.0024 156.455 16.5141 156.892 16.1213C157.897 15.38 159.13 15.0143 160.376 15.0877C160.616 15.0877 160.883 15.0877 161.177 15.0877C161.5 15.1077 161.82 15.1512 162.136 15.2178V9.4133C161.726 9.33026 161.313 9.26857 160.897 9.22848C160.376 9.15319 159.911 9.15319 159.487 9.15319C157.536 9.10754 155.601 9.51278 153.833 10.3374C152.284 11.0848 150.992 12.2761 150.123 13.7598C149.198 15.4331 148.742 17.3249 148.802 19.2358V20.1119H143.901V26.1491H148.802V48.1898H155.647V26.1833H166.53V48.224H173.293V9.15319H166.53L166.516 20.1461Z\" fill=\"black\"></path><path d=\"M199.331 21.4125C197.015 20.1734 194.428 19.5251 191.801 19.5251C189.175 19.5251 186.588 20.1734 184.272 21.4125C181.999 22.6554 180.11 24.4987 178.813 26.7413C177.515 28.984 176.858 31.5399 176.914 34.1303C176.876 36.7778 177.573 39.384 178.926 41.6597C180.236 43.8459 182.096 45.6511 184.32 46.8961C186.611 48.1489 189.18 48.8054 191.791 48.8054C194.402 48.8054 196.971 48.1489 199.262 46.8961C201.484 45.6605 203.345 43.8676 204.663 41.694C206.016 39.4182 206.713 36.8121 206.675 34.1646C206.728 31.5779 206.073 29.026 204.781 26.7846C203.489 24.5431 201.609 22.6973 199.345 21.4467L199.331 21.4125ZM198.557 38.5864C197.922 39.8056 196.978 40.837 195.819 41.5776C194.618 42.3137 193.231 42.6891 191.822 42.6591C190.397 42.6863 188.992 42.3115 187.77 41.5776C186.592 40.8487 185.643 39.8025 185.032 38.559C184.362 37.1853 184.026 35.6723 184.053 34.144C184.024 32.654 184.37 31.1806 185.059 29.8591C185.701 28.6513 186.644 27.6302 187.797 26.8953C189.016 26.1696 190.407 25.7865 191.825 25.7865C193.244 25.7865 194.635 26.1696 195.854 26.8953C197.011 27.6371 197.955 28.6681 198.592 29.8865C199.28 31.2181 199.626 32.7001 199.598 34.1988C199.627 35.7256 199.269 37.235 198.557 38.5864Z\" fill=\"black\"></path><path d=\"M244.535 20.1461L238.676 37.8129L232.46 20.1461H226.416L220.201 37.8129L214.342 20.1461H207.216L216.868 48.224H222.857L229.455 29.2636L235.965 48.224H242.002L251.708 20.1461H244.535Z\" fill=\"black\"></path></svg></div><nav class=\" text-sm\" aria-label=\"quick links\"><div class=\"-my-1 flex-1 lg:flex gap-x-6\"><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/panel\">Bli Tester</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/page/personvern\">Personvernerklæring</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/page/toc\">Vilkår for bruk</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/page/about\">Om oss</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/page/sikkerhet\">Personvern og sikkerhet</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"/page/cookies\">Cookie Policy</a><a class=\"group inline-flex mt-4 mr-2  ring-1 items-center justify-center rounded-full py-2 px-4 text-md font-normal focus:outline-none bg-white border-1 border-gray ring-gray-200 text-gray hover:text-gray-900 hover:ring-gray-300 hover:bg-gray-100 active:bg-gray-100 active:text-gray-600 focus-visible:outline-gray-600 focus-visible:ring-gray-300\" href=\"https://testflow.betteruptime.com/\">Status</a></div></nav></div><div class=\"flex flex-col items-center border-t border-slate-400/10 pb-10 pt-2 sm:flex-row-reverse sm:justify-between\"><p class=\"text-sm text-slate-500 mt-2 text-center mx-auto\">© <!-- -->2026<!-- --> Testflow AS · Org nr. 928 469 824 · hei@testflow.no <br/>Fridtjof Nansens vei 12, 0369 Oslo</p></div></div></footer><div id=\"modal-root\"></div></div><a href=\"#\" style=\"margin:10px;font-size:1rem;color:gray;font-family:sans-serif\">Vis innstillinger for informasjonskaplser</a></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{\"posts\":[{\"_id\":\"6ad87787-32c4-4d5d-b6ef-10d751d84b32\",\"_updatedAt\":\"2024-05-09T22:12:21Z\",\"author\":null,\"coverImage\":{\"_type\":\"image\",\"asset\":{\"_ref\":\"image-fa34b7530e432f7176399980f8096b310530830b-2410x1558-png\",\"_type\":\"reference\"}},\"date\":\"2023-11-23T20:04:54.878Z\",\"excerpt\":\"En kjapp innføring i hvordan en test ser ut og hvordan du kan sette den opp på 2 minutter\",\"slug\":\"en-kjapp-guide-til-din-forste-test\",\"title\":\"En kjapp guide til din første test\"},{\"_id\":\"283f2bae-d4fa-4300-9dce-1dc1c760a250\",\"_updatedAt\":\"2024-05-09T22:10:36Z\",\"author\":{\"name\":\"Thomas\",\"picture\":{\"_type\":\"image\",\"alt\":\"Thomas Kjellberg\",\"asset\":{\"_ref\":\"image-18ac77555def0fbb5a3e71878f9dcf740abb828a-370x370-png\",\"_type\":\"reference\"}}},\"coverImage\":{\"_type\":\"image\",\"asset\":{\"_ref\":\"image-2b4d75f4881314fcb92b3bd76482f5d1818ac7cf-1906x1266-png\",\"_type\":\"reference\"}},\"date\":\"2023-10-30T14:03:58.420Z\",\"excerpt\":\"Før man starter et kontinuerlig forbedringsprogram, er det viktig å forstå fordelene med det. \",\"slug\":\"verdien-av-a-teste-kontinuerlig\",\"title\":\"Verdien av å teste kontinuerlig\"},{\"_id\":\"abd99136-ab9c-4f28-8f8f-cbecc8637a3e\",\"_updatedAt\":\"2024-05-09T22:09:02Z\",\"author\":{\"name\":\"Thomas\",\"picture\":{\"_type\":\"image\",\"alt\":\"Thomas Kjellberg\",\"asset\":{\"_ref\":\"image-18ac77555def0fbb5a3e71878f9dcf740abb828a-370x370-png\",\"_type\":\"reference\"}}},\"coverImage\":{\"_type\":\"image\",\"asset\":{\"_ref\":\"image-9d481d632c4ed18fa98a5ade379760fd85c36ea1-1836x1186-png\",\"_type\":\"reference\"}},\"date\":\"2023-10-30T14:01:27.574Z\",\"excerpt\":\"We’ve launched five new features to help large organizations take their customer-led culture to new heights.\",\"slug\":\"forskjell-pa-moderert-og-umoderert-brukertesting\",\"title\":\"Forskjell på moderert og umoderert brukertesting\"},{\"_id\":\"26069a04-796f-4885-b245-e7a313252a7b\",\"_updatedAt\":\"2024-05-09T22:07:21Z\",\"author\":{\"name\":\"Thomas\",\"picture\":{\"_type\":\"image\",\"alt\":\"Thomas Kjellberg\",\"asset\":{\"_ref\":\"image-18ac77555def0fbb5a3e71878f9dcf740abb828a-370x370-png\",\"_type\":\"reference\"}}},\"coverImage\":{\"_type\":\"image\",\"asset\":{\"_ref\":\"image-642e85d1a32832e5cff9295cf5bdf4eee2513d08-2040x1368-png\",\"_type\":\"reference\"}},\"date\":\"2023-10-18T10:38:00.000Z\",\"excerpt\":\"Mauris rhoncus nunc id pharetra imperdiet. Mnunc id pharetra imperdiet.\",\"slug\":\"hello-world\",\"title\":\"10 ting du kan teste gjennom Testflow\"}],\"settings\":{\"_createdAt\":\"2023-10-17T10:38:18Z\",\"_id\":\"settings\",\"_rev\":\"JPshXxA0vFHEGZBcC8bSyL\",\"_type\":\"settings\",\"_updatedAt\":\"2023-10-17T10:38:18Z\",\"description\":[{\"_key\":\"92eded25a4b21aeaec3cce2801f68d40\",\"_type\":\"block\",\"children\":[{\"_key\":\"4a58edd077880\",\"_type\":\"span\",\"marks\":[],\"text\":\"Brukertesting gjort enkelt\"}],\"markDefs\":[],\"style\":\"normal\"}],\"ogImage\":{\"title\":\"Testflow – Brukertesting gjort enkelt\"},\"title\":\"Testflow\"},\"draftMode\":false,\"token\":\"\"},\"__N_SSG\":true},\"page\":\"/\",\"query\":{},\"buildId\":\"dcKFCNBwbJqVUAuOY3Isw\",\"isFallback\":false,\"gsp\":true,\"scriptLoader\":[]}</script></body></html>",
+          "page_text": "Testflow Kontakt Logg inn Bli tester Få relevant kundeinnsikt raskt og enkelt Testflow er en selvbetjent plattform for digital brukertesting fra A til Å. Norsk tjeneste Vi rekrutterer testere Få en gratis demo-test Få gratis test nå Leverer kundeinnsikt til noen av Norges fremste merkevarer Slik fungerer Testflow: 1. Velg målgruppe Velg hvilken enhet du vil teste på, lengde på testen og antall testere du vil ha, og gjør målrettet rekruttering - vi garanterer at du får kvalitetsresultater tilbake. 2. Lag oppgaver Still spørsmål og lag oppgaver som du vil testerne skal utføre eller svare på. Spør spørsmål eller gi brukerne oppgaver å gjennomføre, legg ved lenker til det du skal teste og publisèr. Testflow hjelper deg i gang. 3. Se videoer og resultater Se igjennom opptakene av menneskene som sitter hjemme på sin egen PC og tester din prototype, ditt nettsted eller ditt produkt. Vår notatfunksjon hjelper deg og ditt team analysere funnene. Nå din målgruppe via Norstatpanel Kombiner vår lynraske selvbetjent plattform for brukertesting med muligheten til å nå akkurat de du trenger tilbakemeldinger fra med avansert målretting. Les mer Testflow har gjort brukertesting så enkelt for oss i banken at vi er i stand til å teste i mye større skala enn tidligere - hvilket er avgjørende for oss da det hjelper oss å ta bedre valg, og ikke minst bedre diskusjoner internt. – Eivind Håverstad Growth Manager, Sparebanken Sør Testflow gjør at vi i Vy Digital kan kvalitetssikre hypoteser og idéer på en enkel og rask måte. Testpersonene gir oss nyttig innsikt ved at de forteller oss hvordan de tenker mens de utfører testene. – Hilde Strømner Hatt Digital Designer, Vy Vi startet Testflow slik at norske bedrifter raskere og enklere kan innhente relevante tilbakemeldinger fra brukere. På den måten kan vi bygge bedre digitale tjenester og produkter for alle. Du kan bruke Testflow til å teste ut blant annet: Skisser og prototyper Valider tidlige hypoteser, skisser og prototyper for tidlig innspill Nettsider og apper Få dypere innsikt brukerbehov og forståelse for hvordan brukere opplever produktet eller tjenesten din. Betalingsflyt og konvertering Test hvordan tekst, film eller budskap forståes og kan finpusses før du lanserer nye kampanjer. Skrivebordsanalyse og innsikt Få relevant og ny innsikt fra spissede målgrupper ved åpne spørsmål før du bygger nye konsepter. Bli Tester Personvernerklæring Vilkår for bruk Om oss Personvern og sikkerhet Cookie Policy Status © 2026 Testflow AS · Org nr. 928 469 824 · hei@testflow.no Fridtjof Nansens vei 12, 0369 Oslo Vis innstillinger for informasjonskaplser",
+          "proof_level": "p1_exact",
+          "registrable_domain": "testflow.no",
+          "strategy": "domain_guess"
+        }
+      }
+    },
+    "industry_code": "62.100",
+    "industry_label": "Dataprogrammeringstjenester",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "TESTFLOW AS",
+    "organisation_number": "928469824",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1156,
+        1233,
+        1172,
+        1702
+      ],
+      "requests": 5
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:08Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "TESTFLOW AS (AS, org.nr 928469824)",
+    "what_it_does": "TESTFLOW AS is classified under NACE code 62.100 (unspecified). The company operates its verified website at https://testflow.no/. It operates publicly under the brand name 'TESTFLOW AS', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, TESTFLOW AS reported revenue of 6,659,922 NOK and an operating result of 195,256 NOK. Net result was 193,052 NOK, with total assets of 2,723,884 NOK and equity of -612,743 NOK. Revenue grew by +20.5% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 2.9% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Thomas Kjellberg. Daily operations are led by general manager Erik Hauglid. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "TESTFLOW AS is classified under NACE code 62.100 (unspecified).",
+        "claim_ids": [
+          "c2568ece877d3e14203c",
+          "86da3a619b56a1d58972"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://testflow.no/.",
+        "claim_ids": [
+          "6a98cf317db158cc0e75"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'TESTFLOW AS', according to its website.",
+        "claim_ids": [
+          "a90a957c4c8ac0e67216"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "e21a46dafcb635f60831",
+          "c2568ece877d3e14203c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, TESTFLOW AS reported revenue of 6,659,922 NOK and an operating result of 195,256 NOK.",
+        "claim_ids": [
+          "9ae33eae5dd465b30348",
+          "e1273be68df5d501171d"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 193,052 NOK, with total assets of 2,723,884 NOK and equity of -612,743 NOK.",
+        "claim_ids": [
+          "76acfc365a2ac0227508",
+          "5147bd3f79f1cd6bf6d1",
+          "c8eae978b39c758ed42c"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue grew by +20.5% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "9ae33eae5dd465b30348",
+          "98de3e0e75c46169be9b"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 2.9% (derived: operating result / revenue).",
+        "claim_ids": [
+          "e1273be68df5d501171d",
+          "9ae33eae5dd465b30348"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Thomas Kjellberg.",
+        "claim_ids": [
+          "b4f4edf625e4f6efcdd0"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Erik Hauglid.",
+        "claim_ids": [
+          "d1036a97dbb5b79391ce"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "1f3b1c612ac4813435ec",
+          "8bcd37898c87bb479c3f",
+          "b4f4edf625e4f6efcdd0",
+          "d1036a97dbb5b79391ce",
+          "daad3701f15433704075",
+          "f25530f83ce26c4eb3e5"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "86da3a619b56a1d58972"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "11738fda312942d820a3"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "86da3a619b56a1d58972"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "86da3a619b56a1d58972"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "86da3a619b56a1d58972"
+        ]
+      }
+    ]
+  }
+}

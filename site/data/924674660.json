@@ -1,0 +1,1318 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2045287e437e857cd725",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -116131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "89423725c636c8f0d2a7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 116742.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ea286613e9cee0e88319",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5676.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0fd3c5aff11feb7a6291",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 218757.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c3559b3b3ab40979934c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 219868.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8dd762105a9c021bf75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 85271.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "03b079e406961aba8935",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 316739.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4e7c1b9a759b29845fba",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 321304.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c17b153131edaa2f265",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 304560.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e4bf46fbd51d49fe826",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -96871.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "51916d7e8a2de350096c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -219289.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "726f3caafb3f0a0ab9ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -102547.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "100d34f102102309e413",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -98673.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "254859452d3d5ea2dcd5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5676.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "abf41a84a8888793b4bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 124605.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70bbf42324c5cb2f8da4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 116742.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "93f74a20c1229e0411e0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -116131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cdda8e4c800381146664",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5676.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc9f21925d401b01c43b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 503697.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e56024b6e1d2ba954eac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 324035.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f69aa2135402a341d39c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924674660-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 28234.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bcbb92ecd17713d44461",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924674660"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "70.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa3e4c6ee3a23f35c42e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924674660"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4233e74830cbca6bfa8e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924674660"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "YNWAHH AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "902b48bd738a73d652c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924674660-7e84bb679b4b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AIDER AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe77023597d165cd5026",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924674660-cad4d91f0093"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Halvor Helgø",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "73055d2be3d6823a31af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-924674660-924715553"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:12Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Lachmanns vei 21B"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0495",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "kode": "70.200"
+        },
+        "name": "YNWAHH AS",
+        "organisation_number": "924715553"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 503697.0, operating_result: -98673.0, profit_before_tax: -116131.0, annual_result: -116131.0, assets: 85271.0, equity: -219289.0, debt: 304560.0",
+      "content_sha256": "95acf95f132904b2fe7262dcf11e6c970f5e028e78b4e2db0d416b7287eb8a6e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "http_status": 200,
+      "id": "ev-fin-924674660-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:09.190756Z",
+      "snapshot_ref": "95/95acf95f132904b2fe7262dcf11e6c970f5e028e78b4e2db0d416b7287eb8a6e.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 324035.0, operating_result: 124605.0, profit_before_tax: 116742.0, annual_result: 116742.0, assets: 218757.0, equity: -102547.0, debt: 321304.0",
+      "content_sha256": "5f70a45fd9f3235b937f2e6681f3c4ac85e745684f569e3eeac36233e4c4f251",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "http_status": 200,
+      "id": "ev-fin-924674660-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:09.190756Z",
+      "snapshot_ref": "5f/5f70a45fd9f3235b937f2e6681f3c4ac85e745684f569e3eeac36233e4c4f251.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 28234.0, operating_result: 5676.0, profit_before_tax: 5676.0, annual_result: 5676.0, assets: 219868.0, equity: -96871.0, debt: 316739.0",
+      "content_sha256": "0c7c8787ce45ff12c94fa8c3076c4f5cd83b3fe112f86c41eb9588d76d1da068",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "http_status": 200,
+      "id": "ev-fin-924674660-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:09.190756Z",
+      "snapshot_ref": "0c/0c7c8787ce45ff12c94fa8c3076c4f5cd83b3fe112f86c41eb9588d76d1da068.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 924715553: YNWAHH AS",
+      "content_sha256": "bcc75bfdefc710157740846a5c9b7126588574d59945b7e3b82268e76137538d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924674660&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-924674660-924715553",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:12.758175Z",
+      "snapshot_ref": "bc/bcc75bfdefc710157740846a5c9b7126588574d59945b7e3b82268e76137538d.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924674660&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 924674660 YNWAHH AS",
+      "content_sha256": "23dec3fff780b8a8c800d298a4dafdffe1ae3d420db9a1b0570425afb0f0eb2b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-924674660",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "23/23dec3fff780b8a8c800d298a4dafdffe1ae3d420db9a1b0570425afb0f0eb2b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AIDER AS",
+      "content_sha256": "8849fbb7703edae0d919d3556c58d277ac85dbf1520be18f95db4d1300b86e18",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924674660/roller",
+      "http_status": 200,
+      "id": "ev-role-924674660-7e84bb679b4b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:10.394168Z",
+      "snapshot_ref": "88/8849fbb7703edae0d919d3556c58d277ac85dbf1520be18f95db4d1300b86e18.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924674660/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Halvor Helgø",
+      "content_sha256": "8849fbb7703edae0d919d3556c58d277ac85dbf1520be18f95db4d1300b86e18",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924674660/roller",
+      "http_status": 200,
+      "id": "ev-role-924674660-cad4d91f0093",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:10.394168Z",
+      "snapshot_ref": "88/8849fbb7703edae0d919d3556c58d277ac85dbf1520be18f95db4d1300b86e18.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924674660/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03b079e406961aba8935",
+        "0e4bf46fbd51d49fe826",
+        "0fd3c5aff11feb7a6291",
+        "100d34f102102309e413",
+        "2045287e437e857cd725",
+        "254859452d3d5ea2dcd5",
+        "4e7c1b9a759b29845fba",
+        "51916d7e8a2de350096c",
+        "70bbf42324c5cb2f8da4",
+        "726f3caafb3f0a0ab9ad",
+        "89423725c636c8f0d2a7",
+        "8c17b153131edaa2f265",
+        "93f74a20c1229e0411e0",
+        "abf41a84a8888793b4bf",
+        "bc9f21925d401b01c43b",
+        "c3559b3b3ab40979934c",
+        "c8dd762105a9c021bf75",
+        "cdda8e4c800381146664",
+        "e56024b6e1d2ba954eac",
+        "ea286613e9cee0e88319",
+        "f69aa2135402a341d39c"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4233e74830cbca6bfa8e",
+        "bcbb92ecd17713d44461",
+        "fa3e4c6ee3a23f35c42e"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "902b48bd738a73d652c9",
+        "fe77023597d165cd5026"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "73055d2be3d6823a31af"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "4233e74830cbca6bfa8e",
+      "fa3e4c6ee3a23f35c42e",
+      "bcbb92ecd17713d44461"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "YNWAHH AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 4826,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "924674660",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.237187Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "924674660",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "85903ba001e3187df445114bae1201a311cf17d941d33ca22f1bca24ff21f675",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:09.190756Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924674660",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -116131.0,
+              "assets": 85271.0,
+              "currency": "NOK",
+              "debt": 304560.0,
+              "equity": -219289.0,
+              "operating_result": -98673.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -116131.0,
+              "record_id": 4698905,
+              "revenue": 503697.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 116742.0,
+              "assets": 218757.0,
+              "currency": "NOK",
+              "debt": 321304.0,
+              "equity": -102547.0,
+              "operating_result": 124605.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 116742.0,
+              "record_id": 5626843,
+              "revenue": 324035.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 5676.0,
+              "assets": 219868.0,
+              "currency": "NOK",
+              "debt": 316739.0,
+              "equity": -96871.0,
+              "operating_result": 5676.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 5676.0,
+              "record_id": 6636663,
+              "revenue": 28234.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:11.581527Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/924674660",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "6d04c72c5cdfba7f2be0778a495081ca4419d17247a2ffb04e826d2d9841b270",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:12.758175Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924674660&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Lachmanns vei 21B"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0495",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+                "kode": "70.200"
+              },
+              "name": "YNWAHH AS",
+              "organisation_number": "924715553"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "924674660",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Konsulentvirksomhet. Innenfor teknologibransjen kan selskapet tilby strategisk rådgivning til oppstart av selskap, oppkjøp og/eller sammenslåing av endring av selskap, markedsføring og salg, styremedlem og styrearbeid, og annet som er relevant for selskapet. Selskapet kan levere strategisk rådgivning, konsulenttjenester og management for hire på prosjekt-basis for kortere eller lengre periode, i Norge og utenlands. Selskapet kan ha eierinteresser på kort eller lengre sikt, i andre selskap i Norge og utenlands, gjennom direkte investeringer eller gjennom kjøp og salg av verdipapirer og andre finansielle instrumenter.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Lachmanns vei 21B",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0495",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2020-02-18",
+          "fravalgRevisjonDato": "2020-03-02",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-03-02",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "naeringskode1.kode": "70.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "YNWAHH AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "924674660",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2020-03-02",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-09-30",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2020-03-02",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-02-18",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-02-18",
+          "vedtektsfestetFormaal": "Konsulent og investering."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "61cdb78ece0ffbc18390ee945fa1cf811110e437f79714054bfd6d6130f13896",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:10.394168Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924674660/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-03-02",
+              "name": "Halvor Helgø",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": true,
+              "last_changed": "2026-01-19",
+              "name": [
+                "AIDER AS"
+              ],
+              "organisation_number": "922633452",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "70.200",
+    "industry_label": "Bedriftsrådgivning og annen administrativ rådgivning",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "YNWAHH AS",
+    "organisation_number": "924674660",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1202,
+        1187,
+        1187,
+        31,
+        47
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:12Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "YNWAHH AS (AS, org.nr 924674660)",
+    "what_it_does": "YNWAHH AS is classified under NACE code 70.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, YNWAHH AS reported revenue of 28,234 NOK and an operating result of 5,676 NOK. Net result was 5,676 NOK, with total assets of 219,868 NOK and equity of -96,871 NOK. Revenue contracted by -91.3% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 20.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Halvor Helgø. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "YNWAHH AS is classified under NACE code 70.200 (unspecified).",
+        "claim_ids": [
+          "bcbb92ecd17713d44461",
+          "4233e74830cbca6bfa8e"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "fa3e4c6ee3a23f35c42e",
+          "bcbb92ecd17713d44461"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, YNWAHH AS reported revenue of 28,234 NOK and an operating result of 5,676 NOK.",
+        "claim_ids": [
+          "f69aa2135402a341d39c",
+          "254859452d3d5ea2dcd5"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 5,676 NOK, with total assets of 219,868 NOK and equity of -96,871 NOK.",
+        "claim_ids": [
+          "ea286613e9cee0e88319",
+          "c3559b3b3ab40979934c",
+          "0e4bf46fbd51d49fe826"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue contracted by -91.3% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "f69aa2135402a341d39c",
+          "e56024b6e1d2ba954eac"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 20.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "254859452d3d5ea2dcd5",
+          "f69aa2135402a341d39c"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Halvor Helgø.",
+        "claim_ids": [
+          "fe77023597d165cd5026"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "902b48bd738a73d652c9",
+          "fe77023597d165cd5026"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "4233e74830cbca6bfa8e"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "73055d2be3d6823a31af"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "4233e74830cbca6bfa8e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "4233e74830cbca6bfa8e"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "4233e74830cbca6bfa8e"
+        ]
+      }
+    ]
+  }
+}

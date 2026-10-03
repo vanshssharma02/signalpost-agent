@@ -1,0 +1,1455 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "19914419c9b5ef220fb4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 367492.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "530086a671d7bfdec804",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1204341.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "716ba6f45981de4610d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3745345.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4429007420b78b805608",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9951252.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "49d55132f834ad5d062e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8618003.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7db1ae077fdec840500a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8393448.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6009293a12d7f6936a47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8921253.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9ea7c933244360f32c7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7373703.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9b6cdd664c3acae6e72",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7588003.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4895f2e593456e2424f2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1030000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "800ef6a72c47f6cccda5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1030000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e705fea8938312dbe0fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1019744.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f0540c9bf5c3a28f569",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4677049.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8bf9de35232f231c175b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 363499.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1d2e9295e9a6901f282",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1420930.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1bd351177b6c6cab1adb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4801724.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7feea1ef7cc2b596fa1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1557176.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b22525da7fdc3e3f602d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 469713.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9d358bd385d8edea08be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 27562359.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d478465ca76dbb32e460",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 24072166.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e6c94e860cd2c4545540",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913408586-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 25766193.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68e9a71ca43fc36b7760",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913408586"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "43.320"
+    },
+    {
+      "availability": "available",
+      "claim_id": "aab4874213fb207342c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913408586"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "09e6a030a55ac0fc0b1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913408586"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SVALINN INSTALLATION AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bb7c14e0558b6e6096a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913408586"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 28
+    },
+    {
+      "availability": "available",
+      "claim_id": "046acc6e0d906666f1b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913408586-7624cd665b3e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Egil Oddvard Hestvik",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "0fd4b6862536c59d1e86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913408586-e832b3c33384"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tarjei Hegland",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f2104f5d361a78cd94c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913408586-7d20791aa590"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jon Ove Høgden",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f48207ac126dcc6f9c5e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913408586-424d5aefc883"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "PRICEWATERHOUSECOOPERS AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "41bdeb53de5b6e54d11a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-913408586-913448707"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:02Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Sandosvegen 2"
+          ],
+          "kommune": "NAMSOS",
+          "kommunenummer": "5007",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "7820",
+          "poststed": "SPILLUM"
+        },
+        "employees": 28,
+        "industry": {
+          "beskrivelse": "Snekkerarbeid",
+          "kode": "43.320"
+        },
+        "name": "SVALINN INSTALLATION AS",
+        "organisation_number": "913448707"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 25766193.0, operating_result: 4677049.0, profit_before_tax: 4801724.0, annual_result: 3745345.0, assets: 8618003.0, equity: 1030000.0, debt: 7588003.0",
+      "content_sha256": "000b5225c859e8b9aad6594b8c4b43e1d70c4e80542d1ad35190e86e1f73afdb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "http_status": 200,
+      "id": "ev-fin-913408586-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.099246Z",
+      "snapshot_ref": "00/000b5225c859e8b9aad6594b8c4b43e1d70c4e80542d1ad35190e86e1f73afdb.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 24072166.0, operating_result: 1420930.0, profit_before_tax: 1557176.0, annual_result: 1204341.0, assets: 8393448.0, equity: 1019744.0, debt: 7373703.0",
+      "content_sha256": "f40730f5bfb3a3b375e0cfb436a9ae57a41ea11ca2b3836b11d839bc9be4ef5d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "http_status": 200,
+      "id": "ev-fin-913408586-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.099246Z",
+      "snapshot_ref": "f4/f40730f5bfb3a3b375e0cfb436a9ae57a41ea11ca2b3836b11d839bc9be4ef5d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 27562359.0, operating_result: 363499.0, profit_before_tax: 469713.0, annual_result: 367492.0, assets: 9951252.0, equity: 1030000.0, debt: 8921253.0",
+      "content_sha256": "5820ccda5d7a2c8a8ef743e644eb9e4478c90b8187a32b6ecac9ede689589b60",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "http_status": 200,
+      "id": "ev-fin-913408586-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.099246Z",
+      "snapshot_ref": "58/5820ccda5d7a2c8a8ef743e644eb9e4478c90b8187a32b6ecac9ede689589b60.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 913448707: SVALINN INSTALLATION AS",
+      "content_sha256": "15c8c656446acf56d67367745ce8e0fd075efa2e07d528bcb8026ac7db68e128",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913408586&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-913408586-913448707",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:54.610573Z",
+      "snapshot_ref": "15/15c8c656446acf56d67367745ce8e0fd075efa2e07d528bcb8026ac7db68e128.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913408586&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 913408586 SVALINN INSTALLATION AS",
+      "content_sha256": "cc6b9ebca0a3a0e9dfaff3be1ad103cb4e2ef013cdb69392be37a1dcc4acf183",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-913408586",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "cc/cc6b9ebca0a3a0e9dfaff3be1ad103cb4e2ef013cdb69392be37a1dcc4acf183.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: PRICEWATERHOUSECOOPERS AS",
+      "content_sha256": "512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "http_status": 200,
+      "id": "ev-role-913408586-424d5aefc883",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.298916Z",
+      "snapshot_ref": "51/512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Egil Oddvard Hestvik",
+      "content_sha256": "512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "http_status": 200,
+      "id": "ev-role-913408586-7624cd665b3e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.298916Z",
+      "snapshot_ref": "51/512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Jon Ove Høgden",
+      "content_sha256": "512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "http_status": 200,
+      "id": "ev-role-913408586-7d20791aa590",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.298916Z",
+      "snapshot_ref": "51/512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tarjei Hegland",
+      "content_sha256": "512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "http_status": 200,
+      "id": "ev-role-913408586-e832b3c33384",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.298916Z",
+      "snapshot_ref": "51/512d993f03ad91c54a5a3489ba31a0deb6804177c1b4c8b68f849020e5236855.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "19914419c9b5ef220fb4",
+        "1bd351177b6c6cab1adb",
+        "4429007420b78b805608",
+        "4895f2e593456e2424f2",
+        "49d55132f834ad5d062e",
+        "530086a671d7bfdec804",
+        "6009293a12d7f6936a47",
+        "6f0540c9bf5c3a28f569",
+        "716ba6f45981de4610d3",
+        "7db1ae077fdec840500a",
+        "800ef6a72c47f6cccda5",
+        "8bf9de35232f231c175b",
+        "9d358bd385d8edea08be",
+        "9ea7c933244360f32c7a",
+        "a7feea1ef7cc2b596fa1",
+        "b22525da7fdc3e3f602d",
+        "c1d2e9295e9a6901f282",
+        "c9b6cdd664c3acae6e72",
+        "d478465ca76dbb32e460",
+        "e6c94e860cd2c4545540",
+        "e705fea8938312dbe0fb"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "09e6a030a55ac0fc0b1a",
+        "68e9a71ca43fc36b7760",
+        "aab4874213fb207342c5",
+        "bb7c14e0558b6e6096a3"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "046acc6e0d906666f1b0",
+        "0fd4b6862536c59d1e86",
+        "3f2104f5d361a78cd94c",
+        "f48207ac126dcc6f9c5e"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "41bdeb53de5b6e54d11a"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "09e6a030a55ac0fc0b1a",
+      "aab4874213fb207342c5",
+      "bb7c14e0558b6e6096a3",
+      "68e9a71ca43fc36b7760"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SVALINN INSTALLATION AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 12182,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "913408586",
+  "profile": {
+    "bankrupt": false,
+    "employees": 28,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:50.006076Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "913408586",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "bbe177a327bd95f2deedfb2b34e7a00e492d1b644ba31ed2d267b11ec37ea115",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:51.099246Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913408586",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 3745345.0,
+              "assets": 8618003.0,
+              "currency": "NOK",
+              "debt": 7588003.0,
+              "equity": 1030000.0,
+              "operating_result": 4677049.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 4801724.0,
+              "record_id": 5225191,
+              "revenue": 25766193.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1204341.0,
+              "assets": 8393448.0,
+              "currency": "NOK",
+              "debt": 7373703.0,
+              "equity": 1019744.0,
+              "operating_result": 1420930.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1557176.0,
+              "record_id": 6208133,
+              "revenue": 24072166.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 367492.0,
+              "assets": 9951252.0,
+              "currency": "NOK",
+              "debt": 8921253.0,
+              "equity": 1030000.0,
+              "operating_result": 363499.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 469713.0,
+              "record_id": 7112325,
+              "revenue": 27562359.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:53.437319Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/913408586",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a05cf80ed874c79c8617f8b8e909359ac3b7ca7a61e279e93fdc2093b77d30ec",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:54.610573Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913408586&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Sandosvegen 2"
+                ],
+                "kommune": "NAMSOS",
+                "kommunenummer": "5007",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "7820",
+                "poststed": "SPILLUM"
+              },
+              "employees": 28,
+              "industry": {
+                "beskrivelse": "Snekkerarbeid",
+                "kode": "43.320"
+              },
+              "name": "SVALINN INSTALLATION AS",
+              "organisation_number": "913448707"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "913408586",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Drive montasje av sandwichpaneler, annen entreprenørvirksomhet, utleie av ansatte til entreprenører, eie aksjer i andre selskaper og verdipapirer samt alt som står i forbindelse med det som er angitt foran, herunder deltakelse i andre selskaper med liknende formål.",
+          "antallAnsatte": "28",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Sandosvegen 2",
+          "forretningsadresse.kommune": "NAMSOS",
+          "forretningsadresse.kommunenummer": "5007",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7820",
+          "forretningsadresse.poststed": "SPILLUM",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2014-03-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Snekkerarbeid",
+          "naeringskode1.kode": "43.320",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SVALINN INSTALLATION AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "913408586",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2014-03-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2014-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2014-10-11",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2014-03-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2014-03-17",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-09-24",
+          "vedtektsfestetFormaal": "Drive montasje av sandwichpaneler, annen entreprenørvirksomhet, utleie av ansatte til entreprenører, eie aksjer i andre selskaper og verdipapirer samt alt som står i forbindelse med det som er angitt foran, herunder deltakelse i andre selskaper med liknende formål."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "37d5e20aec9a990fd2acc909bd6b3e60e2ea60236d1560d4be5570380cd4add3",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:52.298916Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913408586/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2024-10-10",
+              "name": "Jon Ove Høgden",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-06-04",
+              "name": "Egil Oddvard Hestvik",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-06-04",
+              "name": "Tarjei Hegland",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2020-10-30",
+              "name": [
+                "PRICEWATERHOUSECOOPERS AS"
+              ],
+              "organisation_number": "987009713",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "43.320",
+    "industry_label": "Snekkerarbeid",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NAMSOS",
+    "municipality_number": "5007",
+    "name": "SVALINN INSTALLATION AS",
+    "organisation_number": "913408586",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1187,
+        1141,
+        1171,
+        47,
+        14,
+        2047,
+        157,
+        77,
+        78,
+        46,
+        47,
+        1921,
+        1218,
+        938,
+        906
+      ],
+      "requests": 16
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:02Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SVALINN INSTALLATION AS (AS, org.nr 913408586)",
+    "what_it_does": "SVALINN INSTALLATION AS is classified under NACE code 43.320 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SVALINN INSTALLATION AS reported revenue of 27,562,359 NOK and an operating result of 363,499 NOK. Net result was 367,492 NOK, with total assets of 9,951,252 NOK and equity of 1,030,000 NOK. Revenue grew by +14.5% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 1.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Egil Oddvard Hestvik. Daily operations are led by general manager Jon Ove Høgden. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SVALINN INSTALLATION AS is classified under NACE code 43.320 (unspecified).",
+        "claim_ids": [
+          "68e9a71ca43fc36b7760",
+          "09e6a030a55ac0fc0b1a"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "aab4874213fb207342c5",
+          "68e9a71ca43fc36b7760"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SVALINN INSTALLATION AS reported revenue of 27,562,359 NOK and an operating result of 363,499 NOK.",
+        "claim_ids": [
+          "9d358bd385d8edea08be",
+          "8bf9de35232f231c175b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 367,492 NOK, with total assets of 9,951,252 NOK and equity of 1,030,000 NOK.",
+        "claim_ids": [
+          "19914419c9b5ef220fb4",
+          "4429007420b78b805608",
+          "800ef6a72c47f6cccda5"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +14.5% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "9d358bd385d8edea08be",
+          "d478465ca76dbb32e460"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 1.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "8bf9de35232f231c175b",
+          "9d358bd385d8edea08be"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Egil Oddvard Hestvik.",
+        "claim_ids": [
+          "046acc6e0d906666f1b0"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Jon Ove Høgden.",
+        "claim_ids": [
+          "3f2104f5d361a78cd94c"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "046acc6e0d906666f1b0",
+          "0fd4b6862536c59d1e86",
+          "3f2104f5d361a78cd94c",
+          "f48207ac126dcc6f9c5e"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "09e6a030a55ac0fc0b1a"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "41bdeb53de5b6e54d11a"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "09e6a030a55ac0fc0b1a"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "09e6a030a55ac0fc0b1a"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "09e6a030a55ac0fc0b1a"
+        ]
+      }
+    ]
+  }
+}

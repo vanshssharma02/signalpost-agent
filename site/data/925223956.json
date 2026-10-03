@@ -1,0 +1,1379 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "285afd71a1e7842f44ea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -53525.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3afffa7a3e3b26310946",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 71152.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3b00d451eae33bf1b74",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -46818.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3530f1d5daeaae763197",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1034499.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4163edbd7012a41bf05f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1126890.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "475fa11c0963710ab5c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1130999.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "17ab63ea2060db7e4c1e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1226487.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a1345d8a819547cee466",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1269196.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e96873632db9adebae73",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1105653.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d1b49aec1b8e183873a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -71154.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "769a04280b657ac497d6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -95488.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bdaf6d1acbda7103583a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -142306.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "730ac3f70c0672bbe69e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -45929.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e33c063e1afc31f1cbe5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4875.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e830bd4edafaaff6d840",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 91260.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0ff67b388a879707e3dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -60024.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ebf78416ccacd827389",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 91220.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8b88d0dd0c1147aba817",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -68623.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4c2c8d5b1955809da8e1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 295032.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a1093b76dd16d7ebb4ff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 448168.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ccb0ef679c766c9ee5be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925223956-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 343462.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b937aeb4dffc7277e232",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925223956"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "03.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "cf3be93075c2357467a7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925223956"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "887a1be49b85f9e1f26d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925223956"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "IVERSEN KYSTFISKE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "60bdd52bb1d30fbc811d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925223956-79bf7855032f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ronald Iversen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f0898ca1b20c00be5fc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925223956-abe5c1342bf7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "VSK REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "bda2fc0a87187f0949d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925223956-19166c4cfb49"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ronald Iversen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab6898dd49dfc37f755e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-925223956-925234931"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:08Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Gammelgårdvegen 14"
+          ],
+          "kommune": "TROMSØ",
+          "kommunenummer": "5501",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "9020",
+          "poststed": "TROMSDALEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Fiske og fangst i sjø",
+          "kode": "03.110"
+        },
+        "name": "IVERSEN KYSTFISKE AS",
+        "organisation_number": "925234931"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 343462.0, operating_result: 4875.0, profit_before_tax: -68623.0, annual_result: -53525.0, assets: 1130999.0, equity: -95488.0, debt: 1226487.0",
+      "content_sha256": "4d21a01891805c19aad660f36fdf487834006bde5b97fdb0315195e6b41aca0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "http_status": 200,
+      "id": "ev-fin-925223956-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.408911Z",
+      "snapshot_ref": "4d/4d21a01891805c19aad660f36fdf487834006bde5b97fdb0315195e6b41aca0d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 295032.0, operating_result: -45929.0, profit_before_tax: -60024.0, annual_result: -46818.0, assets: 1126890.0, equity: -142306.0, debt: 1269196.0",
+      "content_sha256": "822e7ea4fe484bb085b62bc59c5c92843a57d3a3ce78639bd72fb51f4c23ae65",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "http_status": 200,
+      "id": "ev-fin-925223956-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.408911Z",
+      "snapshot_ref": "82/822e7ea4fe484bb085b62bc59c5c92843a57d3a3ce78639bd72fb51f4c23ae65.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 448168.0, operating_result: 91260.0, profit_before_tax: 91220.0, annual_result: 71152.0, assets: 1034499.0, equity: -71154.0, debt: 1105653.0",
+      "content_sha256": "8e0ec851a1e5ed74cb45c746c507840b67922cc53cb9383a55bf735b666b92e0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "http_status": 200,
+      "id": "ev-fin-925223956-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.408911Z",
+      "snapshot_ref": "8e/8e0ec851a1e5ed74cb45c746c507840b67922cc53cb9383a55bf735b666b92e0.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 925234931: IVERSEN KYSTFISKE AS",
+      "content_sha256": "299693beaf212d2940f6d5401413057f1939018b15132b945534b1d78ee0a3ea",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925223956&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-925223956-925234931",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.022883Z",
+      "snapshot_ref": "29/299693beaf212d2940f6d5401413057f1939018b15132b945534b1d78ee0a3ea.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925223956&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 925223956 IVERSEN KYSTFISKE AS",
+      "content_sha256": "464a61efc177ec486976a1a654eb64dd0883018ad1288a4b4e827c92227e83e3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-925223956",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "46/464a61efc177ec486976a1a654eb64dd0883018ad1288a4b4e827c92227e83e3.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Ronald Iversen",
+      "content_sha256": "1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "http_status": 200,
+      "id": "ev-role-925223956-19166c4cfb49",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:49.601606Z",
+      "snapshot_ref": "11/1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Ronald Iversen",
+      "content_sha256": "1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "http_status": 200,
+      "id": "ev-role-925223956-79bf7855032f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:49.601606Z",
+      "snapshot_ref": "11/1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: VSK REGNSKAP AS",
+      "content_sha256": "1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "http_status": 200,
+      "id": "ev-role-925223956-abe5c1342bf7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:49.601606Z",
+      "snapshot_ref": "11/1142a983757929b0ac30f3c486c4214bbbb3f7c16026e28c656225e79d869087.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0ff67b388a879707e3dc",
+        "17ab63ea2060db7e4c1e",
+        "285afd71a1e7842f44ea",
+        "3530f1d5daeaae763197",
+        "3afffa7a3e3b26310946",
+        "4163edbd7012a41bf05f",
+        "475fa11c0963710ab5c8",
+        "4c2c8d5b1955809da8e1",
+        "5ebf78416ccacd827389",
+        "6d1b49aec1b8e183873a",
+        "730ac3f70c0672bbe69e",
+        "769a04280b657ac497d6",
+        "8b88d0dd0c1147aba817",
+        "a1093b76dd16d7ebb4ff",
+        "a1345d8a819547cee466",
+        "bdaf6d1acbda7103583a",
+        "ccb0ef679c766c9ee5be",
+        "e33c063e1afc31f1cbe5",
+        "e830bd4edafaaff6d840",
+        "e96873632db9adebae73",
+        "f3b00d451eae33bf1b74"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "887a1be49b85f9e1f26d",
+        "b937aeb4dffc7277e232",
+        "cf3be93075c2357467a7"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "60bdd52bb1d30fbc811d",
+        "8f0898ca1b20c00be5fc",
+        "bda2fc0a87187f0949d8"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "ab6898dd49dfc37f755e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "887a1be49b85f9e1f26d",
+      "cf3be93075c2357467a7",
+      "b937aeb4dffc7277e232"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "IVERSEN KYSTFISKE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 21573,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "925223956",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.448452Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "925223956",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "430ab0a53f6c24a5b5c98dbd783ffbaf9e173395f873f272194db34d3e780b21",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:48.408911Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925223956",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -53525.0,
+              "assets": 1130999.0,
+              "currency": "NOK",
+              "debt": 1226487.0,
+              "equity": -95488.0,
+              "operating_result": 4875.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -68623.0,
+              "record_id": 5035971,
+              "revenue": 343462.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -46818.0,
+              "assets": 1126890.0,
+              "currency": "NOK",
+              "debt": 1269196.0,
+              "equity": -142306.0,
+              "operating_result": -45929.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -60024.0,
+              "record_id": 5739745,
+              "revenue": 295032.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 71152.0,
+              "assets": 1034499.0,
+              "currency": "NOK",
+              "debt": 1105653.0,
+              "equity": -71154.0,
+              "operating_result": 91260.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 91220.0,
+              "record_id": 6543089,
+              "revenue": 448168.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:50.805716Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/925223956",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "dca9f2fd63bc375987aca761782355a27f571a1e082e5061d938c8565406b0a8",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:52.022883Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925223956&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Gammelgårdvegen 14"
+                ],
+                "kommune": "TROMSØ",
+                "kommunenummer": "5501",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "9020",
+                "poststed": "TROMSDALEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Fiske og fangst i sjø",
+                "kode": "03.110"
+              },
+              "name": "IVERSEN KYSTFISKE AS",
+              "organisation_number": "925234931"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "925223956",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Fiske langs norskekysten.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Gammelgårdvegen 14",
+          "forretningsadresse.kommune": "TROMSØ",
+          "forretningsadresse.kommunenummer": "5501",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "9020",
+          "forretningsadresse.poststed": "TROMSDALEN",
+          "fravalgRevisjonBeslutningsDato": "2020-06-08",
+          "fravalgRevisjonDato": "2020-06-19",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-06-19",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Fiske og fangst i sjø",
+          "naeringskode1.kode": "03.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "IVERSEN KYSTFISKE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "925223956",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2020-06-19",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-01-21",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2020-06-19",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-06-08",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-06-08",
+          "vedtektsfestetFormaal": "Fiske langs norskekysten."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "d0123003e639a663e8ffaae306d93bc73856c6a801f3a1c82c0c9f5b337f42f9",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:49.601606Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925223956/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-06-19",
+              "name": "Ronald Iversen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-06-19",
+              "name": "Ronald Iversen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2020-06-19",
+              "name": [
+                "VSK REGNSKAP AS"
+              ],
+              "organisation_number": "944225722",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "03.110",
+    "industry_label": "Fiske og fangst i sjø",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "TROMSØ",
+    "municipality_number": "5501",
+    "name": "IVERSEN KYSTFISKE AS",
+    "organisation_number": "925223956",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1202,
+        1203,
+        1218,
+        31,
+        31,
+        15030,
+        125,
+        47,
+        1468
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:08Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "IVERSEN KYSTFISKE AS (AS, org.nr 925223956)",
+    "what_it_does": "IVERSEN KYSTFISKE AS is classified under NACE code 03.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, IVERSEN KYSTFISKE AS reported revenue of 448,168 NOK and an operating result of 91,260 NOK. Net result was 71,152 NOK, with total assets of 1,034,499 NOK and equity of -71,154 NOK. Revenue grew by +51.9% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 20.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Ronald Iversen. Daily operations are led by general manager Ronald Iversen. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "IVERSEN KYSTFISKE AS is classified under NACE code 03.110 (unspecified).",
+        "claim_ids": [
+          "b937aeb4dffc7277e232",
+          "887a1be49b85f9e1f26d"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "cf3be93075c2357467a7",
+          "b937aeb4dffc7277e232"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, IVERSEN KYSTFISKE AS reported revenue of 448,168 NOK and an operating result of 91,260 NOK.",
+        "claim_ids": [
+          "a1093b76dd16d7ebb4ff",
+          "e830bd4edafaaff6d840"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 71,152 NOK, with total assets of 1,034,499 NOK and equity of -71,154 NOK.",
+        "claim_ids": [
+          "3afffa7a3e3b26310946",
+          "3530f1d5daeaae763197",
+          "6d1b49aec1b8e183873a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +51.9% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "a1093b76dd16d7ebb4ff",
+          "4c2c8d5b1955809da8e1"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 20.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "e830bd4edafaaff6d840",
+          "a1093b76dd16d7ebb4ff"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Ronald Iversen.",
+        "claim_ids": [
+          "60bdd52bb1d30fbc811d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Ronald Iversen.",
+        "claim_ids": [
+          "bda2fc0a87187f0949d8"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "60bdd52bb1d30fbc811d",
+          "8f0898ca1b20c00be5fc",
+          "bda2fc0a87187f0949d8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "887a1be49b85f9e1f26d"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "ab6898dd49dfc37f755e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "887a1be49b85f9e1f26d"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "887a1be49b85f9e1f26d"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "887a1be49b85f9e1f26d"
+        ]
+      }
+    ]
+  }
+}

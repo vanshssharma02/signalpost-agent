@@ -1,0 +1,1580 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "7c52b1f661afc7b46cd9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -95960.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f9a1ea1bf6f75a62f7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -84473.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef2dd8d07261629717c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -90168.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "151f59869d62f5054895",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 338995.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19c353ec9b976c8d5877",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 266848.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8ce400b716bbda377d28",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 357017.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6678b4acc29c8e0bf9dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7ecba61457134af2a959",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 619.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b16b5e3d39bd6d515971",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a9e20e7d558067988c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 266848.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70c2243811f8ed948a58",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 338375.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f758b7f107abdf69463",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 357017.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "451389210858fa51c9c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -110061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b0d968621ef84ea2521b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -103811.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cab440abf0f4b3f3636e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -137055.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4038dba7a54666cbcdc2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -128473.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8bc3469fde38ceecb162",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -95960.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cfdb2d8ba4b049e6176d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997985532-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -90168.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6cf22447563248e587b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997985532"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b89685dc16dd7fb75922",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997985532"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e87f283bf4f882dce9e0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997985532"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ARCTIC PROPERTY AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2f40a3737a2cd10a1ebe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997985532-e5adf0017cc9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hege Marthinussen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "49c990a7737009264a08",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997985532-b63df039fb1d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Petter Sveen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "526008fc96848dad5e65",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997985532-f6344b33967d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "KPMG AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "947c0caf101951490b8e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997985532-e56bce864bc5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jon Alexander Kristiansen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "cbc0aa270fce700d66f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997985532-7af264f720d7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kristoffer Bjarne Røhne",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "02383bc4c32a6e722499",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-997985532-997991869"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Haakon VIIs gate 5"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0161",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "kode": "68.110"
+        },
+        "name": "ARCTIC PROPERTY AS",
+        "organisation_number": "997991869"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -110061.0, profit_before_tax: -95960.0, annual_result: -95960.0, assets: 357017.0, equity: 357017.0, debt: 0.0",
+      "content_sha256": "ad198ed3f2ff98b4a1395c16aef4896db194bb4cf2f5df79fdd2b803960f4141",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "http_status": 200,
+      "id": "ev-fin-997985532-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:46.411080Z",
+      "snapshot_ref": "ad/ad198ed3f2ff98b4a1395c16aef4896db194bb4cf2f5df79fdd2b803960f4141.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -103811.0, profit_before_tax: -90168.0, annual_result: -90168.0, assets: 266848.0, equity: 266848.0, debt: 0.0",
+      "content_sha256": "02f62c8d2bcd175b0a8450a43a3be1446aa6e160a00023c9b46023043cd66da7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "http_status": 200,
+      "id": "ev-fin-997985532-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:46.411080Z",
+      "snapshot_ref": "02/02f62c8d2bcd175b0a8450a43a3be1446aa6e160a00023c9b46023043cd66da7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -137055.0, profit_before_tax: -128473.0, annual_result: -84473.0, assets: 338995.0, equity: 338375.0, debt: 619.0",
+      "content_sha256": "53cec4854751e598cd6a9ae5b2a167636af8ef0e96b6623d46bbbfbcb3a3b3ba",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "http_status": 200,
+      "id": "ev-fin-997985532-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:46.411080Z",
+      "snapshot_ref": "53/53cec4854751e598cd6a9ae5b2a167636af8ef0e96b6623d46bbbfbcb3a3b3ba.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 997991869: ARCTIC PROPERTY AS",
+      "content_sha256": "d7a6935a9d8482a76be246cae217a07a60980661c823172f6480ba8d65cbd4eb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997985532&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-997985532-997991869",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:50.045864Z",
+      "snapshot_ref": "d7/d7a6935a9d8482a76be246cae217a07a60980661c823172f6480ba8d65cbd4eb.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997985532&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 997985532 ARCTIC PROPERTY AS",
+      "content_sha256": "088afd7aa368099944e15d75694da0b861b502471cdfd147cc90a24acfd9f330",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-997985532",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "08/088afd7aa368099944e15d75694da0b861b502471cdfd147cc90a24acfd9f330.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kristoffer Bjarne Røhne",
+      "content_sha256": "70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "http_status": 200,
+      "id": "ev-role-997985532-7af264f720d7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:47.592968Z",
+      "snapshot_ref": "70/70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Petter Sveen",
+      "content_sha256": "70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "http_status": 200,
+      "id": "ev-role-997985532-b63df039fb1d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:47.592968Z",
+      "snapshot_ref": "70/70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Jon Alexander Kristiansen",
+      "content_sha256": "70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "http_status": 200,
+      "id": "ev-role-997985532-e56bce864bc5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:47.592968Z",
+      "snapshot_ref": "70/70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Hege Marthinussen",
+      "content_sha256": "70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "http_status": 200,
+      "id": "ev-role-997985532-e5adf0017cc9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:47.592968Z",
+      "snapshot_ref": "70/70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: KPMG AS",
+      "content_sha256": "70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "http_status": 200,
+      "id": "ev-role-997985532-f6344b33967d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:47.592968Z",
+      "snapshot_ref": "70/70fc1676552f49ea9050fbab20ea608cc7761f3357c322a12db9d719cf856a7d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "151f59869d62f5054895",
+        "19c353ec9b976c8d5877",
+        "2a9e20e7d558067988c9",
+        "4038dba7a54666cbcdc2",
+        "451389210858fa51c9c5",
+        "6678b4acc29c8e0bf9dc",
+        "70c2243811f8ed948a58",
+        "7c52b1f661afc7b46cd9",
+        "7ecba61457134af2a959",
+        "8bc3469fde38ceecb162",
+        "8ce400b716bbda377d28",
+        "8f9a1ea1bf6f75a62f7a",
+        "9f758b7f107abdf69463",
+        "b0d968621ef84ea2521b",
+        "b16b5e3d39bd6d515971",
+        "cab440abf0f4b3f3636e",
+        "cfdb2d8ba4b049e6176d",
+        "ef2dd8d07261629717c6"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6cf22447563248e587b3",
+        "b89685dc16dd7fb75922",
+        "e87f283bf4f882dce9e0"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2f40a3737a2cd10a1ebe",
+        "49c990a7737009264a08",
+        "526008fc96848dad5e65",
+        "947c0caf101951490b8e",
+        "cbc0aa270fce700d66f4"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02383bc4c32a6e722499"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "e87f283bf4f882dce9e0",
+      "b89685dc16dd7fb75922",
+      "6cf22447563248e587b3"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ARCTIC PROPERTY AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 13,
+    "runtime_ms": 56652,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "997985532",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:04.113173Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "997985532",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "2757dab09f603a0d8114176d503a46b29edef3eed91a4cb436d6a1732030c1f6",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:46.411080Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997985532",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -95960.0,
+              "assets": 357017.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 357017.0,
+              "operating_result": -110061.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -95960.0,
+              "record_id": 4874659,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -90168.0,
+              "assets": 266848.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 266848.0,
+              "operating_result": -103811.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -90168.0,
+              "record_id": 5793225,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -84473.0,
+              "assets": 338995.0,
+              "currency": "NOK",
+              "debt": 619.0,
+              "equity": 338375.0,
+              "operating_result": -137055.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -128473.0,
+              "record_id": 6704744,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "c670669f6a46d2299bd3098a5d10440208f12ed6780ac43e1f11c1547ef1fc58",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:48.857455Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/997985532",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC PROPERTY AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "997985532",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "children": [
+                {
+                  "dato": "2024-11-20",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ARCTIC ALTERNATIVE INVESTMENTS AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921208472",
+                  "parentNavn": "ARCTIC REAL ESTATE MANAGEMENT AS",
+                  "parentOrganisasjonsnummer": "995691728"
+                }
+              ],
+              "dato": "2024-11-20",
+              "grunnlag": "72,5%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC REAL ESTATE MANAGEMENT AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "995691728",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "LISÆTRA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "995283913",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC OFFSHORE INTERNATIONAL AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "994837346",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "85,00%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC OFFSHORE RIG AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926708333",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "70,00%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC REAL ESTATE DEVELOPMENT AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "921192401",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "76,5%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC SHIPPING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "913519329",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC SECURITIES HOLDING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "913519302",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            },
+            {
+              "dato": "2024-11-20",
+              "grunnlag": "77,65%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ARCTIC CAPITAL AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "911881438",
+              "parentNavn": "ARCTIC SECURITIES AS",
+              "parentOrganisasjonsnummer": "991125175"
+            }
+          ],
+          "navn": "ARCTIC SECURITIES AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "991125175"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a75e851429385e75e63ce89943b11baec961fe4e254d426ea799159ee8a3aa42",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:50.045864Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997985532&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Haakon VIIs gate 5"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0161",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kjøp og salg av egen fast eiendom",
+                "kode": "68.110"
+              },
+              "name": "ARCTIC PROPERTY AS",
+              "organisation_number": "997991869"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "997985532",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eiendomsmegling og virksomhet som har naturlig sammenheng med eiendomsmegling og som ikke er egnet til å svekke tilliten til selskapets integritet og uavhengighet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Haakon VIIs gate 5",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0161",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "5000",
+          "kapital.belop": "500000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2018-09-18",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "naeringskode1.kode": "68.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ARCTIC PROPERTY AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "997985532",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 1833 Vika",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0123",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2012-02-16",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-05-01",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2012-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-06-30",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2012-02-16",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2012-02-02",
+          "telefon": "21 01 31 00",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2018-09-05",
+          "vedtektsfestetFormaal": "Eiendomsmegling og virksomhet som har naturlig sammenheng med eiendomsmegling og som ikke er egnet til å svekke tilliten til selskapets integritet og uavhengighet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "55cfe5a6b279b036e3a36d0d9bec9433a7b2086720ee861adc0f3af5df0692ad",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:47.592968Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997985532/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-03-03",
+              "name": "Jon Alexander Kristiansen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-22",
+              "name": "Hege Marthinussen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-22",
+              "name": "Petter Sveen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-22",
+              "name": "Kristoffer Bjarne Røhne",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2015-08-21",
+              "name": [
+                "KPMG AS"
+              ],
+              "organisation_number": "935174627",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.110",
+    "industry_label": "Kjøp og salg av egen fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "ARCTIC PROPERTY AS",
+    "organisation_number": "997985532",
+    "run_metrics": {
+      "latencies_ms": [
+        1157,
+        1187,
+        1265,
+        1187,
+        15077,
+        47,
+        952,
+        30172,
+        47,
+        2015,
+        1250,
+        1250,
+        1046
+      ],
+      "requests": 13
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:41Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ARCTIC PROPERTY AS (AS, org.nr 997985532)",
+    "what_it_does": "ARCTIC PROPERTY AS is classified under NACE code 68.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -84,473 NOK, with total assets of 338,995 NOK and equity of 338,375 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Hege Marthinussen. Daily operations are led by general manager Jon Alexander Kristiansen. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ARCTIC PROPERTY AS is classified under NACE code 68.110 (unspecified).",
+        "claim_ids": [
+          "6cf22447563248e587b3",
+          "e87f283bf4f882dce9e0"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "b89685dc16dd7fb75922",
+          "6cf22447563248e587b3"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -84,473 NOK, with total assets of 338,995 NOK and equity of 338,375 NOK.",
+        "claim_ids": [
+          "8f9a1ea1bf6f75a62f7a",
+          "151f59869d62f5054895",
+          "70c2243811f8ed948a58"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "8f9a1ea1bf6f75a62f7a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Hege Marthinussen.",
+        "claim_ids": [
+          "2f40a3737a2cd10a1ebe"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Jon Alexander Kristiansen.",
+        "claim_ids": [
+          "947c0caf101951490b8e"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2f40a3737a2cd10a1ebe",
+          "49c990a7737009264a08",
+          "526008fc96848dad5e65",
+          "947c0caf101951490b8e",
+          "cbc0aa270fce700d66f4"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "e87f283bf4f882dce9e0"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "02383bc4c32a6e722499"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "e87f283bf4f882dce9e0"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "e87f283bf4f882dce9e0"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "e87f283bf4f882dce9e0"
+        ]
+      }
+    ]
+  }
+}

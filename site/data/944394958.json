@@ -1,0 +1,1353 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "3ae854fa790add672d14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-944394958"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "94.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bad6097805619c3bcb14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-944394958"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "FLI"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f14004f6042492d50ad1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-944394958"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING"
+    },
+    {
+      "availability": "available",
+      "claim_id": "69cf5b59689ff1fcbcdb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-944394958"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 18
+    },
+    {
+      "availability": "available",
+      "claim_id": "040ccb75c6f38feffd53",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-40085f4731bd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Mala Wang-Naveen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "23f70c308f3ca229f355",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-40d2cc607bb3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Andreas Liebe Delsett",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3275e0d4e522fe0218ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-b83416a35cc5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ADMENTO AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4278b9bb8f7c2849ebca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-59ea54d80b98"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Marte Blikstad-Balas",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "55cfd64d69340a0ee5f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-739d04f28e2d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kaja Rindal Bakkejord",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e73542be44911711d8e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-b3f48c153370"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Cathrine Sandnes",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7d7cddf5863bfe8ccfa8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-c3394ad783d8"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Henna Marie Gjølme Tanskanen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b7aacff1bf7e293f710c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-70ff49afe024"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Reidar Müller",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d191799cb8b272202366",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-847597340a46"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Maria Philippa Rossi",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d89a48fe4affd658b7b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-f7910e8c7669"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Merete Franz",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ddbbfa8c31661282a46a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-4af89ed195ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDO AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e096313666cd8dc7fee0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-7a5779b1da50"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jørn Øyrehagen Sunde",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e1741c00a8ca653cc8bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-21b642a71f84"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eirik Welo",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec62a441979f06be7902",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-944394958-54a6b05fc1d4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Asbjørn Ingvald Jaklin",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe13abe5df24f4d0f680",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-944394958-973460188"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:37Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:37Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Uranienborgveien 2"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0258",
+          "poststed": "OSLO"
+        },
+        "employees": 18,
+        "industry": {
+          "beskrivelse": "Aktiviteter i yrkessammenslutninger",
+          "kode": "94.120"
+        },
+        "name": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+        "organisation_number": "973460188"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Subunit 973460188: NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+      "content_sha256": "d04ef85b6cbe389d7490a09c6eaab0c167e584ea4b9f972787c72633491aec17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=944394958&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-944394958-973460188",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:36.953181Z",
+      "snapshot_ref": "d0/d04ef85b6cbe389d7490a09c6eaab0c167e584ea4b9f972787c72633491aec17.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=944394958&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 944394958 NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+      "content_sha256": "4001c61bdd2fcd20f6a40dd2338ed0b2f47707a6bad713832f7130794a8d3e55",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-944394958",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "40/4001c61bdd2fcd20f6a40dd2338ed0b2f47707a6bad713832f7130794a8d3e55.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Eirik Welo",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-21b642a71f84",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Mala Wang-Naveen",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-40085f4731bd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Andreas Liebe Delsett",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-40d2cc607bb3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: BDO AS",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-4af89ed195ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Asbjørn Ingvald Jaklin",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-54a6b05fc1d4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Marte Blikstad-Balas",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-59ea54d80b98",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Reidar Müller",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-70ff49afe024",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Kaja Rindal Bakkejord",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-739d04f28e2d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jørn Øyrehagen Sunde",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-7a5779b1da50",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Maria Philippa Rossi",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-847597340a46",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Cathrine Sandnes",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-b3f48c153370",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ADMENTO AS",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-b83416a35cc5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Henna Marie Gjølme Tanskanen",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-c3394ad783d8",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Merete Franz",
+      "content_sha256": "4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "http_status": 200,
+      "id": "ev-role-944394958-f7910e8c7669",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.552609Z",
+      "snapshot_ref": "4b/4b48f2913757dfaf3aca1f3db5e1de0829a005362559796a231f556baefcae07.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "failed",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "source_error"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3ae854fa790add672d14",
+        "69cf5b59689ff1fcbcdb",
+        "bad6097805619c3bcb14",
+        "f14004f6042492d50ad1"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "040ccb75c6f38feffd53",
+        "23f70c308f3ca229f355",
+        "3275e0d4e522fe0218ee",
+        "4278b9bb8f7c2849ebca",
+        "55cfd64d69340a0ee5f6",
+        "6e73542be44911711d8e",
+        "7d7cddf5863bfe8ccfa8",
+        "b7aacff1bf7e293f710c",
+        "d191799cb8b272202366",
+        "d89a48fe4affd658b7b1",
+        "ddbbfa8c31661282a46a",
+        "e096313666cd8dc7fee0",
+        "e1741c00a8ca653cc8bf",
+        "ec62a441979f06be7902"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "fe13abe5df24f4d0f680"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f14004f6042492d50ad1",
+      "bad6097805619c3bcb14",
+      "69cf5b59689ff1fcbcdb",
+      "3ae854fa790add672d14"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 3887,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "944394958",
+  "profile": {
+    "bankrupt": false,
+    "employees": 18,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.305432Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "944394958",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "FLI",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": null,
+        "effective_at": null,
+        "field": "financials",
+        "note": "HTTP 500",
+        "retrieved_at": "2026-10-03T20:48:33.395695Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/944394958",
+        "status": "source_error",
+        "value": null
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:35.739024Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/944394958",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "0217758308131c07b85d9a8dc1f186ebaad6246e2d4d5c1123462bebb3b76f28",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:36.953181Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=944394958&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Uranienborgveien 2"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0258",
+                "poststed": "OSLO"
+              },
+              "employees": 18,
+              "industry": {
+                "beskrivelse": "Aktiviteter i yrkessammenslutninger",
+                "kode": "94.120"
+              },
+              "name": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+              "organisation_number": "973460188"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "944394958",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Foreningen skal ivareta medlemmenes faglige og økonomiske interesser og fremme god faglitteratur.",
+          "antallAnsatte": "18",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Uranienborgveien 2",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0258",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Ideelle organisasjoner",
+          "institusjonellSektorkode.kode": "7000",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i yrkessammenslutninger",
+          "naeringskode1.kode": "94.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+          "organisasjonsform.beskrivelse": "Forening/lag/innretning",
+          "organisasjonsform.kode": "FLI",
+          "organisasjonsnummer": "944394958",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 172  Bogstadveien",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0323",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "1995-02-20",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "false",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1978-04-28",
+          "telefon": "22 12 11 40",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "7d038c44046315c6fab635e01a15f3e2df00b6a9db8ed6adda703828085c302b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:34.552609Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/944394958/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2026-02-27",
+              "name": "Cathrine Sandnes",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Marte Blikstad-Balas",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Mala Wang-Naveen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Eirik Welo",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Andreas Liebe Delsett",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Asbjørn Ingvald Jaklin",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Henna Marie Gjølme Tanskanen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Merete Franz",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Jørn Øyrehagen Sunde",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Reidar Müller",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Kaja Rindal Bakkejord",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-22",
+              "name": "Maria Philippa Rossi",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2021-05-19",
+              "name": [
+                "BDO AS"
+              ],
+              "organisation_number": "993606650",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2026-06-15",
+              "name": [
+                "ADMENTO AS"
+              ],
+              "organisation_number": "989176013",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "94.120",
+    "industry_label": "Aktiviteter i yrkessammenslutninger",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "FLI",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING",
+    "organisation_number": "944394958",
+    "run_metrics": {
+      "latencies_ms": [
+        0,
+        1172,
+        1171,
+        1218,
+        62,
+        31,
+        62,
+        78,
+        46,
+        47
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:37Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING (FLI, org.nr 944394958)",
+    "what_it_does": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING is classified under NACE code 94.120 (unspecified).",
+    "business_model": "Operates as a registered FLI entity within the commercial sector.",
+    "size_and_financials": "No annual accounting filings were returned by Regnskapsregisteret for this entity.",
+    "leadership_and_structure": "The board of directors is chaired by Marte Blikstad-Balas. Daily operations are led by general manager Cathrine Sandnes. The entity has 14 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts",
+        "why": "accounts: source_error",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NORSK FAGLITTERÆR FORFATTER- OG OVERSETTERFORENING is classified under NACE code 94.120 (unspecified).",
+        "claim_ids": [
+          "3ae854fa790add672d14",
+          "f14004f6042492d50ad1"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered FLI entity within the commercial sector.",
+        "claim_ids": [
+          "bad6097805619c3bcb14",
+          "3ae854fa790add672d14"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "No annual accounting filings were returned by Regnskapsregisteret for this entity.",
+        "claim_ids": [
+          "f14004f6042492d50ad1"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Marte Blikstad-Balas.",
+        "claim_ids": [
+          "4278b9bb8f7c2849ebca"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Cathrine Sandnes.",
+        "claim_ids": [
+          "6e73542be44911711d8e"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 14 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "040ccb75c6f38feffd53",
+          "23f70c308f3ca229f355",
+          "3275e0d4e522fe0218ee",
+          "4278b9bb8f7c2849ebca",
+          "55cfd64d69340a0ee5f6",
+          "6e73542be44911711d8e"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f14004f6042492d50ad1"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "fe13abe5df24f4d0f680"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f14004f6042492d50ad1"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f14004f6042492d50ad1"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f14004f6042492d50ad1"
+        ]
+      }
+    ]
+  }
+}

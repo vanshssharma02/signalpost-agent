@@ -1,0 +1,1431 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "1aa81e14d517ce20b087",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4564411.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "36ad7a2630fcf317d32a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3988637.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "adee941c4094fd4d7505",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5927271.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15e4c43bd15a90d28f73",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16038932.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f7743a4502c0fb2505a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 26178258.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a53b38210654eaabbef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20271374.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "28cbd39a72165c306020",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2634062.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9603ff6603a7063ca093",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2654450.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc06f6166c039bac726b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2986419.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "434f79fd49956f5c5587",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17616925.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6bfe1374f7c16d98f4a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23544195.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6290cc51015731aea20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13052514.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "11adb2d471e0118dcacd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6328086.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "16e7509ad4e3a6818881",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5021403.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "627044f2640be366bc32",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5384093.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1c0607c1c06b704b49b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7362407.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "584041da85654337b96c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5113637.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70def1a2fdbe78217bc0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5784667.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b68f346b128c4f5d45ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12905153.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e4ae1477c62ede9d928f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16609984.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e7c91fc7a6dfa4e49de3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-922408505-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12348356.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b3efc70d6f11c3df8da9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-922408505"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "49.410"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1a1d35c011a54888af62",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-922408505"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "02107ccf6d7c64c63e80",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-922408505"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "LARS KRISTIAN DAHL AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "18a8d017f59e56a56384",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-922408505-b75a97aa0596"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Kristian Dahl",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4ba660769a410d4a7e8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-922408505-d829f2ee6ecb"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "FRISIKT ØST AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9eb3543aba42ff66688e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-922408505-b84da6eeaa51"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Kristian Dahl",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d3af62fc25f1a849c936",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-922408505-c657821565dc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "FRAM REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fd5514e6c5ed8fbe5ad1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-922408505-922527539"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:52Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:52Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Ranumsvegen 124"
+          ],
+          "kommune": "VÅLER",
+          "kommunenummer": "3419",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2436",
+          "poststed": "VÅLER I SOLØR"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Godstransport på vei",
+          "kode": "49.410"
+        },
+        "name": "LARS KRISTIAN DAHL AS",
+        "organisation_number": "922527539"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 12348356.0, operating_result: 5021403.0, profit_before_tax: 5113637.0, annual_result: 3988637.0, assets: 16038932.0, equity: 13052514.0, debt: 2986419.0",
+      "content_sha256": "51404942d872473448adffe69445ee13e9e067463f88f0680d3bf095a21b9183",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "http_status": 200,
+      "id": "ev-fin-922408505-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.259739Z",
+      "snapshot_ref": "51/51404942d872473448adffe69445ee13e9e067463f88f0680d3bf095a21b9183.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 12905153.0, operating_result: 5384093.0, profit_before_tax: 5784667.0, annual_result: 4564411.0, assets: 20271374.0, equity: 17616925.0, debt: 2654450.0",
+      "content_sha256": "3c50ea3917eb7b335a777049094cac8a1b9ca982760507d30ccaceec7f5678e2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "http_status": 200,
+      "id": "ev-fin-922408505-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.259739Z",
+      "snapshot_ref": "3c/3c50ea3917eb7b335a777049094cac8a1b9ca982760507d30ccaceec7f5678e2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 16609984.0, operating_result: 6328086.0, profit_before_tax: 7362407.0, annual_result: 5927271.0, assets: 26178258.0, equity: 23544195.0, debt: 2634062.0",
+      "content_sha256": "358eb938a4d4b213d418f28a28f58ecccb7e6cb47e339f2f0eb97d4d9c6ebabb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "http_status": 200,
+      "id": "ev-fin-922408505-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.259739Z",
+      "snapshot_ref": "35/358eb938a4d4b213d418f28a28f58ecccb7e6cb47e339f2f0eb97d4d9c6ebabb.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 922527539: LARS KRISTIAN DAHL AS",
+      "content_sha256": "5ed066c57e6259ec04b8c1ba5fbd12e0a5aa946443be3d87ceffe77137e4aaa1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=922408505&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-922408505-922527539",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:50.925089Z",
+      "snapshot_ref": "5e/5ed066c57e6259ec04b8c1ba5fbd12e0a5aa946443be3d87ceffe77137e4aaa1.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=922408505&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 922408505 LARS KRISTIAN DAHL AS",
+      "content_sha256": "9fb96d3e20c9c3ecb955a97fa90c20b62c952b80fc600363e2bb5508310a7680",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-922408505",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "9f/9fb96d3e20c9c3ecb955a97fa90c20b62c952b80fc600363e2bb5508310a7680.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Lars Kristian Dahl",
+      "content_sha256": "77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "http_status": 200,
+      "id": "ev-role-922408505-b75a97aa0596",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.497341Z",
+      "snapshot_ref": "77/77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Lars Kristian Dahl",
+      "content_sha256": "77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "http_status": 200,
+      "id": "ev-role-922408505-b84da6eeaa51",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.497341Z",
+      "snapshot_ref": "77/77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: FRAM REVISJON AS",
+      "content_sha256": "77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "http_status": 200,
+      "id": "ev-role-922408505-c657821565dc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.497341Z",
+      "snapshot_ref": "77/77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: FRISIKT ØST AS",
+      "content_sha256": "77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "http_status": 200,
+      "id": "ev-role-922408505-d829f2ee6ecb",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.497341Z",
+      "snapshot_ref": "77/77b3b6180f113199522ee2bbdb3a4b923f75d8d5404b51e625c50d2f87d5c25d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "11adb2d471e0118dcacd",
+        "15e4c43bd15a90d28f73",
+        "16e7509ad4e3a6818881",
+        "1aa81e14d517ce20b087",
+        "1c0607c1c06b704b49b4",
+        "28cbd39a72165c306020",
+        "36ad7a2630fcf317d32a",
+        "3f7743a4502c0fb2505a",
+        "434f79fd49956f5c5587",
+        "584041da85654337b96c",
+        "627044f2640be366bc32",
+        "6bfe1374f7c16d98f4a5",
+        "70def1a2fdbe78217bc0",
+        "9603ff6603a7063ca093",
+        "9a53b38210654eaabbef",
+        "a6290cc51015731aea20",
+        "adee941c4094fd4d7505",
+        "b68f346b128c4f5d45ca",
+        "dc06f6166c039bac726b",
+        "e4ae1477c62ede9d928f",
+        "e7c91fc7a6dfa4e49de3"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02107ccf6d7c64c63e80",
+        "1a1d35c011a54888af62",
+        "b3efc70d6f11c3df8da9"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "18a8d017f59e56a56384",
+        "4ba660769a410d4a7e8b",
+        "9eb3543aba42ff66688e",
+        "d3af62fc25f1a849c936"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "fd5514e6c5ed8fbe5ad1"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "02107ccf6d7c64c63e80",
+      "1a1d35c011a54888af62",
+      "b3efc70d6f11c3df8da9"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "LARS KRISTIAN DAHL AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 6620,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "922408505",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:52.450351Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "922408505",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "4f69342a03b27a769295995b716b28e423790e7ee0a0ec5cdd363ca915b90a51",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:47.259739Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/922408505",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 3988637.0,
+              "assets": 16038932.0,
+              "currency": "NOK",
+              "debt": 2986419.0,
+              "equity": 13052514.0,
+              "operating_result": 5021403.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 5113637.0,
+              "record_id": 4812487,
+              "revenue": 12348356.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 4564411.0,
+              "assets": 20271374.0,
+              "currency": "NOK",
+              "debt": 2654450.0,
+              "equity": 17616925.0,
+              "operating_result": 5384093.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 5784667.0,
+              "record_id": 5928947,
+              "revenue": 12905153.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 5927271.0,
+              "assets": 26178258.0,
+              "currency": "NOK",
+              "debt": 2634062.0,
+              "equity": 23544195.0,
+              "operating_result": 6328086.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 7362407.0,
+              "record_id": 6713066,
+              "revenue": 16609984.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:49.694881Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/922408505",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "32afd8a79db51df75a175f6ba7c11074d46e1febb5b5dd17ada2f4cceebfbfb3",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:50.925089Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=922408505&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Ranumsvegen 124"
+                ],
+                "kommune": "VÅLER",
+                "kommunenummer": "3419",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2436",
+                "poststed": "VÅLER I SOLØR"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Godstransport på vei",
+                "kode": "49.410"
+              },
+              "name": "LARS KRISTIAN DAHL AS",
+              "organisation_number": "922527539"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "922408505",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Entreprenørkjøring på vei, anlegg, leiekjøring innen landbruk, finansielle investeringer, deltakelse i andre selskaper, kjøp/salg av eiendom og utleie av eiendom. Samt det som naturlig står i forbindelse med dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Ranumsvegen 124",
+          "forretningsadresse.kommune": "VÅLER",
+          "forretningsadresse.kommunenummer": "3419",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2436",
+          "forretningsadresse.poststed": "VÅLER I SOLØR",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2019-03-18",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Godstransport på vei",
+          "naeringskode1.kode": "49.410",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "LARS KRISTIAN DAHL AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "922408505",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+          "registreringsdatoForetaksregisteret": "2019-03-18",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2019-11-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-12-14",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "2019-03-18",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-01-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2019-01-25",
+          "vedtektsfestetFormaal": "Entreprenørkjøring på vei, anlegg, leiekjøring innen landbruk, finansielle investeringer, deltakelse i andre selskaper, kjøp/salg av eiendom og utleie av eiendom. Samt det som naturlig står i forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "1c00d6b3ebbfb98de5b87b96665cf7656fdf078c8e04a6c95f7065ae01c3ccfd",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:48.497341Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/922408505/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2019-03-18",
+              "name": "Lars Kristian Dahl",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-03-18",
+              "name": "Lars Kristian Dahl",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2022-08-02",
+              "name": [
+                "FRAM REVISJON AS"
+              ],
+              "organisation_number": "957668933",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2020-12-01",
+              "name": [
+                "FRISIKT ØST AS"
+              ],
+              "organisation_number": "984734387",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "49.410",
+    "industry_label": "Godstransport på vei",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "VÅLER",
+    "municipality_number": "3419",
+    "name": "LARS KRISTIAN DAHL AS",
+    "organisation_number": "922408505",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1233,
+        1203,
+        1218,
+        47,
+        30,
+        32,
+        156,
+        61,
+        1453
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:52Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "LARS KRISTIAN DAHL AS (AS, org.nr 922408505)",
+    "what_it_does": "LARS KRISTIAN DAHL AS is classified under NACE code 49.410 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, LARS KRISTIAN DAHL AS reported revenue of 16,609,984 NOK and an operating result of 6,328,086 NOK. Net result was 5,927,271 NOK, with total assets of 26,178,258 NOK and equity of 23,544,195 NOK. Revenue grew by +28.7% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 38.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Lars Kristian Dahl. Daily operations are led by general manager Lars Kristian Dahl. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "LARS KRISTIAN DAHL AS is classified under NACE code 49.410 (unspecified).",
+        "claim_ids": [
+          "b3efc70d6f11c3df8da9",
+          "02107ccf6d7c64c63e80"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "1a1d35c011a54888af62",
+          "b3efc70d6f11c3df8da9"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, LARS KRISTIAN DAHL AS reported revenue of 16,609,984 NOK and an operating result of 6,328,086 NOK.",
+        "claim_ids": [
+          "e4ae1477c62ede9d928f",
+          "11adb2d471e0118dcacd"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 5,927,271 NOK, with total assets of 26,178,258 NOK and equity of 23,544,195 NOK.",
+        "claim_ids": [
+          "adee941c4094fd4d7505",
+          "3f7743a4502c0fb2505a",
+          "6bfe1374f7c16d98f4a5"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +28.7% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "e4ae1477c62ede9d928f",
+          "b68f346b128c4f5d45ca"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 38.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "11adb2d471e0118dcacd",
+          "e4ae1477c62ede9d928f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Lars Kristian Dahl.",
+        "claim_ids": [
+          "18a8d017f59e56a56384"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Lars Kristian Dahl.",
+        "claim_ids": [
+          "9eb3543aba42ff66688e"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "18a8d017f59e56a56384",
+          "4ba660769a410d4a7e8b",
+          "9eb3543aba42ff66688e",
+          "d3af62fc25f1a849c936"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "02107ccf6d7c64c63e80"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "fd5514e6c5ed8fbe5ad1"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "02107ccf6d7c64c63e80"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "02107ccf6d7c64c63e80"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "02107ccf6d7c64c63e80"
+        ]
+      }
+    ]
+  }
+}

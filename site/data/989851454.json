@@ -1,0 +1,1589 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "469800e9ffb581218c20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 153959.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a44777fea371991165da",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -69710.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b9f3ede0eaaabad89ed5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 165471.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "35928fd04f8be139543e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2701058.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "715ff526c884003acaee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2282543.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef2886bbedca0dd57706",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2268507.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1fb624ebeb234c87b3c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 819610.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "66b01d5265f5cea3f336",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 486142.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "781a188cbdc71cbe4b8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1084165.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "12b9f33277782f3a8059",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1616893.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70bd26833b4c7bab1040",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1462935.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "74fe2646aeb1ce5a4035",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1782365.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "884ee2bee736da325a29",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 121308.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fad3e57fb4fb7513bf9f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -85931.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1d7c9a50de37be95b1d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 153959.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ba22780b2641efdb6578",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -69710.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "63731d48f1fe126e3e0d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1895190.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f905b2f72ef593fcc26",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989851454-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3013525.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "28992652220674377bc0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989851454"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "97.001"
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad742c26ba41eef98a39",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989851454"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ESEK"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b15304ef7d12ec2f0aac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989851454"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "EIERSEKSJONSSAMEIET VEVERIET I"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0b065da449230603bcf4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-7302aaa8a751"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "NEDRE BUSKERUD BOLIGBYGGELAG",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5384dce2af566bce56cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-a87fa2483fa2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "NEDRE BUSKERUD BOLIGBYGGELAG",
+        "role": "Forretningsfører",
+        "role_code": "FFØR"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5711422eaef618dd88f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-119f304f19c8"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ove Bjørn Dirdal",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "85c08131e5e6eec7c365",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-0ed28e39a6d3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Britt Bærulfsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "87cc9e13059ba85bedb5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-7e1fdda0912c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Espen Andersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "87d9b2492b83d2102ef4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-50cd4d8a3439"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Turid Wenche Kristoffersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9fa14901e9be69c36143",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-8b11aa258d46"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jannik Andersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "aa0c2807abf3d1703dc6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-297621fb1f50"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øyvind Hvidsten-Hansen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b21a058c01bfd2c6bfde",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989851454-61a53cf6235e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ØSTLANDSKE REVISORER AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c80ca402fc05451e1983",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-989851454-923868496"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nedre Torggate 5/7"
+          ],
+          "kommune": "DRAMMEN",
+          "kommunenummer": "3301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3015",
+          "poststed": "DRAMMEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "kode": "97.001"
+        },
+        "name": "EIERSEKSJONSSAMEIET VEVERIET I",
+        "organisation_number": "923868496"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 1895190.0, operating_result: -85931.0, profit_before_tax: -69710.0, annual_result: -69710.0, assets: 2282543.0, equity: 1462935.0, debt: 819610.0",
+      "content_sha256": "b425ec66a0014274dcaba7f3d5194f14c028308fb553e96ab44412f2dbf8fc75",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "http_status": 200,
+      "id": "ev-fin-989851454-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.405240Z",
+      "snapshot_ref": "b4/b425ec66a0014274dcaba7f3d5194f14c028308fb553e96ab44412f2dbf8fc75.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 3013525.0, operating_result: 121308.0, profit_before_tax: 153959.0, annual_result: 153959.0, assets: 2701058.0, equity: 1616893.0, debt: 1084165.0",
+      "content_sha256": "11c3e76b5ea8dfea7161830609b4a90c541e2b1547c9470afc30d3e5d98a6df9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "http_status": 200,
+      "id": "ev-fin-989851454-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.405240Z",
+      "snapshot_ref": "11/11c3e76b5ea8dfea7161830609b4a90c541e2b1547c9470afc30d3e5d98a6df9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: annual_result: 165471.0, assets: 2268507.0, equity: 1782365.0, debt: 486142.0",
+      "content_sha256": "66a903205880a33f21272ae4ffe594b0b950c6d48c3e59bc79b6bc0f6f70513a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "http_status": 200,
+      "id": "ev-fin-989851454-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.405240Z",
+      "snapshot_ref": "66/66a903205880a33f21272ae4ffe594b0b950c6d48c3e59bc79b6bc0f6f70513a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 923868496: EIERSEKSJONSSAMEIET VEVERIET I",
+      "content_sha256": "e0d7e0459e61b94387dd6a2f94a19c800446f3e0832e9015455f6c47ae8336bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989851454&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-989851454-923868496",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.978248Z",
+      "snapshot_ref": "e0/e0d7e0459e61b94387dd6a2f94a19c800446f3e0832e9015455f6c47ae8336bd.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989851454&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 989851454 EIERSEKSJONSSAMEIET VEVERIET I",
+      "content_sha256": "cbdbfe94080e23d9f47f2684ba8bd3e9329ed6d55e5f0134bc0c99e1e9d80a62",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-989851454",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "cb/cbdbfe94080e23d9f47f2684ba8bd3e9329ed6d55e5f0134bc0c99e1e9d80a62.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Britt Bærulfsen",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-0ed28e39a6d3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Ove Bjørn Dirdal",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-119f304f19c8",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Øyvind Hvidsten-Hansen",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-297621fb1f50",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Turid Wenche Kristoffersen",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-50cd4d8a3439",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ØSTLANDSKE REVISORER AS",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-61a53cf6235e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: NEDRE BUSKERUD BOLIGBYGGELAG",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-7302aaa8a751",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Espen Andersen",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-7e1fdda0912c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jannik Andersen",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-8b11aa258d46",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role FFØR: NEDRE BUSKERUD BOLIGBYGGELAG",
+      "content_sha256": "b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "http_status": 200,
+      "id": "ev-role-989851454-a87fa2483fa2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.579252Z",
+      "snapshot_ref": "b1/b172f812b1c2e753fc54889a60c20ed6cac3a4a451bd397b739a03afa1ecf7bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "12b9f33277782f3a8059",
+        "1d7c9a50de37be95b1d8",
+        "1fb624ebeb234c87b3c8",
+        "35928fd04f8be139543e",
+        "469800e9ffb581218c20",
+        "63731d48f1fe126e3e0d",
+        "66b01d5265f5cea3f336",
+        "6f905b2f72ef593fcc26",
+        "70bd26833b4c7bab1040",
+        "715ff526c884003acaee",
+        "74fe2646aeb1ce5a4035",
+        "781a188cbdc71cbe4b8b",
+        "884ee2bee736da325a29",
+        "a44777fea371991165da",
+        "b9f3ede0eaaabad89ed5",
+        "ba22780b2641efdb6578",
+        "ef2886bbedca0dd57706",
+        "fad3e57fb4fb7513bf9f"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "28992652220674377bc0",
+        "ad742c26ba41eef98a39",
+        "b15304ef7d12ec2f0aac"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0b065da449230603bcf4",
+        "5384dce2af566bce56cb",
+        "5711422eaef618dd88f4",
+        "85c08131e5e6eec7c365",
+        "87cc9e13059ba85bedb5",
+        "87d9b2492b83d2102ef4",
+        "9fa14901e9be69c36143",
+        "aa0c2807abf3d1703dc6",
+        "b21a058c01bfd2c6bfde"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "c80ca402fc05451e1983"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "b15304ef7d12ec2f0aac",
+      "ad742c26ba41eef98a39",
+      "28992652220674377bc0"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "EIERSEKSJONSSAMEIET VEVERIET I"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 15120,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "989851454",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.227020Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "989851454",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "ESEK",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "f5f2cf4a71f5193993c65d92b829f270f940727dab8e8d75a417efa1ca2cd802",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.405240Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989851454",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -69710.0,
+              "assets": 2282543.0,
+              "currency": "NOK",
+              "debt": 819610.0,
+              "equity": 1462935.0,
+              "operating_result": -85931.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -69710.0,
+              "record_id": 5244793,
+              "revenue": 1895190.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 153959.0,
+              "assets": 2701058.0,
+              "currency": "NOK",
+              "debt": 1084165.0,
+              "equity": 1616893.0,
+              "operating_result": 121308.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 153959.0,
+              "record_id": 5684137,
+              "revenue": 3013525.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 165471.0,
+              "assets": 2268507.0,
+              "currency": "NOK",
+              "debt": 486142.0,
+              "equity": 1782365.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": null,
+              "record_id": 6539095,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.795892Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/989851454",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "20646d73205604b0f7335410f194e0cdbe800e89bf3770cec646eaf363a704b2",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.978248Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989851454&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nedre Torggate 5/7"
+                ],
+                "kommune": "DRAMMEN",
+                "kommunenummer": "3301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3015",
+                "poststed": "DRAMMEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+                "kode": "97.001"
+              },
+              "name": "EIERSEKSJONSSAMEIET VEVERIET I",
+              "organisation_number": "923868496"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "989851454",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eierseksjonssameie.  ",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nedre Torggate 5/7",
+          "forretningsadresse.kommune": "DRAMMEN",
+          "forretningsadresse.kommunenummer": "3301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3015",
+          "forretningsadresse.poststed": "DRAMMEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.nbbo.no",
+          "institusjonellSektorkode.beskrivelse": "",
+          "institusjonellSektorkode.kode": "",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "naeringskode1.kode": "97.001",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "EIERSEKSJONSSAMEIET VEVERIET I",
+          "organisasjonsform.beskrivelse": "Eierseksjonssameie",
+          "organisasjonsform.kode": "ESEK",
+          "organisasjonsnummer": "989851454",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 1035 Bragernes",
+          "postadresse.kommune": "DRAMMEN",
+          "postadresse.kommunenummer": "3301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "3001",
+          "postadresse.poststed": "DRAMMEN",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2006-06-03",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2006-06-03",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2006-03-16",
+          "telefon": "32 21 15 00",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2009-11-11",
+          "vedtektsfestetFormaal": "Eierseksjonssameie.  "
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "2bd0eded38fa256ef82876bd7cf8bb35840a32f69aa9cd2b281bb86615b9beb2",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.579252Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989851454/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Forretningsfører",
+              "group_code": "FFØR",
+              "inactive": false,
+              "last_changed": "2017-07-07",
+              "name": [
+                "NEDRE BUSKERUD BOLIGBYGGELAG"
+              ],
+              "organisation_number": "952527827",
+              "role": "Forretningsfører",
+              "role_code": "FFØR"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Øyvind Hvidsten-Hansen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Espen Andersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Jannik Andersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Turid Wenche Kristoffersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Britt Bærulfsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Ove Bjørn Dirdal",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2021-07-16",
+              "name": [
+                "ØSTLANDSKE REVISORER AS"
+              ],
+              "organisation_number": "982743966",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2009-02-09",
+              "name": [
+                "NEDRE BUSKERUD BOLIGBYGGELAG"
+              ],
+              "organisation_number": "952527827",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "97.001",
+    "industry_label": "Aktiviteter i borettslag og boligsameier",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "ESEK",
+    "liquidating": false,
+    "municipality": "DRAMMEN",
+    "municipality_number": "3301",
+    "name": "EIERSEKSJONSSAMEIET VEVERIET I",
+    "organisation_number": "989851454",
+    "run_metrics": {
+      "latencies_ms": [
+        1235,
+        1171,
+        1218,
+        1187,
+        4000,
+        2702,
+        1672,
+        1516,
+        62,
+        62,
+        47,
+        31,
+        46,
+        78,
+        46,
+        47
+      ],
+      "requests": 16
+    },
+    "website": "www.nbbo.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:40Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "EIERSEKSJONSSAMEIET VEVERIET I (ESEK, org.nr 989851454)",
+    "what_it_does": "EIERSEKSJONSSAMEIET VEVERIET I is classified under NACE code 97.001 (unspecified).",
+    "business_model": "Operates as a registered ESEK entity within the commercial sector.",
+    "size_and_financials": "Net result was 165,471 NOK, with total assets of 2,268,507 NOK and equity of 1,782,365 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Øyvind Hvidsten-Hansen. The entity has 9 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "EIERSEKSJONSSAMEIET VEVERIET I is classified under NACE code 97.001 (unspecified).",
+        "claim_ids": [
+          "28992652220674377bc0",
+          "b15304ef7d12ec2f0aac"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered ESEK entity within the commercial sector.",
+        "claim_ids": [
+          "ad742c26ba41eef98a39",
+          "28992652220674377bc0"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 165,471 NOK, with total assets of 2,268,507 NOK and equity of 1,782,365 NOK.",
+        "claim_ids": [
+          "b9f3ede0eaaabad89ed5",
+          "ef2886bbedca0dd57706",
+          "74fe2646aeb1ce5a4035"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Øyvind Hvidsten-Hansen.",
+        "claim_ids": [
+          "aa0c2807abf3d1703dc6"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The entity has 9 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "0b065da449230603bcf4",
+          "5384dce2af566bce56cb",
+          "5711422eaef618dd88f4",
+          "85c08131e5e6eec7c365",
+          "87cc9e13059ba85bedb5",
+          "87d9b2492b83d2102ef4"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "b15304ef7d12ec2f0aac"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "c80ca402fc05451e1983"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "b15304ef7d12ec2f0aac"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "b15304ef7d12ec2f0aac"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "b15304ef7d12ec2f0aac"
+        ]
+      }
+    ]
+  }
+}

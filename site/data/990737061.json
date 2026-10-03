@@ -1,0 +1,1500 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0d00a7fa8c9957c0e080",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 121323.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "709c69b569c823c109cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 715965.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c8e8138d806b8285500",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1104199.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "02a57f32284818ac6b5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22690005.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ad7c83fde97fb766246",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 25366886.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8dffaffa42a05c0e3ca0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20413873.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "52791281b2eaa694924c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22044173.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "91f350bbefa5c99bf5b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19245968.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "babedeea2dd5573ea6c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16253871.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "243ef65a67f2c867fa27",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3444037.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "364f9beadcf14cb96fe5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3322714.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b09958ba79062ff0ae72",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4160002.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "972cb690d028563ece6b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1993439.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d954636ec00cebd2c97e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1340186.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e1a494faadf5eb88d60f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2047801.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "118bdb333f135092d6c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 156946.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a42f32c38b03a59a52a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1415606.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f90814158da4272a4330",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 916393.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0ddbbea7e6c866db9d8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4288928.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2776b2ec7ff447f31c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3470771.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "faf5b27e67011e03f578",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990737061-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10115206.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1cbab2dcbe22617f6b5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990737061"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a42af5a1179879dcbea2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990737061"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6c88641f4587f0469141",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990737061"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SKRUMOEN EIENDOM AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "698f05fd36768bbf3296",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990737061-512d95c6358a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "John Våge",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "83ab8c3e2aa7dd77511b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990737061-c141d7d954d0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rolf Pettersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "db08161505395c8e6b74",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990737061-bddd097472d6"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "KRAFT RÅDGIVNING OG ØKONOMI AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8e24f3c01044b0ed5f50",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-990737061-990775931"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Skytebaneveien 6"
+          ],
+          "kommune": "LYNGDAL",
+          "kommunenummer": "4225",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "4580",
+          "poststed": "LYNGDAL"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "SKRUMOEN EIENDOM AS",
+        "organisation_number": "990775931"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 10115206.0, operating_result: 2047801.0, profit_before_tax: 1415606.0, annual_result: 1104199.0, assets: 25366886.0, equity: 3322714.0, debt: 22044173.0",
+      "content_sha256": "4245f9bfc76a345d7ba2122cc063c1e10fe14dd6b1cb6bd49b7ff22b822c2257",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "http_status": 200,
+      "id": "ev-fin-990737061-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:06.092174Z",
+      "snapshot_ref": "42/4245f9bfc76a345d7ba2122cc063c1e10fe14dd6b1cb6bd49b7ff22b822c2257.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 4288928.0, operating_result: 1340186.0, profit_before_tax: 156946.0, annual_result: 121323.0, assets: 22690005.0, equity: 3444037.0, debt: 19245968.0",
+      "content_sha256": "625b89a5b5802d5a8b01d7d87c99bf0e58706dd097874df5c50e805d71bbba74",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "http_status": 200,
+      "id": "ev-fin-990737061-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:06.092174Z",
+      "snapshot_ref": "62/625b89a5b5802d5a8b01d7d87c99bf0e58706dd097874df5c50e805d71bbba74.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 3470771.0, operating_result: 1993439.0, profit_before_tax: 916393.0, annual_result: 715965.0, assets: 20413873.0, equity: 4160002.0, debt: 16253871.0",
+      "content_sha256": "c1ebc98f0ddeddc0d7ac25c90d5ac1c6a68f81eeaf8dd0622408c1f976f42ef7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "http_status": 200,
+      "id": "ev-fin-990737061-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:06.092174Z",
+      "snapshot_ref": "c1/c1ebc98f0ddeddc0d7ac25c90d5ac1c6a68f81eeaf8dd0622408c1f976f42ef7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 990775931: SKRUMOEN EIENDOM AS",
+      "content_sha256": "6c378df3cfb0f5f53af07f8ad9ec83ec1ba3040dac661f2c3807cd661875747c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990737061&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-990737061-990775931",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.780563Z",
+      "snapshot_ref": "6c/6c378df3cfb0f5f53af07f8ad9ec83ec1ba3040dac661f2c3807cd661875747c.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990737061&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 990737061 SKRUMOEN EIENDOM AS",
+      "content_sha256": "e8f7fedcee0ae8df5f343807c785f42e4851cd1c9963831c2d1540fe5b991f1a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-990737061",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "e8/e8f7fedcee0ae8df5f343807c785f42e4851cd1c9963831c2d1540fe5b991f1a.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: John Våge",
+      "content_sha256": "4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "http_status": 200,
+      "id": "ev-role-990737061-512d95c6358a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:07.330773Z",
+      "snapshot_ref": "45/4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: KRAFT RÅDGIVNING OG ØKONOMI AS",
+      "content_sha256": "4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "http_status": 200,
+      "id": "ev-role-990737061-bddd097472d6",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:07.330773Z",
+      "snapshot_ref": "45/4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Rolf Pettersen",
+      "content_sha256": "4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "http_status": 200,
+      "id": "ev-role-990737061-c141d7d954d0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:07.330773Z",
+      "snapshot_ref": "45/4588fbb984654e331291dd684baa97b8a714039fb0543cc88a1f20f500cd1ca5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02a57f32284818ac6b5d",
+        "0d00a7fa8c9957c0e080",
+        "0ddbbea7e6c866db9d8b",
+        "118bdb333f135092d6c3",
+        "243ef65a67f2c867fa27",
+        "364f9beadcf14cb96fe5",
+        "4a42f32c38b03a59a52a",
+        "52791281b2eaa694924c",
+        "6ad7c83fde97fb766246",
+        "709c69b569c823c109cd",
+        "8c8e8138d806b8285500",
+        "8dffaffa42a05c0e3ca0",
+        "91f350bbefa5c99bf5b1",
+        "972cb690d028563ece6b",
+        "b09958ba79062ff0ae72",
+        "babedeea2dd5573ea6c9",
+        "d954636ec00cebd2c97e",
+        "e1a494faadf5eb88d60f",
+        "e2776b2ec7ff447f31c5",
+        "f90814158da4272a4330",
+        "faf5b27e67011e03f578"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1cbab2dcbe22617f6b5d",
+        "6c88641f4587f0469141",
+        "a42af5a1179879dcbea2"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "698f05fd36768bbf3296",
+        "83ab8c3e2aa7dd77511b",
+        "db08161505395c8e6b74"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "8e24f3c01044b0ed5f50"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "6c88641f4587f0469141",
+      "a42af5a1179879dcbea2",
+      "1cbab2dcbe22617f6b5d"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SKRUMOEN EIENDOM AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 5199,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "990737061",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.409976Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "990737061",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "ff65f94e0b8fe3d7a646becad1f911af8d9c31b75610c4da193ce241cf0ace70",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:06.092174Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990737061",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1104199.0,
+              "assets": 25366886.0,
+              "currency": "NOK",
+              "debt": 22044173.0,
+              "equity": 3322714.0,
+              "operating_result": 2047801.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1415606.0,
+              "record_id": 4907555,
+              "revenue": 10115206.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 121323.0,
+              "assets": 22690005.0,
+              "currency": "NOK",
+              "debt": 19245968.0,
+              "equity": 3444037.0,
+              "operating_result": 1340186.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 156946.0,
+              "record_id": 5684769,
+              "revenue": 4288928.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 715965.0,
+              "assets": 20413873.0,
+              "currency": "NOK",
+              "debt": 16253871.0,
+              "equity": 4160002.0,
+              "operating_result": 1993439.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 916393.0,
+              "record_id": 6790464,
+              "revenue": 3470771.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "636955a5f78efda0ba337380b5f7cdd1d0fc1cf56f26108b50c1385ef112e121",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:08.553151Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/990737061",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "64,00%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SKRUMOEN EIENDOM AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "990737061",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "62,00%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ERV INVEST AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "990517266",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ROMÅSEN UTVIKLING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "989577670",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "96,00%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "NYBYGGERN AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "982044537",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "LYNGUTBYGGEREN AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "980833305",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "NYBYGGEREN AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "931919822",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            },
+            {
+              "dato": "2026-03-09",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "JOHE UTVIKLING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "834397862",
+              "parentNavn": "JOHE HOLDING AS",
+              "parentOrganisasjonsnummer": "914790778"
+            }
+          ],
+          "navn": "JOHE HOLDING AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "914790778"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "38d90c6d58072b281d8e34307f328b873995874773d8870038563f726eb7b8a4",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:09.780563Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990737061&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Skytebaneveien 6"
+                ],
+                "kommune": "LYNGDAL",
+                "kommunenummer": "4225",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "4580",
+                "poststed": "LYNGDAL"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "SKRUMOEN EIENDOM AS",
+              "organisation_number": "990775931"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "990737061",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investering i eiendom og andre selskaper, utleie av fast eiendom, samt annen økonomisk som naturlig ligger under dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Skytebaneveien 6",
+          "forretningsadresse.kommune": "LYNGDAL",
+          "forretningsadresse.kommunenummer": "4225",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "4580",
+          "forretningsadresse.poststed": "LYNGDAL",
+          "fravalgRevisjonBeslutningsDato": "2025-11-21",
+          "fravalgRevisjonDato": "2025-12-06",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2007-01-16",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SKRUMOEN EIENDOM AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "990737061",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2007-01-16",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-03-08",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2008-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-05-20",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2007-01-16",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2007-01-02",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2014-12-16",
+          "vedtektsfestetFormaal": "Investering i eiendom og andre selskaper, utleie av fast eiendom, samt annen økonomisk som naturlig ligger under dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "a2c8c65bf5fe240c73b927f8af2a9f2ba38806e59335054d49b38a757fbacd1b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:07.330773Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990737061/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-07-31",
+              "name": "John Våge",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-07-31",
+              "name": "Rolf Pettersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-12-06",
+              "name": [
+                "KRAFT RÅDGIVNING OG ØKONOMI AS"
+              ],
+              "organisation_number": "919886684",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "LYNGDAL",
+    "municipality_number": "4225",
+    "name": "SKRUMOEN EIENDOM AS",
+    "organisation_number": "990737061",
+    "run_metrics": {
+      "latencies_ms": [
+        1203,
+        1233,
+        1235,
+        1218,
+        62,
+        30,
+        63,
+        46,
+        78,
+        31
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:10Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SKRUMOEN EIENDOM AS (AS, org.nr 990737061)",
+    "what_it_does": "SKRUMOEN EIENDOM AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SKRUMOEN EIENDOM AS reported revenue of 3,470,771 NOK and an operating result of 1,993,439 NOK. Net result was 715,965 NOK, with total assets of 20,413,873 NOK and equity of 4,160,002 NOK. Revenue contracted by -19.1% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 57.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by John Våge. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SKRUMOEN EIENDOM AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "1cbab2dcbe22617f6b5d",
+          "6c88641f4587f0469141"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "a42af5a1179879dcbea2",
+          "1cbab2dcbe22617f6b5d"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SKRUMOEN EIENDOM AS reported revenue of 3,470,771 NOK and an operating result of 1,993,439 NOK.",
+        "claim_ids": [
+          "e2776b2ec7ff447f31c5",
+          "972cb690d028563ece6b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 715,965 NOK, with total assets of 20,413,873 NOK and equity of 4,160,002 NOK.",
+        "claim_ids": [
+          "709c69b569c823c109cd",
+          "8dffaffa42a05c0e3ca0",
+          "b09958ba79062ff0ae72"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue contracted by -19.1% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "e2776b2ec7ff447f31c5",
+          "0ddbbea7e6c866db9d8b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 57.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "972cb690d028563ece6b",
+          "e2776b2ec7ff447f31c5"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by John Våge.",
+        "claim_ids": [
+          "698f05fd36768bbf3296"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "698f05fd36768bbf3296",
+          "83ab8c3e2aa7dd77511b",
+          "db08161505395c8e6b74"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "6c88641f4587f0469141"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "8e24f3c01044b0ed5f50"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "6c88641f4587f0469141"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "6c88641f4587f0469141"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "6c88641f4587f0469141"
+        ]
+      }
+    ]
+  }
+}

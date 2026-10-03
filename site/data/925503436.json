@@ -1,0 +1,1508 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "1f26618912672381d6bb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -378582.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f4a1773783a1e85ee17",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -672947.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d9cee8e919a2d9b978d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -503889.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2dcc141a4959859528f5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2694131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2f23bc0a8fcdceaac37e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2308284.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c904ea707f0fa5942ea8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1717951.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "03653d1aa6522ea5b825",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1584664.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "46fbccddc6c7918d6e62",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2174997.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "788e940792d9dae4a754",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2560844.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ab1f43193bddb7939ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 133287.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8465d7d9732840d2ec1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 133287.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d70ba64a34d0efcb0f08",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 133287.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b59c003485bdfc8a6c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -491940.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "854879715e79f36621b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -887688.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2157aaa23dcb657fc91",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -658506.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24e9960d35a5f65b8be5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -485361.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3c2518a58c4d95610e42",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -862752.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d0a04e20575a2806e3ea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -646012.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15bd6c3fd40ab313432f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4067243.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a130d9fdf226bd6568a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4508409.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6c31fe693cfc7e6f0ec",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925503436-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4444820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "76d0ad66af678d74c978",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925503436"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.710"
+    },
+    {
+      "availability": "available",
+      "claim_id": "53cab14db0110e132940",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925503436"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "dd49482f8cba9016dff6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925503436"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BOUTIQUE JEKTA AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2db39a020b5c0cb865e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925503436"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 11
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f2a169314af15d87e1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925503436-6f29e004d76d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kenneth Smith",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "60c91923c5f8712b291d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925503436-b1558a2a45e1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE BOREALIS AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ead3f2785565a39a78f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925503436-366071861ace"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tommy Smith",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e795e94daf37492d3cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925503436-2dee029a28e5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "RUNE REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7ec0e49b3efea9369fa9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925503436-b816f3213000"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kenneth Smith",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3c8de868ec4006cf677",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-925503436-825521852"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:30Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Bentsrudveien 11"
+          ],
+          "kommune": "HOLMESTRAND",
+          "kommunenummer": "3903",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3083",
+          "poststed": "HOLMESTRAND"
+        },
+        "employees": 11,
+        "industry": {
+          "beskrivelse": "Detaljhandel med klær",
+          "kode": "47.710"
+        },
+        "name": "BOUTIQUE JEKTA AS",
+        "organisation_number": "825521852"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 4444820.0, operating_result: -491940.0, profit_before_tax: -485361.0, annual_result: -378582.0, assets: 1717951.0, equity: 133287.0, debt: 1584664.0",
+      "content_sha256": "b93cbd08fa63f9d009ec338f86801d8638509c641789fb9073c391b33545ff8d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "http_status": 200,
+      "id": "ev-fin-925503436-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:08.326274Z",
+      "snapshot_ref": "b9/b93cbd08fa63f9d009ec338f86801d8638509c641789fb9073c391b33545ff8d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 4508409.0, operating_result: -658506.0, profit_before_tax: -646012.0, annual_result: -503889.0, assets: 2694131.0, equity: 133287.0, debt: 2560844.0",
+      "content_sha256": "f34ef3635145a6971d77016f491a29aea6d60276e2b80090f6b3ca49b1d9ab3d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "http_status": 200,
+      "id": "ev-fin-925503436-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:08.326274Z",
+      "snapshot_ref": "f3/f34ef3635145a6971d77016f491a29aea6d60276e2b80090f6b3ca49b1d9ab3d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 4067243.0, operating_result: -887688.0, profit_before_tax: -862752.0, annual_result: -672947.0, assets: 2308284.0, equity: 133287.0, debt: 2174997.0",
+      "content_sha256": "5c7000a6b07489512f1a9595c0c477513ef557d9806e82bdc577d4e94a068d10",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "http_status": 200,
+      "id": "ev-fin-925503436-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:08.326274Z",
+      "snapshot_ref": "5c/5c7000a6b07489512f1a9595c0c477513ef557d9806e82bdc577d4e94a068d10.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 825521852: BOUTIQUE JEKTA AS",
+      "content_sha256": "fd819342edcc8a0e30992b2930e4b974b617813bc59db6622aa09f48e4f534df",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925503436&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-925503436-825521852",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:11.868219Z",
+      "snapshot_ref": "fd/fd819342edcc8a0e30992b2930e4b974b617813bc59db6622aa09f48e4f534df.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925503436&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 925503436 BOUTIQUE JEKTA AS",
+      "content_sha256": "60394ed84c7ec784f99c489005c05fd999c97c7d2a9811500a268d2d50def91b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-925503436",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "60/60394ed84c7ec784f99c489005c05fd999c97c7d2a9811500a268d2d50def91b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: RUNE REGNSKAP AS",
+      "content_sha256": "9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "http_status": 200,
+      "id": "ev-role-925503436-2dee029a28e5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.489931Z",
+      "snapshot_ref": "9a/9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tommy Smith",
+      "content_sha256": "9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "http_status": 200,
+      "id": "ev-role-925503436-366071861ace",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.489931Z",
+      "snapshot_ref": "9a/9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Kenneth Smith",
+      "content_sha256": "9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "http_status": 200,
+      "id": "ev-role-925503436-6f29e004d76d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.489931Z",
+      "snapshot_ref": "9a/9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE BOREALIS AS",
+      "content_sha256": "9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "http_status": 200,
+      "id": "ev-role-925503436-b1558a2a45e1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.489931Z",
+      "snapshot_ref": "9a/9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Kenneth Smith",
+      "content_sha256": "9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "http_status": 200,
+      "id": "ev-role-925503436-b816f3213000",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:09.489931Z",
+      "snapshot_ref": "9a/9a7eaf0806f6d72b4f3b7973b12de9d83ca1a9814cb872fceb4b40f8a91537d6.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03653d1aa6522ea5b825",
+        "15bd6c3fd40ab313432f",
+        "1f26618912672381d6bb",
+        "24e9960d35a5f65b8be5",
+        "2ab1f43193bddb7939ca",
+        "2dcc141a4959859528f5",
+        "2f23bc0a8fcdceaac37e",
+        "3c2518a58c4d95610e42",
+        "46fbccddc6c7918d6e62",
+        "788e940792d9dae4a754",
+        "7b59c003485bdfc8a6c9",
+        "8465d7d9732840d2ec1a",
+        "854879715e79f36621b7",
+        "8f4a1773783a1e85ee17",
+        "9a130d9fdf226bd6568a",
+        "c2157aaa23dcb657fc91",
+        "c904ea707f0fa5942ea8",
+        "d0a04e20575a2806e3ea",
+        "d70ba64a34d0efcb0f08",
+        "d9cee8e919a2d9b978d3",
+        "f6c31fe693cfc7e6f0ec"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2db39a020b5c0cb865e6",
+        "53cab14db0110e132940",
+        "76d0ad66af678d74c978",
+        "dd49482f8cba9016dff6"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3f2a169314af15d87e1a",
+        "60c91923c5f8712b291d",
+        "6ead3f2785565a39a78f",
+        "7e795e94daf37492d3cd",
+        "7ec0e49b3efea9369fa9"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f3c8de868ec4006cf677"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "dd49482f8cba9016dff6",
+      "53cab14db0110e132940",
+      "2db39a020b5c0cb865e6",
+      "76d0ad66af678d74c978"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "BOUTIQUE JEKTA AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 23823,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "925503436",
+  "profile": {
+    "bankrupt": false,
+    "employees": 11,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.558313Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "925503436",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "2e012d1c65958309156621d67f3ab182d10205b97e4b1c26d80fce553b04a8cd",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:08.326274Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925503436",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -378582.0,
+              "assets": 1717951.0,
+              "currency": "NOK",
+              "debt": 1584664.0,
+              "equity": 133287.0,
+              "operating_result": -491940.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -485361.0,
+              "record_id": 5299855,
+              "revenue": 4444820.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -503889.0,
+              "assets": 2694131.0,
+              "currency": "NOK",
+              "debt": 2560844.0,
+              "equity": 133287.0,
+              "operating_result": -658506.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -646012.0,
+              "record_id": 6238311,
+              "revenue": 4508409.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -672947.0,
+              "assets": 2308284.0,
+              "currency": "NOK",
+              "debt": 2174997.0,
+              "equity": 133287.0,
+              "operating_result": -887688.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -862752.0,
+              "record_id": 6763908,
+              "revenue": 4067243.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:10.662343Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/925503436",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "13ca97c3897bd6d7fd3b6abc2634352c5ad108a87c4731b7b57f0259230dd65e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:11.868219Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925503436&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Bentsrudveien 11"
+                ],
+                "kommune": "HOLMESTRAND",
+                "kommunenummer": "3903",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3083",
+                "poststed": "HOLMESTRAND"
+              },
+              "employees": 11,
+              "industry": {
+                "beskrivelse": "Detaljhandel med klær",
+                "kode": "47.710"
+              },
+              "name": "BOUTIQUE JEKTA AS",
+              "organisation_number": "825521852"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "925503436",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Varehandel med dertil hørende virksomhet.",
+          "antallAnsatte": "11",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Bentsrudveien 11",
+          "forretningsadresse.kommune": "HOLMESTRAND",
+          "forretningsadresse.kommunenummer": "3903",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3083",
+          "forretningsadresse.poststed": "HOLMESTRAND",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-08-18",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Detaljhandel med klær",
+          "naeringskode1.kode": "47.710",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "BOUTIQUE JEKTA AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "925503436",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2020-08-18",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-11-17",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2020-08-18",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-06-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-06-25",
+          "vedtektsfestetFormaal": "Varehandel med dertil hørende virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "23c3393eb1c941410ef0871410df98fe54477e302c36bde4376acce5a181fbb5",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:09.489931Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925503436/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-08-18",
+              "name": "Kenneth Smith",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-07-09",
+              "name": "Kenneth Smith",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-07-09",
+              "name": "Tommy Smith",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-07-09",
+              "name": [
+                "CEDRA NORGE BOREALIS AS"
+              ],
+              "organisation_number": "936295800",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2020-09-22",
+              "name": [
+                "RUNE REGNSKAP AS"
+              ],
+              "organisation_number": "889713712",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "47.710",
+    "industry_label": "Detaljhandel med klær",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HOLMESTRAND",
+    "municipality_number": "3903",
+    "name": "BOUTIQUE JEKTA AS",
+    "organisation_number": "925503436",
+    "run_metrics": {
+      "latencies_ms": [
+        1233,
+        1171,
+        1172,
+        1202,
+        32,
+        62,
+        15187,
+        77,
+        62,
+        3625
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:30Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "BOUTIQUE JEKTA AS (AS, org.nr 925503436)",
+    "what_it_does": "BOUTIQUE JEKTA AS is classified under NACE code 47.710 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, BOUTIQUE JEKTA AS reported revenue of 4,067,243 NOK and an operating result of -887,688 NOK. Net result was -672,947 NOK, with total assets of 2,308,284 NOK and equity of 133,287 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was -21.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Kenneth Smith. Daily operations are led by general manager Kenneth Smith. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "BOUTIQUE JEKTA AS is classified under NACE code 47.710 (unspecified).",
+        "claim_ids": [
+          "76d0ad66af678d74c978",
+          "dd49482f8cba9016dff6"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "53cab14db0110e132940",
+          "76d0ad66af678d74c978"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, BOUTIQUE JEKTA AS reported revenue of 4,067,243 NOK and an operating result of -887,688 NOK.",
+        "claim_ids": [
+          "15bd6c3fd40ab313432f",
+          "854879715e79f36621b7"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -672,947 NOK, with total assets of 2,308,284 NOK and equity of 133,287 NOK.",
+        "claim_ids": [
+          "8f4a1773783a1e85ee17",
+          "2f23bc0a8fcdceaac37e",
+          "8465d7d9732840d2ec1a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "8f4a1773783a1e85ee17"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "15bd6c3fd40ab313432f",
+          "9a130d9fdf226bd6568a"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -21.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "854879715e79f36621b7",
+          "15bd6c3fd40ab313432f"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Kenneth Smith.",
+        "claim_ids": [
+          "7ec0e49b3efea9369fa9"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Daily operations are led by general manager Kenneth Smith.",
+        "claim_ids": [
+          "3f2a169314af15d87e1a"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "3f2a169314af15d87e1a",
+          "60c91923c5f8712b291d",
+          "6ead3f2785565a39a78f",
+          "7e795e94daf37492d3cd",
+          "7ec0e49b3efea9369fa9"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "dd49482f8cba9016dff6"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "f3c8de868ec4006cf677"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "dd49482f8cba9016dff6"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "dd49482f8cba9016dff6"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "dd49482f8cba9016dff6"
+        ]
+      }
+    ]
+  }
+}

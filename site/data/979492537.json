@@ -1,0 +1,1523 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2dab870367aa6bdf261f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -141699.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "98ab2d96545df74417b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -510120.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b5040634624cc4f4d13e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 200115.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "46dce55e8366a211317d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7577504.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c105928e82d47e8d4f0d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9556208.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1a6b5ef39ac79f78c29",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9356129.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5a4c7d32d094cb864e04",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9100027.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c57251fdd7cbb8bf6a0f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9100062.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d79ef1ed35b19be9abe6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6811318.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "04b2437b9a6cc32b0d73",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 766186.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2edd78ec38c694e16096",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 256066.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a940ad72043dafc1ad1e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 456182.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "17f900134b863b787dcd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1632791.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "25e0b0074b636cf9d07b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -191413.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aa13eb739de88a3a8c14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -434051.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a5875f924589a16bcfbb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -181666.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b77eead9cc859f4092ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1223164.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1ed98a99ace718cdab1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979492537-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 256558.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aeed1389e4949f1a001d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979492537"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "aeb21f2e7666143d5ba9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979492537"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "93f10086e398dc174964",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979492537"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "FOYN EIENDOM AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "12df7879959ebb92e67d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979492537-c6fb223d5a87"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Asbjørn Barkve",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "94f7068852b788102f94",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979492537-38d18f582443"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE BOREALIS AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b4410136f4e4c6851c35",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979492537-8c9792101696"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Pål Grabow Bakke Egeland",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -434051.0, profit_before_tax: -181666.0, annual_result: -141699.0, assets: 7577504.0, equity: 766186.0, debt: 6811318.0",
+      "content_sha256": "28d13d0597d1305bad0159b9cd2c9cbb84e1e537f5ad1ec65fe1ae9b268f521f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "http_status": 200,
+      "id": "ev-fin-979492537-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:42.579308Z",
+      "snapshot_ref": "28/28d13d0597d1305bad0159b9cd2c9cbb84e1e537f5ad1ec65fe1ae9b268f521f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -1632791.0, profit_before_tax: -1223164.0, annual_result: -510120.0, assets: 9356129.0, equity: 256066.0, debt: 9100062.0",
+      "content_sha256": "234da266b0023c791e09e891358d486c4ff51a847006e1db555d11e51334f28a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "http_status": 200,
+      "id": "ev-fin-979492537-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:42.579308Z",
+      "snapshot_ref": "23/234da266b0023c791e09e891358d486c4ff51a847006e1db555d11e51334f28a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -191413.0, profit_before_tax: 256558.0, annual_result: 200115.0, assets: 9556208.0, equity: 456182.0, debt: 9100027.0",
+      "content_sha256": "e9decd7b59a3f676efc120ebd7b6d99604abb7cdbdd39982c280f0943ce7cc19",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "http_status": 200,
+      "id": "ev-fin-979492537-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:42.579308Z",
+      "snapshot_ref": "e9/e9decd7b59a3f676efc120ebd7b6d99604abb7cdbdd39982c280f0943ce7cc19.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 979492537 FOYN EIENDOM AS",
+      "content_sha256": "a5fbf6abf06442fa08374259a2130c98c5713eb967dec1117249a67d7d0d3a6f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-979492537",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "a5/a5fbf6abf06442fa08374259a2130c98c5713eb967dec1117249a67d7d0d3a6f.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: CEDRA NORGE BOREALIS AS",
+      "content_sha256": "73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "http_status": 200,
+      "id": "ev-role-979492537-38d18f582443",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:43.782515Z",
+      "snapshot_ref": "73/73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Pål Grabow Bakke Egeland",
+      "content_sha256": "73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "http_status": 200,
+      "id": "ev-role-979492537-8c9792101696",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:43.782515Z",
+      "snapshot_ref": "73/73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Asbjørn Barkve",
+      "content_sha256": "73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "http_status": 200,
+      "id": "ev-role-979492537-c6fb223d5a87",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:43.782515Z",
+      "snapshot_ref": "73/73ea3117e8aeab069982b038f7b96539ae1006715a38f9f75aa8f03062292ce7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04b2437b9a6cc32b0d73",
+        "17f900134b863b787dcd",
+        "25e0b0074b636cf9d07b",
+        "2dab870367aa6bdf261f",
+        "2edd78ec38c694e16096",
+        "46dce55e8366a211317d",
+        "5a4c7d32d094cb864e04",
+        "98ab2d96545df74417b8",
+        "a5875f924589a16bcfbb",
+        "a940ad72043dafc1ad1e",
+        "aa13eb739de88a3a8c14",
+        "b5040634624cc4f4d13e",
+        "b77eead9cc859f4092ca",
+        "c105928e82d47e8d4f0d",
+        "c1a6b5ef39ac79f78c29",
+        "c1ed98a99ace718cdab1",
+        "c57251fdd7cbb8bf6a0f",
+        "d79ef1ed35b19be9abe6"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "93f10086e398dc174964",
+        "aeb21f2e7666143d5ba9",
+        "aeed1389e4949f1a001d"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "12df7879959ebb92e67d",
+        "94f7068852b788102f94",
+        "b4410136f4e4c6851c35"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "93f10086e398dc174964",
+      "aeb21f2e7666143d5ba9",
+      "aeed1389e4949f1a001d"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "FOYN EIENDOM AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 7072,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "979492537",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:00.538040Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "979492537",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "026ed5471d3abd7d6a8ce8fdaad80ed47f8c722a031b941d312599871c493ccc",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:42.579308Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979492537",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -141699.0,
+              "assets": 7577504.0,
+              "currency": "NOK",
+              "debt": 6811318.0,
+              "equity": 766186.0,
+              "operating_result": -434051.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -181666.0,
+              "record_id": 5159029,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -510120.0,
+              "assets": 9356129.0,
+              "currency": "NOK",
+              "debt": 9100062.0,
+              "equity": 256066.0,
+              "operating_result": -1632791.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -1223164.0,
+              "record_id": 6058083,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 200115.0,
+              "assets": 9556208.0,
+              "currency": "NOK",
+              "debt": 9100027.0,
+              "equity": 456182.0,
+              "operating_result": -191413.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 256558.0,
+              "record_id": 6625457,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e28b29d7f03b53255a2995ca019d2c421af118819314e468bd9609162c69a9d3",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:45.021292Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/979492537",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STORGATEN 51 TØNSBERG AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "997024494",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "dato": "2025-01-25",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ROLV WESENLUNDS VEI 1 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "928464652",
+                      "parentNavn": "RW EIENDOM AS",
+                      "parentOrganisasjonsnummer": "918654755"
+                    }
+                  ],
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "RW EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "918654755",
+                  "parentNavn": "FOLKSOM BOLIG AS",
+                  "parentOrganisasjonsnummer": "986475923"
+                }
+              ],
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "FOLKSOM BOLIG AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "986475923",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SMIDSRØDVEIEN 6 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "930465887",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "TEIE PARKERING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "928583457",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "FRIENDS AT WORK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "921985894",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "dato": "2025-01-25",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "FÆRDER NASJONALPARK HOTELL AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "988883034",
+                      "parentNavn": "GREPAN AS",
+                      "parentOrganisasjonsnummer": "927001306"
+                    }
+                  ],
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "GREPAN AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "927001306",
+                  "parentNavn": "FOLKSOM UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "918709266"
+                },
+                {
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "VEAR X AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "920901492",
+                  "parentNavn": "FOLKSOM UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "918709266"
+                }
+              ],
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "FOLKSOM UTVIKLING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "918709266",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "children": [
+                {
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "FOYNKVARTALET NÆRING AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "986756094",
+                  "parentNavn": "FOYN HOLDING AS",
+                  "parentOrganisasjonsnummer": "913726006"
+                },
+                {
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "FOYN EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "979492537",
+                  "parentNavn": "FOYN HOLDING AS",
+                  "parentOrganisasjonsnummer": "913726006"
+                },
+                {
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "STORGATEN 28 TØNSBERG AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "914912644",
+                  "parentNavn": "FOYN HOLDING AS",
+                  "parentOrganisasjonsnummer": "913726006"
+                },
+                {
+                  "dato": "2025-01-25",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "FOYNKVARTALET AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "912295133",
+                  "parentNavn": "FOYN HOLDING AS",
+                  "parentOrganisasjonsnummer": "913726006"
+                }
+              ],
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "FOYN HOLDING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "913726006",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            },
+            {
+              "dato": "2025-01-24",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "FOLKSOM EIENDOM AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "911728451",
+              "parentNavn": "FOLKSOM AS",
+              "parentOrganisasjonsnummer": "964398003"
+            }
+          ],
+          "navn": "FOLKSOM AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "964398003"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "58dfff18c4641d365e5f77ceca896c81b81e1eaeba61f33253649596e065740e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:46.189688Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=979492537&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "979492537",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøp, ledelse, forvaltning og utvikling av fast eiendom,  herunder deltagelse i andre selskaper og alt som står i forbindelse med det.",
+          "antallAnsatte": "",
+          "epostadresse": "hei@folksom.no",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Storgaten 32",
+          "forretningsadresse.kommune": "TØNSBERG",
+          "forretningsadresse.kommunenummer": "3905",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3126",
+          "forretningsadresse.poststed": "TØNSBERG",
+          "fravalgRevisjonBeslutningsDato": "2025-11-12",
+          "fravalgRevisjonDato": "2025-11-26",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.folksom.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100000",
+          "kapital.belop": "249450.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-09-21",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utvikling og salg av byggeprosjekter",
+          "naeringskode1.kode": "68.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "FOYN EIENDOM AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "979492537",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "1998-02-09",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "1998-02-09",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1997-12-18",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-07-02",
+          "vedtektsfestetFormaal": "Kjøp, ledelse, forvaltning og utvikling av fast eiendom,  herunder deltagelse i andre selskaper og alt som står i forbindelse med det."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "3b14be24fd32cabd5b4124272ff82a0f3b764b4ae924bc2a409fe4fb5255694e",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:43.782515Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979492537/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2017-02-27",
+              "name": "Pål Grabow Bakke Egeland",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2017-02-27",
+              "name": "Asbjørn Barkve",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2026-06-24",
+              "name": [
+                "CEDRA NORGE BOREALIS AS"
+              ],
+              "organisation_number": "936295800",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.120",
+    "industry_label": "Utvikling og salg av byggeprosjekter",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "TØNSBERG",
+    "municipality_number": "3905",
+    "name": "FOYN EIENDOM AS",
+    "organisation_number": "979492537",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1203,
+        1250,
+        1156,
+        1656,
+        187,
+        77,
+        62,
+        62,
+        62,
+        46,
+        93
+      ],
+      "requests": 12
+    },
+    "website": "www.folksom.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:48Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "FOYN EIENDOM AS (AS, org.nr 979492537)",
+    "what_it_does": "FOYN EIENDOM AS is classified under NACE code 68.120 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 200,115 NOK, with total assets of 9,556,208 NOK and equity of 456,182 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Pål Grabow Bakke Egeland. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "FOYN EIENDOM AS is classified under NACE code 68.120 (unspecified).",
+        "claim_ids": [
+          "aeed1389e4949f1a001d",
+          "93f10086e398dc174964"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "aeb21f2e7666143d5ba9",
+          "aeed1389e4949f1a001d"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 200,115 NOK, with total assets of 9,556,208 NOK and equity of 456,182 NOK.",
+        "claim_ids": [
+          "b5040634624cc4f4d13e",
+          "c105928e82d47e8d4f0d",
+          "a940ad72043dafc1ad1e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Pål Grabow Bakke Egeland.",
+        "claim_ids": [
+          "b4410136f4e4c6851c35"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "12df7879959ebb92e67d",
+          "94f7068852b788102f94",
+          "b4410136f4e4c6851c35"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "93f10086e398dc174964"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "93f10086e398dc174964"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "93f10086e398dc174964"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "93f10086e398dc174964"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "93f10086e398dc174964"
+        ]
+      }
+    ]
+  }
+}

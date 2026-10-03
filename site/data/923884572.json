@@ -1,0 +1,1287 @@
+{
+  "availability": "not_applicable",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "062459e655817c827a93",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f2ce167bab6bf146f14b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -110247.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "febec7ed6b7a99fe3587",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "20c76660eab0d0b4b664",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6656.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5125e17646fee1568196",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6656.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6b391ba7de82282ffff1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6656.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1392a8a674c0c21c6005",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 429629.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "36f85fd66a3251fe6f4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 429630.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7a75d7749f6524a9ed4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 429630.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "228dace815e80baf41e3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -422974.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ce8b6d0844a18d81f01",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -422974.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "92b84774765fffd1bb3b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -422973.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "30508e8835e0c4b47d16",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2e877db81470bdf4e75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -110311.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e5d8efd7e6db21519c92",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1fb82949ac8c2271f782",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aa9478999efc83625b41",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -110247.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fac17dc0244bdc23c170",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "155926a4a78953d472a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4235abbda261bdce13d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6253907d9b30f99e8bcd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923884572-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 49841.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bca838a37ffb18ab1806",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923884572"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "96.220"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e24e2bb672b99e4e0467",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923884572"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e23501ead2ed6ddd0d6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923884572"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "HAPPY NAILS AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "46c7e44ee59120f6ec88",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923884572-d5068c65e213"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tieu Thanh Phuong",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b6b5219a8865aef8d9a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923884572-0279ab108b69"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Huong Lien Ngoc Nguyen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f474279d79f8d73b1943",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923884572-08f6079dca2c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:28Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ECO FINANS AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 49841.0, operating_result: -110311.0, profit_before_tax: -110247.0, annual_result: -110247.0, assets: 6656.0, equity: -422974.0, debt: 429630.0",
+      "content_sha256": "8d1d8b99098fd333453698fdd6b6dc67853f1943c198784dde0bdf01b11ab3f3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "http_status": 200,
+      "id": "ev-fin-923884572-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.124111Z",
+      "snapshot_ref": "8d/8d1d8b99098fd333453698fdd6b6dc67853f1943c198784dde0bdf01b11ab3f3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 0.0, operating_result: 0.0, profit_before_tax: 0.0, annual_result: 0.0, assets: 6656.0, equity: -422974.0, debt: 429630.0",
+      "content_sha256": "45d3714f4d4daef969348f41340997469bdce565aee3a5917198cda43798c5d3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "http_status": 200,
+      "id": "ev-fin-923884572-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.124111Z",
+      "snapshot_ref": "45/45d3714f4d4daef969348f41340997469bdce565aee3a5917198cda43798c5d3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: 0.0, profit_before_tax: 0.0, annual_result: 0.0, assets: 6656.0, equity: -422973.0, debt: 429629.0",
+      "content_sha256": "4bd7af4ab853af95763c7e4bfc69409d1dda7eb1deb125ff25abfdb9ab16b29a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "http_status": 200,
+      "id": "ev-fin-923884572-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:47.124111Z",
+      "snapshot_ref": "4b/4bd7af4ab853af95763c7e4bfc69409d1dda7eb1deb125ff25abfdb9ab16b29a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 923884572 HAPPY NAILS AS",
+      "content_sha256": "0db030fa83708a303b0a03ec28fcc4efe4d8a4e96f7636f5a41eb9f71dc3461f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-923884572",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "0d/0db030fa83708a303b0a03ec28fcc4efe4d8a4e96f7636f5a41eb9f71dc3461f.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Huong Lien Ngoc Nguyen",
+      "content_sha256": "b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "http_status": 200,
+      "id": "ev-role-923884572-0279ab108b69",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.300314Z",
+      "snapshot_ref": "b1/b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ECO FINANS AS",
+      "content_sha256": "b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "http_status": 200,
+      "id": "ev-role-923884572-08f6079dca2c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.300314Z",
+      "snapshot_ref": "b1/b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Tieu Thanh Phuong",
+      "content_sha256": "b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "http_status": 200,
+      "id": "ev-role-923884572-d5068c65e213",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:48.300314Z",
+      "snapshot_ref": "b1/b1a79ec07632fb31c02972f8b57b248e71abecd7b1606c817f4c75b1e5f81554.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "062459e655817c827a93",
+        "1392a8a674c0c21c6005",
+        "155926a4a78953d472a9",
+        "1fb82949ac8c2271f782",
+        "20c76660eab0d0b4b664",
+        "228dace815e80baf41e3",
+        "2ce8b6d0844a18d81f01",
+        "30508e8835e0c4b47d16",
+        "36f85fd66a3251fe6f4b",
+        "4235abbda261bdce13d8",
+        "5125e17646fee1568196",
+        "6253907d9b30f99e8bcd",
+        "6b391ba7de82282ffff1",
+        "92b84774765fffd1bb3b",
+        "aa9478999efc83625b41",
+        "c7a75d7749f6524a9ed4",
+        "e2e877db81470bdf4e75",
+        "e5d8efd7e6db21519c92",
+        "f2ce167bab6bf146f14b",
+        "fac17dc0244bdc23c170",
+        "febec7ed6b7a99fe3587"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0e23501ead2ed6ddd0d6",
+        "bca838a37ffb18ab1806",
+        "e24e2bb672b99e4e0467"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "46c7e44ee59120f6ec88",
+        "b6b5219a8865aef8d9a0",
+        "f474279d79f8d73b1943"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "0e23501ead2ed6ddd0d6",
+      "e24e2bb672b99e4e0467",
+      "bca838a37ffb18ab1806"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": true
+    },
+    "legal_name": "HAPPY NAILS AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 43448,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "923884572",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.011607Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "923884572",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "7939d63a86a8430e40e0cbbb198190ee5c66b89e238aa19f711deb6434e8dc3b",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:47.124111Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923884572",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -110247.0,
+              "assets": 6656.0,
+              "currency": "NOK",
+              "debt": 429630.0,
+              "equity": -422974.0,
+              "operating_result": -110311.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -110247.0,
+              "record_id": 4726439,
+              "revenue": 49841.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 6656.0,
+              "currency": "NOK",
+              "debt": 429630.0,
+              "equity": -422974.0,
+              "operating_result": 0.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 6089919,
+              "revenue": 0.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 6656.0,
+              "currency": "NOK",
+              "debt": 429629.0,
+              "equity": -422973.0,
+              "operating_result": 0.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 6724140,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:49.483273Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/923884572",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "7ca539a415a250c913c3b1823abdbe0b2b0b161f10fd7279a167752e7ddc69c7",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:50.700864Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923884572&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "923884572",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Skjønnhetssalong herunder hudpleie, negledesign, import og omsetning av negle- og skjønnhetsprodukter som naturlig hører inn under dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Garver Ytteborgs vei 98",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0977",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2019-11-11",
+          "fravalgRevisjonDato": "2019-11-25",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2019-11-25",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Skjønnhetspleie",
+          "naeringskode1.kode": "96.220",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "HAPPY NAILS AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "923884572",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2019-11-25",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2019-11-25",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-11-11",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "true",
+          "underAvviklingDato": "2026-09-30",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2019-11-11",
+          "vedtektsfestetFormaal": "Skjønnhetssalong herunder hudpleie, negledesign, import og omsetning av negle- og skjønnhetsprodukter som naturlig hører inn under dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "123d2750fd6a60a9edf78770936f112bbf90e7353beaa05b8b386629ea1b404e",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:48.300314Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923884572/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-11-29",
+              "name": "Tieu Thanh Phuong",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2022-11-29",
+              "name": "Huong Lien Ngoc Nguyen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": true,
+              "last_changed": "2026-03-31",
+              "name": [
+                "ECO FINANS AS"
+              ],
+              "organisation_number": "915714641",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "96.220",
+    "industry_label": "Skjønnhetspleie",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": true,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "HAPPY NAILS AS",
+    "organisation_number": "923884572",
+    "run_metrics": {
+      "latencies_ms": [
+        2108,
+        1172,
+        1187,
+        1218,
+        31,
+        62,
+        4562,
+        1483,
+        1500,
+        30125
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:28Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "not_applicable",
+  "status": "not_applicable",
+  "status_reason": "entity_deleted_or_in_insolvency_process",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "HAPPY NAILS AS (AS, org.nr 923884572)",
+    "what_it_does": "HAPPY NAILS AS is classified under NACE code 96.220 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, HAPPY NAILS AS reported revenue of 0 NOK and an operating result of 0 NOK. Net result was 0 NOK, with total assets of 6,656 NOK and equity of -422,973 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Tieu Thanh Phuong. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "HAPPY NAILS AS is classified under NACE code 96.220 (unspecified).",
+        "claim_ids": [
+          "bca838a37ffb18ab1806",
+          "0e23501ead2ed6ddd0d6"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "e24e2bb672b99e4e0467",
+          "bca838a37ffb18ab1806"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, HAPPY NAILS AS reported revenue of 0 NOK and an operating result of 0 NOK.",
+        "claim_ids": [
+          "155926a4a78953d472a9",
+          "e5d8efd7e6db21519c92"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 0 NOK, with total assets of 6,656 NOK and equity of -422,973 NOK.",
+        "claim_ids": [
+          "febec7ed6b7a99fe3587",
+          "6b391ba7de82282ffff1",
+          "92b84774765fffd1bb3b"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Tieu Thanh Phuong.",
+        "claim_ids": [
+          "46c7e44ee59120f6ec88"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "46c7e44ee59120f6ec88",
+          "b6b5219a8865aef8d9a0",
+          "f474279d79f8d73b1943"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "0e23501ead2ed6ddd0d6"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "0e23501ead2ed6ddd0d6"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "0e23501ead2ed6ddd0d6"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "0e23501ead2ed6ddd0d6"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "0e23501ead2ed6ddd0d6"
+        ]
+      }
+    ]
+  }
+}

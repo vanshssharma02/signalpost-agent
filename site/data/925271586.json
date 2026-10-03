@@ -1,0 +1,1515 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "6b5550c4e65551cb0b83",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1950471.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0039fe3ec3b553f13aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 885844.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d61141bb790a76046dbf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2183049.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e3ae6bde60e88cfde57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22177906.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4d57ae3c553b1de591ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18272649.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "be7ab380c9a37ab7f6f8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22466567.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3425c7b82257eda35052",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18470362.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a57dbf868e5c5dd2453",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16062329.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "59b7f89d76a1ba789f3a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18655813.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "25187aaca4e558651068",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2210319.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "60c3a8950b35011d2f2e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3522094.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b5ca9fad04dd742a3838",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3996205.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e86a08923c1b2bb64e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1935442.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "212bf26cd1de906d986f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3312668.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d0cd054b4a3f62f8a2d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3668473.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15f7b843d2c8796faac2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1148973.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bb80929ebd6c37a05f5e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2512778.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ca6ca20ecac43ea82838",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2800238.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9da956130f98423f8b6d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 46050174.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6a747bffe220d48214c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 51258040.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0aa63b0dfdef348df5a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925271586-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 45174040.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0f856b5c510c0a7d7328",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-925271586"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Kvam Transport"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0dba56c03ab3a034b0dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925271586"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "49.410"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0974b1f345fe056d77a8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925271586"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b834eb24f254a170db13",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925271586"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "KVAM TRANSPORT AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "18be5cf5c4bff6d3e5da",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925271586"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 49
+    },
+    {
+      "availability": "available",
+      "claim_id": "307ba945b9c6159e644c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925271586-3c88be01d5a7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Thomas Kvam",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8005e25d7994cc7d96b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925271586-502e1c336472"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HLO REVISJON & RÅDGIVNING AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a23159f7cc391e6e7612",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925271586-7e84bb679b4b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AIDER AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e09aad192615bb8b261b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925271586-b5872dfb60e5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Thomas Kvam",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f9adc52aac156ed2a87a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-925271586-980765229"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Rødmyrjordet 13"
+          ],
+          "kommune": "SKIEN",
+          "kommunenummer": "4003",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3735",
+          "poststed": "SKIEN"
+        },
+        "employees": 49,
+        "industry": {
+          "beskrivelse": "Godstransport på vei",
+          "kode": "49.410"
+        },
+        "name": "KVAM TRANSPORT AS",
+        "organisation_number": "980765229"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4f244148786cb59bd17f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-925271586"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:49:33Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:49:33Z",
+      "method": "domain_guess",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://kvam-transport.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 46050174.0, operating_result: 3312668.0, profit_before_tax: 2800238.0, annual_result: 2183049.0, assets: 18272649.0, equity: 2210319.0, debt: 16062329.0",
+      "content_sha256": "8d0656c49af864269bfa5da80786e1a2c052cedf9b171e354996ab4d9369c5f3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "http_status": 200,
+      "id": "ev-fin-925271586-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:12.260525Z",
+      "snapshot_ref": "8d/8d0656c49af864269bfa5da80786e1a2c052cedf9b171e354996ab4d9369c5f3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 45174040.0, operating_result: 1935442.0, profit_before_tax: 1148973.0, annual_result: 885844.0, assets: 22466567.0, equity: 3996205.0, debt: 18470362.0",
+      "content_sha256": "a976595a8d308c6aff713bac6c7d0a43322ecfd2d9999693178b2c86af736d74",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "http_status": 200,
+      "id": "ev-fin-925271586-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:12.260525Z",
+      "snapshot_ref": "a9/a976595a8d308c6aff713bac6c7d0a43322ecfd2d9999693178b2c86af736d74.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 51258040.0, operating_result: 3668473.0, profit_before_tax: 2512778.0, annual_result: 1950471.0, assets: 22177906.0, equity: 3522094.0, debt: 18655813.0",
+      "content_sha256": "256443de0903a1c57de7e8efd42520dbd4a9db155083d23cdd54331c3c82de3f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "http_status": 200,
+      "id": "ev-fin-925271586-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:12.260525Z",
+      "snapshot_ref": "25/256443de0903a1c57de7e8efd42520dbd4a9db155083d23cdd54331c3c82de3f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 980765229: KVAM TRANSPORT AS",
+      "content_sha256": "068116c50f6866153a9a7a6082eb4e1a56c643811719832f643ae56ac0df0c05",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925271586&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-925271586-980765229",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:15.850261Z",
+      "snapshot_ref": "06/068116c50f6866153a9a7a6082eb4e1a56c643811719832f643ae56ac0df0c05.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925271586&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 925271586 KVAM TRANSPORT AS",
+      "content_sha256": "9b0ffa59be4d42ebff9baf483a23acff12e0fdbcad8c5eb57e0e566dd8b65dfb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-925271586",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "9b/9b0ffa59be4d42ebff9baf483a23acff12e0fdbcad8c5eb57e0e566dd8b65dfb.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Thomas Kvam",
+      "content_sha256": "10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "http_status": 200,
+      "id": "ev-role-925271586-3c88be01d5a7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.459747Z",
+      "snapshot_ref": "10/10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: HLO REVISJON & RÅDGIVNING AS",
+      "content_sha256": "10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "http_status": 200,
+      "id": "ev-role-925271586-502e1c336472",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.459747Z",
+      "snapshot_ref": "10/10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AIDER AS",
+      "content_sha256": "10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "http_status": 200,
+      "id": "ev-role-925271586-7e84bb679b4b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.459747Z",
+      "snapshot_ref": "10/10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Thomas Kvam",
+      "content_sha256": "10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "http_status": 200,
+      "id": "ev-role-925271586-b5872dfb60e5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.459747Z",
+      "snapshot_ref": "10/10ec72fdafc09de8a4041dd9be369a7dbe8094799995d37a1ec5cee52e7be032.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "et 13, 3735 Skien Henting og levering etter avtale. Org.nr. 925 271 586 · Personvern © 2026 | Kvam Transport AS | Alle rettigheter ",
+      "content_sha256": "2978f07e8410fe1c90cbfef214c9c69ecbe1e3a6fa912fcc554c2d5dbeda272a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://kvam-transport.no/",
+      "http_status": 200,
+      "id": "ev-web-925271586",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:32Z",
+      "snapshot_ref": "29/2978f07e8410fe1c90cbfef214c9c69ecbe1e3a6fa912fcc554c2d5dbeda272a.gz",
+      "source_class": "company_owned",
+      "source_url": "https://kvam-transport.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "15f7b843d2c8796faac2",
+        "1e3ae6bde60e88cfde57",
+        "1e86a08923c1b2bb64e7",
+        "212bf26cd1de906d986f",
+        "25187aaca4e558651068",
+        "3425c7b82257eda35052",
+        "4a57dbf868e5c5dd2453",
+        "4d57ae3c553b1de591ce",
+        "59b7f89d76a1ba789f3a",
+        "60c3a8950b35011d2f2e",
+        "6b5550c4e65551cb0b83",
+        "9da956130f98423f8b6d",
+        "a0039fe3ec3b553f13aa",
+        "a6a747bffe220d48214c",
+        "b5ca9fad04dd742a3838",
+        "bb80929ebd6c37a05f5e",
+        "be7ab380c9a37ab7f6f8",
+        "ca6ca20ecac43ea82838",
+        "d0cd054b4a3f62f8a2d8",
+        "d61141bb790a76046dbf",
+        "f0aa63b0dfdef348df5a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0f856b5c510c0a7d7328"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0974b1f345fe056d77a8",
+        "0dba56c03ab3a034b0dc",
+        "18be5cf5c4bff6d3e5da",
+        "b834eb24f254a170db13"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "307ba945b9c6159e644c",
+        "8005e25d7994cc7d96b8",
+        "a23159f7cc391e6e7612",
+        "e09aad192615bb8b261b"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f9adc52aac156ed2a87a"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4f244148786cb59bd17f"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "b834eb24f254a170db13",
+      "0974b1f345fe056d77a8",
+      "18be5cf5c4bff6d3e5da",
+      "0dba56c03ab3a034b0dc"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "KVAM TRANSPORT AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 9,
+    "runtime_ms": 21826,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "925271586",
+  "profile": {
+    "bankrupt": false,
+    "employees": 49,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.468193Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "925271586",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "5c11513bd45e4bd714e389115b87405e2e668d815ee96f9132afa47650e2c89a",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:12.260525Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925271586",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2183049.0,
+              "assets": 18272649.0,
+              "currency": "NOK",
+              "debt": 16062329.0,
+              "equity": 2210319.0,
+              "operating_result": 3312668.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 2800238.0,
+              "record_id": 5428893,
+              "revenue": 46050174.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 885844.0,
+              "assets": 22466567.0,
+              "currency": "NOK",
+              "debt": 18470362.0,
+              "equity": 3996205.0,
+              "operating_result": 1935442.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1148973.0,
+              "record_id": 6168345,
+              "revenue": 45174040.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1950471.0,
+              "assets": 22177906.0,
+              "currency": "NOK",
+              "debt": 18655813.0,
+              "equity": 3522094.0,
+              "operating_result": 3668473.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 2512778.0,
+              "record_id": 6731628,
+              "revenue": 51258040.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:14.637702Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/925271586",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "7afc33b6dd078703b310301b2f23ce98b8340796bd221e00d2c4c315266b782d",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:15.850261Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925271586&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Rødmyrjordet 13"
+                ],
+                "kommune": "SKIEN",
+                "kommunenummer": "4003",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3735",
+                "poststed": "SKIEN"
+              },
+              "employees": 49,
+              "industry": {
+                "beskrivelse": "Godstransport på vei",
+                "kode": "49.410"
+              },
+              "name": "KVAM TRANSPORT AS",
+              "organisation_number": "980765229"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "925271586",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Varetransport og budservice og alt som herved måtte stå i forbindelse, herunder deltakelse i andre foretagender av hvilken som helst art, også deltagelse gjennom aksjeerverv.",
+          "antallAnsatte": "49",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Rødmyrjordet 13",
+          "forretningsadresse.kommune": "SKIEN",
+          "forretningsadresse.kommunenummer": "4003",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3735",
+          "forretningsadresse.poststed": "SKIEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1560000",
+          "kapital.belop": "1560000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-01-06",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Godstransport på vei",
+          "naeringskode1.kode": "49.410",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "KVAM TRANSPORT AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "925271586",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2020-06-30",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-09-03",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2020-06-30",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-06-18",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-12-08",
+          "vedtektsfestetFormaal": "Varetransport og budservice og alt som herved måtte stå i forbindelse, herunder deltakelse i andre foretagender av hvilken som helst art, også deltagelse gjennom aksjeerverv."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "dd3fb552c50c966a2ea12ebbad5eb8667efa9cb2190d45209a66b39e8e1cb653",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:13.459747Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925271586/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-06-30",
+              "name": "Thomas Kvam",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-06-30",
+              "name": "Thomas Kvam",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-01-07",
+              "name": [
+                "HLO REVISJON & RÅDGIVNING AS"
+              ],
+              "organisation_number": "989027654",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-12-09",
+              "name": [
+                "AIDER AS"
+              ],
+              "organisation_number": "922633452",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:49:32Z",
+        "source_url": "https://kvam-transport.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Kvam Transport",
+          "claim_span": "et 13, 3735 Skien Henting og levering etter avtale. Org.nr. 925 271 586 · Personvern © 2026 | Kvam Transport AS | Alle rettigheter ",
+          "final_url": "https://kvam-transport.no/",
+          "homepage": "https://kvam-transport.no/",
+          "page_html": "<!doctype html>\n<html lang=\"nb-NO\" class=\"no-js\" itemtype=\"https://schema.org/WebPage\" itemscope>\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, minimum-scale=1\">\n\t<!-- GTG GTM script Complianz GDPR/CCPA -->\n<script>window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('consent', 'default', {\n\t'security_storage': \"granted\",\n\t'functionality_storage': \"granted\",\n\t'personalization_storage': \"denied\",\n\t'analytics_storage': 'denied',\n\t'ad_storage': \"denied\",\n\t'ad_user_data': 'denied',\n\t'ad_personalization': 'denied',\n});\n\ndataLayer.push({\n\t'event': 'default_consent'\n});\n\ngtag('set', 'dYWVlZG', true);\ngtag('set', 'ads_data_redaction', false);\ngtag('set', 'url_passthrough', false);\ndocument.addEventListener(\"cmplz_fire_categories\", function (e) {\n\tfunction gtag(){\n\t\tdataLayer.push(arguments);\n\t}\n\tvar consentedCategories = e.detail.categories;\n\tlet preferences = 'denied';\n\tlet statistics = 'denied';\n\tlet marketing = 'denied';\n\n\tif (cmplz_in_array( 'preferences', consentedCategories )) {\n\t\tpreferences = 'granted';\n\t}\n\n\tif (cmplz_in_array( 'statistics', consentedCategories )) {\n\t\tstatistics = 'granted';\n\t}\n\n\tif (cmplz_in_array( 'marketing', consentedCategories )) {\n\t\tmarketing = 'granted';\n\t}\n\n\tgtag('consent', 'update', {\n\t\t'security_storage': \"granted\",\n\t\t'functionality_storage': \"granted\",\n\t\t'personalization_storage': preferences,\n\t\t'analytics_storage': statistics,\n\t\t'ad_storage': marketing,\n\t\t'ad_user_data': marketing,\n\t\t'ad_personalization': marketing,\n\t});\n});\n\ndocument.addEventListener(\"cmplz_revoke\", function (e) {\n\tgtag('consent', 'update', {\n\t\t'security_storage': \"granted\",\n\t\t'functionality_storage': \"granted\",\n\t\t'personalization_storage': \"denied\",\n\t\t'analytics_storage': 'denied',\n\t\t'ad_storage': \"denied\",\n\t\t'ad_user_data': 'denied',\n\t\t'ad_personalization': 'denied',\n\t});\n});\n</script>\n<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />\n<!-- Google tag (gtag.js) consent mode dataLayer added by Site Kit -->\n<script id=\"google_gtagjs-js-consent-mode-data-layer\">\nwindow.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}\ngtag('consent', 'default', {\"ad_personalization\":\"denied\",\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"analytics_storage\":\"denied\",\"functionality_storage\":\"denied\",\"security_storage\":\"denied\",\"personalization_storage\":\"denied\",\"region\":[\"AT\",\"BE\",\"BG\",\"CH\",\"CY\",\"CZ\",\"DE\",\"DK\",\"EE\",\"ES\",\"FI\",\"FR\",\"GB\",\"GR\",\"HR\",\"HU\",\"IE\",\"IS\",\"IT\",\"LI\",\"LT\",\"LU\",\"LV\",\"MT\",\"NL\",\"NO\",\"PL\",\"PT\",\"RO\",\"SE\",\"SI\",\"SK\"],\"wait_for_update\":500});\nwindow._googlesitekitConsentCategoryMap = {\"statistics\":[\"analytics_storage\"],\"marketing\":[\"ad_storage\",\"ad_user_data\",\"ad_personalization\"],\"functional\":[\"functionality_storage\",\"security_storage\"],\"preferences\":[\"personalization_storage\"]};\nwindow._googlesitekitConsents = {\"ad_personalization\":\"denied\",\"ad_storage\":\"denied\",\"ad_user_data\":\"denied\",\"analytics_storage\":\"denied\",\"functionality_storage\":\"denied\",\"security_storage\":\"denied\",\"personalization_storage\":\"denied\",\"region\":[\"AT\",\"BE\",\"BG\",\"CH\",\"CY\",\"CZ\",\"DE\",\"DK\",\"EE\",\"ES\",\"FI\",\"FR\",\"GB\",\"GR\",\"HR\",\"HU\",\"IE\",\"IS\",\"IT\",\"LI\",\"LT\",\"LU\",\"LV\",\"MT\",\"NL\",\"NO\",\"PL\",\"PT\",\"RO\",\"SE\",\"SI\",\"SK\"],\"wait_for_update\":500};\n</script>\n<!-- End Google tag (gtag.js) consent mode dataLayer added by Site Kit -->\n\n\t<!-- This site is optimized with the Yoast SEO plugin v28.6 - https://yoast.com/product/yoast-seo-wordpress/ -->\n\t<title>Kvam Transport | Utleie i Skien og faste transportruter</title>\n\t<meta name=\"description\" content=\"Motorhome, minibuss, skaphenger og lukket bilhenger til leie i Skien. Kvam Transport tilbyr også faste transportruter. Send en uforpliktende forespørsel.\" />\n\t<link rel=\"canonical\" href=\"https://kvam-transport.no/\" />\n\t<meta property=\"og:locale\" content=\"nb_NO\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<meta property=\"og:title\" content=\"Kvam Transport | Utleie i Skien og faste transportruter\" />\n\t<meta property=\"og:description\" content=\"Motorhome, minibuss, skaphenger og lukket bilhenger til leie i Skien. Kvam Transport tilbyr også faste transportruter. Send en uforpliktende forespørsel.\" />\n\t<meta property=\"og:url\" content=\"https://kvam-transport.no/\" />\n\t<meta property=\"og:site_name\" content=\"Kvam Transport\" />\n\t<meta property=\"article:modified_time\" content=\"2026-09-25T08:24:49+00:00\" />\n\t<meta property=\"og:image\" content=\"https://kvam-transport.no/wp-content/uploads/2026/09/motorhome-kvam-transport-12.jpg\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/kvam-transport.no\\/\",\"url\":\"https:\\/\\/kvam-transport.no\\/\",\"name\":\"Kvam Transport | Utleie i Skien og faste transportruter\",\"isPartOf\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#website\"},\"about\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#organization\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/kvam-transport.no\\/wp-content\\/uploads\\/2026\\/09\\/motorhome-kvam-transport-12.jpg\",\"datePublished\":\"2026-09-22T19:15:00+00:00\",\"dateModified\":\"2026-09-25T08:24:49+00:00\",\"description\":\"Motorhome, minibuss, skaphenger og lukket bilhenger til leie i Skien. Kvam Transport tilbyr også faste transportruter. Send en uforpliktende forespørsel.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#breadcrumb\"},\"inLanguage\":\"nb-NO\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/kvam-transport.no\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"nb-NO\",\"@id\":\"https:\\/\\/kvam-transport.no\\/#primaryimage\",\"url\":\"https:\\/\\/kvam-transport.no\\/wp-content\\/uploads\\/2026\\/09\\/motorhome-kvam-transport-12.jpg\",\"contentUrl\":\"https:\\/\\/kvam-transport.no\\/wp-content\\/uploads\\/2026\\/09\\/motorhome-kvam-transport-12.jpg\",\"width\":1600,\"height\":1067},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/kvam-transport.no\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hjem\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/kvam-transport.no\\/#website\",\"url\":\"https:\\/\\/kvam-transport.no\\/\",\"name\":\"Kvam Transport\",\"description\":\"\",\"publisher\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/kvam-transport.no\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"nb-NO\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/kvam-transport.no\\/#organization\",\"name\":\"Kvam Transport\",\"url\":\"https:\\/\\/kvam-transport.no\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"nb-NO\",\"@id\":\"https:\\/\\/kvam-transport.no\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/kvam-transport.no\\/wp-content\\/uploads\\/2026\\/09\\/Logo_hvit-1.png\",\"contentUrl\":\"https:\\/\\/kvam-transport.no\\/wp-content\\/uploads\\/2026\\/09\\/Logo_hvit-1.png\",\"width\":2048,\"height\":819,\"caption\":\"Kvam Transport\"},\"image\":{\"@id\":\"https:\\/\\/kvam-transport.no\\/#\\/schema\\/logo\\/image\\/\"}}]}</script>\n\t<!-- / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Kvam Transport &raquo; strøm\" href=\"https://kvam-transport.no/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Kvam Transport &raquo; kommentarstrøm\" href=\"https://kvam-transport.no/comments/feed/\" />\n\t\t\t<script>document.documentElement.classList.remove( 'no-js' );</script>\n\t\t\t<link rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://kvam-transport.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkvam-transport.no%2F\" />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://kvam-transport.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkvam-transport.no%2F&#038;format=xml\" />\n<style id=\"wp-img-auto-sizes-contain-inline-css\">\nimg:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */\n</style>\n<style id=\"wp-emoji-styles-inline-css\">\n\n\timg.wp-smiley, img.emoji {\n\t\tdisplay: inline !important;\n\t\tborder: none !important;\n\t\tbox-shadow: none !important;\n\t\theight: 1em !important;\n\t\twidth: 1em !important;\n\t\tmargin: 0 0.07em !important;\n\t\tvertical-align: -0.1em !important;\n\t\tbackground: none !important;\n\t\tpadding: 0 !important;\n\t}\n/*# sourceURL=wp-emoji-styles-inline-css */\n</style>\n<style id=\"wp-block-library-inline-css\">\n:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=\";border-color\"],[style*=\"; border-color\"]){border-style:solid}html :where([style^=border-top-color],[style*=\";border-top-color\"],[style*=\"; border-top-color\"]){border-top-style:solid}html :where([style^=border-right-color],[style*=\";border-right-color\"],[style*=\"; border-right-color\"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=\";border-bottom-color\"],[style*=\"; border-bottom-color\"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=\";border-left-color\"],[style*=\"; border-left-color\"]){border-left-style:solid}html :where([style^=border-width],[style*=\";border-width\"],[style*=\"; border-width\"]){border-style:solid}html :where([style^=border-top-width],[style*=\";border-top-width\"],[style*=\"; border-top-width\"]){border-top-style:solid}html :where([style^=border-right-width],[style*=\";border-right-width\"],[style*=\"; border-right-width\"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=\";border-bottom-width\"],[style*=\"; border-bottom-width\"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=\";border-left-width\"],[style*=\"; border-left-width\"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}\n\n/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */\n</style>\n<style id=\"wp-block-button-inline-css\">\n.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1% - var(--wp--style--block-gap, .5em)*(1 - var(--wp--block-button--width)/100))}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button[class*=wp-block-button__width]{width:calc(var(--wp--block-button--width)*1%)}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:transparent;background-image:none}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/button/style.min.css */\n</style>\n<style id=\"wp-block-heading-inline-css\">\nh1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/heading/style.min.css */\n</style>\n<style id=\"wp-block-image-inline-css\">\n.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"50\"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"50\"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:rgba(90,90,90,.25);border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto rgba(90,90,90,.25);outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:rgba(90,90,90,.25);border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/image/style.min.css */\n</style>\n<style id=\"wp-block-paragraph-inline-css\">\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/paragraph/style.min.css */\n</style>\n<style id=\"wp-block-buttons-inline-css\">\n.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/buttons/style.min.css */\n</style>\n<style id=\"wp-block-group-inline-css\">\n.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}\n/*# sourceURL=https://kvam-transport.no/wp-includes/blocks/group/style.min.css */\n</style>\n\n<style id=\"classic-theme-styles-inline-css\">\n/*! This file is auto-generated */\n.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}\n/*# sourceURL=/wp-includes/css/classic-themes.min.css */\n</style>\n\n<style id=\"global-styles-inline-css\">\n:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-palette-1: var(--global-palette1);--wp--preset--color--theme-palette-2: var(--global-palette2);--wp--preset--color--theme-palette-3: var(--global-palette3);--wp--preset--color--theme-palette-4: var(--global-palette4);--wp--preset--color--theme-palette-5: var(--global-palette5);--wp--preset--color--theme-palette-6: var(--global-palette6);--wp--preset--color--theme-palette-7: var(--global-palette7);--wp--preset--color--theme-palette-8: var(--global-palette8);--wp--preset--color--theme-palette-9: var(--global-palette9);--wp--preset--color--theme-palette-10: var(--global-palette10);--wp--preset--color--theme-palette-11: var(--global-palette11);--wp--preset--color--theme-palette-12: var(--global-palette12);--wp--preset--color--theme-palette-13: var(--global-palette13);--wp--preset--color--theme-palette-14: var(--global-palette14);--wp--preset--color--theme-palette-15: var(--global-palette15);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: var(--global-font-size-small);--wp--preset--font-size--medium: var(--global-font-size-medium);--wp--preset--font-size--large: var(--global-font-size-large);--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--larger: var(--global-font-size-larger);--wp--preset--font-size--xxlarge: var(--global-font-size-xxlarge);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: var(--global-calc-content-width);--wp--style--global--wide-size: var(--global-calc-wide-content-width); }:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){font-style: inherit;font-weight: inherit;letter-spacing: inherit;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-theme-palette-1-color{color: var(--wp--preset--color--theme-palette-1) !important;}.has-theme-palette-2-color{color: var(--wp--preset--color--theme-palette-2) !important;}.has-theme-palette-3-color{color: var(--wp--preset--color--theme-palette-3) !important;}.has-theme-palette-4-color{color: var(--wp--preset--color--theme-palette-4) !important;}.has-theme-palette-5-color{color: var(--wp--preset--color--theme-palette-5) !important;}.has-theme-palette-6-color{color: var(--wp--preset--color--theme-palette-6) !important;}.has-theme-palette-7-color{color: var(--wp--preset--color--theme-palette-7) !important;}.has-theme-palette-8-color{color: var(--wp--preset--color--theme-palette-8) !important;}.has-theme-palette-9-color{color: var(--wp--preset--color--theme-palette-9) !important;}.has-theme-palette-10-color{color: var(--wp--preset--color--theme-palette-10) !important;}.has-theme-palette-11-color{color: var(--wp--preset--color--theme-palette-11) !important;}.has-theme-palette-12-color{color: var(--wp--preset--color--theme-palette-12) !important;}.has-theme-palette-13-color{color: var(--wp--preset--color--theme-palette-13) !important;}.has-theme-palette-14-color{color: var(--wp--preset--color--theme-palette-14) !important;}.has-theme-palette-15-color{color: var(--wp--preset--color--theme-palette-15) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-theme-palette-1-background-color{background-color: var(--wp--preset--color--theme-palette-1) !important;}.has-theme-palette-2-background-color{background-color: var(--wp--preset--color--theme-palette-2) !important;}.has-theme-palette-3-background-color{background-color: var(--wp--preset--color--theme-palette-3) !important;}.has-theme-palette-4-background-color{background-color: var(--wp--preset--color--theme-palette-4) !important;}.has-theme-palette-5-background-color{background-color: var(--wp--preset--color--theme-palette-5) !important;}.has-theme-palette-6-background-color{background-color: var(--wp--preset--color--theme-palette-6) !important;}.has-theme-palette-7-background-color{background-color: var(--wp--preset--color--theme-palette-7) !important;}.has-theme-palette-8-background-color{background-color: var(--wp--preset--color--theme-palette-8) !important;}.has-theme-palette-9-background-color{background-color: var(--wp--preset--color--theme-palette-9) !important;}.has-theme-palette-10-background-color{background-color: var(--wp--preset--color--theme-palette-10) !important;}.has-theme-palette-11-background-color{background-color: var(--wp--preset--color--theme-palette-11) !important;}.has-theme-palette-12-background-color{background-color: var(--wp--preset--color--theme-palette-12) !important;}.has-theme-palette-13-background-color{background-color: var(--wp--preset--color--theme-palette-13) !important;}.has-theme-palette-14-background-color{background-color: var(--wp--preset--color--theme-palette-14) !important;}.has-theme-palette-15-background-color{background-color: var(--wp--preset--color--theme-palette-15) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-theme-palette-1-border-color{border-color: var(--wp--preset--color--theme-palette-1) !important;}.has-theme-palette-2-border-color{border-color: var(--wp--preset--color--theme-palette-2) !important;}.has-theme-palette-3-border-color{border-color: var(--wp--preset--color--theme-palette-3) !important;}.has-theme-palette-4-border-color{border-color: var(--wp--preset--color--theme-palette-4) !important;}.has-theme-palette-5-border-color{border-color: var(--wp--preset--color--theme-palette-5) !important;}.has-theme-palette-6-border-color{border-color: var(--wp--preset--color--theme-palette-6) !important;}.has-theme-palette-7-border-color{border-color: var(--wp--preset--color--theme-palette-7) !important;}.has-theme-palette-8-border-color{border-color: var(--wp--preset--color--theme-palette-8) !important;}.has-theme-palette-9-border-color{border-color: var(--wp--preset--color--theme-palette-9) !important;}.has-theme-palette-10-border-color{border-color: var(--wp--preset--color--theme-palette-10) !important;}.has-theme-palette-11-border-color{border-color: var(--wp--preset--color--theme-palette-11) !important;}.has-theme-palette-12-border-color{border-color: var(--wp--preset--color--theme-palette-12) !important;}.has-theme-palette-13-border-color{border-color: var(--wp--preset--color--theme-palette-13) !important;}.has-theme-palette-14-border-color{border-color: var(--wp--preset--color--theme-palette-14) !important;}.has-theme-palette-15-border-color{border-color: var(--wp--preset--color--theme-palette-15) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-larger-font-size{font-size: var(--wp--preset--font-size--larger) !important;}.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}\n/*# sourceURL=global-styles-inline-css */\n</style>\n\n<link rel='stylesheet' id='contact-form-7-css' href='https://kvam-transport.no/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7' media='all' />\n<link rel='stylesheet' id='cmplz-general-css' href='https://kvam-transport.no/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1790855460' media='all' />\n<link rel='stylesheet' id='kadence-global-css' href='https://kvam-transport.no/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2' media='all' />\n<style id=\"kadence-global-inline-css\">\n/* Kadence Base CSS */\n:root{--global-palette1:#2B6CB0;--global-palette2:#215387;--global-palette3:#1A202C;--global-palette4:#2D3748;--global-palette5:#4A5568;--global-palette6:#718096;--global-palette7:#EDF2F7;--global-palette8:#F7FAFC;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-palette11:#13612e;--global-palette12:#1159af;--global-palette13:#b82105;--global-palette14:#f7630c;--global-palette15:#f5a524;--global-palette9rgb:255, 255, 255;--global-palette-highlight:var(--global-palette1);--global-palette-highlight-alt:var(--global-palette2);--global-palette-highlight-alt2:var(--global-palette9);--global-palette-btn-bg:var(--global-palette1);--global-palette-btn-bg-hover:var(--global-palette2);--global-palette-btn:var(--global-palette9);--global-palette-btn-hover:var(--global-palette9);--global-palette-btn-sec-bg:var(--global-palette7);--global-palette-btn-sec-bg-hover:var(--global-palette2);--global-palette-btn-sec:var(--global-palette3);--global-palette-btn-sec-hover:var(--global-palette9);--global-body-font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";--global-heading-font-family:inherit;--global-primary-nav-font-family:Inter, sans-serif;--global-fallback-font:sans-serif;--global-display-fallback-font:sans-serif;--global-content-width:1290px;--global-content-wide-width:calc(1290px + 230px);--global-content-narrow-width:842px;--global-content-edge-padding:1.5rem;--global-content-boxed-padding:2rem;--global-calc-content-width:calc(1290px - var(--global-content-edge-padding) - var(--global-content-edge-padding) );--wp--style--global--content-size:var(--global-calc-content-width);}.wp-site-blocks{--global-vw:calc( 100vw - ( 0.5 * var(--scrollbar-offset)));}body{background:var(--global-palette8);}body, input, select, optgroup, textarea{font-weight:400;font-size:17px;line-height:1.6;font-family:var(--global-body-font-family);color:var(--global-palette4);}.content-bg, body.content-style-unboxed .site{background:var(--global-palette9);}h1,h2,h3,h4,h5,h6{font-family:var(--global-heading-font-family);}h1{font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);}h2{font-weight:700;font-size:28px;line-height:1.5;color:var(--global-palette3);}h3{font-weight:700;font-size:24px;line-height:1.5;color:var(--global-palette3);}h4{font-weight:700;font-size:22px;line-height:1.5;color:var(--global-palette4);}h5{font-weight:700;font-size:20px;line-height:1.5;color:var(--global-palette4);}h6{font-weight:700;font-size:18px;line-height:1.5;color:var(--global-palette5);}.entry-hero .kadence-breadcrumbs{max-width:1290px;}.site-container, .site-header-row-layout-contained, .site-footer-row-layout-contained, .entry-hero-layout-contained, .comments-area, .alignfull > .wp-block-cover__inner-container, .alignwide > .wp-block-cover__inner-container{max-width:var(--global-content-width);}.content-width-narrow .content-container.site-container, .content-width-narrow .hero-container.site-container{max-width:var(--global-content-narrow-width);}@media all and (min-width: 1520px){.wp-site-blocks .content-container  .alignwide{margin-left:-115px;margin-right:-115px;width:unset;max-width:unset;}}@media all and (min-width: 1102px){.content-width-narrow .wp-site-blocks .content-container .alignwide{margin-left:-130px;margin-right:-130px;width:unset;max-width:unset;}}.content-style-boxed .wp-site-blocks .entry-content .alignwide{margin-left:calc( -1 * var( --global-content-boxed-padding ) );margin-right:calc( -1 * var( --global-content-boxed-padding ) );}.content-area{margin-top:5rem;margin-bottom:5rem;}@media all and (max-width: 1024px){.content-area{margin-top:3rem;margin-bottom:3rem;}}@media all and (max-width: 767px){.content-area{margin-top:2rem;margin-bottom:2rem;}}@media all and (max-width: 1024px){:root{--global-content-boxed-padding:2rem;}}@media all and (max-width: 767px){:root{--global-content-boxed-padding:1.5rem;}}.entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.entry-content-wrap{padding:1.5rem;}}.entry.single-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.entry.loop-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.loop-entry .entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.loop-entry .entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.loop-entry .entry-content-wrap{padding:1.5rem;}}button, .button, .wp-block-button__link, input[type=\"button\"], input[type=\"reset\"], input[type=\"submit\"], .fl-button, .elementor-button-wrapper .elementor-button, .wc-block-components-checkout-place-order-button, .wc-block-cart__submit{box-shadow:0px 0px 0px -7px rgba(0,0,0,0);}button:hover, button:focus, button:active, .button:hover, .button:focus, .button:active, .wp-block-button__link:hover, .wp-block-button__link:focus, .wp-block-button__link:active, input[type=\"button\"]:hover, input[type=\"button\"]:focus, input[type=\"button\"]:active, input[type=\"reset\"]:hover, input[type=\"reset\"]:focus, input[type=\"reset\"]:active, input[type=\"submit\"]:hover, input[type=\"submit\"]:focus, input[type=\"submit\"]:active, .elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus, .elementor-button-wrapper .elementor-button:active, .wc-block-cart__submit:hover{box-shadow:0px 15px 25px -7px rgba(0,0,0,0.1);}.kb-button.kb-btn-global-outline.kb-btn-global-inherit{padding-top:calc(px - 2px);padding-right:calc(px - 2px);padding-bottom:calc(px - 2px);padding-left:calc(px - 2px);}@media all and (min-width: 1025px){.transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 1024px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 767px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}.entry-hero.page-hero-section .entry-header{min-height:200px;}\n/* Kadence Header CSS */\n@media all and (max-width: 1024px){.mobile-transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.kadence-scrollbar-fixer.mobile-transparent-header #masthead{right:var(--scrollbar-offset,0);}.mobile-transparent-header #masthead, .mobile-transparent-header .site-top-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-main-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}.site-header-row-tablet-layout-fullwidth, .site-header-row-tablet-layout-standard{padding:0px;}}@media all and (min-width: 1025px){.transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.transparent-header.kadence-scrollbar-fixer #masthead{right:var(--scrollbar-offset,0);}.transparent-header #masthead, .transparent-header .site-top-header-wrap .site-header-row-container-inner, .transparent-header .site-main-header-wrap .site-header-row-container-inner, .transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}}.site-branding a.brand img{max-width:310px;}.site-branding a.brand img.svg-logo-image{width:310px;}.site-branding{padding:0px 0px 0px 0px;}#masthead, #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap), #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner{background:#ffffff;}.site-main-header-inner-wrap{min-height:80px;}.header-navigation[class*=\"header-navigation-style-underline\"] .header-menu-container.primary-menu-container>ul>li>a:after{width:calc( 100% - 1.2em);}.main-navigation .primary-menu-container > ul > li.menu-item > a{padding-left:calc(1.2em / 2);padding-right:calc(1.2em / 2);padding-top:0.6em;padding-bottom:0.6em;color:var(--global-palette5);}.main-navigation .primary-menu-container > ul > li.menu-item .dropdown-nav-special-toggle{right:calc(1.2em / 2);}.main-navigation .primary-menu-container > ul li.menu-item > a{font-style:normal;font-weight:normal;font-family:var(--global-primary-nav-font-family);}.main-navigation .primary-menu-container > ul > li.menu-item > a:hover{color:var(--global-palette-highlight);}.main-navigation .primary-menu-container > ul > li.menu-item.current-menu-item > a{color:var(--global-palette3);}.header-navigation .header-menu-container ul ul.sub-menu, .header-navigation .header-menu-container ul ul.submenu{background:var(--global-palette3);box-shadow:0px 2px 13px 0px rgba(0,0,0,0.1);}.header-navigation .header-menu-container ul ul li.menu-item, .header-menu-container ul.menu > li.kadence-menu-mega-enabled > ul > li.menu-item > a{border-bottom:1px solid rgba(255,255,255,0.1);border-radius:0px 0px 0px 0px;}.header-navigation .header-menu-container ul ul li.menu-item > a{width:200px;padding-top:1em;padding-bottom:1em;color:var(--global-palette8);font-size:12px;}.header-navigation .header-menu-container ul ul li.menu-item > a:hover{color:var(--global-palette9);background:var(--global-palette4);border-radius:0px 0px 0px 0px;}.header-navigation .header-menu-container ul ul li.menu-item.current-menu-item > a{color:var(--global-palette9);background:var(--global-palette4);border-radius:0px 0px 0px 0px;}.mobile-toggle-open-container .menu-toggle-open, .mobile-toggle-open-container .menu-toggle-open:focus{color:var(--global-palette5);padding:0.4em 0.6em 0.4em 0.6em;font-size:14px;}.mobile-toggle-open-container .menu-toggle-open.menu-toggle-style-bordered{border:1px solid currentColor;}.mobile-toggle-open-container .menu-toggle-open .menu-toggle-icon{font-size:20px;}.mobile-toggle-open-container .menu-toggle-open:hover, .mobile-toggle-open-container .menu-toggle-open:focus-visible{color:var(--global-palette-highlight);}.mobile-navigation ul li{font-size:14px;}.mobile-navigation ul li a{padding-top:1em;padding-bottom:1em;}.mobile-navigation ul li > a, .mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette8);}.mobile-navigation ul li.current-menu-item > a, .mobile-navigation ul li.current-menu-item.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette-highlight);}.mobile-navigation ul li.menu-item-has-children .drawer-nav-drop-wrap, .mobile-navigation ul li:not(.menu-item-has-children) a{border-bottom:1px solid rgba(255,255,255,0.1);}.mobile-navigation:not(.drawer-navigation-parent-toggle-true) ul li.menu-item-has-children .drawer-nav-drop-wrap button{border-left:1px solid rgba(255,255,255,0.1);}#mobile-drawer .drawer-header .drawer-toggle{padding:0.6em 0.15em 0.6em 0.15em;font-size:24px;}\n/* Kadence Footer CSS */\n.site-bottom-footer-inner-wrap{padding-top:30px;padding-bottom:30px;grid-column-gap:30px;}.site-bottom-footer-inner-wrap .widget{margin-bottom:30px;}.site-bottom-footer-inner-wrap .site-footer-section:not(:last-child):after{right:calc(-30px / 2);}\n/*# sourceURL=kadence-global-inline-css */\n</style>\n<link rel='stylesheet' id='kadence-header-css' href='https://kvam-transport.no/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2' media='all' />\n<link rel='stylesheet' id='kadence-content-css' href='https://kvam-transport.no/wp-content/themes/kadence/assets/css/content.min.css?ver=1.5.2' media='all' />\n<link rel='stylesheet' id='kadence-footer-css' href='https://kvam-transport.no/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.5.2' media='all' />\n<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='https://kvam-transport.no/wp-content/uploads/complianz/css/banner-1-optin.css?ver=1790862611' media='all' />\n\n<!-- Google tag (gtag.js) snippet added by Site Kit -->\n<!-- Google Ads snippet added by Site Kit -->\n<script id=\"google_gtagjs-js\" src=\"https://www.googletagmanager.com/gtag/js?id=AW-18486451815\" async></script>\n<script id=\"google_gtagjs-js-after\">\nwindow.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}\ngtag(\"js\", new Date());\ngtag(\"set\", \"developer_id.dZTNiMT\", true);\ngtag(\"config\", \"AW-18486451815\");\n window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( \"event\", name, { ...data, event_source: \"site-kit\" } ); }; \n//# sourceURL=google_gtagjs-js-after\n</script>\n<link rel=\"https://api.w.org/\" href=\"https://kvam-transport.no/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvam-transport.no/wp-json/wp/v2/pages/1000\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvam-transport.no/xmlrpc.php?rsd\" />\n<meta name=\"generator\" content=\"WordPress 7.1.2\" />\n<link rel='shortlink' href='https://kvam-transport.no/' />\n<meta name=\"generator\" content=\"Site Kit by Google 1.188.0\" />\t\t\t<style>.cmplz-hidden {\n\t\t\t\t\tdisplay: none !important;\n\t\t\t\t}</style>\n\t\t\t\t<link rel='stylesheet' id='kadence-fonts-gfonts-css' href='https://fonts.googleapis.com/css?family=Inter:regular&#038;display=swap' media='all' />\n<style id=\"wp-custom-css\">\n:root{--kv-navy:#071b39;--kv-blue:#133d73;--kv-ink:#10233d;--kv-muted:#53657b;--kv-line:#dce4ed;--kv-light:#f3f6fa}\nbody{color:var(--kv-ink);background:#fff;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:1.7}.site-header{background:var(--kv-navy)!important;border-bottom:1px solid #ffffff24}.site-main-header-wrap .site-header-row-container-inner{background:transparent!important}.site-branding .site-title,.main-navigation .primary-menu-container>ul>li>a,.menu-toggle-open{color:#fff!important}.site-branding .site-title{font-size:25px;font-style:italic;font-weight:800}.main-navigation .primary-menu-container>ul>li>a{font-size:14px;font-weight:600;padding:16px}.site-container{max-width:1240px}.content-area{margin:0!important}.content-container.site-container{max-width:none;padding:0}.entry-content-wrap{padding:0!important}.entry-hero,.entry-header{display:none!important}.entry-content{margin:0!important}.entry-content>*{margin-top:0;margin-bottom:0}.site-main{margin:0!important}.content-bg{background:#fff!important}.entry{box-shadow:none!important;border-radius:0!important}.site-footer{background:var(--kv-navy);color:#bdcadd}.site-footer a{color:#fff}\n.kv-shell{max-width:1200px!important;margin-left:auto!important;margin-right:auto!important;padding:0 32px}.kv-section{padding:88px 0}.kv-soft{background:var(--kv-light)}.kv-dark{color:#fff;background:linear-gradient(125deg,#05152f 0%,#0c2d59 60%,#1a4c83 100%)}.kv-dark h1,.kv-dark h2,.kv-dark h3{color:#fff}.kv-dark p{color:#d5e0f0}.kv-kicker{font-size:12px!important;letter-spacing:.18em;text-transform:uppercase;font-weight:700;color:#42668e;margin-bottom:18px!important}.kv-dark .kv-kicker{color:#9bc5f9}.kv-heading{font-size:clamp(34px,4.6vw,60px);line-height:1.1;letter-spacing:-.045em;font-weight:750;margin:0 0 25px!important}.kv-hero-title{font-size:clamp(44px,5.6vw,76px)!important;line-height:1.04;letter-spacing:-.055em;margin:0 0 26px!important;max-width:750px}.kv-lead{font-size:19px;line-height:1.65;max-width:670px;margin-bottom:28px!important}.kv-hero{padding:80px 0 72px;overflow:hidden}.kv-hero .kv-split{gap:55px}.kv-hero .kv-photo img{aspect-ratio:1.08;object-fit:cover;border-radius:4px}.kv-photo{margin:0!important}.kv-photo figcaption{font-size:11px;letter-spacing:.09em;text-transform:uppercase;text-align:left;color:#b7cae1;padding-top:12px}.kv-split{display:grid!important;grid-template-columns:1.05fr 1fr;gap:64px;align-items:center}.kv-split>*{min-width:0}.kv-buttons{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0!important}.kv-buttons .wp-block-button__link{border-radius:3px;background:var(--kv-navy);color:#fff;padding:15px 23px;font-size:14px;font-weight:700;text-decoration:none;border:1px solid var(--kv-navy);transition:transform .2s}.kv-dark .kv-buttons .wp-block-button__link{background:#fff;color:var(--kv-navy);border-color:#fff}.kv-buttons .kv-outline .wp-block-button__link{background:transparent;color:var(--kv-navy);border:1px solid #8fa2bb}.kv-dark .kv-buttons .kv-outline .wp-block-button__link{color:#fff;border-color:#8299b8}.kv-buttons a:hover{transform:translateY(-2px);opacity:.92}.kv-micro{font-size:13px!important;color:#697c92}.kv-proof{display:grid!important;grid-template-columns:repeat(3,1fr);border-top:1px solid #ffffff30;margin-top:48px!important;padding-top:25px;gap:20px}.kv-proof strong{display:block;font-size:24px;color:#fff;font-weight:600}.kv-proof p{font-size:12px;letter-spacing:.035em;margin:0}.kv-section-head{display:flex!important;justify-content:space-between;align-items:end;gap:25px;margin-bottom:40px!important}.kv-section-head h2{margin-bottom:0!important}.kv-section-head p{max-width:360px;color:var(--kv-muted);margin:0}.kv-grid{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:26px}.kv-card{border:1px solid var(--kv-line);border-radius:4px;overflow:hidden;background:#fff;display:flex;flex-direction:column}.kv-card .wp-block-image{margin:0!important;overflow:hidden;background:#e7edf4}.kv-card img{width:100%;aspect-ratio:1.55;object-fit:cover;transition:transform .35s}.kv-card:hover img{transform:scale(1.025)}.kv-card-body{padding:26px;display:flex;flex-direction:column;flex-grow:1}.kv-card h3{font-size:25px;line-height:1.18;letter-spacing:-.025em;margin:8px 0 15px}.kv-card p{font-size:15px;color:var(--kv-muted);margin:0 0 15px}.kv-card .kv-kicker{font-size:10px!important;margin:0!important}.kv-card .kv-spec-mini{font-size:13px;border-top:1px solid var(--kv-line);padding-top:16px;margin-top:auto!important}.kv-card .kv-card-link{margin:12px 0 0!important}.kv-card-link a{font-size:14px;color:var(--kv-blue);font-weight:700;text-decoration:none}.kv-card-link a:hover{text-decoration:underline}.kv-step{border-top:2px solid #9cb7d7;padding-top:22px}.kv-step h3{font-size:23px;margin:14px 0}.kv-number{font-size:13px;font-weight:bold;letter-spacing:.12em;color:#6682a4}.kv-step p{font-size:16px;color:var(--kv-muted)}.kv-callout{padding:40px;border:1px solid var(--kv-line);border-radius:4px;background:#fff}.kv-callout h3{font-size:25px;margin:0 0 15px}.kv-section .wp-block-image img{border-radius:3px}.kv-detail-hero{padding:56px 0 62px}.kv-detail-hero h1{font-size:clamp(36px,4.2vw,58px);line-height:1.1;letter-spacing:-.04em;margin:0 0 22px}.kv-detail-hero .kv-photo img{aspect-ratio:1.4;object-fit:cover}.kv-back{font-size:13px;margin:0 0 30px!important}.kv-back a{color:#b8d5f7;text-decoration:none}.kv-badges{display:flex!important;flex-wrap:wrap;gap:9px;margin:24px 0!important}.kv-badges p{border:1px solid #ffffff3d;border-radius:2px;padding:7px 12px;font-size:12px;margin:0!important;color:#fff}.kv-specs table{border-collapse:collapse;width:100%;font-size:15px}.kv-specs td{padding:14px 16px;border:0;border-bottom:1px solid var(--kv-line)}.kv-specs tr:nth-child(odd){background:#f3f6fa}.kv-specs td:first-child{width:48%;color:var(--kv-muted)}.kv-specs td:last-child{font-weight:600}.kv-specs{margin:0!important}.kv-copy h2{font-size:34px;line-height:1.16;letter-spacing:-.025em;margin:0 0 25px}.kv-copy h3{font-size:22px;margin:28px 0 14px}.kv-copy p{margin:0 0 20px}.kv-copy ul{padding-left:22px;margin:15px 0 25px}.kv-copy li{margin:7px 0}.kv-info{background:#eaf1f9;border-left:3px solid #315d91;padding:20px 24px;font-size:15px;margin:24px 0!important}.kv-gallery{display:grid!important;grid-template-columns:repeat(3,1fr);gap:16px}.kv-gallery figure{margin:0!important}.kv-gallery img{width:100%;aspect-ratio:1.4;object-fit:contain;background:#e8edf3}.kv-gallery a{display:block}.kv-gallery figcaption{font-size:11px;color:#697b90}.kv-faq{padding:21px 0;border-bottom:1px solid var(--kv-line)}.kv-faq summary{font-weight:700;cursor:pointer;font-size:18px}.kv-faq p{margin:16px 0 0!important;color:var(--kv-muted)}.kv-form-wrap{max-width:920px!important;margin:auto!important}.kv-form-grid{display:grid;grid-template-columns:1fr 1fr;gap:19px 24px}.kv-form-grid label{display:block;font-weight:600;font-size:13px;color:var(--kv-ink)}.kv-span{grid-column:1/-1}.wpcf7 input:not([type=submit]):not([type=checkbox]),.wpcf7 select,.wpcf7 textarea{width:100%;border:1px solid #bdcbdc;border-radius:3px;background:#fff;padding:12px 13px;color:var(--kv-ink);font-size:16px;font-weight:400;min-height:48px;margin-top:7px}.wpcf7 input:focus,.wpcf7 select:focus,.wpcf7 textarea:focus{outline:2px solid #397ec9;outline-offset:2px}.wpcf7 textarea{resize:vertical}.wpcf7 input[type=submit]{border:0;border-radius:3px;background:var(--kv-navy);color:#fff;padding:16px 26px;font-size:15px;font-weight:700;cursor:pointer;white-space:normal}.kv-form-note{font-size:13px;color:var(--kv-muted);margin:28px 0!important}.wpcf7-acceptance{font-size:13px}.wpcf7-list-item{margin:0}.wpcf7-not-valid-tip{font-size:12px}.wpcf7 form .wpcf7-response-output{margin:20px 0;padding:16px;font-size:15px}.kv-contact-details{display:grid!important;gap:22px}.kv-contact-details p{margin:0}.kv-contact-details strong{display:block;font-size:12px;text-transform:uppercase;letter-spacing:.12em;color:#7f9dbe}.kv-contact-details a{font-size:22px;color:#fff;text-decoration:none}.kv-contact-details a:hover{text-decoration:underline}.kv-bottom{border-top:1px solid #ffffff22;margin-top:44px!important;padding-top:22px;font-size:12px}.kv-footer-inner{padding-top:45px;padding-bottom:35px}.kv-footer-inner a{color:#d3e4fa}.kv-footer-inner .kv-split{align-items:start}.kv-footer-inner p{font-size:14px}.kv-footer-logo img{width:240px;height:auto}.kv-subhero{padding:65px 0}.kv-subhero .kv-lead{margin-bottom:0!important}.kv-narrow{max-width:820px!important}.kv-full-image img{width:100%;max-height:430px;object-fit:cover}.kv-note{font-size:13px;color:var(--kv-muted)}a:focus-visible,summary:focus-visible{outline:3px solid #70aeff;outline-offset:4px}\n@media(min-width:1025px){.site-header-row{min-height:96px}.site-branding img{max-height:70px;width:auto}}\n@media(max-width:1024px){.kv-shell{padding:0 25px}.kv-split{gap:32px}.kv-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.kv-hero{padding:55px 0}.kv-section{padding:64px 0}.kv-heading{font-size:40px}.kv-hero-title{font-size:54px!important}}\n@media(max-width:767px){.kv-shell{padding:0 21px}.kv-split{grid-template-columns:1fr;gap:30px}.kv-hero{padding:40px 0}.kv-hero-title{font-size:46px!important}.kv-lead{font-size:17px}.kv-heading{font-size:34px}.kv-section{padding:50px 0}.kv-section-head{display:block!important}.kv-section-head p{margin-top:20px}.kv-grid{grid-template-columns:1fr;gap:20px}.kv-card img{aspect-ratio:1.55}.kv-hero .kv-photo img{aspect-ratio:1.5}.kv-proof{gap:14px;margin-top:30px!important}.kv-proof strong{font-size:20px}.kv-proof p{font-size:10px}.kv-buttons{gap:10px}.kv-buttons .wp-block-button__link{padding:14px 18px}.kv-form-grid{grid-template-columns:1fr}.kv-span{grid-column:auto}.kv-gallery{grid-template-columns:repeat(2,1fr);gap:10px}.kv-callout{padding:25px}.kv-detail-hero{padding:35px 0 45px}.kv-detail-hero h1{font-size:39px}.kv-copy h2{font-size:29px}.kv-specs td{padding:12px 10px;font-size:14px}.kv-subhero{padding:45px 0}.kv-footer-inner .kv-split{gap:20px}.kv-contact-details a{font-size:20px}.site-branding .site-title{font-size:22px}.kv-footer-logo img{width:210px}}\n@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}\n/* Core group wrapper support. */\n.kv-split>.wp-block-group__inner-container,.kv-grid>.wp-block-group__inner-container,.kv-proof>.wp-block-group__inner-container,.kv-section-head>.wp-block-group__inner-container,.kv-badges>.wp-block-group__inner-container,.kv-gallery>.wp-block-group__inner-container,.kv-card>.wp-block-group__inner-container,.kv-card-body>.wp-block-group__inner-container{display:contents}\n.kv-split>.wp-block-group__inner-container>*,.kv-grid>.wp-block-group__inner-container>*,.kv-proof>.wp-block-group__inner-container>*,.kv-gallery>.wp-block-group__inner-container>*{margin-block:0!important;min-width:0}\n.kv-card-body{height:100%}.kv-hero .kv-micro{color:#b8cde7}.kv-split .kv-copy{align-self:start}.kv-card .kv-card-body{height:auto}\n/* Mobile containment and theme footer. */\n.entry,.site-main{margin-left:0!important;margin-right:0!important;width:100%;min-width:0}.site-footer{display:none}.kv-contact-details>.wp-block-group__inner-container{display:contents}\n@media(max-width:1024px){.site-branding img{max-width:210px!important;max-height:84px!important;width:210px!important;height:auto!important}.site-header-row{min-height:84px}.site-header-row-container-inner{background:var(--kv-navy)!important}}\n@media(max-width:380px){.kv-hero-title{font-size:40px!important}.kv-detail-hero h1{font-size:34px}.kv-heading{font-size:31px}.kv-shell{padding-left:20px;padding-right:20px}.site-branding img{max-width:180px!important;width:180px!important}}\n.kv-form-grid>p{display:contents}.kv-form-grid>p>br{display:none}.kv-form-grid label{min-width:0}\n/* Header refinement – 23 September 2026 */\n.main-navigation .primary-menu-container>ul>li>a,.mobile-navigation ul li>a{font-family:Inter,\"Segoe UI\",sans-serif!important;font-size:15px;font-weight:500;letter-spacing:.015em}\n.main-navigation .primary-menu-container>ul{align-items:center;gap:12px}\n.main-navigation .primary-menu-container>ul>.menu-item-1013>a{display:inline-flex;align-items:center;gap:14px;background:#fff;color:#071b39!important;border:1px solid #fff;border-radius:4px;padding:12px 22px;font-weight:600;box-shadow:0 4px 14px #00000012;transition:background .2s,color .2s}\n.main-navigation .primary-menu-container>ul>.menu-item-1013>a:after{content:\"↗\";font-size:17px;line-height:1}\n.main-navigation .primary-menu-container>ul>.menu-item-1013>a:hover,.main-navigation .primary-menu-container>ul>.menu-item-1013>a:focus-visible{background:#dcecff;color:#071b39!important;border-color:#dcecff}\n.mobile-navigation ul>.menu-item-1013>a{background:#fff;color:#071b39!important;border-radius:4px;padding:14px 20px;margin:8px 0 16px;font-weight:600}\n@media(min-width:1025px){.site-branding img{max-height:94px!important;max-width:240px!important;width:auto!important;height:auto!important}}\n@media(max-width:1024px){.site-branding img{max-width:230px!important;max-height:92px!important;width:230px!important;height:auto!important}}\n@media(max-width:380px){.site-branding img{max-width:205px!important;width:205px!important;max-height:82px!important}}\n\n/* Route photography */\n.kv-route-photos{display:grid!important;grid-template-columns:1fr 1fr;gap:16px;align-items:start}.kv-route-photos figure{margin:0!important;overflow:hidden;border-radius:4px}.kv-route-photos figure:nth-child(2){margin-top:48px!important}.kv-route-photos img{display:block;width:100%;height:360px;object-fit:cover}.kv-route-photos figure:first-child img{object-position:65% center}.kv-bottom{line-height:1.9}\n@media(max-width:600px){.kv-route-photos{gap:12px}.kv-route-photos img{height:280px}.kv-route-photos figure:nth-child(2){margin-top:28px!important}}\n.kv-route-photos>.wp-block-group__inner-container{display:contents}\n/* Compact mobile menu – 25 September 2026 */\n@media(max-width:1024px){#mobile-drawer{top:95px!important;height:calc(100% - 95px)!important}#mobile-drawer .drawer-inner{background:var(--kv-navy,#071b39)!important;position:absolute!important;top:0!important;bottom:auto!important;height:auto!important;min-height:0!important;max-height:calc(100dvh - 115px);width:100%!important;max-width:none!important;overflow-y:auto;border-top:1px solid #ffffff24;box-shadow:0 16px 32px #00000026}#mobile-drawer .drawer-header{min-height:0;padding:8px 20px 0}#mobile-drawer .drawer-content{flex:0 0 auto;padding:0 24px 22px}#mobile-drawer .menu-toggle-close{color:#fff}#mobile-drawer .mobile-navigation ul li>a{color:#fff}body.admin-bar #mobile-drawer{top:141px!important;height:calc(100% - 141px)!important}}\n@media(min-width:783px) and (max-width:1024px){body.admin-bar #mobile-drawer{top:127px!important;height:calc(100% - 127px)!important}}\n@media(max-width:380px){#mobile-drawer{top:85px!important;height:calc(100% - 85px)!important}body.admin-bar #mobile-drawer{top:131px!important;height:calc(100% - 131px)!important}}\n@media(max-width:1024px){#mobile-drawer .drawer-overlay{position:absolute!important;inset:0!important}}\n</style>\n</head>\n\n<body class=\"home wp-singular page-template-default page page-id-1000 wp-custom-logo wp-embed-responsive wp-theme-kadence footer-on-bottom hide-focus-outline link-style-standard content-title-style-hide content-width-normal content-style-unboxed content-vertical-padding-hide non-transparent-header mobile-non-transparent-header\">\n<div id=\"wrapper\" class=\"site wp-site-blocks\">\n\t\t\t<a class=\"skip-link screen-reader-text scroll-ignore\" href=\"#main\">Skip to content</a>\n\t\t<header id=\"masthead\" class=\"site-header\" role=\"banner\" itemtype=\"https://schema.org/WPHeader\" itemscope>\n\t<div id=\"main-header\" class=\"site-header-wrap\">\n\t\t<div class=\"site-header-inner-wrap\">\n\t\t\t<div class=\"site-header-upper-wrap\">\n\t\t\t\t<div class=\"site-header-upper-inner-wrap\">\n\t\t\t\t\t<div class=\"site-main-header-wrap site-header-row-container site-header-focus-item site-header-row-layout-standard\" data-section=\"kadence_customizer_header_main\">\n\t<div class=\"site-header-row-container-inner\">\n\t\t\t\t<div class=\"site-container\">\n\t\t\t<div class=\"site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center\">\n\t\t\t\t\t\t\t\t\t<div class=\"site-header-main-section-left site-header-section site-header-section-left\">\n\t\t\t\t\t\t<div class=\"site-header-item site-header-focus-item\" data-section=\"title_tagline\">\n\t<div class=\"site-branding branding-layout-standard site-brand-logo-only\"><a class=\"brand has-logo-image\" href=\"https://kvam-transport.no/\" rel=\"home\"><img width=\"2048\" height=\"819\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1.png\" class=\"custom-logo\" alt=\"Kvam Transport\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1.png 2048w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-300x120.png 300w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-1024x410.png 1024w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-768x307.png 768w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-1536x614.png 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" /></a></div></div><!-- data-section=\"title_tagline\" -->\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"site-header-main-section-right site-header-section site-header-section-right\">\n\t\t\t\t\t\t<div class=\"site-header-item site-header-focus-item site-header-item-main-navigation header-navigation-layout-stretch-false header-navigation-layout-fill-stretch-false\" data-section=\"kadence_customizer_primary_navigation\">\n\t\t<nav id=\"site-navigation\" class=\"main-navigation header-navigation hover-to-open nav--toggle-sub header-navigation-style-standard header-navigation-dropdown-animation-none\" role=\"navigation\" aria-label=\"Primary\">\n\t\t\t<div class=\"primary-menu-container header-menu-container\">\n\t<ul id=\"primary-menu\" class=\"menu\"><li id=\"menu-item-1013\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1013\"><a href=\"https://kvam-transport.no/utleie/\">Utleie</a></li>\n<li id=\"menu-item-1014\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1014\"><a href=\"https://kvam-transport.no/faste-ruter/\">Faste ruter</a></li>\n<li id=\"menu-item-1015\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1015\"><a href=\"https://kvam-transport.no/om-oss/\">Om oss</a></li>\n<li id=\"menu-item-1016\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016\"><a href=\"https://kvam-transport.no/kontakt/\">Kontakt</a></li>\n</ul>\t\t</div>\n\t</nav><!-- #site-navigation -->\n\t</div><!-- data-section=\"primary_navigation\" -->\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t</div>\n\t</div>\n\t\n<div id=\"mobile-header\" class=\"site-mobile-header-wrap\">\n\t<div class=\"site-header-inner-wrap\">\n\t\t<div class=\"site-header-upper-wrap\">\n\t\t\t<div class=\"site-header-upper-inner-wrap\">\n\t\t\t<div class=\"site-main-header-wrap site-header-focus-item site-header-row-layout-standard site-header-row-tablet-layout-default site-header-row-mobile-layout-default \">\n\t<div class=\"site-header-row-container-inner\">\n\t\t<div class=\"site-container\">\n\t\t\t<div class=\"site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center\">\n\t\t\t\t\t\t\t\t\t<div class=\"site-header-main-section-left site-header-section site-header-section-left\">\n\t\t\t\t\t\t<div class=\"site-header-item site-header-focus-item\" data-section=\"title_tagline\">\n\t<div class=\"site-branding mobile-site-branding branding-layout-standard branding-tablet-layout-inherit site-brand-logo-only branding-mobile-layout-inherit\"><a class=\"brand has-logo-image\" href=\"https://kvam-transport.no/\" rel=\"home\"><img width=\"2048\" height=\"819\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1.png\" class=\"custom-logo\" alt=\"Kvam Transport\" decoding=\"async\" srcset=\"https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1.png 2048w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-300x120.png 300w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-1024x410.png 1024w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-768x307.png 768w, https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1-1536x614.png 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" /></a></div></div><!-- data-section=\"title_tagline\" -->\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"site-header-main-section-right site-header-section site-header-section-right\">\n\t\t\t\t\t\t<div class=\"site-header-item site-header-focus-item site-header-item-navgation-popup-toggle\" data-section=\"kadence_customizer_mobile_trigger\">\n\t\t<div class=\"mobile-toggle-open-container\">\n\t\t\t\t\t\t<button id=\"mobile-toggle\" class=\"menu-toggle-open drawer-toggle menu-toggle-style-default\" aria-label=\"Open menu\" data-toggle-target=\"#mobile-drawer\" data-toggle-body-class=\"showing-popup-drawer-from-full\" aria-expanded=\"false\" data-set-focus=\".menu-toggle-close\"\n\t\t\t\t\t>\n\t\t\t\t\t\t<span class=\"menu-toggle-icon\"><span class=\"kadence-svg-iconset\"><svg aria-hidden=\"true\" class=\"kadence-svg-icon kadence-menu-svg\" fill=\"currentColor\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><title>Toggle Menu</title><path d=\"M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z\"></path>\n\t\t\t\t</svg></span></span>\n\t\t</button>\n\t</div>\n\t</div><!-- data-section=\"mobile_trigger\" -->\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t</div>\n</div>\n</header><!-- #masthead -->\n\n\t<main id=\"inner-wrap\" class=\"wrap kt-clear\" role=\"main\">\n\t\t<div id=\"primary\" class=\"content-area\">\n\t<div class=\"content-container site-container\">\n\t\t<div id=\"main\" class=\"site-main\">\n\t\t\t\t\t\t<div class=\"content-wrap\">\n\t\t\t\t<article id=\"post-1000\" class=\"entry content-bg single-entry post-1000 page type-page status-publish hentry\">\n\t<div class=\"entry-content-wrap\">\n\t\t\n<div class=\"entry-content single-content\">\n\t\n<div class=\"wp-block-group kv-hero kv-dark\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-shell\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-split\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Kvam Transport / Skien</p>\n\n\n\n<h1 class=\"wp-block-heading kv-hero-title\">Plass til mer.<br>Klare for turen.</h1>\n\n\n\n<p class=\"kv-lead wp-block-paragraph\">Motorhome, minibuss og hengere til leie. Faste transportruter for bedrifter som vil ha et langsiktig samarbeid.</p>\n\n\n\n<div class=\"wp-block-buttons kv-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"/utleie/\">Se utleie →</a></div>\n\n\n\n<div class=\"wp-block-button kv-outline\"><a class=\"wp-block-button__link wp-element-button\" href=\"/faste-ruter/\">Faste transportruter</a></div>\n</div>\n\n\n\n<p class=\"kv-micro wp-block-paragraph\">Personlig oppfølging fra Thomas · 916 62 802</p>\n</div></div>\n\n\n\n<figure class=\"wp-block-image size-large kv-photo\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/motorhome-kvam-transport-12.jpg\" alt=\"Scania S530 motorhome med garasje til leie fra Kvam Transport\"/><figcaption class=\"wp-element-caption\">Motorhome / Scania S530 V8</figcaption></figure>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-proof\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"wp-block-paragraph\"><strong>Transport utleie</strong>Utleieobjekter for ulike behov</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Skien</strong>Utgangspunkt i Telemark</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Direkte kontakt</strong>Avtal med Thomas</p>\n</div></div>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-section\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-shell\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-section-head\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Utleie</p>\n\n\n\n<h2 class=\"wp-block-heading kv-heading\">Riktig plass.<br>Riktig løsning.</h2>\n</div></div>\n\n\n\n<p class=\"wp-block-paragraph\">Fra turen dere planlegger til utstyret som skal frem. Se hele utvalget og spør oss om tilgjengelighet.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-grid\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-card\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/motorhome-kvam-transport-12.jpg\" alt=\"Motorhome til leie hos Kvam Transport i Skien\"/></figure>\n\n\n\n<div class=\"wp-block-group kv-card-body\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Motorhome / racing</p>\n\n\n\n<h3 class=\"wp-block-heading\">Motorhome til leie</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Et motorhome med plass til både opphold og utstyr. Scania S530 V8 med Krismar Elite Racing-påbygg, tre senger og garasje med løftelem.</p>\n\n\n\n<p class=\"kv-spec-mini wp-block-paragraph\">8 registrerte personer · 3 senger · Garasje</p>\n\n\n\n<p class=\"kv-card-link wp-block-paragraph\"><a href=\"/utleie/motorhome-utleie/\">Se detaljer og send forespørsel ↗</a></p>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-card\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/minibuss-kvam-transport-04.jpg\" alt=\"Minibuss med 21 seter til leie hos Kvam Transport i Skien\"/></figure>\n\n\n\n<div class=\"wp-block-group kv-card-body\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Minibuss / gruppereiser</p>\n\n\n\n<h3 class=\"wp-block-heading\">Minibuss med 21 seter til leie</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Reis samlet i Mercedes-Benz Sprinter 519 CDI XXL Exclusive. Komfortabel minibuss med panoramavinduer og 21 seter totalt. Førerkort klasse D kreves.</p>\n\n\n\n<p class=\"kv-spec-mini wp-block-paragraph\">21 seter totalt · Automat · Førerkort D</p>\n\n\n\n<p class=\"kv-card-link wp-block-paragraph\"><a href=\"/utleie/minibuss-21-seter/\">Se detaljer og send forespørsel ↗</a></p>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-card\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/IMG_1588.jpg\" alt=\"Artic skaphenger til leie – 5,5 meter hos Kvam Transport i Skien\"/></figure>\n\n\n\n<div class=\"wp-block-group kv-card-body\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Skaphenger / gods og utstyr</p>\n\n\n\n<h3 class=\"wp-block-heading\">Artic skaphenger til leie – 5,5 meter</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Romslig skaphenger med rampe og sidedør. Et praktisk valg når du trenger lukket transport av varer, materiell eller utstyr.</p>\n\n\n\n<p class=\"kv-spec-mini wp-block-paragraph\">5,5 m lengde · 2 444 kg nyttelast · Rampe</p>\n\n\n\n<p class=\"kv-card-link wp-block-paragraph\"><a href=\"/utleie/skaphenger-artic-55-meter/\">Se detaljer og send forespørsel ↗</a></p>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-card\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/IMG_1586.jpg\" alt=\"Iveco med skaphenger – inntil 16 paller hos Kvam Transport i Skien\"/></figure>\n\n\n\n<div class=\"wp-block-group kv-card-body\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Bil og henger / palltransport</p>\n\n\n\n<h3 class=\"wp-block-heading\">Iveco med skaphenger – inntil 16 paller</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Iveco med plass til åtte paller, sammen med en åttepallers skaphenger med løftelem. Inntil 16 paller og 40 m³ samlet lastevolum.</p>\n\n\n\n<p class=\"kv-spec-mini wp-block-paragraph\">Inntil 16 paller · 40 m³ · BE-kombinasjon</p>\n\n\n\n<p class=\"kv-card-link wp-block-paragraph\"><a href=\"/utleie/iveco-skaphenger-16-paller/\">Se detaljer og send forespørsel ↗</a></p>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-card\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/IMG_1591.jpg\" alt=\"Lukket bilhenger til leie hos Kvam Transport i Skien\"/></figure>\n\n\n\n<div class=\"wp-block-group kv-card-body\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Bilhenger / lukket transport</p>\n\n\n\n<h3 class=\"wp-block-heading\">Lukket bilhenger til leie</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Lukket bilhenger for skjermet transport av bil. Innvendig lengde 530 cm, bredde 212 cm og nyttelast 1 525 kg.</p>\n\n\n\n<p class=\"kv-spec-mini wp-block-paragraph\">530 × 212 cm innvendig · 1 525 kg nyttelast</p>\n\n\n\n<p class=\"kv-card-link wp-block-paragraph\"><a href=\"/utleie/lukket-bilhenger/\">Se detaljer og send forespørsel ↗</a></p>\n</div></div>\n</div></div>\n</div></div>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-section kv-soft\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-shell\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-split\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Transport for bedrifter</p>\n\n\n\n<h2 class=\"wp-block-heading kv-heading\">Faste ruter.<br>Fast samarbeid.</h2>\n\n\n\n<p class=\"kv-lead wp-block-paragraph\">Har bedriften varer som skal samme vei, uke etter uke? Kvam Transport kjører faste ruter for faste kunder. Vi vurderer nye transportavtaler ut fra rute, kapasitet og behov.</p>\n\n\n\n<div class=\"wp-block-buttons kv-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"/faste-ruter/#foresporsel\">Fortell oss om ruten →</a></div>\n</div>\n</div></div>\n\n\n\n<figure class=\"wp-block-image size-full kv-photo\"><img decoding=\"async\" width=\"1080\" height=\"1091\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/kvam-transport-volvo-faste-ruter.png\" alt=\"Hvit Volvo lastebil fra Kvam Transport for faste transportruter\" class=\"wp-image-1051\" srcset=\"https://kvam-transport.no/wp-content/uploads/2026/09/kvam-transport-volvo-faste-ruter.png 1080w, https://kvam-transport.no/wp-content/uploads/2026/09/kvam-transport-volvo-faste-ruter-297x300.png 297w, https://kvam-transport.no/wp-content/uploads/2026/09/kvam-transport-volvo-faste-ruter-1014x1024.png 1014w, https://kvam-transport.no/wp-content/uploads/2026/09/kvam-transport-volvo-faste-ruter-768x776.png 768w\" sizes=\"(max-width: 1080px) 100vw, 1080px\" /></figure>\n</div></div>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-section\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-shell\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-kicker wp-block-paragraph\">Slik fungerer utleie</p>\n\n\n\n<h2 class=\"wp-block-heading kv-heading\">Fra behov til avtale.</h2>\n\n\n\n<div class=\"wp-block-group kv-grid\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-step\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-number wp-block-paragraph\">01 / VELG</p>\n\n\n\n<h3 class=\"wp-block-heading\">Finn riktig utstyr</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Se bilder, mål og kapasitet. Velg objektet som passer behovet ditt.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-step\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-number wp-block-paragraph\">02 / SPØR</p>\n\n\n\n<h3 class=\"wp-block-heading\">Send en forespørsel</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Fortell oss hva du trenger og når. Forespørselen er uforpliktende.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-step\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"kv-number wp-block-paragraph\">03 / AVTAL</p>\n\n\n\n<h3 class=\"wp-block-heading\">Avklar med Thomas</h3>\n\n\n\n<p class=\"wp-block-paragraph\">Vi bekrefter tilgjengelighet, pris og vilkår. Deretter inngås leieavtalen.</p>\n</div></div>\n</div></div>\n</div></div>\n</div></div>\n\n\n\n<div class=\"wp-block-group kv-dark\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-shell kv-footer-inner\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group kv-split\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<figure class=\"wp-block-image size-large kv-footer-logo\"><img decoding=\"async\" src=\"https://kvam-transport.no/wp-content/uploads/2026/09/Logo_hvit-1.png\" alt=\"Kvam Transport\"/></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Faste transportruter og utleie med personlig oppfølging.</p>\n</div></div>\n\n\n\n<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow\">\n<p class=\"wp-block-paragraph\"><strong>Snakk med Thomas</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"tel:+4791662802\">916 62 802</a><br><a href=\"mailto:thomas@kvam-transport.no\">thomas@kvam-transport.no</a></p>\n\n\n\n<p class=\"wp-block-paragraph\">Rødmyrjordet 13, 3735 Skien<br>Henting og levering etter avtale.</p>\n\n\n<p class=\"kv-footer-meta wp-block-paragraph\">Org.nr. 925 271 586 · <a href=\"/personvern/\">Personvern</a></p>\n</div></div>\n</div></div>\n\n\n\n<p class=\"kv-bottom wp-block-paragraph\">© 2026 | Kvam Transport AS | Alle rettigheter reservert | Powered by <a href=\"https://keepsmiling.no/\">KeepSmiling</a></p>\n</div></div>\n</div></div>\n</div><!-- .entry-content -->\n\t</div>\n</article><!-- #post-1000 -->\n\n\t\t\t</div>\n\t\t\t\t\t</div><!-- #main -->\n\t\t\t</div>\n</div><!-- #primary -->\n\t</main><!-- #inner-wrap -->\n\t<footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\">\n\t<div class=\"site-footer-wrap\">\n\t\t<div class=\"site-bottom-footer-wrap site-footer-row-container site-footer-focus-item site-footer-row-layout-standard site-footer-row-tablet-layout-default site-footer-row-mobile-layout-default\" data-section=\"kadence_customizer_footer_bottom\">\n\t<div class=\"site-footer-row-container-inner\">\n\t\t\t\t<div class=\"site-container\">\n\t\t\t<div class=\"site-bottom-footer-inner-wrap site-footer-row site-footer-row-columns-1 site-footer-row-column-layout-row site-footer-row-tablet-column-layout-default site-footer-row-mobile-column-layout-row ft-ro-dir-row ft-ro-collapse-normal ft-ro-t-dir-default ft-ro-m-dir-default ft-ro-lstyle-plain\">\n\t\t\t\t\t\t\t\t\t<div class=\"site-footer-bottom-section-1 site-footer-section footer-section-inner-items-1\">\n\t\t\t\t\t\t\n<div class=\"footer-widget-area site-info site-footer-focus-item content-align-default content-tablet-align-default content-mobile-align-default content-valign-default content-tablet-valign-default content-mobile-valign-default\" data-section=\"kadence_customizer_footer_html\">\n\t<div class=\"footer-widget-area-inner site-info-inner\">\n\t\t<div class=\"footer-html inner-link-style-normal\"><div class=\"footer-html-inner\"><p>&copy; 2026 Kvam Transport - WordPress Theme by <a href=\"https://www.kadencewp.com/\" rel=\"nofollow noopener\">Kadence WP</a></p>\n</div></div>\t</div>\n</div><!-- .site-info -->\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>\n\t</div>\n</footer><!-- #colophon -->\n\n</div><!-- #wrapper -->\n\n\t\t\t<script>document.documentElement.style.setProperty('--scrollbar-offset', window.innerWidth - document.documentElement.clientWidth + 'px' );</script>\n\t\t\t<script type=\"speculationrules\">\n{\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/kadence/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}\n</script>\n<script>\r\n(function () {\r\n  if (window.kvamAdsFormTracking) return;\r\n  window.kvamAdsFormTracking = true;\r\n  document.addEventListener('wpcf7mailsent', function () {\r\n    if (!/^\\/leieforesporsel\\/?$/.test(location.pathname)) return;\r\n    if (typeof window.wp_has_consent !== 'function' ||\r\n        !window.wp_has_consent('marketing')) return;\r\n    if (typeof window.gtag !== 'function') return;\r\n    window.gtag('event', 'conversion', {\r\n      send_to: 'AW-18486451815/oOeVCJfJ_IwdEOe8g-9E'\r\n    });\r\n  });\r\n})();\r\n</script>\n<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->\n<div id=\"cmplz-cookiebanner-container\"><div id=\"cmplz-cookiebanner-1-optin\" class=\"cmplz-cookiebanner cmplz-hidden banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences\" aria-modal=\"true\" data-nosnippet=\"true\" role=\"dialog\" aria-live=\"polite\" aria-labelledby=\"cmplz-header-1-optin\" aria-describedby=\"cmplz-message-1-optin\">\n\t<div class=\"cmplz-header\">\n\t\t<div class=\"cmplz-logo\"></div>\n\t\t<div class=\"cmplz-title\" id=\"cmplz-header-1-optin\">Administrer samtykke</div>\n\t\t<div class=\"cmplz-close\" tabindex=\"0\" role=\"button\" aria-label=\"Lukk dialog\">\n\t\t\t<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"times\" class=\"svg-inline--fa fa-times fa-w-11\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 352 512\"><path fill=\"currentColor\" d=\"M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z\"></path></svg>\n\t\t</div>\n\t</div>\n\n\t<div class=\"cmplz-divider cmplz-divider-header\"></div>\n\t<div class=\"cmplz-body\">\n\t\t<div class=\"cmplz-message\" id=\"cmplz-message-1-optin\">For å gi de beste opplevelsene bruker vi teknologier som informasjonskapsler for å lagre og/eller få tilgang til enhetsinformasjon. Å samtykke til disse teknologiene vil la oss behandle data som nettleseratferd eller unike ID-er på dette nettstedet. Ikke å samtykke eller trekke tilbake samtykket kan ha negativ innvirkning på enkelte egenskaper og funksjoner.</div>\n\t\t<!-- categories start -->\n\t\t<div class=\"cmplz-categories\">\n\t\t\t<div class=\"cmplz-category cmplz-functional\">\n\t\t\t\t<div class=\"cmplz-category-header\">\n\t\t\t\t\t<span class=\"cmplz-category-title\" id=\"cmplz-title-functional-1-optin\">Funksjonell</span>\n\t\t\t\t\t<span class='cmplz-always-active'>\n\t\t\t\t\t\t<span class=\"cmplz-banner-checkbox\">\n\t\t\t\t\t\t\t<input type=\"checkbox\"\n\t\t\t\t\t\t\t\t\tid=\"cmplz-functional-optin\"\n\t\t\t\t\t\t\t\t\tdata-category=\"cmplz_functional\"\n\t\t\t\t\t\t\t\t\tclass=\"cmplz-consent-checkbox cmplz-functional\"\n\t\t\t\t\t\t\t\t\tsize=\"40\"\n\t\t\t\t\t\t\t\t\tvalue=\"1\"/>\n\t\t\t\t\t\t\t<label class=\"cmplz-label\" for=\"cmplz-functional-optin\"><span class=\"screen-reader-text\">Funksjonell</span></label>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t\tAlltid aktiv\t\t\t\t\t</span>\n\t\t\t\t\t<button class=\"cmplz-category-toggle\"\n\t\t\t\t\t\t\taria-expanded=\"false\"\n\t\t\t\t\t\t\taria-controls=\"cmplz-desc-functional-1-optin\"\n\t\t\t\t\t\t\taria-labelledby=\"cmplz-title-functional-1-optin\">\n\t\t\t\t\t\t<span class=\"cmplz-icon cmplz-open\">\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" height=\"18\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"/></svg>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"cmplz-description\" id=\"cmplz-desc-functional-1-optin\" hidden>\n\t\t\t\t\t<span class=\"cmplz-description-functional\">Lagring av data eller tilgang er nødvendig for å kunne bruke en spesifikk tjeneste som er eksplisitt etterspurt av abonnenten eller brukeren, eller kun for elektronisk kommunikasjon.</span>\n\t\t\t\t</div>\n\t\t\t</div>\n\n\t\t\t<div class=\"cmplz-category cmplz-preferences\">\n\t\t\t\t<div class=\"cmplz-category-header\">\n\t\t\t\t\t<span class=\"cmplz-category-title\" id=\"cmplz-title-preferences-1-optin\">Preferanser</span>\n\t\t\t\t\t<span class=\"cmplz-banner-checkbox\">\n\t\t\t\t\t\t<input type=\"checkbox\"\n\t\t\t\t\t\t\t\tid=\"cmplz-preferences-optin\"\n\t\t\t\t\t\t\t\tdata-category=\"cmplz_preferences\"\n\t\t\t\t\t\t\t\tclass=\"cmplz-consent-checkbox cmplz-preferences\"\n\t\t\t\t\t\t\t\tsize=\"40\"\n\t\t\t\t\t\t\t\tvalue=\"1\"/>\n\t\t\t\t\t\t<label class=\"cmplz-label\" for=\"cmplz-preferences-optin\"><span class=\"screen-reader-text\">Preferanser</span></label>\n\t\t\t\t\t</span>\n\t\t\t\t\t<button class=\"cmplz-category-toggle\"\n\t\t\t\t\t\t\taria-expanded=\"false\"\n\t\t\t\t\t\t\taria-controls=\"cmplz-desc-preferences-1-optin\"\n\t\t\t\t\t\t\taria-labelledby=\"cmplz-title-preferences-1-optin\">\n\t\t\t\t\t\t<span class=\"cmplz-icon cmplz-open\">\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" height=\"18\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"/></svg>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"cmplz-description\" id=\"cmplz-desc-preferences-1-optin\" hidden>\n\t\t\t\t\t<span class=\"cmplz-description-preferences\">Lagring av data eller tilgang er nødvendig for å lagre preferanser som ikke er etterspurt av abonnenten eller brukeren.</span>\n\t\t\t\t</div>\n\t\t\t</div>\n\n\t\t\t<div class=\"cmplz-category cmplz-statistics\">\n\t\t\t\t<div class=\"cmplz-category-header\">\n\t\t\t\t\t<span class=\"cmplz-category-title\" id=\"cmplz-title-statistics-1-optin\">Statistikk</span>\n\t\t\t\t\t<span class=\"cmplz-banner-checkbox\">\n\t\t\t\t\t\t<input type=\"checkbox\"\n\t\t\t\t\t\t\t\tid=\"cmplz-statistics-optin\"\n\t\t\t\t\t\t\t\tdata-category=\"cmplz_statistics\"\n\t\t\t\t\t\t\t\tclass=\"cmplz-consent-checkbox cmplz-statistics\"\n\t\t\t\t\t\t\t\tsize=\"40\"\n\t\t\t\t\t\t\t\tvalue=\"1\"/>\n\t\t\t\t\t\t<label class=\"cmplz-label\" for=\"cmplz-statistics-optin\"><span class=\"screen-reader-text\">Statistikk</span></label>\n\t\t\t\t\t</span>\n\t\t\t\t\t<button class=\"cmplz-category-toggle\"\n\t\t\t\t\t\t\taria-expanded=\"false\"\n\t\t\t\t\t\t\taria-controls=\"cmplz-desc-statistics-1-optin\"\n\t\t\t\t\t\t\taria-labelledby=\"cmplz-title-statistics-1-optin\">\n\t\t\t\t\t\t<span class=\"cmplz-icon cmplz-open\">\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" height=\"18\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"/></svg>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"cmplz-description\" id=\"cmplz-desc-statistics-1-optin\" hidden>\n\t\t\t\t\t<span class=\"cmplz-description-statistics\">Lagring av data eller tilgang benyttes kun til statistikk.</span>\n\t\t\t\t\t<span class=\"cmplz-description-statistics-anonymous\">Lagring av data eller tilgang brukes utelukkende til anonyme statistiske formål. Uten en stevning, frivillig samtykke fra din internettleverandør eller en tredjepart, kan informasjon som er lagret eller hentet for dette formålet alene vanligvis ikke brukes til å identifisere deg.</span>\n\t\t\t\t</div>\n\t\t\t</div>\n\n\t\t\t<div class=\"cmplz-category cmplz-marketing\">\n\t\t\t\t<div class=\"cmplz-category-header\">\n\t\t\t\t\t<span class=\"cmplz-category-title\" id=\"cmplz-title-marketing-1-optin\">Markedsføring</span>\n\t\t\t\t\t<span class=\"cmplz-banner-checkbox\">\n\t\t\t\t\t\t<input type=\"checkbox\"\n\t\t\t\t\t\t\t\tid=\"cmplz-marketing-optin\"\n\t\t\t\t\t\t\t\tdata-category=\"cmplz_marketing\"\n\t\t\t\t\t\t\t\tclass=\"cmplz-consent-checkbox cmplz-marketing\"\n\t\t\t\t\t\t\t\tsize=\"40\"\n\t\t\t\t\t\t\t\tvalue=\"1\"/>\n\t\t\t\t\t\t<label class=\"cmplz-label\" for=\"cmplz-marketing-optin\"><span class=\"screen-reader-text\">Markedsføring</span></label>\n\t\t\t\t\t</span>\n\t\t\t\t\t<button class=\"cmplz-category-toggle\"\n\t\t\t\t\t\t\taria-expanded=\"false\"\n\t\t\t\t\t\t\taria-controls=\"cmplz-desc-marketing-1-optin\"\n\t\t\t\t\t\t\taria-labelledby=\"cmplz-title-marketing-1-optin\">\n\t\t\t\t\t\t<span class=\"cmplz-icon cmplz-open\">\n\t\t\t\t\t\t\t<svg aria-hidden=\"true\" focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" height=\"18\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"/></svg>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"cmplz-description\" id=\"cmplz-desc-marketing-1-optin\" hidden>\n\t\t\t\t\t<span class=\"cmplz-description-marketing\">Lagring av data eller tilgang er nødvendig for å opprette brukerprofiler for å sende reklame eller for å spore brukeren på en nettside (eller over flere nettsider) for lignende markedsføringsformål.</span>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div><!-- categories end -->\n\t\t\t</div>\n\n\t<div class=\"cmplz-links cmplz-information\">\n\t\t<ul>\n\t\t\t<li><a class=\"cmplz-link cmplz-manage-options cookie-statement\" href=\"#\" data-relative_url=\"#cmplz-manage-consent-container\">Administrer alternativer</a></li>\n\t\t\t<li><a class=\"cmplz-link cmplz-manage-third-parties cookie-statement\" href=\"#\" data-relative_url=\"#cmplz-cookies-overview\">Administrer tjenester</a></li>\n\t\t\t<li><a class=\"cmplz-link cmplz-manage-vendors tcf cookie-statement\" href=\"#\" data-relative_url=\"#cmplz-tcf-wrapper\">Administrer {vendor_count}-leverandører</a></li>\n\t\t\t<li><a class=\"cmplz-link cmplz-external cmplz-read-more-purposes tcf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://cookiedatabase.org/tcf/purposes/\" aria-label=\"Read more about TCF purposes on Cookie Database\">Les mer om disse formålene</a></li>\n\t\t</ul>\n\t\t\t</div>\n\n\t<div class=\"cmplz-divider cmplz-footer\"></div>\n\n\t<div class=\"cmplz-buttons\">\n\t\t<button class=\"cmplz-btn cmplz-accept\">Godta</button>\n\t\t<button class=\"cmplz-btn cmplz-deny\">Avslå</button>\n\t\t<button class=\"cmplz-btn cmplz-view-preferences\">Se preferanser</button>\n\t\t<button class=\"cmplz-btn cmplz-save-preferences\">Lagre preferanser</button>\n\t\t<a class=\"cmplz-btn cmplz-manage-options tcf cookie-statement\" href=\"#\" data-relative_url=\"#cmplz-manage-consent-container\">Se preferanser</a>\n\t\t\t</div>\n\n\n\t<div class=\"cmplz-documents cmplz-links\">\n\t\t<ul>\n\t\t\t<li><a class=\"cmplz-link cookie-statement\" href=\"#\" data-relative_url=\"\">{title}</a></li>\n\t\t\t<li><a class=\"cmplz-link privacy-statement\" href=\"#\" data-relative_url=\"\">{title}</a></li>\n\t\t\t<li><a class=\"cmplz-link impressum\" href=\"#\" data-relative_url=\"\">{title}</a></li>\n\t\t</ul>\n\t\t\t</div>\n</div>\n</div>\n\t\t\t\t\t<div id=\"cmplz-manage-consent\" data-nosnippet=\"true\"><button class=\"cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1\" aria-haspopup=\"dialog\" aria-controls=\"cmplz-cookiebanner-1-optin\">Administrer samtykke</button>\n\n</div>\t<div id=\"mobile-drawer\" class=\"popup-drawer popup-drawer-layout-fullwidth popup-drawer-animation-fade popup-drawer-side-right\" data-drawer-target-string=\"#mobile-drawer\"\n\t\t\t>\n\t\t<div class=\"drawer-overlay\" data-drawer-target-string=\"#mobile-drawer\"></div>\n\t\t<div class=\"drawer-inner\">\n\t\t\t\t\t\t<div class=\"drawer-header\">\n\t\t\t\t<button class=\"menu-toggle-close drawer-toggle\" aria-label=\"Close menu\"  data-toggle-target=\"#mobile-drawer\" data-toggle-body-class=\"showing-popup-drawer-from-full\" aria-expanded=\"false\" data-set-focus=\".menu-toggle-open\"\n\t\t\t\t\t\t\t>\n\t\t\t\t\t<span class=\"toggle-close-bar\"></span>\n\t\t\t\t\t<span class=\"toggle-close-bar\"></span>\n\t\t\t\t</button>\n\t\t\t</div>\n\t\t\t<div class=\"drawer-content mobile-drawer-content content-align-left content-valign-top\">\n\t\t\t\t\t\t\t\t<div class=\"site-header-item site-header-focus-item site-header-item-mobile-navigation mobile-navigation-layout-stretch-false\" data-section=\"kadence_customizer_mobile_navigation\">\n\t\t<nav id=\"mobile-site-navigation\" class=\"mobile-navigation drawer-navigation drawer-navigation-parent-toggle-false\" role=\"navigation\" aria-label=\"Primary Mobile\">\n\t\t\t\t<div class=\"mobile-menu-container drawer-menu-container\">\n\t\t\t<ul id=\"mobile-menu\" class=\"menu has-collapse-sub-nav\"><li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1013\"><a href=\"https://kvam-transport.no/utleie/\">Utleie</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1014\"><a href=\"https://kvam-transport.no/faste-ruter/\">Faste ruter</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1015\"><a href=\"https://kvam-transport.no/om-oss/\">Om oss</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1016\"><a href=\"https://kvam-transport.no/kontakt/\">Kontakt</a></li>\n</ul>\t\t</div>\n\t</nav><!-- #site-navigation -->\n\t</div><!-- data-section=\"mobile_navigation\" -->\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t</div>\n\t<script id=\"wp-hooks-js\" src=\"https://kvam-transport.no/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255\"></script>\n<script id=\"wp-i18n-js\" src=\"https://kvam-transport.no/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216\"></script>\n<script id=\"wp-i18n-js-after\">\nwp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } );\n//# sourceURL=wp-i18n-js-after\n</script>\n<script id=\"swv-js\" src=\"https://kvam-transport.no/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7\"></script>\n<script id=\"contact-form-7-js-translations\">\n( function( domain, translations ) {\n\tvar localeData = translations.locale_data[ domain ] || translations.locale_data.messages;\n\tlocaleData[\"\"].domain = domain;\n\twp.i18n.setLocaleData( localeData, domain );\n} )( \"contact-form-7\", {\"translation-revision-date\":\"2026-04-05 19:55:25+0000\",\"generator\":\"GlotPress\\/4.0.3\",\"domain\":\"messages\",\"locale_data\":{\"messages\":{\"\":{\"domain\":\"messages\",\"plural-forms\":\"nplurals=2; plural=n != 1;\",\"lang\":\"nb_NO\"},\"This contact form is placed in the wrong place.\":[\"Dette kontaktskjemaet er plassert feil.\"],\"Error:\":[\"Feil:\"]}},\"comment\":{\"reference\":\"includes\\/js\\/index.js\"}} );\n//# sourceURL=contact-form-7-js-translations\n</script>\n<script id=\"contact-form-7-js-before\">\nvar wpcf7 = {\n    \"api\": {\n        \"root\": \"https:\\/\\/kvam-transport.no\\/wp-json\\/\",\n        \"namespace\": \"contact-form-7\\/v1\"\n    }\n};\n//# sourceURL=contact-form-7-js-before\n</script>\n<script id=\"contact-form-7-js\" src=\"https://kvam-transport.no/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7\"></script>\n<script id=\"kadence-navigation-js-extra\">\nvar kadenceConfig = {\"screenReader\":{\"expand\":\"Child menu\",\"expandOf\":\"Child menu of\",\"collapse\":\"Child menu\",\"collapseOf\":\"Child menu of\"},\"breakPoints\":{\"desktop\":\"1024\",\"tablet\":768},\"scrollOffset\":\"0\"};\n//# sourceURL=kadence-navigation-js-extra\n</script>\n<script id=\"kadence-navigation-js\" src=\"https://kvam-transport.no/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.5.2\" async></script>\n<script id=\"googlesitekit-consent-mode-js\" src=\"https://kvam-transport.no/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-consent-mode-755f1678e260138d789e.js\"></script>\n<script id=\"googlesitekit-events-provider-contact-form-7-js\" src=\"https://kvam-transport.no/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-fac2a8013ba5ba355cd0.js\" defer></script>\n<script id=\"googlesitekit-events-provider-content-events-js-before\">\nwindow._googlesitekit = window._googlesitekit || {};\nwindow._googlesitekit.contentEvents = {\"postID\":1000,\"isSinglePost\":false,\"hasVimeoEmbed\":false};\n//# sourceURL=googlesitekit-events-provider-content-events-js-before\n</script>\n<script id=\"googlesitekit-events-provider-content-events-js\" src=\"https://kvam-transport.no/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-c7172f3fd0e4d5ad62ef.js\" defer></script>\n<script id=\"wp-consent-api-js-extra\">\nvar consent_api = {\"consent_type\":\"optin\",\"waitfor_consent_hook\":\"\",\"cookie_expiration\":\"30\",\"cookie_prefix\":\"wp_consent\",\"services\":[]};\n//# sourceURL=wp-consent-api-js-extra\n</script>\n<script id=\"wp-consent-api-js\" src=\"https://kvam-transport.no/wp-content/plugins/wp-consent-api/assets/js/wp-consent-api.min.js?ver=2.1.0\"></script>\n<script id=\"cmplz-cookiebanner-js-extra\">\nvar complianz = {\"prefix\":\"cmplz_\",\"debug\":\"\",\"user_banner_id\":\"1\",\"set_cookies\":[],\"block_ajax_content\":\"\",\"banner_version\":\"17\",\"version\":\"7.5.5\",\"store_consent\":\"\",\"do_not_track_enabled\":\"\",\"consenttype\":\"optin\",\"region\":\"eu\",\"geoip\":\"\",\"dismiss_timeout\":\"\",\"disable_cookiebanner\":\"\",\"soft_cookiewall\":\"\",\"dismiss_on_scroll\":\"\",\"cookie_expiry\":\"365\",\"url\":\"https://kvam-transport.no/wp-json/complianz/v1/\",\"locale\":\"lang=nb&locale=nb_NO\",\"set_cookies_on_root\":\"\",\"cookie_domain\":\"\",\"current_policy_id\":\"31\",\"cookie_path\":\"/\",\"categories\":{\"statistics\":\"statistikk\",\"marketing\":\"markedsf\\u00f8ring\"},\"tcf_active\":\"\",\"placeholdertext\":\"Klikk for \\u00e5 godta {category} informasjonskapsler og aktivere dette innholdet\",\"css_file\":\"https://kvam-transport.no/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=17\",\"page_links\":{\"eu\":{\"cookie-statement\":{\"title\":\"Infokapsel-erkl\\u00e6ring \",\"url\":\"https://kvam-transport.no/infokapsel-erklaering-eu/\"},\"privacy-statement\":{\"title\":\"Personvern\",\"url\":\"https://kvam-transport.no/personvern/\"}}},\"tm_categories\":\"\",\"forceEnableStats\":\"\",\"preview\":\"\",\"clean_cookies\":\"\",\"aria_label\":\"Klikk for \\u00e5 godta {category} informasjonskapsler og aktivere dette innholdet\",\"iapi_nav\":\"fallback\"};\n//# sourceURL=cmplz-cookiebanner-js-extra\n</script>\n<script defer id=\"cmplz-cookiebanner-js\" src=\"https://kvam-transport.no/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1790855462\"></script>\n<script id=\"wp-emoji-settings\" type=\"application/json\">\n{\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://kvam-transport.no/wp-includes/js/wp-emoji-release.min.js?ver=7.1.2\"}}\n</script>\n<script type=\"module\">\n/*! This file is auto-generated */\nvar e=\"script#wp-emoji-settings\",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error(\"Element missing: \"+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,\"wpEmojiSettingsSupports\"),o=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!r(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,r){let a;const s=(a=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),o=(s.textBaseline=\"top\",s.font=\"600 32px Arial\",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",r=new Blob([e],{type:\"text/javascript\"});const a=new Worker(URL.createObjectURL(r),{name:\"wpTestEmojiSupports\"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],\"flag\"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});\n//# sourceURL=https://kvam-transport.no/wp-includes/js/wp-emoji-loader.min.js\n</script>\n</body>\n</html>\n",
+          "page_text": "Kvam Transport | Utleie i Skien og faste transportruter Skip to content Utleie Faste ruter Om oss Kontakt Toggle Menu Kvam Transport / Skien Plass til mer. Klare for turen. Motorhome, minibuss og hengere til leie. Faste transportruter for bedrifter som vil ha et langsiktig samarbeid. Se utleie → Faste transportruter Personlig oppfølging fra Thomas · 916 62 802 Motorhome / Scania S530 V8 Transport utleie Utleieobjekter for ulike behov Skien Utgangspunkt i Telemark Direkte kontakt Avtal med Thomas Utleie Riktig plass. Riktig løsning. Fra turen dere planlegger til utstyret som skal frem. Se hele utvalget og spør oss om tilgjengelighet. Motorhome / racing Motorhome til leie Et motorhome med plass til både opphold og utstyr. Scania S530 V8 med Krismar Elite Racing-påbygg, tre senger og garasje med løftelem. 8 registrerte personer · 3 senger · Garasje Se detaljer og send forespørsel ↗ Minibuss / gruppereiser Minibuss med 21 seter til leie Reis samlet i Mercedes-Benz Sprinter 519 CDI XXL Exclusive. Komfortabel minibuss med panoramavinduer og 21 seter totalt. Førerkort klasse D kreves. 21 seter totalt · Automat · Førerkort D Se detaljer og send forespørsel ↗ Skaphenger / gods og utstyr Artic skaphenger til leie – 5,5 meter Romslig skaphenger med rampe og sidedør. Et praktisk valg når du trenger lukket transport av varer, materiell eller utstyr. 5,5 m lengde · 2 444 kg nyttelast · Rampe Se detaljer og send forespørsel ↗ Bil og henger / palltransport Iveco med skaphenger – inntil 16 paller Iveco med plass til åtte paller, sammen med en åttepallers skaphenger med løftelem. Inntil 16 paller og 40 m³ samlet lastevolum. Inntil 16 paller · 40 m³ · BE-kombinasjon Se detaljer og send forespørsel ↗ Bilhenger / lukket transport Lukket bilhenger til leie Lukket bilhenger for skjermet transport av bil. Innvendig lengde 530 cm, bredde 212 cm og nyttelast 1 525 kg. 530 × 212 cm innvendig · 1 525 kg nyttelast Se detaljer og send forespørsel ↗ Transport for bedrifter Faste ruter. Fast samarbeid. Har bedriften varer som skal samme vei, uke etter uke? Kvam Transport kjører faste ruter for faste kunder. Vi vurderer nye transportavtaler ut fra rute, kapasitet og behov. Fortell oss om ruten → Slik fungerer utleie Fra behov til avtale. 01 / VELG Finn riktig utstyr Se bilder, mål og kapasitet. Velg objektet som passer behovet ditt. 02 / SPØR Send en forespørsel Fortell oss hva du trenger og når. Forespørselen er uforpliktende. 03 / AVTAL Avklar med Thomas Vi bekrefter tilgjengelighet, pris og vilkår. Deretter inngås leieavtalen. Faste transportruter og utleie med personlig oppfølging. Snakk med Thomas 916 62 802 thomas@kvam-transport.no Rødmyrjordet 13, 3735 Skien Henting og levering etter avtale. Org.nr. 925 271 586 · Personvern © 2026 | Kvam Transport AS | Alle rettigheter reservert | Powered by KeepSmiling © 2026 Kvam Transport - WordPress Theme by Kadence WP Administrer samtykke For å gi de beste opplevelsene bruker vi teknologier som informasjonskapsler for å lagre og/eller få tilgang til enhetsinformasjon. Å samtykke til disse teknologiene vil la oss behandle data som nettleseratferd eller unike ID-er på dette nettstedet. Ikke å samtykke eller trekke tilbake samtykket kan ha negativ innvirkning på enkelte egenskaper og funksjoner. Funksjonell Funksjonell Alltid aktiv Lagring av data eller tilgang er nødvendig for å kunne bruke en spesifikk tjeneste som er eksplisitt etterspurt av abonnenten eller brukeren, eller kun for elektronisk kommunikasjon. Preferanser Preferanser Lagring av data eller tilgang er nødvendig for å lagre preferanser som ikke er etterspurt av abonnenten eller brukeren. Statistikk Statistikk Lagring av data eller tilgang benyttes kun til statistikk. Lagring av data eller tilgang brukes utelukkende til anonyme statistiske formål. Uten en stevning, frivillig samtykke fra din internettleverandør eller en tredjepart, kan informasjon som er lagret eller hentet for dette formålet alene vanligvis ikke brukes til å identifisere deg. Markedsføring Markedsføring Lagring av data eller tilgang er nødvendig for å opprette brukerprofiler for å sende reklame eller for å spore brukeren på en nettside (eller over flere nettsider) for lignende markedsføringsformål. Administrer alternativer Administrer tjenester Administrer {vendor_count}-leverandører Les mer om disse formålene Godta Avslå Se preferanser Lagre preferanser Se preferanser {title} {title} {title} Administrer samtykke Utleie Faste ruter Om oss Kontakt",
+          "proof_level": "p1_exact",
+          "registrable_domain": "kvam-transport.no",
+          "strategy": "domain_guess"
+        }
+      }
+    },
+    "industry_code": "49.410",
+    "industry_label": "Godstransport på vei",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SKIEN",
+    "municipality_number": "4003",
+    "name": "KVAM TRANSPORT AS",
+    "organisation_number": "925271586",
+    "run_metrics": {
+      "latencies_ms": [
+        1156,
+        1203,
+        1171,
+        1218,
+        8922,
+        2297,
+        1375,
+        1437,
+        3047
+      ],
+      "requests": 9
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:33Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "KVAM TRANSPORT AS (AS, org.nr 925271586)",
+    "what_it_does": "KVAM TRANSPORT AS is classified under NACE code 49.410 (unspecified). The company operates its verified website at https://kvam-transport.no/. It operates publicly under the brand name 'Kvam Transport', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, KVAM TRANSPORT AS reported revenue of 51,258,040 NOK and an operating result of 3,668,473 NOK. Net result was 1,950,471 NOK, with total assets of 22,177,906 NOK and equity of 3,522,094 NOK. Revenue grew by +13.5% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 7.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Thomas Kvam. Daily operations are led by general manager Thomas Kvam. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "KVAM TRANSPORT AS is classified under NACE code 49.410 (unspecified).",
+        "claim_ids": [
+          "0dba56c03ab3a034b0dc",
+          "b834eb24f254a170db13"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://kvam-transport.no/.",
+        "claim_ids": [
+          "4f244148786cb59bd17f"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Kvam Transport', according to its website.",
+        "claim_ids": [
+          "0f856b5c510c0a7d7328"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "0974b1f345fe056d77a8",
+          "0dba56c03ab3a034b0dc"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, KVAM TRANSPORT AS reported revenue of 51,258,040 NOK and an operating result of 3,668,473 NOK.",
+        "claim_ids": [
+          "a6a747bffe220d48214c",
+          "d0cd054b4a3f62f8a2d8"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 1,950,471 NOK, with total assets of 22,177,906 NOK and equity of 3,522,094 NOK.",
+        "claim_ids": [
+          "6b5550c4e65551cb0b83",
+          "1e3ae6bde60e88cfde57",
+          "60c3a8950b35011d2f2e"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue grew by +13.5% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "a6a747bffe220d48214c",
+          "f0aa63b0dfdef348df5a"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 7.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "d0cd054b4a3f62f8a2d8",
+          "a6a747bffe220d48214c"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Thomas Kvam.",
+        "claim_ids": [
+          "e09aad192615bb8b261b"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Thomas Kvam.",
+        "claim_ids": [
+          "307ba945b9c6159e644c"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "307ba945b9c6159e644c",
+          "8005e25d7994cc7d96b8",
+          "a23159f7cc391e6e7612",
+          "e09aad192615bb8b261b"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "b834eb24f254a170db13"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "f9adc52aac156ed2a87a"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "b834eb24f254a170db13"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "b834eb24f254a170db13"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "b834eb24f254a170db13"
+        ]
+      }
+    ]
+  }
+}

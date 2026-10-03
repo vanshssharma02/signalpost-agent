@@ -1,0 +1,1039 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "26f1863db76a8ae0dea4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 14984.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0c9a7ee64fbbc21fec96",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 40876.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fdad41ac15224aeb368e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2392.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "85f50f154c479f9c3355",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38484.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5fc0b2bdf7a078d281fc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19362.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "05f81e7bf3ea85ce7da9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17376.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "533d4dcf7bfdfd4eae9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935234123-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 113291.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0ed02adebf93b655912",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935234123"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "62.100"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f1d644bfb69853b37fce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935234123"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c98485791d50a0b621d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935234123"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "GEO GO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "277ac7c2c612666f4540",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935234123-6785e54cfcc5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Robin-André Kolbjørnsrud",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "77bf66eb06a355b34b08",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935234123-f0d7d732e2e5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "John Brede Kruse Smedsrud",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b157954d829408b8b136",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935234123-e4811613e504"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Dino Tomic",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f440d859e5830ec2b888",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935234123-c1efcb9df666"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Robin-André Kolbjørnsrud",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a2ad7c9e14cff5601509",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-935234123-935583772"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Heddalsvegen 11"
+          ],
+          "kommune": "NOTODDEN",
+          "kommunenummer": "4005",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3674",
+          "poststed": "NOTODDEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Dataprogrammeringstjenester",
+          "kode": "62.100"
+        },
+        "name": "GEO GO AS",
+        "organisation_number": "935583772"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 113291.0, operating_result: 19362.0, profit_before_tax: 17376.0, annual_result: 14984.0, assets: 40876.0, equity: 38484.0, debt: 2392.0",
+      "content_sha256": "09c4c7706e3b05fd0bd73a65285127cec839d884eca65e7e6b18f6880d11b788",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935234123",
+      "http_status": 200,
+      "id": "ev-fin-935234123-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-03-04",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:32.835401Z",
+      "snapshot_ref": "09/09c4c7706e3b05fd0bd73a65285127cec839d884eca65e7e6b18f6880d11b788.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935234123",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 935583772: GEO GO AS",
+      "content_sha256": "be3cab2bc702b0339b7bd30121a6a4a1100082e9ba12c774edf9212962f6e3b7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935234123&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-935234123-935583772",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:36.432905Z",
+      "snapshot_ref": "be/be3cab2bc702b0339b7bd30121a6a4a1100082e9ba12c774edf9212962f6e3b7.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935234123&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 935234123 GEO GO AS",
+      "content_sha256": "a84f76f514b12fc2208bd1d89685ea6e6d6701f0eb9ab6752f4da3cf4dc09f17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-935234123",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "a8/a84f76f514b12fc2208bd1d89685ea6e6d6701f0eb9ab6752f4da3cf4dc09f17.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Robin-André Kolbjørnsrud",
+      "content_sha256": "cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "http_status": 200,
+      "id": "ev-role-935234123-6785e54cfcc5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.032809Z",
+      "snapshot_ref": "cc/cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Robin-André Kolbjørnsrud",
+      "content_sha256": "cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "http_status": 200,
+      "id": "ev-role-935234123-c1efcb9df666",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.032809Z",
+      "snapshot_ref": "cc/cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Dino Tomic",
+      "content_sha256": "cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "http_status": 200,
+      "id": "ev-role-935234123-e4811613e504",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.032809Z",
+      "snapshot_ref": "cc/cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: John Brede Kruse Smedsrud",
+      "content_sha256": "cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "http_status": 200,
+      "id": "ev-role-935234123-f0d7d732e2e5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:34.032809Z",
+      "snapshot_ref": "cc/cc40c62210a4c5f84bf052a17dcb1726d0dc8288da7a8fe1d99bbaf5a6988d8b.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "05f81e7bf3ea85ce7da9",
+        "0c9a7ee64fbbc21fec96",
+        "26f1863db76a8ae0dea4",
+        "533d4dcf7bfdfd4eae9a",
+        "5fc0b2bdf7a078d281fc",
+        "85f50f154c479f9c3355",
+        "fdad41ac15224aeb368e"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "c98485791d50a0b621d8",
+        "f0ed02adebf93b655912",
+        "f1d644bfb69853b37fce"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "277ac7c2c612666f4540",
+        "77bf66eb06a355b34b08",
+        "b157954d829408b8b136",
+        "f440d859e5830ec2b888"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a2ad7c9e14cff5601509"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "c98485791d50a0b621d8",
+      "f1d644bfb69853b37fce",
+      "f0ed02adebf93b655912"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "GEO GO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 18042,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "935234123",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.635091Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "935234123",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "d8cb514522f0989e7603f9b5726978836f05ab7f9aa5c2788b07f6b48f6230d9",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:32.835401Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935234123",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 14984.0,
+              "assets": 40876.0,
+              "currency": "NOK",
+              "debt": 2392.0,
+              "equity": 38484.0,
+              "operating_result": 19362.0,
+              "period": {
+                "fraDato": "2025-03-04",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 17376.0,
+              "record_id": 6367627,
+              "revenue": 113291.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:35.255581Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/935234123",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "e77304b1a9c3f5a4f9c43c8d6bb43a5cb39a2330e2550f60c426d781dedd6f84",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:36.432905Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935234123&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Heddalsvegen 11"
+                ],
+                "kommune": "NOTODDEN",
+                "kommunenummer": "4005",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3674",
+                "poststed": "NOTODDEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Dataprogrammeringstjenester",
+                "kode": "62.100"
+              },
+              "name": "GEO GO AS",
+              "organisation_number": "935583772"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "935234123",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Programvareutvikling.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Heddalsvegen 11",
+          "forretningsadresse.kommune": "NOTODDEN",
+          "forretningsadresse.kommunenummer": "4005",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3674",
+          "forretningsadresse.poststed": "NOTODDEN",
+          "fravalgRevisjonBeslutningsDato": "2025-03-04",
+          "fravalgRevisjonDato": "2025-03-19",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-03-19",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Dataprogrammeringstjenester",
+          "naeringskode1.kode": "62.100",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "GEO GO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "935234123",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-03-19",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2025-05-26",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-05-27",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-03-19",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2025-03-04",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-03-04",
+          "vedtektsfestetFormaal": "Selge varer og tjenester innen programvare og annet som naturlig sammenfaller med dette samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "a6227b622c3c14e97652b0426eb55993fd015eb36993f53bef4ba05929453955",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:34.032809Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935234123/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": true,
+              "last_changed": "2026-01-26",
+              "name": "Robin-André Kolbjørnsrud",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2026-02-21",
+              "name": "John Brede Kruse Smedsrud",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-21",
+              "name": "Dino Tomic",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2026-02-21",
+              "name": "Robin-André Kolbjørnsrud",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "62.100",
+    "industry_label": "Dataprogrammeringstjenester",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NOTODDEN",
+    "municipality_number": "4005",
+    "name": "GEO GO AS",
+    "organisation_number": "935234123",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1187,
+        1233,
+        1172,
+        1046,
+        47,
+        11062,
+        1108
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:49Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "GEO GO AS (AS, org.nr 935234123)",
+    "what_it_does": "GEO GO AS is classified under NACE code 62.100 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, GEO GO AS reported revenue of 113,291 NOK and an operating result of 19,362 NOK. Net result was 14,984 NOK, with total assets of 40,876 NOK and equity of 38,484 NOK. Operating margin was 17.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by John Brede Kruse Smedsrud. Daily operations are led by general manager Robin-André Kolbjørnsrud. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "GEO GO AS is classified under NACE code 62.100 (unspecified).",
+        "claim_ids": [
+          "f0ed02adebf93b655912",
+          "c98485791d50a0b621d8"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "f1d644bfb69853b37fce",
+          "f0ed02adebf93b655912"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, GEO GO AS reported revenue of 113,291 NOK and an operating result of 19,362 NOK.",
+        "claim_ids": [
+          "533d4dcf7bfdfd4eae9a",
+          "5fc0b2bdf7a078d281fc"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 14,984 NOK, with total assets of 40,876 NOK and equity of 38,484 NOK.",
+        "claim_ids": [
+          "26f1863db76a8ae0dea4",
+          "0c9a7ee64fbbc21fec96",
+          "85f50f154c479f9c3355"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Operating margin was 17.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "5fc0b2bdf7a078d281fc",
+          "533d4dcf7bfdfd4eae9a"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The board of directors is chaired by John Brede Kruse Smedsrud.",
+        "claim_ids": [
+          "77bf66eb06a355b34b08"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Daily operations are led by general manager Robin-André Kolbjørnsrud.",
+        "claim_ids": [
+          "f440d859e5830ec2b888"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "277ac7c2c612666f4540",
+          "77bf66eb06a355b34b08",
+          "b157954d829408b8b136",
+          "f440d859e5830ec2b888"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "c98485791d50a0b621d8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "a2ad7c9e14cff5601509"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "c98485791d50a0b621d8"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "c98485791d50a0b621d8"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "c98485791d50a0b621d8"
+        ]
+      }
+    ]
+  }
+}

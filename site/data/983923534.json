@@ -1,0 +1,1690 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "950cc6d74e5b6d6a4d88",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -347572.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9c548586c43080e7f115",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -408567.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c788d9618b4f77226dbf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 130902.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2e313a0c2c90e3ede35d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2315981.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6deaf14f7f8175e681c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2811544.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b8122dc457a76181fe8f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2608451.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ffde393a175672cc39d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18665.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6fc7179243d913ac5303",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3860.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2b6464967120287f7c4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 90856.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a780674f0888784b4b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2312121.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "30bf8da814bb6b9b9a0c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2589786.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a1ce55aedd1ebea77892",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2720688.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0b757cc6fa4bf45e27ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -77990.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1a5f7126a5e5925b30e2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -551919.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "91a9f7f19e93b9f9e157",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -540981.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "183a83943e4058f4eff6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -347572.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "319614a275b82cbc2adf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -408567.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "358d24be264fd570407b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 130902.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "35f30e3fe57ceb23fa1d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 814330.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3fb6948c028ad45345cc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 853378.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b1d0396afc7aedb6f0a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-983923534-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 597146.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7d7ee0c3455eab8bfb77",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-983923534"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "94.992"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b19cb038673b3fd5ff0a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-983923534"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "FLI"
+    },
+    {
+      "availability": "available",
+      "claim_id": "57b18201fdb044aeca94",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-983923534"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "FORENINGEN FOR HJERTESYKE BARN HORDALAND"
+    },
+    {
+      "availability": "available",
+      "claim_id": "316bd7c2d23f5a154d50",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-aca7de368899"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jannicke Ane Søraas Sem-Onarheim",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6199665dba18d53cab32",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-2b044c26ec9e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lene Venge",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8293fe80342c2d5535e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-b0f7a8644e61"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stine Sætran Halhjem",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "99198a711649490b1b6f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-f77eccea305e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Michelle Louise Garshol",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a846190e135413325d44",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-5f56b342f02a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hege Agathe Bakke-Alisøy",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "acccaaaf136abdeb18c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-0d1e434e04c4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AVAL AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "beffe1a8254abf96e906",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-babc3f2646f2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ARETO REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d7495275c981bd70bf13",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-e48c9cd69c3c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Martine Shannon Sund",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "da9a7dfe68677b820533",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-983923534-40a777cb6c35"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kim Harald Larsen Timbrevig",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "41a9f3ebece3d5c5cb31",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-983923534-920094848"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "c/o Jannicke Ane S. Sem-Onarheim",
+            "Kvernabekkvegen 114B"
+          ],
+          "kommune": "BERGEN",
+          "kommunenummer": "4601",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5243",
+          "poststed": "FANA"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+          "kode": "94.992"
+        },
+        "name": "FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+        "organisation_number": "920094848"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 597146.0, operating_result: -540981.0, profit_before_tax: -347572.0, annual_result: -347572.0, assets: 2608451.0, equity: 2589786.0, debt: 18665.0",
+      "content_sha256": "7bdc716864725aceb16bbf7d420e3c0331d2183d93df5e3328a77c90c3573aab",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "http_status": 200,
+      "id": "ev-fin-983923534-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.411604Z",
+      "snapshot_ref": "7b/7bdc716864725aceb16bbf7d420e3c0331d2183d93df5e3328a77c90c3573aab.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 853378.0, operating_result: -77990.0, profit_before_tax: 130902.0, annual_result: 130902.0, assets: 2811544.0, equity: 2720688.0, debt: 90856.0",
+      "content_sha256": "0776ed7566d19ca01ce5193bcb6aed16404bb4a80f004b70aa56587eb9750fe9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "http_status": 200,
+      "id": "ev-fin-983923534-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.411604Z",
+      "snapshot_ref": "07/0776ed7566d19ca01ce5193bcb6aed16404bb4a80f004b70aa56587eb9750fe9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 814330.0, operating_result: -551919.0, profit_before_tax: -408567.0, annual_result: -408567.0, assets: 2315981.0, equity: 2312121.0, debt: 3860.0",
+      "content_sha256": "e412db67b456f07c094caf61b4d52c94ae5f3ff86bfb6a16fb1d58141d49a4e8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "http_status": 200,
+      "id": "ev-fin-983923534-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.411604Z",
+      "snapshot_ref": "e4/e412db67b456f07c094caf61b4d52c94ae5f3ff86bfb6a16fb1d58141d49a4e8.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 920094848: FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+      "content_sha256": "20e66f82287f386de89cc0c3a15f47a93200eadb5f49f9d7e46300cd8cefca43",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983923534&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-983923534-920094848",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.911971Z",
+      "snapshot_ref": "20/20e66f82287f386de89cc0c3a15f47a93200eadb5f49f9d7e46300cd8cefca43.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983923534&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 983923534 FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+      "content_sha256": "0a02d0bd192172fb756bb24a39dcb42f54b3063522dc2dc1cfec5a0006faa53e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-983923534",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "0a/0a02d0bd192172fb756bb24a39dcb42f54b3063522dc2dc1cfec5a0006faa53e.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AVAL AS",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-0d1e434e04c4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Lene Venge",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-2b044c26ec9e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kim Harald Larsen Timbrevig",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-40a777cb6c35",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Hege Agathe Bakke-Alisøy",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-5f56b342f02a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jannicke Ane Søraas Sem-Onarheim",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-aca7de368899",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Stine Sætran Halhjem",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-b0f7a8644e61",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ARETO REVISJON AS",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-babc3f2646f2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Martine Shannon Sund",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-e48c9cd69c3c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Michelle Louise Garshol",
+      "content_sha256": "8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "http_status": 200,
+      "id": "ev-role-983923534-f77eccea305e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.583238Z",
+      "snapshot_ref": "8f/8f8b7157aa5989eacd97771606eeb15592b50287a23fdce3715e55d46bcd40d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0b757cc6fa4bf45e27ef",
+        "183a83943e4058f4eff6",
+        "1a5f7126a5e5925b30e2",
+        "2a780674f0888784b4b4",
+        "2e313a0c2c90e3ede35d",
+        "2ffde393a175672cc39d",
+        "30bf8da814bb6b9b9a0c",
+        "319614a275b82cbc2adf",
+        "358d24be264fd570407b",
+        "35f30e3fe57ceb23fa1d",
+        "3fb6948c028ad45345cc",
+        "6deaf14f7f8175e681c9",
+        "6fc7179243d913ac5303",
+        "7b1d0396afc7aedb6f0a",
+        "91a9f7f19e93b9f9e157",
+        "950cc6d74e5b6d6a4d88",
+        "9c548586c43080e7f115",
+        "a1ce55aedd1ebea77892",
+        "b8122dc457a76181fe8f",
+        "c2b6464967120287f7c4",
+        "c788d9618b4f77226dbf"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "57b18201fdb044aeca94",
+        "7d7ee0c3455eab8bfb77",
+        "b19cb038673b3fd5ff0a"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "316bd7c2d23f5a154d50",
+        "6199665dba18d53cab32",
+        "8293fe80342c2d5535e7",
+        "99198a711649490b1b6f",
+        "a846190e135413325d44",
+        "acccaaaf136abdeb18c9",
+        "beffe1a8254abf96e906",
+        "d7495275c981bd70bf13",
+        "da9a7dfe68677b820533"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "41a9f3ebece3d5c5cb31"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "57b18201fdb044aeca94",
+      "b19cb038673b3fd5ff0a",
+      "7d7ee0c3455eab8bfb77"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "FORENINGEN FOR HJERTESYKE BARN HORDALAND"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 20,
+    "runtime_ms": 36088,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "983923534",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:01.170519Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "983923534",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "FLI",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "262bcb14c220b137fd626dcbb0d896de63c5064f08009843f506791baaba3188",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.411604Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/983923534",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -347572.0,
+              "assets": 2608451.0,
+              "currency": "NOK",
+              "debt": 18665.0,
+              "equity": 2589786.0,
+              "operating_result": -540981.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -347572.0,
+              "record_id": 4645041,
+              "revenue": 597146.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 130902.0,
+              "assets": 2811544.0,
+              "currency": "NOK",
+              "debt": 90856.0,
+              "equity": 2720688.0,
+              "operating_result": -77990.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 130902.0,
+              "record_id": 5601737,
+              "revenue": 853378.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -408567.0,
+              "assets": 2315981.0,
+              "currency": "NOK",
+              "debt": 3860.0,
+              "equity": 2312121.0,
+              "operating_result": -551919.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -408567.0,
+              "record_id": 6461945,
+              "revenue": 814330.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.733185Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/983923534",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "01f2a3494a3c60e6a04e491e80d190ec9edcff349851a6be844f76caa80c1173",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.911971Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=983923534&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "c/o Jannicke Ane S. Sem-Onarheim",
+                  "Kvernabekkvegen 114B"
+                ],
+                "kommune": "BERGEN",
+                "kommunenummer": "4601",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5243",
+                "poststed": "FANA"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+                "kode": "94.992"
+              },
+              "name": "FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+              "organisation_number": "920094848"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "983923534",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Frivillig organisasjon som tilbyr veiledning og støtte til familier med hjertebarn.",
+          "antallAnsatte": "",
+          "epostadresse": "hordaland@hjertebarn.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o Jannicke Ane S. Sem-Onarheim\nKvernabekkvegen 114B",
+          "forretningsadresse.kommune": "BERGEN",
+          "forretningsadresse.kommunenummer": "4601",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5243",
+          "forretningsadresse.poststed": "FANA",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.ffhb.no",
+          "institusjonellSektorkode.beskrivelse": "Ideelle organisasjoner",
+          "institusjonellSektorkode.kode": "7000",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers",
+          "naeringskode1.kode": "94.992",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+          "organisasjonsform.beskrivelse": "Forening/lag/innretning",
+          "organisasjonsform.kode": "FLI",
+          "organisasjonsnummer": "983923534",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "2009-01-10",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2002-02-18",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "false",
+          "registrertIFrivillighetsregisteret": "true",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1977-10-31",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "7733ce6ce6c381984688963c83e7b3a31efd7379a0827bb0cbf489773e96cc34",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.583238Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/983923534/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Jannicke Ane Søraas Sem-Onarheim",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Kim Harald Larsen Timbrevig",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Lene Venge",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Martine Shannon Sund",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Stine Sætran Halhjem",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Hege Agathe Bakke-Alisøy",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-01-21",
+              "name": "Michelle Louise Garshol",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2009-01-31",
+              "name": [
+                "ARETO REVISJON AS"
+              ],
+              "organisation_number": "989087126",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2011-12-07",
+              "name": [
+                "AVAL AS"
+              ],
+              "organisation_number": "996679721",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "94.992",
+    "industry_label": "Aktiviteter i andre medlemsorganisasjoner ellers",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "FLI",
+    "liquidating": false,
+    "municipality": "BERGEN",
+    "municipality_number": "4601",
+    "name": "FORENINGEN FOR HJERTESYKE BARN HORDALAND",
+    "organisation_number": "983923534",
+    "run_metrics": {
+      "latencies_ms": [
+        1235,
+        1171,
+        1156,
+        1187,
+        2452,
+        2125,
+        1516,
+        1375,
+        1532,
+        1468,
+        1483,
+        1468,
+        47,
+        31,
+        46,
+        2563,
+        62,
+        77,
+        47,
+        15047
+      ],
+      "requests": 20
+    },
+    "website": "www.ffhb.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:01Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "FORENINGEN FOR HJERTESYKE BARN HORDALAND (FLI, org.nr 983923534)",
+    "what_it_does": "FORENINGEN FOR HJERTESYKE BARN HORDALAND is classified under NACE code 94.992 (unspecified).",
+    "business_model": "Operates as a registered FLI entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, FORENINGEN FOR HJERTESYKE BARN HORDALAND reported revenue of 814,330 NOK and an operating result of -551,919 NOK. Net result was -408,567 NOK, with total assets of 2,315,981 NOK and equity of 2,312,121 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was -67.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Jannicke Ane Søraas Sem-Onarheim. The entity has 9 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "FORENINGEN FOR HJERTESYKE BARN HORDALAND is classified under NACE code 94.992 (unspecified).",
+        "claim_ids": [
+          "7d7ee0c3455eab8bfb77",
+          "57b18201fdb044aeca94"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered FLI entity within the commercial sector.",
+        "claim_ids": [
+          "b19cb038673b3fd5ff0a",
+          "7d7ee0c3455eab8bfb77"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, FORENINGEN FOR HJERTESYKE BARN HORDALAND reported revenue of 814,330 NOK and an operating result of -551,919 NOK.",
+        "claim_ids": [
+          "35f30e3fe57ceb23fa1d",
+          "1a5f7126a5e5925b30e2"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -408,567 NOK, with total assets of 2,315,981 NOK and equity of 2,312,121 NOK.",
+        "claim_ids": [
+          "9c548586c43080e7f115",
+          "2e313a0c2c90e3ede35d",
+          "2a780674f0888784b4b4"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "9c548586c43080e7f115"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "35f30e3fe57ceb23fa1d",
+          "3fb6948c028ad45345cc"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -67.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "1a5f7126a5e5925b30e2",
+          "35f30e3fe57ceb23fa1d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Jannicke Ane Søraas Sem-Onarheim.",
+        "claim_ids": [
+          "316bd7c2d23f5a154d50"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 9 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "316bd7c2d23f5a154d50",
+          "6199665dba18d53cab32",
+          "8293fe80342c2d5535e7",
+          "99198a711649490b1b6f",
+          "a846190e135413325d44",
+          "acccaaaf136abdeb18c9"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "57b18201fdb044aeca94"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "41a9f3ebece3d5c5cb31"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "57b18201fdb044aeca94"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "57b18201fdb044aeca94"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "57b18201fdb044aeca94"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1327 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0dae8d30eae169e85f03",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -290208.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f56f0c7f78644cb6724",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -8078011.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9d1be4c3ff2d53d63701",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -27067.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "14d62a5b75656a2d5dc4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15207300.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4e721adeb6be65c15896",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19906547.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7894acfe61d869f1fc6d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16009037.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0734cf90166c7f2e8ca0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2294759.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a2efe07838c31bcd0046",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10521073.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a63c105f85bb95f0c207",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2806288.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bb287a66bacf31254628",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9385474.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bcc297b69199632c3f83",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13202750.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bce70adf2fe9c9578f9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12912541.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7435dfbe5b27076a54bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -57040.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "af09bebbb22eaa2ff257",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -35202.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fdac39d7c462d7dec464",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -118213.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "253557aa8c51af742835",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -290208.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bde9a7c4e6f3d065f4f7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -27067.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cf95c521bbf8b551d931",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -8078011.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5de1e8d76984ffaf1f30",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 702000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f91d544bd4a78377b5f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 647000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c439adcecd0975324aea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915950884-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 986502.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d0a14247ffa08261f878",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915950884"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "79.121"
+    },
+    {
+      "availability": "available",
+      "claim_id": "935e3c99b2cd93e8be05",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915950884"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "92da764e4522f853390d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915950884"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "WIKERØY INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbd2eabe36be0e523f55",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915950884-cc85e267b282"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tommy Wikerøy",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ead670384ad916c8926f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915950884-51a5000ee9ac"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AKTIV REGNSKAPSBYRÅ TROMSØ AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc4583eca929807f7298",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-915950884-915959458"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:45Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Lenangsveien 2859"
+          ],
+          "kommune": "LYNGEN",
+          "kommunenummer": "5536",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "9068",
+          "poststed": "NORD-LENANGEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+          "kode": "79.121"
+        },
+        "name": "WIKERØY INVEST AS",
+        "organisation_number": "915959458"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 986502.0, operating_result: -35202.0, profit_before_tax: -8078011.0, annual_result: -8078011.0, assets: 16009037.0, equity: 13202750.0, debt: 2806288.0",
+      "content_sha256": "51417a4a55dac7d0f586ecad413871f42535458f94c21850db8931cb3f6ab455",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "http_status": 200,
+      "id": "ev-fin-915950884-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.033281Z",
+      "snapshot_ref": "51/51417a4a55dac7d0f586ecad413871f42535458f94c21850db8931cb3f6ab455.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 702000.0, operating_result: -57040.0, profit_before_tax: -290208.0, annual_result: -290208.0, assets: 15207300.0, equity: 12912541.0, debt: 2294759.0",
+      "content_sha256": "a6f0036224098ec4bb34491532f39fb3a80db1a3a4d008aab115eed6c7c2a540",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "http_status": 200,
+      "id": "ev-fin-915950884-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.033281Z",
+      "snapshot_ref": "a6/a6f0036224098ec4bb34491532f39fb3a80db1a3a4d008aab115eed6c7c2a540.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 647000.0, operating_result: -118213.0, profit_before_tax: -27067.0, annual_result: -27067.0, assets: 19906547.0, equity: 9385474.0, debt: 10521073.0",
+      "content_sha256": "715c8e73157fa20434b498b0be939173706f7f4f51ecdcbe1aee5f602b184760",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "http_status": 200,
+      "id": "ev-fin-915950884-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.033281Z",
+      "snapshot_ref": "71/715c8e73157fa20434b498b0be939173706f7f4f51ecdcbe1aee5f602b184760.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 915959458: WIKERØY INVEST AS",
+      "content_sha256": "544d8e52d0d13f4d339a41c1f9f048533be2396c18c5c85bc358efdd82106bc5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=915950884&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-915950884-915959458",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:22.705503Z",
+      "snapshot_ref": "54/544d8e52d0d13f4d339a41c1f9f048533be2396c18c5c85bc358efdd82106bc5.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=915950884&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 915950884 WIKERØY INVEST AS",
+      "content_sha256": "b3303bf02c79545192c9c8999c0c316b64aeb371f386ae2c4a6f4cac2ffa090a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-915950884",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "b3/b3303bf02c79545192c9c8999c0c316b64aeb371f386ae2c4a6f4cac2ffa090a.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AKTIV REGNSKAPSBYRÅ TROMSØ AS",
+      "content_sha256": "eb216fd8f88bae7458c3a096fedf3d7833bdc5e82ff805f49799bb0cd563a092",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915950884/roller",
+      "http_status": 200,
+      "id": "ev-role-915950884-51a5000ee9ac",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:20.238055Z",
+      "snapshot_ref": "eb/eb216fd8f88bae7458c3a096fedf3d7833bdc5e82ff805f49799bb0cd563a092.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915950884/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Tommy Wikerøy",
+      "content_sha256": "eb216fd8f88bae7458c3a096fedf3d7833bdc5e82ff805f49799bb0cd563a092",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915950884/roller",
+      "http_status": 200,
+      "id": "ev-role-915950884-cc85e267b282",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:20.238055Z",
+      "snapshot_ref": "eb/eb216fd8f88bae7458c3a096fedf3d7833bdc5e82ff805f49799bb0cd563a092.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915950884/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0734cf90166c7f2e8ca0",
+        "0dae8d30eae169e85f03",
+        "14d62a5b75656a2d5dc4",
+        "253557aa8c51af742835",
+        "4e721adeb6be65c15896",
+        "5de1e8d76984ffaf1f30",
+        "6f91d544bd4a78377b5f",
+        "7435dfbe5b27076a54bf",
+        "7894acfe61d869f1fc6d",
+        "7f56f0c7f78644cb6724",
+        "9d1be4c3ff2d53d63701",
+        "a2efe07838c31bcd0046",
+        "a63c105f85bb95f0c207",
+        "af09bebbb22eaa2ff257",
+        "bb287a66bacf31254628",
+        "bcc297b69199632c3f83",
+        "bce70adf2fe9c9578f9a",
+        "bde9a7c4e6f3d065f4f7",
+        "c439adcecd0975324aea",
+        "cf95c521bbf8b551d931",
+        "fdac39d7c462d7dec464"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "92da764e4522f853390d",
+        "935e3c99b2cd93e8be05",
+        "d0a14247ffa08261f878"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "bbd2eabe36be0e523f55",
+        "ead670384ad916c8926f"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "bc4583eca929807f7298"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "92da764e4522f853390d",
+      "935e3c99b2cd93e8be05",
+      "d0a14247ffa08261f878"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "WIKERØY INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 27260,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "915950884",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:50.643371Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "915950884",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "3839eac82974f8e4bfd66e7667fbef858551916cf8fb587a458d820a7fd76056",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:19.033281Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915950884",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -8078011.0,
+              "assets": 16009037.0,
+              "currency": "NOK",
+              "debt": 2806288.0,
+              "equity": 13202750.0,
+              "operating_result": -35202.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -8078011.0,
+              "record_id": 5420235,
+              "revenue": 986502.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -290208.0,
+              "assets": 15207300.0,
+              "currency": "NOK",
+              "debt": 2294759.0,
+              "equity": 12912541.0,
+              "operating_result": -57040.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -290208.0,
+              "record_id": 5825055,
+              "revenue": 702000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -27067.0,
+              "assets": 19906547.0,
+              "currency": "NOK",
+              "debt": 10521073.0,
+              "equity": 9385474.0,
+              "operating_result": -118213.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -27067.0,
+              "record_id": 6877096,
+              "revenue": 647000.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:21.460101Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/915950884",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "43b7d4dc0c3c8fbb4e9957d3d95dac3f9470261582441c4997ba7da875b7cb16",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:22.705503Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=915950884&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Lenangsveien 2859"
+                ],
+                "kommune": "LYNGEN",
+                "kommunenummer": "5536",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "9068",
+                "poststed": "NORD-LENANGEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+                "kode": "79.121"
+              },
+              "name": "WIKERØY INVEST AS",
+              "organisation_number": "915959458"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "915950884",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investering i aksjer og deltakelse i andre selskap.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Lenangsveien 2859",
+          "forretningsadresse.kommune": "LYNGEN",
+          "forretningsadresse.kommunenummer": "5536",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "9068",
+          "forretningsadresse.poststed": "NORD-LENANGEN",
+          "fravalgRevisjonBeslutningsDato": "2024-08-20",
+          "fravalgRevisjonDato": "2024-09-24",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "Hovedkontortjenester",
+          "hjelpeenhetskode.kode": "70.100",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "245",
+          "kapital.belop": "245000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2015-09-21",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører",
+          "naeringskode1.kode": "79.121",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "WIKERØY INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "915950884",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2015-09-21",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-01-16",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2015-09-21",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2015-07-09",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2015-07-09",
+          "vedtektsfestetFormaal": "Investering i aksjer og annen virksomhet samt alt som står i naturlig forbindelse med dette. Selskapets formål er å oppnå lønnsomhet gjennom deltakelse i andre selskap og virksomheter med økonomisk formål. Selskapet skal gjennom aksjetegning, garantier, lån eller andre finansielle verktøy bidra til forretningsutvikling og sikring av sine investeringer."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "77a879d1d9c90639d812e41896065634ead55970be4be34dae679bf6af430695",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:20.238055Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915950884/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2015-09-21",
+              "name": "Tommy Wikerøy",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-11-02",
+              "name": [
+                "AKTIV REGNSKAPSBYRÅ TROMSØ AS"
+              ],
+              "organisation_number": "999011780",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "79.121",
+    "industry_label": "Aktiviteter utført av utflukts- og eventarrangører",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "LYNGEN",
+    "municipality_number": "5536",
+    "name": "WIKERØY INVEST AS",
+    "organisation_number": "915950884",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1202,
+        1234,
+        1233,
+        7078,
+        62,
+        15218,
+        46
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:45Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "WIKERØY INVEST AS (AS, org.nr 915950884)",
+    "what_it_does": "WIKERØY INVEST AS is classified under NACE code 79.121 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, WIKERØY INVEST AS reported revenue of 647,000 NOK and an operating result of -118,213 NOK. Net result was -27,067 NOK, with total assets of 19,906,547 NOK and equity of 9,385,474 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was -18.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Tommy Wikerøy. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "WIKERØY INVEST AS is classified under NACE code 79.121 (unspecified).",
+        "claim_ids": [
+          "d0a14247ffa08261f878",
+          "92da764e4522f853390d"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "935e3c99b2cd93e8be05",
+          "d0a14247ffa08261f878"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, WIKERØY INVEST AS reported revenue of 647,000 NOK and an operating result of -118,213 NOK.",
+        "claim_ids": [
+          "6f91d544bd4a78377b5f",
+          "fdac39d7c462d7dec464"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -27,067 NOK, with total assets of 19,906,547 NOK and equity of 9,385,474 NOK.",
+        "claim_ids": [
+          "9d1be4c3ff2d53d63701",
+          "4e721adeb6be65c15896",
+          "bb287a66bacf31254628"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "9d1be4c3ff2d53d63701"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "6f91d544bd4a78377b5f",
+          "5de1e8d76984ffaf1f30"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -18.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "fdac39d7c462d7dec464",
+          "6f91d544bd4a78377b5f"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Tommy Wikerøy.",
+        "claim_ids": [
+          "bbd2eabe36be0e523f55"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "bbd2eabe36be0e523f55",
+          "ead670384ad916c8926f"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "92da764e4522f853390d"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "bc4583eca929807f7298"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "92da764e4522f853390d"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "92da764e4522f853390d"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "92da764e4522f853390d"
+        ]
+      }
+    ]
+  }
+}

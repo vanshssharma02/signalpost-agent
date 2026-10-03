@@ -1,0 +1,1169 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "001b0066eb3389648710",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -21357.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "956f024f04297d7ec6d6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -15265.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a912439e6e9b34261921",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22691.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "01b516f05daee35834fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 672944.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "135a01087a42a96af180",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 315252.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "74325cf94cf500c1378b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 650898.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1bdd39033309146e497a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9668c2e3c95082bfaca8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 356867.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ae1ac84e5cd1b03975cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 357513.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "87292f1ee3749ddd86f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 278121.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8e812f662d86bee87504",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 316077.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f7627452443a9f8271f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 293385.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1afd32926ff57443b25e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -15265.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "22713e7550cbe3a94ce7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22812.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ca77cbc3ddc711becd1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -21357.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1d1fc0da796a41fb584c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -15265.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f90d73b67636b695e98",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -21357.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b3e8cc31c407d56a004f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925002852-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22691.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d436dd41b3ef879922f2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925002852"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "93.130"
+    },
+    {
+      "availability": "available",
+      "claim_id": "23c781eed8992c29d400",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925002852"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "34cfc59ec0638bf764ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925002852"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ERLANDSEN INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "553dd2a913d2e208d057",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925002852-7e84bb679b4b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AIDER AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6a75005c859d523344af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925002852-e456494853bc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Geir Erlandsen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -21357.0, profit_before_tax: -21357.0, annual_result: -21357.0, assets: 672944.0, equity: 316077.0, debt: 356867.0",
+      "content_sha256": "fe02e01f616a3078b51abc26dd518a97f305c7fd21aecec102eb66359454b8b5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "http_status": 200,
+      "id": "ev-fin-925002852-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:55.990768Z",
+      "snapshot_ref": "fe/fe02e01f616a3078b51abc26dd518a97f305c7fd21aecec102eb66359454b8b5.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -22812.0, profit_before_tax: -22691.0, annual_result: -22691.0, assets: 650898.0, equity: 293385.0, debt: 357513.0",
+      "content_sha256": "5611355781e073b0d3b475e4d2683595074f02d3578e8ac3c28d67852b499039",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "http_status": 200,
+      "id": "ev-fin-925002852-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:55.990768Z",
+      "snapshot_ref": "56/5611355781e073b0d3b475e4d2683595074f02d3578e8ac3c28d67852b499039.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -15265.0, profit_before_tax: -15265.0, annual_result: -15265.0, assets: 315252.0, equity: 278121.0, debt: 37131.0",
+      "content_sha256": "4b0dee85dba6211d6a31dd9dd6e5cda55de17f7fa6ac2c4112aa4004beace38b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "http_status": 200,
+      "id": "ev-fin-925002852-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:55.990768Z",
+      "snapshot_ref": "4b/4b0dee85dba6211d6a31dd9dd6e5cda55de17f7fa6ac2c4112aa4004beace38b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 925002852 ERLANDSEN INVEST AS",
+      "content_sha256": "45c73b7cf90a95c90c4ac92a02f034603d6891561807ad659572b90f75978c70",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-925002852",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "45/45c73b7cf90a95c90c4ac92a02f034603d6891561807ad659572b90f75978c70.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AIDER AS",
+      "content_sha256": "d4faa2791ede747a45e96be77e5637d2a6b40550bdc522b76ca7d7b56df001ce",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925002852/roller",
+      "http_status": 200,
+      "id": "ev-role-925002852-7e84bb679b4b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.165499Z",
+      "snapshot_ref": "d4/d4faa2791ede747a45e96be77e5637d2a6b40550bdc522b76ca7d7b56df001ce.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925002852/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Geir Erlandsen",
+      "content_sha256": "d4faa2791ede747a45e96be77e5637d2a6b40550bdc522b76ca7d7b56df001ce",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925002852/roller",
+      "http_status": 200,
+      "id": "ev-role-925002852-e456494853bc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.165499Z",
+      "snapshot_ref": "d4/d4faa2791ede747a45e96be77e5637d2a6b40550bdc522b76ca7d7b56df001ce.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925002852/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "001b0066eb3389648710",
+        "01b516f05daee35834fd",
+        "135a01087a42a96af180",
+        "1afd32926ff57443b25e",
+        "1bdd39033309146e497a",
+        "1d1fc0da796a41fb584c",
+        "22713e7550cbe3a94ce7",
+        "5ca77cbc3ddc711becd1",
+        "74325cf94cf500c1378b",
+        "87292f1ee3749ddd86f0",
+        "8e812f662d86bee87504",
+        "956f024f04297d7ec6d6",
+        "9668c2e3c95082bfaca8",
+        "9f90d73b67636b695e98",
+        "a912439e6e9b34261921",
+        "ae1ac84e5cd1b03975cb",
+        "b3e8cc31c407d56a004f",
+        "f7627452443a9f8271f4"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "23c781eed8992c29d400",
+        "34cfc59ec0638bf764ed",
+        "d436dd41b3ef879922f2"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "553dd2a913d2e208d057",
+        "6a75005c859d523344af"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "34cfc59ec0638bf764ed",
+      "23c781eed8992c29d400",
+      "d436dd41b3ef879922f2"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ERLANDSEN INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 9,
+    "runtime_ms": 6386,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "925002852",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.359573Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "925002852",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "700dae02af409b9fab100a545ef4a61f180e1aab0a2d04bfaa77fa66094d86cf",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:55.990768Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925002852",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -21357.0,
+              "assets": 672944.0,
+              "currency": "NOK",
+              "debt": 356867.0,
+              "equity": 316077.0,
+              "operating_result": -21357.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -21357.0,
+              "record_id": 5049569,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -22691.0,
+              "assets": 650898.0,
+              "currency": "NOK",
+              "debt": 357513.0,
+              "equity": 293385.0,
+              "operating_result": -22812.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -22691.0,
+              "record_id": 5606071,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -15265.0,
+              "assets": 315252.0,
+              "currency": "NOK",
+              "debt": 37131.0,
+              "equity": 278121.0,
+              "operating_result": -15265.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -15265.0,
+              "record_id": 6657542,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:58.357306Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/925002852",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "ed636add8fe98c280d062686843e8a667f43c5354b2669436daa1d8b53331fb5",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:59.650908Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925002852&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "925002852",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eie aksjer i andre selskaper, eie og drifte eiendom, drive treningssenter og konsulentvirksomhet knyttet til trening.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Solløkkasletta 20",
+          "forretningsadresse.kommune": "SANDEFJORD",
+          "forretningsadresse.kommunenummer": "3907",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3233",
+          "forretningsadresse.poststed": "SANDEFJORD",
+          "fravalgRevisjonBeslutningsDato": "2020-03-25",
+          "fravalgRevisjonDato": "2020-04-28",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-04-28",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Treningssentervirksomhet",
+          "naeringskode1.kode": "93.130",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ERLANDSEN INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "925002852",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2020-04-28",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2020-04-28",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-03-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2023-03-31",
+          "vedtektsfestetFormaal": "Kjøp, salg og drift av fast eiendom, samt eie aksjer i andre selskap med samme formål. Eie og drive treningssenter, samt eie aksjer i selskap med samme formål. Konsulentvirksomhet knyttet til idrett og trening."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "06a5d4a6321441adf227187b0bdce588130226624d2caf3615da7f3d6df8f0cd",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:57.165499Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925002852/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-08-18",
+              "name": "Geir Erlandsen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-12-14",
+              "name": [
+                "AIDER AS"
+              ],
+              "organisation_number": "922633452",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "93.130",
+    "industry_label": "Treningssentervirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SANDEFJORD",
+    "municipality_number": "3907",
+    "name": "ERLANDSEN INVEST AS",
+    "organisation_number": "925002852",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1172,
+        1187,
+        1297,
+        1171,
+        218,
+        46,
+        47,
+        46
+      ],
+      "requests": 9
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:01Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ERLANDSEN INVEST AS (AS, org.nr 925002852)",
+    "what_it_does": "ERLANDSEN INVEST AS is classified under NACE code 93.130 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -15,265 NOK, with total assets of 315,252 NOK and equity of 278,121 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Geir Erlandsen. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ERLANDSEN INVEST AS is classified under NACE code 93.130 (unspecified).",
+        "claim_ids": [
+          "d436dd41b3ef879922f2",
+          "34cfc59ec0638bf764ed"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "23c781eed8992c29d400",
+          "d436dd41b3ef879922f2"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -15,265 NOK, with total assets of 315,252 NOK and equity of 278,121 NOK.",
+        "claim_ids": [
+          "956f024f04297d7ec6d6",
+          "135a01087a42a96af180",
+          "87292f1ee3749ddd86f0"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "956f024f04297d7ec6d6"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Geir Erlandsen.",
+        "claim_ids": [
+          "6a75005c859d523344af"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "553dd2a913d2e208d057",
+          "6a75005c859d523344af"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "34cfc59ec0638bf764ed"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "34cfc59ec0638bf764ed"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "34cfc59ec0638bf764ed"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "34cfc59ec0638bf764ed"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "34cfc59ec0638bf764ed"
+        ]
+      }
+    ]
+  }
+}

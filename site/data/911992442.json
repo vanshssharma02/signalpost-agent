@@ -1,0 +1,1434 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2014b5115be323e1b133",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38404.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "326bdccfb005f04fdc49",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9284.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8888469909703889bd78",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -280817.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ef6f8928c3c3db78971",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 316782.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4ab4ed708dde2ec29413",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 254302.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8010e5920cbf3827f71c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 610167.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3a7a8696e1a3798d30ab",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8734.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "89d33225321411586b54",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 122186.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad413c71f00471304948",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 109617.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2abb0bb487cd11ae8444",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 245568.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "55a9592bb364bb6eb561",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 207165.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b87b3fccdcc601e322d0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 487982.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "870544c038b30c532796",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -275719.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a29ae4c1ebc7b81e21ff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38838.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ecbcc9ff6e848020e80a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12054.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bdcb26b12d0268320e4a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9284.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f218d3279db46abcc870",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38404.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fd109ee48f069eb51aaa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -280817.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3cfddab003d9e6d4b2e2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 885228.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee93eacb93773cbf8c4a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 303510.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fadd58a1fa2c60d800c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-911992442-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 253500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "efb907ff742899a04ae7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-911992442"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "71.129"
+    },
+    {
+      "availability": "available",
+      "claim_id": "53ccd9e70eea81e6390e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-911992442"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "da6a8ab14bd379ef2436",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-911992442"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "TEKNISKE LØSNINGER AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d3c5026bc57012b67cf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-911992442-6c42da0ade7a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "1+1 REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5558a81e9971b2ac6a5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-911992442-efaaf33ab032"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Åse-Helen Holm",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ae73c2203784ea0b836",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-911992442-ad420996e3f6"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Karsten Jørgen Møgster",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e4032def192d46a7c89",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-911992442-1d3efc48838f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Åse-Helen Holm",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "daaefd778984700715a8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-911992442-912006646"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:36Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nordstrandvegen 6"
+          ],
+          "kommune": "BERGEN",
+          "kommunenummer": "4601",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5265",
+          "poststed": "YTRE ARNA"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "kode": "71.129"
+        },
+        "name": "TEKNISKE LØSNINGER AS",
+        "organisation_number": "912006646"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 885228.0, operating_result: 12054.0, profit_before_tax: 9284.0, annual_result: 9284.0, assets: 610167.0, equity: 487982.0, debt: 122186.0",
+      "content_sha256": "b3880120b7fa0cbcd313eba323284208bc561cc59580a138aa58f93f9d2f2e5d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "http_status": 200,
+      "id": "ev-fin-911992442-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:30.355858Z",
+      "snapshot_ref": "b3/b3880120b7fa0cbcd313eba323284208bc561cc59580a138aa58f93f9d2f2e5d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 303510.0, operating_result: -275719.0, profit_before_tax: -280817.0, annual_result: -280817.0, assets: 316782.0, equity: 207165.0, debt: 109617.0",
+      "content_sha256": "5f05c372a27c4435c172a8d48753c34f574095a144c319844ea82c22b4f49dec",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "http_status": 200,
+      "id": "ev-fin-911992442-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:30.355858Z",
+      "snapshot_ref": "5f/5f05c372a27c4435c172a8d48753c34f574095a144c319844ea82c22b4f49dec.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 253500.0, operating_result: 38838.0, profit_before_tax: 38404.0, annual_result: 38404.0, assets: 254302.0, equity: 245568.0, debt: 8734.0",
+      "content_sha256": "1251d4586cbeb4a4b784097e71628ef37188b5027ae5f5361867f7ef2ef4133b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "http_status": 200,
+      "id": "ev-fin-911992442-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:30.355858Z",
+      "snapshot_ref": "12/1251d4586cbeb4a4b784097e71628ef37188b5027ae5f5361867f7ef2ef4133b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 912006646: TEKNISKE LØSNINGER AS",
+      "content_sha256": "2e0ea0c6ea7a26ea99f278f41f1be06c8250b94dfa6360971a371555229aca2e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=911992442&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-911992442-912006646",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:33.872401Z",
+      "snapshot_ref": "2e/2e0ea0c6ea7a26ea99f278f41f1be06c8250b94dfa6360971a371555229aca2e.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=911992442&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 911992442 TEKNISKE LØSNINGER AS",
+      "content_sha256": "70641d3d4d59556c76b8ee83f9c9e1ff4269de5a614c092a940c2879e4b0afcc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-911992442",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "70/70641d3d4d59556c76b8ee83f9c9e1ff4269de5a614c092a940c2879e4b0afcc.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Åse-Helen Holm",
+      "content_sha256": "f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "http_status": 200,
+      "id": "ev-role-911992442-1d3efc48838f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:31.538090Z",
+      "snapshot_ref": "f5/f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: 1+1 REGNSKAP AS",
+      "content_sha256": "f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "http_status": 200,
+      "id": "ev-role-911992442-6c42da0ade7a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:31.538090Z",
+      "snapshot_ref": "f5/f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Karsten Jørgen Møgster",
+      "content_sha256": "f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "http_status": 200,
+      "id": "ev-role-911992442-ad420996e3f6",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:31.538090Z",
+      "snapshot_ref": "f5/f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Åse-Helen Holm",
+      "content_sha256": "f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "http_status": 200,
+      "id": "ev-role-911992442-efaaf33ab032",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:31.538090Z",
+      "snapshot_ref": "f5/f510d7f09fcd76b86b27997ff4d53d58551fc0a1aaeb9c76a7ca451bc446bf1c.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1ef6f8928c3c3db78971",
+        "2014b5115be323e1b133",
+        "2abb0bb487cd11ae8444",
+        "326bdccfb005f04fdc49",
+        "3a7a8696e1a3798d30ab",
+        "3cfddab003d9e6d4b2e2",
+        "4ab4ed708dde2ec29413",
+        "55a9592bb364bb6eb561",
+        "8010e5920cbf3827f71c",
+        "870544c038b30c532796",
+        "8888469909703889bd78",
+        "89d33225321411586b54",
+        "a29ae4c1ebc7b81e21ff",
+        "ad413c71f00471304948",
+        "b87b3fccdcc601e322d0",
+        "bdcb26b12d0268320e4a",
+        "ecbcc9ff6e848020e80a",
+        "ee93eacb93773cbf8c4a",
+        "f218d3279db46abcc870",
+        "fadd58a1fa2c60d800c7",
+        "fd109ee48f069eb51aaa"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "53ccd9e70eea81e6390e",
+        "da6a8ab14bd379ef2436",
+        "efb907ff742899a04ae7"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0d3c5026bc57012b67cf",
+        "5558a81e9971b2ac6a5d",
+        "5ae73c2203784ea0b836",
+        "9e4032def192d46a7c89"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "daaefd778984700715a8"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "da6a8ab14bd379ef2436",
+      "53ccd9e70eea81e6390e",
+      "efb907ff742899a04ae7"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "TEKNISKE LØSNINGER AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 15,
+    "runtime_ms": 7648,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "911992442",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:49.727447Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "911992442",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "7025c26c55bc52e3cce0540ba3fca70c465b0128e2b37d4c0ee2fdcf5657df1e",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:30.355858Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/911992442",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 9284.0,
+              "assets": 610167.0,
+              "currency": "NOK",
+              "debt": 122186.0,
+              "equity": 487982.0,
+              "operating_result": 12054.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 9284.0,
+              "record_id": 5202995,
+              "revenue": 885228.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -280817.0,
+              "assets": 316782.0,
+              "currency": "NOK",
+              "debt": 109617.0,
+              "equity": 207165.0,
+              "operating_result": -275719.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -280817.0,
+              "record_id": 6007777,
+              "revenue": 303510.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 38404.0,
+              "assets": 254302.0,
+              "currency": "NOK",
+              "debt": 8734.0,
+              "equity": 245568.0,
+              "operating_result": 38838.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 38404.0,
+              "record_id": 6480251,
+              "revenue": 253500.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:32.698439Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/911992442",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "85e752726507e23225c44f1cd671d32b9b25969f697c39cee5e75d6368e86d4f",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:33.872401Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=911992442&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nordstrandvegen 6"
+                ],
+                "kommune": "BERGEN",
+                "kommunenummer": "4601",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5265",
+                "poststed": "YTRE ARNA"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen teknisk konsulentvirksomhet",
+                "kode": "71.129"
+              },
+              "name": "TEKNISKE LØSNINGER AS",
+              "organisation_number": "912006646"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "911992442",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Virksomhetsområde vil være innenfor utleie av arbeidskraft, prosjektarbeid, bygg og anlegg samt andre tjenester som naturlig faller sammen med dette. Herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nordstrandvegen 6",
+          "forretningsadresse.kommune": "BERGEN",
+          "forretningsadresse.kommunenummer": "4601",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5265",
+          "forretningsadresse.poststed": "YTRE ARNA",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2013-05-27",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2013-05-27",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "naeringskode1.kode": "71.129",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "TEKNISKE LØSNINGER AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "911992442",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+          "registreringsdatoForetaksregisteret": "2013-05-27",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2013-05-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-11-06",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-05-10",
+          "registreringsdatoenhetsregisteret": "2013-05-27",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2013-05-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2013-05-01",
+          "vedtektsfestetFormaal": "Virksomhetsområde vil være innenfor utleie av arbeidskraft, prosjektarbeid, bygg og anlegg samt andre tjenester som naturlig faller sammen med dette. Herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "ed693ea72400cef68c72ca2a958b029084b5eb3e3168acf604ccc45cd8565a13",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:31.538090Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/911992442/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2013-05-27",
+              "name": "Åse-Helen Holm",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-05-27",
+              "name": "Åse-Helen Holm",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-05-27",
+              "name": "Karsten Jørgen Møgster",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2022-10-06",
+              "name": [
+                "1+1 REGNSKAP AS"
+              ],
+              "organisation_number": "991937099",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "71.129",
+    "industry_label": "Annen teknisk konsulentvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "BERGEN",
+    "municipality_number": "4601",
+    "name": "TEKNISKE LØSNINGER AS",
+    "organisation_number": "911992442",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1187,
+        1156,
+        1171,
+        47,
+        47,
+        1608,
+        796,
+        47,
+        31,
+        46,
+        78,
+        77,
+        62,
+        93
+      ],
+      "requests": 15
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:36Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "TEKNISKE LØSNINGER AS (AS, org.nr 911992442)",
+    "what_it_does": "TEKNISKE LØSNINGER AS is classified under NACE code 71.129 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, TEKNISKE LØSNINGER AS reported revenue of 253,500 NOK and an operating result of 38,838 NOK. Net result was 38,404 NOK, with total assets of 254,302 NOK and equity of 245,568 NOK. Revenue contracted by -16.5% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 15.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Åse-Helen Holm. Daily operations are led by general manager Åse-Helen Holm. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "TEKNISKE LØSNINGER AS is classified under NACE code 71.129 (unspecified).",
+        "claim_ids": [
+          "efb907ff742899a04ae7",
+          "da6a8ab14bd379ef2436"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "53ccd9e70eea81e6390e",
+          "efb907ff742899a04ae7"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, TEKNISKE LØSNINGER AS reported revenue of 253,500 NOK and an operating result of 38,838 NOK.",
+        "claim_ids": [
+          "fadd58a1fa2c60d800c7",
+          "a29ae4c1ebc7b81e21ff"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 38,404 NOK, with total assets of 254,302 NOK and equity of 245,568 NOK.",
+        "claim_ids": [
+          "2014b5115be323e1b133",
+          "4ab4ed708dde2ec29413",
+          "2abb0bb487cd11ae8444"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue contracted by -16.5% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "fadd58a1fa2c60d800c7",
+          "ee93eacb93773cbf8c4a"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 15.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "a29ae4c1ebc7b81e21ff",
+          "fadd58a1fa2c60d800c7"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Åse-Helen Holm.",
+        "claim_ids": [
+          "5558a81e9971b2ac6a5d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Åse-Helen Holm.",
+        "claim_ids": [
+          "9e4032def192d46a7c89"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "0d3c5026bc57012b67cf",
+          "5558a81e9971b2ac6a5d",
+          "5ae73c2203784ea0b836",
+          "9e4032def192d46a7c89"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "da6a8ab14bd379ef2436"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "daaefd778984700715a8"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "da6a8ab14bd379ef2436"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "da6a8ab14bd379ef2436"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "da6a8ab14bd379ef2436"
+        ]
+      }
+    ]
+  }
+}

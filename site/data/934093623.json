@@ -1,0 +1,1539 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "64a1713feb3e55098473",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -354089.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8fbe7d44fe6c89a51a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 796361.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e0d301362dc7872ddcf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18787537.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a85f845b79f18b7552b9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 21335874.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3bce99ee6a861c6bce20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18080462.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6fe17e414fd15b6fa311",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20274709.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "51424f535a772e46fe93",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 707076.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ad50737be53e310ae78",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1061165.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b8109aa7e45fe98e778",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 929884.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a285c7d11d4991e32a28",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1736422.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "910800900303b89ecd77",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -453960.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e848834c4060ca159d85",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1020976.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "173f05ed438f3ea2c76f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2442182.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5352e32a093a509522ba",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934093623-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2434326.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e0df503cda7749d2d408",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934093623"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1c0917e360b390951b9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934093623"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7a223a38be0fb4b0b76f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934093623"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "PAUL NYGAARD EIENDOM AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0ecabad2f95ee0c7aca5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-827e71f0b9c1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eivind Storli",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "25805c096d178a8226bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-775f1c94e341"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tor-Inge Måkestad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "2826510e8b83cfcdba4d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-57c8aba6d95e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stein Gunnar Hallem",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "49d9bdad98518042e67e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-3122797d37be"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stian Solheim",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5e17d8158dc0424e1ffc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-b2ede35ce51c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Katrine Hessen Monge",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "68db1a28d1982b487482",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-c5706a2dc524"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Christian Heimdal",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9ac744bb7281e5f23b98",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-d0358ad9fcf3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ERNST & YOUNG AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9ffd04d7b0ac100b6ac5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-216248f102af"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Roar Størdal",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e0277f8c5668cd180e4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-d261772aee86"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tone-Berit Lintho",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f75726f13bf8d43afb90",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934093623-897f96b85543"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stig Christian Andreassen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "468e6d10469b97073bff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-934093623-934318277"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Øyfjellgata 16"
+          ],
+          "kommune": "VEFSN",
+          "kommunenummer": "1824",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8656",
+          "poststed": "MOSJØEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "PAUL NYGAARD EIENDOM AS",
+        "organisation_number": "934318277"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2024: revenue: 2442182.0, operating_result: 1736422.0, profit_before_tax: 1020976.0, annual_result: 796361.0, assets: 21335874.0, equity: 1061165.0, debt: 20274709.0",
+      "content_sha256": "31ef9a56465068daf12a96f2b6db25a22b99635192485b04591adebe1fb32812",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934093623",
+      "http_status": 200,
+      "id": "ev-fin-934093623-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:11.950862Z",
+      "snapshot_ref": "31/31ef9a56465068daf12a96f2b6db25a22b99635192485b04591adebe1fb32812.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934093623",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2434326.0, operating_result: 929884.0, profit_before_tax: -453960.0, annual_result: -354089.0, assets: 18787537.0, equity: 707076.0, debt: 18080462.0",
+      "content_sha256": "124b33fefe71e490d462ce573301ec518b1d4008eb772228462ee648e76e0b17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934093623",
+      "http_status": 200,
+      "id": "ev-fin-934093623-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:11.950862Z",
+      "snapshot_ref": "12/124b33fefe71e490d462ce573301ec518b1d4008eb772228462ee648e76e0b17.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934093623",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 934318277: PAUL NYGAARD EIENDOM AS",
+      "content_sha256": "159123ced28118725c3be906c149490e6858fc7913a138e19af62af68f5f1149",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934093623&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-934093623-934318277",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:15.567943Z",
+      "snapshot_ref": "15/159123ced28118725c3be906c149490e6858fc7913a138e19af62af68f5f1149.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934093623&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 934093623 PAUL NYGAARD EIENDOM AS",
+      "content_sha256": "6e975e568cb82b6ecb2d1f28e719a2e1d232b481de471224b1babb39e75dfd0b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-934093623",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "6e/6e975e568cb82b6ecb2d1f28e719a2e1d232b481de471224b1babb39e75dfd0b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Roar Størdal",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-216248f102af",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Stian Solheim",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-3122797d37be",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Stein Gunnar Hallem",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-57c8aba6d95e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tor-Inge Måkestad",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-775f1c94e341",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Eivind Storli",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-827e71f0b9c1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Stig Christian Andreassen",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-897f96b85543",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Katrine Hessen Monge",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-b2ede35ce51c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Christian Heimdal",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-c5706a2dc524",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ERNST & YOUNG AS",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-d0358ad9fcf3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tone-Berit Lintho",
+      "content_sha256": "f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "http_status": 200,
+      "id": "ev-role-934093623-d261772aee86",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.170321Z",
+      "snapshot_ref": "f3/f371dcd38d5bee5b03e5191feb5a2461b3e3455d63a48a5ac11deaabbef0e776.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "173f05ed438f3ea2c76f",
+        "3bce99ee6a861c6bce20",
+        "51424f535a772e46fe93",
+        "5352e32a093a509522ba",
+        "5ad50737be53e310ae78",
+        "64a1713feb3e55098473",
+        "6fe17e414fd15b6fa311",
+        "7b8109aa7e45fe98e778",
+        "910800900303b89ecd77",
+        "9e0d301362dc7872ddcf",
+        "a285c7d11d4991e32a28",
+        "a85f845b79f18b7552b9",
+        "c8fbe7d44fe6c89a51a0",
+        "e848834c4060ca159d85"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "7a223a38be0fb4b0b76f",
+        "c1c0917e360b390951b9",
+        "e0df503cda7749d2d408"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0ecabad2f95ee0c7aca5",
+        "25805c096d178a8226bf",
+        "2826510e8b83cfcdba4d",
+        "49d9bdad98518042e67e",
+        "5e17d8158dc0424e1ffc",
+        "68db1a28d1982b487482",
+        "9ac744bb7281e5f23b98",
+        "9ffd04d7b0ac100b6ac5",
+        "e0277f8c5668cd180e4b",
+        "f75726f13bf8d43afb90"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "468e6d10469b97073bff"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "7a223a38be0fb4b0b76f",
+      "c1c0917e360b390951b9",
+      "e0df503cda7749d2d408"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "PAUL NYGAARD EIENDOM AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 13,
+    "runtime_ms": 12009,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "934093623",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.118828Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "934093623",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "2c05d48b9fef54d287226a38da98497aaf902967c5e092720c296e81a6c18c39",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:11.950862Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934093623",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 796361.0,
+              "assets": 21335874.0,
+              "currency": "NOK",
+              "debt": 20274709.0,
+              "equity": 1061165.0,
+              "operating_result": 1736422.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1020976.0,
+              "record_id": 6226031,
+              "revenue": 2442182.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -354089.0,
+              "assets": 18787537.0,
+              "currency": "NOK",
+              "debt": 18080462.0,
+              "equity": 707076.0,
+              "operating_result": 929884.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -453960.0,
+              "record_id": 7190541,
+              "revenue": 2434326.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:14.358644Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/934093623",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "f072a2cc59863b64255d2347cc26f52a170fc17debe4d2997c10f8351f60e0a0",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:15.567943Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934093623&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Øyfjellgata 16"
+                ],
+                "kommune": "VEFSN",
+                "kommunenummer": "1824",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8656",
+                "poststed": "MOSJØEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "PAUL NYGAARD EIENDOM AS",
+              "organisation_number": "934318277"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "934093623",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Utleie av fast eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Øyfjellgata 16",
+          "forretningsadresse.kommune": "VEFSN",
+          "forretningsadresse.kommunenummer": "1824",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8656",
+          "forretningsadresse.poststed": "MOSJØEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "34000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2024-09-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "PAUL NYGAARD EIENDOM AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "934093623",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2024-09-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2024-10-26",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2024-10-25",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-10-26",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2024-09-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2024-06-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-06-25",
+          "vedtektsfestetFormaal": "Næringsvirksomhet gjennom å eie og leie ut fast eiendom samt gjennom deltagelse i andre selskaper."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "d011f7c963c2359c3aec3bb85e02f6602785fe67c9a11b30303fd558f7248f22",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:13.170321Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934093623/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Stein Gunnar Hallem",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Tor-Inge Måkestad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Stian Solheim",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Tone-Berit Lintho",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Roar Størdal",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Eivind Storli",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Katrine Hessen Monge",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2025-06-15",
+              "name": "Christian Heimdal",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-15",
+              "name": "Stig Christian Andreassen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2024-09-24",
+              "name": [
+                "ERNST & YOUNG AS"
+              ],
+              "organisation_number": "976389387",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "VEFSN",
+    "municipality_number": "1824",
+    "name": "PAUL NYGAARD EIENDOM AS",
+    "organisation_number": "934093623",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1218,
+        1187,
+        1218,
+        31,
+        47,
+        3875,
+        1389,
+        1078,
+        671,
+        46,
+        47,
+        31
+      ],
+      "requests": 13
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:22Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "PAUL NYGAARD EIENDOM AS (AS, org.nr 934093623)",
+    "what_it_does": "PAUL NYGAARD EIENDOM AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, PAUL NYGAARD EIENDOM AS reported revenue of 2,434,326 NOK and an operating result of 929,884 NOK. Net result was -354,089 NOK, with total assets of 18,787,537 NOK and equity of 707,076 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 38.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Stein Gunnar Hallem. The entity has 10 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "PAUL NYGAARD EIENDOM AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "e0df503cda7749d2d408",
+          "7a223a38be0fb4b0b76f"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c1c0917e360b390951b9",
+          "e0df503cda7749d2d408"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, PAUL NYGAARD EIENDOM AS reported revenue of 2,434,326 NOK and an operating result of 929,884 NOK.",
+        "claim_ids": [
+          "5352e32a093a509522ba",
+          "7b8109aa7e45fe98e778"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -354,089 NOK, with total assets of 18,787,537 NOK and equity of 707,076 NOK.",
+        "claim_ids": [
+          "64a1713feb3e55098473",
+          "9e0d301362dc7872ddcf",
+          "51424f535a772e46fe93"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "64a1713feb3e55098473"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "5352e32a093a509522ba",
+          "173f05ed438f3ea2c76f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was 38.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "7b8109aa7e45fe98e778",
+          "5352e32a093a509522ba"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Stein Gunnar Hallem.",
+        "claim_ids": [
+          "2826510e8b83cfcdba4d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 10 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "0ecabad2f95ee0c7aca5",
+          "25805c096d178a8226bf",
+          "2826510e8b83cfcdba4d",
+          "49d9bdad98518042e67e",
+          "5e17d8158dc0424e1ffc",
+          "68db1a28d1982b487482"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "7a223a38be0fb4b0b76f"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "468e6d10469b97073bff"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "7a223a38be0fb4b0b76f"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "7a223a38be0fb4b0b76f"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "7a223a38be0fb4b0b76f"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1602 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "4f6a6a91f63a2246207f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -52446.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "997a6b57cd50e8b09f7d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -131925.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f5417c81686051e43822",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 307820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f17f0f96e9614ced33f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1694766.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "341c4a4c9f43a771dbd6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1381069.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f7433de13e05b91a2019",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1167935.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9969acec3fdf80de1696",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 809042.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e0e25c1046ff33d203fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 803165.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f600cae1b269defc1433",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 458106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "701de62890f9ddabc88c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 885724.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "71d384bb0ee5ede9bbd9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 709829.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "901c0e31b4e72c16066f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 577904.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2719675489606a8e91e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -67260.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5567ebfd0c821e4cb27c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 388309.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f64c4335b887e063036",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -169628.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1c9fab6a74fcaa54a704",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -169016.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2793764ecf8de53c1f5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 394967.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9a8b47d7fdd46b8df74",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -67239.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3b6a2272716738fdf76b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7359156.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "622fb9c9b0387c9b46cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5986547.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6bcc99cd906dbf1b76f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918844422-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6545745.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ccca96d93b21471afa5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918844422"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "56.300"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3945ef18d4bceb532b9e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918844422"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc74c27680aa756c5853",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918844422"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "RANGUR MADUR AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c57eced54ea51bb133b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918844422"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 15
+    },
+    {
+      "availability": "available",
+      "claim_id": "432960e717cb7cb710ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-530fe0bb8e9f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Agnieszka Barbara Kulinkowska",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4acc26d7501e13169e0c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-267e88977887"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Björn Christian Hägg",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e3bde27d59356b8aece",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-79bd95ddc0f9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Pär Olof Ferm",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8236bc92c62a1a6c8242",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-3e13ad13e94f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Agnieszka Barbara Kulinkowska",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f487872227219d2b2dd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-635c614b0266"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDT VIKEN AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab35aa94a869a28da274",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-1e927e1cc005"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "MOSS REVISJONSKONTOR AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d460ff6990866406f7f7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918844422-9c1727216024"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Björn Christian Hägg",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "71134499e6cad6572223",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-918844422-918861742"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:53Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:53Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Kongens gate 24"
+          ],
+          "kommune": "MOSS",
+          "kommunenummer": "3103",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "1530",
+          "poststed": "MOSS"
+        },
+        "employees": 15,
+        "industry": {
+          "beskrivelse": "Drift av barer",
+          "kode": "56.300"
+        },
+        "name": "COCKTAIL BY RANGUR MADUR",
+        "organisation_number": "918861742"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 6545745.0, operating_result: -67260.0, profit_before_tax: -67239.0, annual_result: -52446.0, assets: 1167935.0, equity: 709829.0, debt: 458106.0",
+      "content_sha256": "7798f409dc6a1a547476c30e16d26a1cde2664522d8105a45f89c54699524e04",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "http_status": 200,
+      "id": "ev-fin-918844422-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.334980Z",
+      "snapshot_ref": "77/7798f409dc6a1a547476c30e16d26a1cde2664522d8105a45f89c54699524e04.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 5986547.0, operating_result: -169628.0, profit_before_tax: -169016.0, annual_result: -131925.0, assets: 1381069.0, equity: 577904.0, debt: 803165.0",
+      "content_sha256": "890aa5a3ba5c603455b1eb861c325a7b357ef370986bad6253cb12faf03f1157",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "http_status": 200,
+      "id": "ev-fin-918844422-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.334980Z",
+      "snapshot_ref": "89/890aa5a3ba5c603455b1eb861c325a7b357ef370986bad6253cb12faf03f1157.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 7359156.0, operating_result: 388309.0, profit_before_tax: 394967.0, annual_result: 307820.0, assets: 1694766.0, equity: 885724.0, debt: 809042.0",
+      "content_sha256": "9f12971ed55d2323596bfeee60f3585403dfb20e11b0b5049af2b4bb0af268c0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "http_status": 200,
+      "id": "ev-fin-918844422-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.334980Z",
+      "snapshot_ref": "9f/9f12971ed55d2323596bfeee60f3585403dfb20e11b0b5049af2b4bb0af268c0.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 918861742: COCKTAIL BY RANGUR MADUR",
+      "content_sha256": "c642323682807265c7ec3de692a897754bc81b621fda1c33a3b7a5fa762cc41d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=918844422&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-918844422-918861742",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.874003Z",
+      "snapshot_ref": "c6/c642323682807265c7ec3de692a897754bc81b621fda1c33a3b7a5fa762cc41d.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=918844422&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 918844422 RANGUR MADUR AS",
+      "content_sha256": "3c83992c07cbe03d352e904d0626614eb753400f5ab4296701c1bcdb64e3ede3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-918844422",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "3c/3c83992c07cbe03d352e904d0626614eb753400f5ab4296701c1bcdb64e3ede3.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: MOSS REVISJONSKONTOR AS",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-1e927e1cc005",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Björn Christian Hägg",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-267e88977887",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Agnieszka Barbara Kulinkowska",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-3e13ad13e94f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Agnieszka Barbara Kulinkowska",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-530fe0bb8e9f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: BDT VIKEN AS",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-635c614b0266",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Pär Olof Ferm",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-79bd95ddc0f9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Björn Christian Hägg",
+      "content_sha256": "728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "http_status": 200,
+      "id": "ev-role-918844422-9c1727216024",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.518165Z",
+      "snapshot_ref": "72/728039126e87bc202e67d0e006d9de53840ce68bde065e4614b60821b1fdfc17.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1c9fab6a74fcaa54a704",
+        "1f17f0f96e9614ced33f",
+        "2719675489606a8e91e6",
+        "2793764ecf8de53c1f5d",
+        "341c4a4c9f43a771dbd6",
+        "3b6a2272716738fdf76b",
+        "4f6a6a91f63a2246207f",
+        "5567ebfd0c821e4cb27c",
+        "622fb9c9b0387c9b46cd",
+        "701de62890f9ddabc88c",
+        "71d384bb0ee5ede9bbd9",
+        "7f64c4335b887e063036",
+        "901c0e31b4e72c16066f",
+        "9969acec3fdf80de1696",
+        "997a6b57cd50e8b09f7d",
+        "c9a8b47d7fdd46b8df74",
+        "e0e25c1046ff33d203fb",
+        "f5417c81686051e43822",
+        "f600cae1b269defc1433",
+        "f6bcc99cd906dbf1b76f",
+        "f7433de13e05b91a2019"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2ccca96d93b21471afa5",
+        "3945ef18d4bceb532b9e",
+        "8c57eced54ea51bb133b",
+        "cc74c27680aa756c5853"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "432960e717cb7cb710ce",
+        "4acc26d7501e13169e0c",
+        "6e3bde27d59356b8aece",
+        "8236bc92c62a1a6c8242",
+        "8f487872227219d2b2dd",
+        "ab35aa94a869a28da274",
+        "d460ff6990866406f7f7"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "71134499e6cad6572223"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "cc74c27680aa756c5853",
+      "3945ef18d4bceb532b9e",
+      "8c57eced54ea51bb133b",
+      "2ccca96d93b21471afa5"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "RANGUR MADUR AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 28527,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "918844422",
+  "profile": {
+    "bankrupt": false,
+    "employees": 15,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:51.403150Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "918844422",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "63aad3505f4f0978094310910a87571296a2e84b88f870e32be84e36e634f751",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.334980Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918844422",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -52446.0,
+              "assets": 1167935.0,
+              "currency": "NOK",
+              "debt": 458106.0,
+              "equity": 709829.0,
+              "operating_result": -67260.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -67239.0,
+              "record_id": 4917159,
+              "revenue": 6545745.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -131925.0,
+              "assets": 1381069.0,
+              "currency": "NOK",
+              "debt": 803165.0,
+              "equity": 577904.0,
+              "operating_result": -169628.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -169016.0,
+              "record_id": 5566885,
+              "revenue": 5986547.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 307820.0,
+              "assets": 1694766.0,
+              "currency": "NOK",
+              "debt": 809042.0,
+              "equity": 885724.0,
+              "operating_result": 388309.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 394967.0,
+              "record_id": 6796226,
+              "revenue": 7359156.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.699897Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/918844422",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "2cb843a9f41dcecfb3421864c96c55454e6761f1bd384b3a09e66c22f5ae1b1a",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.874003Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=918844422&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Kongens gate 24"
+                ],
+                "kommune": "MOSS",
+                "kommunenummer": "3103",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "1530",
+                "poststed": "MOSS"
+              },
+              "employees": 15,
+              "industry": {
+                "beskrivelse": "Drift av barer",
+                "kode": "56.300"
+              },
+              "name": "COCKTAIL BY RANGUR MADUR",
+              "organisation_number": "918861742"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "918844422",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Coctailbar, kaffebar og butikk.",
+          "antallAnsatte": "15",
+          "epostadresse": "mail@rangurmadur.com",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kongens gate 24",
+          "forretningsadresse.kommune": "MOSS",
+          "forretningsadresse.kommunenummer": "3103",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1530",
+          "forretningsadresse.poststed": "MOSS",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.rangurmadur.com",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2017-04-10",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "462 43 032",
+          "naeringskode1.beskrivelse": "Drift av barer",
+          "naeringskode1.kode": "56.300",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "RANGUR MADUR AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "918844422",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+          "registreringsdatoForetaksregisteret": "2017-04-10",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2017-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-07-13",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "2017-04-10",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2017-03-02",
+          "telefon": "46 22 61 35",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2018-09-27",
+          "vedtektsfestetFormaal": "Cocktailbar, kaffebar og butikk, og annet som naturlig faller sammen med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "25ccd94581398d8a7a048b9f0fff4b4bacfa587b3e7c7061f3d2f93a2c7bfeee",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.518165Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918844422/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2017-04-10",
+              "name": "Björn Christian Hägg",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2017-04-10",
+              "name": "Agnieszka Barbara Kulinkowska",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-01-07",
+              "name": "Agnieszka Barbara Kulinkowska",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-01-07",
+              "name": "Pär Olof Ferm",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-01-07",
+              "name": "Björn Christian Hägg",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-05-11",
+              "name": [
+                "MOSS REVISJONSKONTOR AS"
+              ],
+              "organisation_number": "992227249",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-10-28",
+              "name": [
+                "BDT VIKEN AS"
+              ],
+              "organisation_number": "980995151",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "56.300",
+    "industry_label": "Drift av barer",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "MOSS",
+    "municipality_number": "3103",
+    "name": "RANGUR MADUR AS",
+    "organisation_number": "918844422",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1171,
+        1187,
+        1171,
+        10672,
+        3610,
+        6452,
+        1406,
+        47,
+        46,
+        47,
+        1546
+      ],
+      "requests": 12
+    },
+    "website": "www.rangurmadur.com"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:53Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "RANGUR MADUR AS (AS, org.nr 918844422)",
+    "what_it_does": "RANGUR MADUR AS is classified under NACE code 56.300 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, RANGUR MADUR AS reported revenue of 7,359,156 NOK and an operating result of 388,309 NOK. Net result was 307,820 NOK, with total assets of 1,694,766 NOK and equity of 885,724 NOK. Revenue grew by +22.9% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 5.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Agnieszka Barbara Kulinkowska. Daily operations are led by general manager Agnieszka Barbara Kulinkowska. The entity has 7 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "RANGUR MADUR AS is classified under NACE code 56.300 (unspecified).",
+        "claim_ids": [
+          "2ccca96d93b21471afa5",
+          "cc74c27680aa756c5853"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "3945ef18d4bceb532b9e",
+          "2ccca96d93b21471afa5"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, RANGUR MADUR AS reported revenue of 7,359,156 NOK and an operating result of 388,309 NOK.",
+        "claim_ids": [
+          "3b6a2272716738fdf76b",
+          "5567ebfd0c821e4cb27c"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 307,820 NOK, with total assets of 1,694,766 NOK and equity of 885,724 NOK.",
+        "claim_ids": [
+          "f5417c81686051e43822",
+          "1f17f0f96e9614ced33f",
+          "701de62890f9ddabc88c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +22.9% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "3b6a2272716738fdf76b",
+          "622fb9c9b0387c9b46cd"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 5.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "5567ebfd0c821e4cb27c",
+          "3b6a2272716738fdf76b"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Agnieszka Barbara Kulinkowska.",
+        "claim_ids": [
+          "8236bc92c62a1a6c8242"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Agnieszka Barbara Kulinkowska.",
+        "claim_ids": [
+          "432960e717cb7cb710ce"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 7 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "432960e717cb7cb710ce",
+          "4acc26d7501e13169e0c",
+          "6e3bde27d59356b8aece",
+          "8236bc92c62a1a6c8242",
+          "8f487872227219d2b2dd",
+          "ab35aa94a869a28da274"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "cc74c27680aa756c5853"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "71134499e6cad6572223"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "cc74c27680aa756c5853"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "cc74c27680aa756c5853"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "cc74c27680aa756c5853"
+        ]
+      }
+    ]
+  }
+}

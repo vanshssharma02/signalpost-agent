@@ -1,0 +1,1336 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "695289a9ce22291ad732",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -107342.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9dfb2da368a89538c8d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -112861.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0af207c11a90fff87d0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -158080.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "358f08ada3cf5e29d19c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 668913.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "66bc6e2a65bda99bff27",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 592254.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "95d3dc09437699ef2701",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 499107.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "00553046e71c908f0080",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 351659.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2f2de24bb6a4b6e9cd80",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 358922.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f9066fdd2b5eb3686c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 344727.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d9319a28bd3d8fd4d37",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 247527.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a8b7e11cad7f036fd531",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 140185.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ecea49cf3db5d3537505",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 317255.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f7df355dcb3cb48b3c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -106992.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c43cbaa9b93baac7de57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -159664.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db8d2f12ba8464fa222e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -114840.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2406838fedc4028dd827",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -107342.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "558d4f19576600f84744",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -159771.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c550dacae80a15f83677",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -112861.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64c014f02128cd93457f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 163503.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a63b7ee68a90d3cb0191",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 114084.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b7503149378ccf196406",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-829519992-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 169033.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c552a284de9f38c89d65",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-829519992"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "81.230"
+    },
+    {
+      "availability": "available",
+      "claim_id": "cbdae38507d88338f739",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-829519992"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "51310b134bdfb5dd67d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-829519992"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BYGDESERVICE DREVSJØ AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "34c3a0ce45bb6cfac267",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-829519992-7652dd8397df"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ole Geir Myrvold",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fecf04813cc1fa72818f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-829519992-a827a1be51c3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ØKORÅD ENGERDAL - TRYSIL SA",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c536b6fece415b20960",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-829519992-929854322"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Engerdalsveien 3493"
+          ],
+          "kommune": "ENGERDAL",
+          "kommunenummer": "3425",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2443",
+          "poststed": "DREVSJØ"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen rengjøringsvirksomhet og snømåking",
+          "kode": "81.230"
+        },
+        "name": "BYGDESERVICE DREVSJØ AS",
+        "organisation_number": "929854322"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 169033.0, operating_result: -159664.0, profit_before_tax: -159771.0, annual_result: -158080.0, assets: 668913.0, equity: 317255.0, debt: 351659.0",
+      "content_sha256": "c879bcc9dc37b8f9c499b93ce38a24ee94c4bf4ab380019cfdb479755042db5c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "http_status": 200,
+      "id": "ev-fin-829519992-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:03.428758Z",
+      "snapshot_ref": "c8/c879bcc9dc37b8f9c499b93ce38a24ee94c4bf4ab380019cfdb479755042db5c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 163503.0, operating_result: -114840.0, profit_before_tax: -112861.0, annual_result: -112861.0, assets: 592254.0, equity: 247527.0, debt: 344727.0",
+      "content_sha256": "34c5aff0f41872a78b7043833f496452ab477cc4c797b1c0c4e82fc0fe1983e9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "http_status": 200,
+      "id": "ev-fin-829519992-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:03.428758Z",
+      "snapshot_ref": "34/34c5aff0f41872a78b7043833f496452ab477cc4c797b1c0c4e82fc0fe1983e9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 114084.0, operating_result: -106992.0, profit_before_tax: -107342.0, annual_result: -107342.0, assets: 499107.0, equity: 140185.0, debt: 358922.0",
+      "content_sha256": "015f6b97f9d5d7ecc5a7c7162c56d376c80c3de8eb2d35e0606fa01b1575d11c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "http_status": 200,
+      "id": "ev-fin-829519992-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:03.428758Z",
+      "snapshot_ref": "01/015f6b97f9d5d7ecc5a7c7162c56d376c80c3de8eb2d35e0606fa01b1575d11c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 929854322: BYGDESERVICE DREVSJØ AS",
+      "content_sha256": "450d17827f48d66ae86c92a4b665975bda383dab0afbcc406d094b195720ea3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=829519992&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-829519992-929854322",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:07.145320Z",
+      "snapshot_ref": "45/450d17827f48d66ae86c92a4b665975bda383dab0afbcc406d094b195720ea3a.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=829519992&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 829519992 BYGDESERVICE DREVSJØ AS",
+      "content_sha256": "47d6c0722a8e2de48b01119f811ef6b7e0a926788bf3a3c1daf3ffa583f7c634",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-829519992",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "47/47d6c0722a8e2de48b01119f811ef6b7e0a926788bf3a3c1daf3ffa583f7c634.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Ole Geir Myrvold",
+      "content_sha256": "83e1be93dd01ed84f2f841a4efbb4a526d194e9dd2b9e537fb9a315f9f871577",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829519992/roller",
+      "http_status": 200,
+      "id": "ev-role-829519992-7652dd8397df",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:04.730088Z",
+      "snapshot_ref": "83/83e1be93dd01ed84f2f841a4efbb4a526d194e9dd2b9e537fb9a315f9f871577.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829519992/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ØKORÅD ENGERDAL - TRYSIL SA",
+      "content_sha256": "83e1be93dd01ed84f2f841a4efbb4a526d194e9dd2b9e537fb9a315f9f871577",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829519992/roller",
+      "http_status": 200,
+      "id": "ev-role-829519992-a827a1be51c3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:04.730088Z",
+      "snapshot_ref": "83/83e1be93dd01ed84f2f841a4efbb4a526d194e9dd2b9e537fb9a315f9f871577.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829519992/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "00553046e71c908f0080",
+        "2406838fedc4028dd827",
+        "2d9319a28bd3d8fd4d37",
+        "2f2de24bb6a4b6e9cd80",
+        "358f08ada3cf5e29d19c",
+        "558d4f19576600f84744",
+        "64c014f02128cd93457f",
+        "66bc6e2a65bda99bff27",
+        "695289a9ce22291ad732",
+        "7f7df355dcb3cb48b3c9",
+        "7f9066fdd2b5eb3686c2",
+        "95d3dc09437699ef2701",
+        "9dfb2da368a89538c8d3",
+        "a0af207c11a90fff87d0",
+        "a63b7ee68a90d3cb0191",
+        "a8b7e11cad7f036fd531",
+        "b7503149378ccf196406",
+        "c43cbaa9b93baac7de57",
+        "c550dacae80a15f83677",
+        "db8d2f12ba8464fa222e",
+        "ecea49cf3db5d3537505"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "51310b134bdfb5dd67d3",
+        "c552a284de9f38c89d65",
+        "cbdae38507d88338f739"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "34c3a0ce45bb6cfac267",
+        "fecf04813cc1fa72818f"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "8c536b6fece415b20960"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "51310b134bdfb5dd67d3",
+      "cbdae38507d88338f739",
+      "c552a284de9f38c89d65"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "BYGDESERVICE DREVSJØ AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 17,
+    "runtime_ms": 19959,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "829519992",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:48.873214Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "829519992",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "0b4cb9667ecba02d76595b59d0db70fae919e37f9e9aac23e1ae48147350cc26",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:03.428758Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/829519992",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -158080.0,
+              "assets": 668913.0,
+              "currency": "NOK",
+              "debt": 351659.0,
+              "equity": 317255.0,
+              "operating_result": -159664.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -159771.0,
+              "record_id": 5230251,
+              "revenue": 169033.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -112861.0,
+              "assets": 592254.0,
+              "currency": "NOK",
+              "debt": 344727.0,
+              "equity": 247527.0,
+              "operating_result": -114840.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -112861.0,
+              "record_id": 5715957,
+              "revenue": 163503.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -107342.0,
+              "assets": 499107.0,
+              "currency": "NOK",
+              "debt": 358922.0,
+              "equity": 140185.0,
+              "operating_result": -106992.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -107342.0,
+              "record_id": 6681216,
+              "revenue": 114084.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:05.900442Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/829519992",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "3e6f9911c11dbc783ff5e03abc9e0111b572d8956742ad1a150f95a96ceaf17c",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:07.145320Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=829519992&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Engerdalsveien 3493"
+                ],
+                "kommune": "ENGERDAL",
+                "kommunenummer": "3425",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2443",
+                "poststed": "DREVSJØ"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen rengjøringsvirksomhet og snømåking",
+                "kode": "81.230"
+              },
+              "name": "BYGDESERVICE DREVSJØ AS",
+              "organisation_number": "929854322"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "829519992",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Tjenester innen bygdeservice som snørydding, reparasjoner og vedlikehold.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Engerdalsveien 3493",
+          "forretningsadresse.kommune": "ENGERDAL",
+          "forretningsadresse.kommunenummer": "3425",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2443",
+          "forretningsadresse.poststed": "DREVSJØ",
+          "fravalgRevisjonBeslutningsDato": "2022-06-15",
+          "fravalgRevisjonDato": "2022-08-04",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "50",
+          "kapital.belop": "50000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-08-04",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Annen rengjøringsvirksomhet og snømåking",
+          "naeringskode1.kode": "81.230",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "BYGDESERVICE DREVSJØ AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "829519992",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2022-08-04",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2022-06-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-11-28",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2022-08-04",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-06-15",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-06-15",
+          "vedtektsfestetFormaal": "Å yte enkelttjenester innenfor snørydding, mindre vedlikehold, småreparasjoner, produksjon av ved og lignende for bygdesamfunnet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "9aa912bf999d154b2a369a40f0a17b357b6f1d21ec50df967af5c9403749b485",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:04.730088Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/829519992/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-08-04",
+              "name": "Ole Geir Myrvold",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2022-08-04",
+              "name": [
+                "ØKORÅD ENGERDAL - TRYSIL SA"
+              ],
+              "organisation_number": "968316559",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "81.230",
+    "industry_label": "Annen rengjøringsvirksomhet og snømåking",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ENGERDAL",
+    "municipality_number": "3425",
+    "name": "BYGDESERVICE DREVSJØ AS",
+    "organisation_number": "829519992",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1296,
+        1172,
+        1233,
+        46,
+        46,
+        2672,
+        2702,
+        1187,
+        2781,
+        46,
+        31,
+        77,
+        47,
+        5327,
+        32,
+        92
+      ],
+      "requests": 17
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:22Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "BYGDESERVICE DREVSJØ AS (AS, org.nr 829519992)",
+    "what_it_does": "BYGDESERVICE DREVSJØ AS is classified under NACE code 81.230 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, BYGDESERVICE DREVSJØ AS reported revenue of 114,084 NOK and an operating result of -106,992 NOK. Net result was -107,342 NOK, with total assets of 499,107 NOK and equity of 140,185 NOK. The company was loss-making in 2025. Revenue contracted by -30.2% year-over-year from 2024 (derived: YoY revenue change). Operating margin was -93.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Ole Geir Myrvold. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "BYGDESERVICE DREVSJØ AS is classified under NACE code 81.230 (unspecified).",
+        "claim_ids": [
+          "c552a284de9f38c89d65",
+          "51310b134bdfb5dd67d3"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "cbdae38507d88338f739",
+          "c552a284de9f38c89d65"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, BYGDESERVICE DREVSJØ AS reported revenue of 114,084 NOK and an operating result of -106,992 NOK.",
+        "claim_ids": [
+          "a63b7ee68a90d3cb0191",
+          "7f7df355dcb3cb48b3c9"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -107,342 NOK, with total assets of 499,107 NOK and equity of 140,185 NOK.",
+        "claim_ids": [
+          "695289a9ce22291ad732",
+          "95d3dc09437699ef2701",
+          "a8b7e11cad7f036fd531"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "695289a9ce22291ad732"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue contracted by -30.2% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "a63b7ee68a90d3cb0191",
+          "64c014f02128cd93457f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -93.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "7f7df355dcb3cb48b3c9",
+          "a63b7ee68a90d3cb0191"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Ole Geir Myrvold.",
+        "claim_ids": [
+          "34c3a0ce45bb6cfac267"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "34c3a0ce45bb6cfac267",
+          "fecf04813cc1fa72818f"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "51310b134bdfb5dd67d3"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "8c536b6fece415b20960"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "51310b134bdfb5dd67d3"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "51310b134bdfb5dd67d3"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "51310b134bdfb5dd67d3"
+        ]
+      }
+    ]
+  }
+}

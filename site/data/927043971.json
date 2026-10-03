@@ -1,0 +1,1551 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "081547a770f447ba5472",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 122618.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "67c8ba0c32227dda6638",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 333360.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8581be14df524b1049f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 295351.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3e94a3b27172631e41cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3771104.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "755a2b620f18efe34552",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3552558.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "86377e3ef607e39f627d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3279140.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0c92549f1085947d9e55",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3327425.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5cc8b0a4b0fa93f1c6ac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3130812.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7802df7f1699fd8d62a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2895519.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "37a16a188c223bacd262",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 657039.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "61f1bbaf66ecd0444e2b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 443679.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b70a60422c26145034ab",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 148328.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4107568078f5a5627361",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 158265.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8bdd149b05b3065e5e9e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 382326.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7b255fd7cf93abf3be6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 438330.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "461f845681f38322559c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 144841.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a4f4b8070e7a41e054bd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 371090.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ed3e4d959fb3717e14df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 425916.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5dd894d75612d9583231",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9722681.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "92ab336a7bcd29ace3dd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9624540.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f4edd618c2725dc6532c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927043971-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10478116.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "911832a10447df3dac1f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927043971"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.540"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ac81537e4c7057572c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927043971"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "52b9e4b72c97eed409db",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927043971"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "CKT ELEKTRO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7450bd5bc1b9c3047a8a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927043971"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 9
+    },
+    {
+      "availability": "available",
+      "claim_id": "2f3df1ad1350129af754",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-23aaba0b7c54"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kim Tommy Dørmænen Larsen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "592cfae0ba923d41eaf1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-10ef0df31972"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kim Tommy Dørmænen Larsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7cf77824af3b9f2b6fbd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-5a0400bf2cdc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ELON NORGE AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d085de0cfed5ce534827",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-8499a38efa7d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ECIT SERVICES AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d834035a3c47fdce7cc8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-12ce765262fa"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Christian Olai Vasshaug",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee98146709b6f7c1dde5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927043971-307c2970a631"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "TELL NORGE AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d972bf67a678188666b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-927043971-927531844"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Tollbugata 6"
+          ],
+          "kommune": "VADSØ",
+          "kommunenummer": "5607",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "9800",
+          "poststed": "VADSØ"
+        },
+        "employees": 9,
+        "industry": {
+          "beskrivelse": "Detaljhandel med elektriske husholdningsapparater",
+          "kode": "47.540"
+        },
+        "name": "CKT ELEKTRO AS",
+        "organisation_number": "927531844"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 9624540.0, operating_result: 158265.0, profit_before_tax: 144841.0, annual_result: 122618.0, assets: 3279140.0, equity: 148328.0, debt: 3130812.0",
+      "content_sha256": "22ea17710327443a8b363b0dc7584c24ed787dfa793e5018a5a8f392b53d6d92",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "http_status": 200,
+      "id": "ev-fin-927043971-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.005811Z",
+      "snapshot_ref": "22/22ea17710327443a8b363b0dc7584c24ed787dfa793e5018a5a8f392b53d6d92.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 9722681.0, operating_result: 382326.0, profit_before_tax: 371090.0, annual_result: 295351.0, assets: 3771104.0, equity: 443679.0, debt: 3327425.0",
+      "content_sha256": "3b3c125047319d576c95d2591a5f856c2127a65ec16fcfc5d90dba02e97d4ede",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "http_status": 200,
+      "id": "ev-fin-927043971-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.005811Z",
+      "snapshot_ref": "3b/3b3c125047319d576c95d2591a5f856c2127a65ec16fcfc5d90dba02e97d4ede.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 10478116.0, operating_result: 438330.0, profit_before_tax: 425916.0, annual_result: 333360.0, assets: 3552558.0, equity: 657039.0, debt: 2895519.0",
+      "content_sha256": "b342a07775f332d09fa4e11082d61f05b7956bd95cb91054c74d63870bb9490f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "http_status": 200,
+      "id": "ev-fin-927043971-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.005811Z",
+      "snapshot_ref": "b3/b342a07775f332d09fa4e11082d61f05b7956bd95cb91054c74d63870bb9490f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 927531844: CKT ELEKTRO AS",
+      "content_sha256": "5e81e4ec169bae5deb3efbe734eb9071ae15f3c9dfe51ad2cb91a851333f91e4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927043971&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-927043971-927531844",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:41.551274Z",
+      "snapshot_ref": "5e/5e81e4ec169bae5deb3efbe734eb9071ae15f3c9dfe51ad2cb91a851333f91e4.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927043971&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 927043971 CKT ELEKTRO AS",
+      "content_sha256": "335b761879e1d47dab095ef74383086ff5fccd41c12c4559f4a3603b2dbff7ff",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-927043971",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "33/335b761879e1d47dab095ef74383086ff5fccd41c12c4559f4a3603b2dbff7ff.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kim Tommy Dørmænen Larsen",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-10ef0df31972",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Christian Olai Vasshaug",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-12ce765262fa",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Kim Tommy Dørmænen Larsen",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-23aaba0b7c54",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: TELL NORGE AS",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-307c2970a631",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ELON NORGE AS",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-5a0400bf2cdc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ECIT SERVICES AS",
+      "content_sha256": "5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "http_status": 200,
+      "id": "ev-role-927043971-8499a38efa7d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.137102Z",
+      "snapshot_ref": "5c/5cf61be655076907b410f460cd474c6359880aa9db3b2ce032673b28ddd5f220.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "081547a770f447ba5472",
+        "0c92549f1085947d9e55",
+        "37a16a188c223bacd262",
+        "3e94a3b27172631e41cb",
+        "4107568078f5a5627361",
+        "461f845681f38322559c",
+        "5cc8b0a4b0fa93f1c6ac",
+        "5dd894d75612d9583231",
+        "61f1bbaf66ecd0444e2b",
+        "67c8ba0c32227dda6638",
+        "755a2b620f18efe34552",
+        "8581be14df524b1049f6",
+        "86377e3ef607e39f627d",
+        "8bdd149b05b3065e5e9e",
+        "92ab336a7bcd29ace3dd",
+        "a4f4b8070e7a41e054bd",
+        "a7802df7f1699fd8d62a",
+        "b70a60422c26145034ab",
+        "c7b255fd7cf93abf3be6",
+        "ed3e4d959fb3717e14df",
+        "f4edd618c2725dc6532c"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2ac81537e4c7057572c9",
+        "52b9e4b72c97eed409db",
+        "7450bd5bc1b9c3047a8a",
+        "911832a10447df3dac1f"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2f3df1ad1350129af754",
+        "592cfae0ba923d41eaf1",
+        "7cf77824af3b9f2b6fbd",
+        "d085de0cfed5ce534827",
+        "d834035a3c47fdce7cc8",
+        "ee98146709b6f7c1dde5"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "d972bf67a678188666b3"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "52b9e4b72c97eed409db",
+      "2ac81537e4c7057572c9",
+      "7450bd5bc1b9c3047a8a",
+      "911832a10447df3dac1f"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "CKT ELEKTRO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4886,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "927043971",
+  "profile": {
+    "bankrupt": false,
+    "employees": 9,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.154106Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "927043971",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "e56271d022b45f250e307fb945a910aeb944761c5edb12082023c47595cc6251",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.005811Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927043971",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 122618.0,
+              "assets": 3279140.0,
+              "currency": "NOK",
+              "debt": 3130812.0,
+              "equity": 148328.0,
+              "operating_result": 158265.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 144841.0,
+              "record_id": 5016549,
+              "revenue": 9624540.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 295351.0,
+              "assets": 3771104.0,
+              "currency": "NOK",
+              "debt": 3327425.0,
+              "equity": 443679.0,
+              "operating_result": 382326.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 371090.0,
+              "record_id": 6109547,
+              "revenue": 9722681.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 333360.0,
+              "assets": 3552558.0,
+              "currency": "NOK",
+              "debt": 2895519.0,
+              "equity": 657039.0,
+              "operating_result": 438330.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 425916.0,
+              "record_id": 6834334,
+              "revenue": 10478116.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:40.324914Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/927043971",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "8111447a4444e5564b4606ee8e91a1b6581e9b34e45924cd383a6cc4d7d9c137",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:41.551274Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927043971&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Tollbugata 6"
+                ],
+                "kommune": "VADSØ",
+                "kommunenummer": "5607",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "9800",
+                "poststed": "VADSØ"
+              },
+              "employees": 9,
+              "industry": {
+                "beskrivelse": "Detaljhandel med elektriske husholdningsapparater",
+                "kode": "47.540"
+              },
+              "name": "CKT ELEKTRO AS",
+              "organisation_number": "927531844"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "927043971",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Butikkhandel og salg av elektriske artikler.",
+          "antallAnsatte": "9",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Tollbugata 6",
+          "forretningsadresse.kommune": "VADSØ",
+          "forretningsadresse.kommunenummer": "5607",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "9800",
+          "forretningsadresse.poststed": "VADSØ",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-12-19",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Detaljhandel med elektriske husholdningsapparater",
+          "naeringskode1.kode": "47.540",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "CKT ELEKTRO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "927043971",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+          "registreringsdatoForetaksregisteret": "2021-04-29",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-05-27",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "2021-04-29",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-03-30",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-10-06",
+          "vedtektsfestetFormaal": "Butikkhandel med elektriske husholdningsapparater."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "aed477512591afa1e128e72e2f54937259c1f04969f358e4f08ca68f0ba9236e",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:39.137102Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927043971/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2021-04-29",
+              "name": "Kim Tommy Dørmænen Larsen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-04-29",
+              "name": "Christian Olai Vasshaug",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-04-29",
+              "name": "Kim Tommy Dørmænen Larsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2025-11-05",
+              "name": [
+                "TELL NORGE AS"
+              ],
+              "organisation_number": "834836912",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-09-15",
+              "name": [
+                "ELON NORGE AS"
+              ],
+              "organisation_number": "957566596",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-09-15",
+              "name": [
+                "ECIT SERVICES AS"
+              ],
+              "organisation_number": "993800139",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "47.540",
+    "industry_label": "Detaljhandel med elektriske husholdningsapparater",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "VADSØ",
+    "municipality_number": "5607",
+    "name": "CKT ELEKTRO AS",
+    "organisation_number": "927043971",
+    "run_metrics": {
+      "latencies_ms": [
+        1155,
+        1125,
+        1187,
+        1218,
+        47,
+        46,
+        47,
+        61
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:41Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "CKT ELEKTRO AS (AS, org.nr 927043971)",
+    "what_it_does": "CKT ELEKTRO AS is classified under NACE code 47.540 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, CKT ELEKTRO AS reported revenue of 10,478,116 NOK and an operating result of 438,330 NOK. Net result was 333,360 NOK, with total assets of 3,552,558 NOK and equity of 657,039 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 4.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Christian Olai Vasshaug. Daily operations are led by general manager Kim Tommy Dørmænen Larsen. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "CKT ELEKTRO AS is classified under NACE code 47.540 (unspecified).",
+        "claim_ids": [
+          "911832a10447df3dac1f",
+          "52b9e4b72c97eed409db"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "2ac81537e4c7057572c9",
+          "911832a10447df3dac1f"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, CKT ELEKTRO AS reported revenue of 10,478,116 NOK and an operating result of 438,330 NOK.",
+        "claim_ids": [
+          "f4edd618c2725dc6532c",
+          "c7b255fd7cf93abf3be6"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 333,360 NOK, with total assets of 3,552,558 NOK and equity of 657,039 NOK.",
+        "claim_ids": [
+          "67c8ba0c32227dda6638",
+          "755a2b620f18efe34552",
+          "37a16a188c223bacd262"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "f4edd618c2725dc6532c",
+          "5dd894d75612d9583231"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 4.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "c7b255fd7cf93abf3be6",
+          "f4edd618c2725dc6532c"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Christian Olai Vasshaug.",
+        "claim_ids": [
+          "d834035a3c47fdce7cc8"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Kim Tommy Dørmænen Larsen.",
+        "claim_ids": [
+          "2f3df1ad1350129af754"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2f3df1ad1350129af754",
+          "592cfae0ba923d41eaf1",
+          "7cf77824af3b9f2b6fbd",
+          "d085de0cfed5ce534827",
+          "d834035a3c47fdce7cc8",
+          "ee98146709b6f7c1dde5"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "52b9e4b72c97eed409db"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "d972bf67a678188666b3"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "52b9e4b72c97eed409db"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "52b9e4b72c97eed409db"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "52b9e4b72c97eed409db"
+        ]
+      }
+    ]
+  }
+}

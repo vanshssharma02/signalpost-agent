@@ -1,0 +1,1167 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "4fc0ddd4842c46277348",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -45.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "daaeacf21a95e750fafe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -126225.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "44a72a2215649c2055d2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3204248.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "88e6d3380188d5f6d4d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29955.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0f723e7bd6a9cc5f2f91",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3163857.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a3d0fa8bde3f360ceb33",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "074d76d567e03a15ff21",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 40391.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a22766926567afcaf0f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29955.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f4dceb2c2f3bc0bbe50",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 26589.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb05117cf6c1b3cbbb5f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -45.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "71f9e9514ddd89619837",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -126225.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fafbe807b02a8a952072",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -45.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec8f4b5dbd2180b8b36e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934783484-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 417729.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6c9c469ac34c22735d1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934783484"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "9075b0e517826a0ad3e9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934783484"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "21b9a5636cf949108ae0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934783484"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SUNDVOLLHOVET 60 AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1efbbde377b409b4b137",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934783484-e87fb7849bc3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bjørn Jokerud",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "29ad327062cfa9214f8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934783484-ef9b1d81ec95"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bjørn Jokerud",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e369c7136e9e71aeb1cf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934783484-e368541e31b3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "SPAREBANK 1 ØKONOMIHUSET AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "841d74127435604d2eb7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-934783484-934883756"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:38Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:38Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Sundvollhovet 60"
+          ],
+          "kommune": "KRØDSHERAD",
+          "kommunenummer": "3318",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3535",
+          "poststed": "KRØDEREN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "kode": "68.110"
+        },
+        "name": "SUNDVOLLHOVET 60 AS",
+        "organisation_number": "934883756"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2024: operating_result: -45.0, profit_before_tax: -45.0, annual_result: -45.0, assets: 29955.0, equity: 29955.0, debt: 0.0",
+      "content_sha256": "3274f8215267d53e0246117b8524132037ada4a1a3bce8dd34ea4a7652da3e6f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934783484",
+      "http_status": 200,
+      "id": "ev-fin-934783484-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:35.018727Z",
+      "snapshot_ref": "32/3274f8215267d53e0246117b8524132037ada4a1a3bce8dd34ea4a7652da3e6f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934783484",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 417729.0, operating_result: 26589.0, profit_before_tax: -126225.0, annual_result: -126225.0, assets: 3204248.0, equity: 40391.0, debt: 3163857.0",
+      "content_sha256": "c4dce04e11f115cb0c0aec40199376162dca4d69cca6db4a0a8f5efd932ed268",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934783484",
+      "http_status": 200,
+      "id": "ev-fin-934783484-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:35.018727Z",
+      "snapshot_ref": "c4/c4dce04e11f115cb0c0aec40199376162dca4d69cca6db4a0a8f5efd932ed268.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934783484",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 934883756: SUNDVOLLHOVET 60 AS",
+      "content_sha256": "1319b8806987a82eba3aaf837c5d98b631928b23c7aa36373eddc0bf73bed5a0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934783484&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-934783484-934883756",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.527082Z",
+      "snapshot_ref": "13/1319b8806987a82eba3aaf837c5d98b631928b23c7aa36373eddc0bf73bed5a0.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934783484&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 934783484 SUNDVOLLHOVET 60 AS",
+      "content_sha256": "cc2bb69df87852587dbe199eed1a9e2db8141e54e1f61876052de5608107c74e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-934783484",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "cc/cc2bb69df87852587dbe199eed1a9e2db8141e54e1f61876052de5608107c74e.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: SPAREBANK 1 ØKONOMIHUSET AS",
+      "content_sha256": "798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "http_status": 200,
+      "id": "ev-role-934783484-e368541e31b3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:36.205081Z",
+      "snapshot_ref": "79/798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Bjørn Jokerud",
+      "content_sha256": "798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "http_status": 200,
+      "id": "ev-role-934783484-e87fb7849bc3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:36.205081Z",
+      "snapshot_ref": "79/798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Bjørn Jokerud",
+      "content_sha256": "798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "http_status": 200,
+      "id": "ev-role-934783484-ef9b1d81ec95",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:36.205081Z",
+      "snapshot_ref": "79/798d5567c8d5a033657f84a6f5815b1c4eac7f90c9ec904982d1dfba1c5eb8d5.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "074d76d567e03a15ff21",
+        "0f723e7bd6a9cc5f2f91",
+        "2a22766926567afcaf0f",
+        "44a72a2215649c2055d2",
+        "4fc0ddd4842c46277348",
+        "71f9e9514ddd89619837",
+        "88e6d3380188d5f6d4d8",
+        "8f4dceb2c2f3bc0bbe50",
+        "a3d0fa8bde3f360ceb33",
+        "daaeacf21a95e750fafe",
+        "ec8f4b5dbd2180b8b36e",
+        "fafbe807b02a8a952072",
+        "fb05117cf6c1b3cbbb5f"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "21b9a5636cf949108ae0",
+        "6c9c469ac34c22735d1a",
+        "9075b0e517826a0ad3e9"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1efbbde377b409b4b137",
+        "29ad327062cfa9214f8b",
+        "e369c7136e9e71aeb1cf"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "841d74127435604d2eb7"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "21b9a5636cf949108ae0",
+      "9075b0e517826a0ad3e9",
+      "6c9c469ac34c22735d1a"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SUNDVOLLHOVET 60 AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 4965,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "934783484",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.378532Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "934783484",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "e24d8bb2756ecf89c983c1893251d236f9d6df942d31493c61eee8a2b8b0f947",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:35.018727Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934783484",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -45.0,
+              "assets": 29955.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 29955.0,
+              "operating_result": -45.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -45.0,
+              "record_id": 5696913,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -126225.0,
+              "assets": 3204248.0,
+              "currency": "NOK",
+              "debt": 3163857.0,
+              "equity": 40391.0,
+              "operating_result": 26589.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -126225.0,
+              "record_id": 7198986,
+              "revenue": 417729.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:37.370749Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/934783484",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "eed26d548a4bc15f3e6b24600981f370c4d3e82019d6a3f79983c9c46c359dd7",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.527082Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934783484&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Sundvollhovet 60"
+                ],
+                "kommune": "KRØDSHERAD",
+                "kommunenummer": "3318",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3535",
+                "poststed": "KRØDEREN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kjøp og salg av egen fast eiendom",
+                "kode": "68.110"
+              },
+              "name": "SUNDVOLLHOVET 60 AS",
+              "organisation_number": "934883756"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "934783484",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøp og salg av egen fast eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Sundvollhovet 60",
+          "forretningsadresse.kommune": "KRØDSHERAD",
+          "forretningsadresse.kommunenummer": "3318",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3535",
+          "forretningsadresse.poststed": "KRØDEREN",
+          "fravalgRevisjonBeslutningsDato": "2024-12-13",
+          "fravalgRevisjonDato": "2025-01-03",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-01-03",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "naeringskode1.kode": "68.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SUNDVOLLHOVET 60 AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "934783484",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-01-03",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2025-02-05",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2025-02-05",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-02-05",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-01-03",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2024-12-13",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-12-13",
+          "vedtektsfestetFormaal": "Kjøp, utvikling og utleie av næringseiendom og alt som hermed står i forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "2908c82559b1fe5771a44151108ad9df3031ac4f4dc2e92759c64254e22e4f9c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:36.205081Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934783484/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2025-01-03",
+              "name": "Bjørn Jokerud",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-01-03",
+              "name": "Bjørn Jokerud",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-01-10",
+              "name": [
+                "SPAREBANK 1 ØKONOMIHUSET AS"
+              ],
+              "organisation_number": "979287356",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.110",
+    "industry_label": "Kjøp og salg av egen fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "KRØDSHERAD",
+    "municipality_number": "3318",
+    "name": "SUNDVOLLHOVET 60 AS",
+    "organisation_number": "934783484",
+    "run_metrics": {
+      "latencies_ms": [
+        1156,
+        1187,
+        1171,
+        1157,
+        46,
+        31,
+        62,
+        47,
+        46,
+        62
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:38Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SUNDVOLLHOVET 60 AS (AS, org.nr 934783484)",
+    "what_it_does": "SUNDVOLLHOVET 60 AS is classified under NACE code 68.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SUNDVOLLHOVET 60 AS reported revenue of 417,729 NOK and an operating result of 26,589 NOK. Net result was -126,225 NOK, with total assets of 3,204,248 NOK and equity of 40,391 NOK. The company was loss-making in 2025. Operating margin was 6.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Bjørn Jokerud. Daily operations are led by general manager Bjørn Jokerud. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SUNDVOLLHOVET 60 AS is classified under NACE code 68.110 (unspecified).",
+        "claim_ids": [
+          "6c9c469ac34c22735d1a",
+          "21b9a5636cf949108ae0"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "9075b0e517826a0ad3e9",
+          "6c9c469ac34c22735d1a"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SUNDVOLLHOVET 60 AS reported revenue of 417,729 NOK and an operating result of 26,589 NOK.",
+        "claim_ids": [
+          "ec8f4b5dbd2180b8b36e",
+          "8f4dceb2c2f3bc0bbe50"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -126,225 NOK, with total assets of 3,204,248 NOK and equity of 40,391 NOK.",
+        "claim_ids": [
+          "daaeacf21a95e750fafe",
+          "44a72a2215649c2055d2",
+          "074d76d567e03a15ff21"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "daaeacf21a95e750fafe"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 6.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "8f4dceb2c2f3bc0bbe50",
+          "ec8f4b5dbd2180b8b36e"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Bjørn Jokerud.",
+        "claim_ids": [
+          "1efbbde377b409b4b137"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Bjørn Jokerud.",
+        "claim_ids": [
+          "29ad327062cfa9214f8b"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "1efbbde377b409b4b137",
+          "29ad327062cfa9214f8b",
+          "e369c7136e9e71aeb1cf"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "21b9a5636cf949108ae0"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "841d74127435604d2eb7"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "21b9a5636cf949108ae0"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "21b9a5636cf949108ae0"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "21b9a5636cf949108ae0"
+        ]
+      }
+    ]
+  }
+}

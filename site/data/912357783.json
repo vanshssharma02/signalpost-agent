@@ -1,0 +1,1266 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "26289c242a935e693b89",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3829004.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2635e8eb234e33893285",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 636403.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "35ff090040c8dced6018",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 449825.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "065b3e15231d7825af91",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17008807.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "504ad989ea32aed107f9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16372404.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "55ee97dc3cfbc8c74d7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20838640.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "59945c6eebfafa22dd14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 48443.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7316e59eca8c5b52581d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 49273.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc4e0fbbb07edcf9f745",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 48443.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3961b338da848ba8209b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20789367.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8fec1145ceaff7eceafa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16323961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9d0577b43c349b6575f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16960364.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2b9531e7b2b8bd5943ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -23702.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b35011292a9ab10e0330",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22141.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d1b35d3f1fd957e88c1d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -20256.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "244ce2ddb4f879b7daf5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3829834.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "59c5b8247406fd1cbb5c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 449825.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9cd9c4f2074bb9ce9dbf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-912357783-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 636403.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "22fe6f066910b9ef841f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-912357783"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "557f40e2c06b938c903f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-912357783"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f03076071a2f9d967d2c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-912357783"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "TOBITAR INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "5e922ba4edc8a1ebd566",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-912357783-92d13757de67"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anne-Gro Høyer-Trollnes",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8ce447cbe546299a76fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-912357783-89974b0501ed"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BERGE & LUNDAL REVISJONSSELSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9aa5ff5db260797d090b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-912357783-36ed0207bb1e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Sveinung Høyer-Trollnes",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa9f15a4d8f8c318f8a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-912357783-7ec5b94732f2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:10Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:10Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Sveinung Høyer-Trollnes",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -23702.0, profit_before_tax: 449825.0, annual_result: 449825.0, assets: 16372404.0, equity: 16323961.0, debt: 48443.0",
+      "content_sha256": "9284c62af58db0f934a2608a3521a27faa79a4bca6447801a471985c5beb3961",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "http_status": 200,
+      "id": "ev-fin-912357783-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:07.094006Z",
+      "snapshot_ref": "92/9284c62af58db0f934a2608a3521a27faa79a4bca6447801a471985c5beb3961.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -20256.0, profit_before_tax: 636403.0, annual_result: 636403.0, assets: 17008807.0, equity: 16960364.0, debt: 48443.0",
+      "content_sha256": "0585526c614631d95246c07ec023f630a08c999d49ccf949be52e3a3a43164f5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "http_status": 200,
+      "id": "ev-fin-912357783-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:07.094006Z",
+      "snapshot_ref": "05/0585526c614631d95246c07ec023f630a08c999d49ccf949be52e3a3a43164f5.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -22141.0, profit_before_tax: 3829834.0, annual_result: 3829004.0, assets: 20838640.0, equity: 20789367.0, debt: 49273.0",
+      "content_sha256": "c17dbc8caaa55748d1ee82cbda70fc37463bfc92f3638eccee5840497d3f4d48",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "http_status": 200,
+      "id": "ev-fin-912357783-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:07.094006Z",
+      "snapshot_ref": "c1/c17dbc8caaa55748d1ee82cbda70fc37463bfc92f3638eccee5840497d3f4d48.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 912357783 TOBITAR INVEST AS",
+      "content_sha256": "41af0e6d622af617869ba90425892147c2cede7a048807df763bd692183ce9bc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-912357783",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "41/41af0e6d622af617869ba90425892147c2cede7a048807df763bd692183ce9bc.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Sveinung Høyer-Trollnes",
+      "content_sha256": "1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "http_status": 200,
+      "id": "ev-role-912357783-36ed0207bb1e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:08.301862Z",
+      "snapshot_ref": "1e/1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Sveinung Høyer-Trollnes",
+      "content_sha256": "1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "http_status": 200,
+      "id": "ev-role-912357783-7ec5b94732f2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:08.301862Z",
+      "snapshot_ref": "1e/1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: BERGE & LUNDAL REVISJONSSELSKAP AS",
+      "content_sha256": "1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "http_status": 200,
+      "id": "ev-role-912357783-89974b0501ed",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:08.301862Z",
+      "snapshot_ref": "1e/1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Anne-Gro Høyer-Trollnes",
+      "content_sha256": "1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "http_status": 200,
+      "id": "ev-role-912357783-92d13757de67",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:08.301862Z",
+      "snapshot_ref": "1e/1e7c841adaa1516bccf50955da9f4e522a30ee4dfb72f2a2ac578661d5f1c77e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "065b3e15231d7825af91",
+        "244ce2ddb4f879b7daf5",
+        "26289c242a935e693b89",
+        "2635e8eb234e33893285",
+        "2b9531e7b2b8bd5943ee",
+        "35ff090040c8dced6018",
+        "3961b338da848ba8209b",
+        "504ad989ea32aed107f9",
+        "55ee97dc3cfbc8c74d7a",
+        "59945c6eebfafa22dd14",
+        "59c5b8247406fd1cbb5c",
+        "7316e59eca8c5b52581d",
+        "8fec1145ceaff7eceafa",
+        "9cd9c4f2074bb9ce9dbf",
+        "b35011292a9ab10e0330",
+        "c9d0577b43c349b6575f",
+        "cc4e0fbbb07edcf9f745",
+        "d1b35d3f1fd957e88c1d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "22fe6f066910b9ef841f",
+        "557f40e2c06b938c903f",
+        "f03076071a2f9d967d2c"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "5e922ba4edc8a1ebd566",
+        "8ce447cbe546299a76fa",
+        "9aa5ff5db260797d090b",
+        "fa9f15a4d8f8c318f8a9"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f03076071a2f9d967d2c",
+      "557f40e2c06b938c903f",
+      "22fe6f066910b9ef841f"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "TOBITAR INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 4951,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "912357783",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:49.799102Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "912357783",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "1798f30dfb48774d8cfc88b4ccc61abe1359fc9dc30ee995c0dd8ac41128dc0a",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:07.094006Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/912357783",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 449825.0,
+              "assets": 16372404.0,
+              "currency": "NOK",
+              "debt": 48443.0,
+              "equity": 16323961.0,
+              "operating_result": -23702.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 449825.0,
+              "record_id": 4946051,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 636403.0,
+              "assets": 17008807.0,
+              "currency": "NOK",
+              "debt": 48443.0,
+              "equity": 16960364.0,
+              "operating_result": -20256.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 636403.0,
+              "record_id": 5957007,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 3829004.0,
+              "assets": 20838640.0,
+              "currency": "NOK",
+              "debt": 49273.0,
+              "equity": 20789367.0,
+              "operating_result": -22141.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 3829834.0,
+              "record_id": 6875014,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:09.523908Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/912357783",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "29331009db58812d350d9d8dbfc0b273bc8326633911f76a37a00ea70ac9391f",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:10.724878Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=912357783&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "912357783",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Selskapet er et investeringsselskap som skal ha fokus på investeringer i aksjer, fast eiendom og andre produkter/tjenester/virksomhet som naturlig hører sammen med dette. I tillegg vil selskapet drive med utleie av eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o Sveinung Høyer-Trollnes\nLiomveien 35",
+          "forretningsadresse.kommune": "BÆRUM",
+          "forretningsadresse.kommunenummer": "3201",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1362",
+          "forretningsadresse.poststed": "HOSLE",
+          "fravalgRevisjonBeslutningsDato": "2017-09-11",
+          "fravalgRevisjonDato": "2018-01-11",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2013-08-26",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "naeringskode1.kode": "68.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "TOBITAR INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "912357783",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2013-08-26",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2013-08-26",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2013-08-07",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2017-11-24",
+          "vedtektsfestetFormaal": "Investeringsvirksomhet i verdipapirer, fast eiendom og andre produkter/tjenester/virksomhet som naturlig hører sammen med dette, samt utleie av egen eller andres faste eiendom."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "b5a9d454d45bc218ac1209825e76395af4d310b7da3c8ebd1454e4722cf6fcb4",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:08.301862Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/912357783/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2013-08-26",
+              "name": "Sveinung Høyer-Trollnes",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-08-26",
+              "name": "Sveinung Høyer-Trollnes",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-08-26",
+              "name": "Anne-Gro Høyer-Trollnes",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2018-01-11",
+              "name": [
+                "BERGE & LUNDAL REVISJONSSELSKAP AS"
+              ],
+              "organisation_number": "930443069",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.110",
+    "industry_label": "Kjøp og salg av egen fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "BÆRUM",
+    "municipality_number": "3201",
+    "name": "TOBITAR INVEST AS",
+    "organisation_number": "912357783",
+    "run_metrics": {
+      "latencies_ms": [
+        1234,
+        1202,
+        1235,
+        1202,
+        47,
+        31
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:10Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "TOBITAR INVEST AS (AS, org.nr 912357783)",
+    "what_it_does": "TOBITAR INVEST AS is classified under NACE code 68.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 3,829,004 NOK, with total assets of 20,838,640 NOK and equity of 20,789,367 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Sveinung Høyer-Trollnes. Daily operations are led by general manager Sveinung Høyer-Trollnes. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "TOBITAR INVEST AS is classified under NACE code 68.110 (unspecified).",
+        "claim_ids": [
+          "22fe6f066910b9ef841f",
+          "f03076071a2f9d967d2c"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "557f40e2c06b938c903f",
+          "22fe6f066910b9ef841f"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 3,829,004 NOK, with total assets of 20,838,640 NOK and equity of 20,789,367 NOK.",
+        "claim_ids": [
+          "26289c242a935e693b89",
+          "55ee97dc3cfbc8c74d7a",
+          "3961b338da848ba8209b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Sveinung Høyer-Trollnes.",
+        "claim_ids": [
+          "fa9f15a4d8f8c318f8a9"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Sveinung Høyer-Trollnes.",
+        "claim_ids": [
+          "9aa5ff5db260797d090b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "5e922ba4edc8a1ebd566",
+          "8ce447cbe546299a76fa",
+          "9aa5ff5db260797d090b",
+          "fa9f15a4d8f8c318f8a9"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f03076071a2f9d967d2c"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "f03076071a2f9d967d2c"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f03076071a2f9d967d2c"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f03076071a2f9d967d2c"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f03076071a2f9d967d2c"
+        ]
+      }
+    ]
+  }
+}

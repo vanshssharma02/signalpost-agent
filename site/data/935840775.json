@@ -1,0 +1,937 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "79b1f29abe73afef4c48",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 39539.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a418b8f656a5c4ef2213",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1550090.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24b6dddf143f95386988",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11151.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "726680d8bf368ef034fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1538939.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1fbe27a9adcecc2020d1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 50690.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "234ea20b297fc7c34c3d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 50690.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "14606c73e4f17803d695",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935840775-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 70960.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d071b5c907a9c75abbd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935840775"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "71.129"
+    },
+    {
+      "availability": "available",
+      "claim_id": "72944c45a2f28f752cd8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935840775"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "dffebdb6ebf590f996af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935840775"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "KAJEIMA HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6a528fc7e158cba70cc1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935840775-8d8dd32b4fe6"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Martin Grønnslett",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7cc9a69ccf6604eedc25",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935840775-9c96ad556688"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jeanette Therese Grønnslett",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "be03acc8cfe945435ff7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-935840775-935842573"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Reinslettveien 63"
+          ],
+          "kommune": "BODØ",
+          "kommunenummer": "1804",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8009",
+          "poststed": "BODØ"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "kode": "71.129"
+        },
+        "name": "KAJEIMA HOLDING AS",
+        "organisation_number": "935842573"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 70960.0, operating_result: 50690.0, profit_before_tax: 50690.0, annual_result: 39539.0, assets: 1550090.0, equity: 1538939.0, debt: 11151.0",
+      "content_sha256": "c2d4d05be4357ff4f2ca3d332f5ac05d0c8a15a874d036fd8648a2916bb3df63",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935840775",
+      "http_status": 200,
+      "id": "ev-fin-935840775-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-25",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:50.614242Z",
+      "snapshot_ref": "c2/c2d4d05be4357ff4f2ca3d332f5ac05d0c8a15a874d036fd8648a2916bb3df63.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935840775",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 935842573: KAJEIMA HOLDING AS",
+      "content_sha256": "c192484a27aee07fb147ece2b3408e9fefe5ff7d7894fecb36d9785b1af35e15",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935840775&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-935840775-935842573",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:54.218807Z",
+      "snapshot_ref": "c1/c192484a27aee07fb147ece2b3408e9fefe5ff7d7894fecb36d9785b1af35e15.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935840775&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 935840775 KAJEIMA HOLDING AS",
+      "content_sha256": "b6c8bc269155543cb4fa92f23dc0d6a2c0ced23ae7c28f9ef78b51b6ebf1e3fc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-935840775",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "b6/b6c8bc269155543cb4fa92f23dc0d6a2c0ced23ae7c28f9ef78b51b6ebf1e3fc.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Martin Grønnslett",
+      "content_sha256": "04026a3b1489c420ed57a2fd630c86c889b511504309fa130bb52b188eaa6e33",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935840775/roller",
+      "http_status": 200,
+      "id": "ev-role-935840775-8d8dd32b4fe6",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:51.844847Z",
+      "snapshot_ref": "04/04026a3b1489c420ed57a2fd630c86c889b511504309fa130bb52b188eaa6e33.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935840775/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jeanette Therese Grønnslett",
+      "content_sha256": "04026a3b1489c420ed57a2fd630c86c889b511504309fa130bb52b188eaa6e33",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935840775/roller",
+      "http_status": 200,
+      "id": "ev-role-935840775-9c96ad556688",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:51.844847Z",
+      "snapshot_ref": "04/04026a3b1489c420ed57a2fd630c86c889b511504309fa130bb52b188eaa6e33.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935840775/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "14606c73e4f17803d695",
+        "1fbe27a9adcecc2020d1",
+        "234ea20b297fc7c34c3d",
+        "24b6dddf143f95386988",
+        "726680d8bf368ef034fa",
+        "79b1f29abe73afef4c48",
+        "a418b8f656a5c4ef2213"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6d071b5c907a9c75abbd",
+        "72944c45a2f28f752cd8",
+        "dffebdb6ebf590f996af"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6a528fc7e158cba70cc1",
+        "7cc9a69ccf6604eedc25"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "be03acc8cfe945435ff7"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "dffebdb6ebf590f996af",
+      "72944c45a2f28f752cd8",
+      "6d071b5c907a9c75abbd"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "KAJEIMA HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 4841,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "935840775",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.933850Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "935840775",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "4ef3396bb33e1ed5f27a714da4036a00c8ab549ef826394785723523dad6502c",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:50.614242Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935840775",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 39539.0,
+              "assets": 1550090.0,
+              "currency": "NOK",
+              "debt": 11151.0,
+              "equity": 1538939.0,
+              "operating_result": 50690.0,
+              "period": {
+                "fraDato": "2025-06-25",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 50690.0,
+              "record_id": 6872438,
+              "revenue": 70960.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:53.058324Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/935840775",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "2e3efe85df0be8dc779cba3cf731822f68daeb40a8cbc01f2943e5e209d9e446",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:54.218807Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935840775&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Reinslettveien 63"
+                ],
+                "kommune": "BODØ",
+                "kommunenummer": "1804",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8009",
+                "poststed": "BODØ"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen teknisk konsulentvirksomhet",
+                "kode": "71.129"
+              },
+              "name": "KAJEIMA HOLDING AS",
+              "organisation_number": "935842573"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "935840775",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Holdingselskap.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Reinslettveien 63",
+          "forretningsadresse.kommune": "BODØ",
+          "forretningsadresse.kommunenummer": "1804",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8009",
+          "forretningsadresse.poststed": "BODØ",
+          "fravalgRevisjonBeslutningsDato": "2025-06-25",
+          "fravalgRevisjonDato": "2025-07-11",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "Hovedkontortjenester",
+          "hjelpeenhetskode.kode": "70.100",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "612",
+          "kapital.belop": "1499400.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2026-01-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "naeringskode1.kode": "71.129",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "KAJEIMA HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "935840775",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-07-11",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-07-11",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2025-06-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-12-05",
+          "vedtektsfestetFormaal": "Eie aksjer og andeler i andre selskaper, drive investeringsvirksomhet, samt annen virksomhet som står i forbindelse med dette, herunder å yte konsulenttjenester."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "bce57707d37c2c298406f623a4c982ca3673b3752a17d0bbf197a5c1dac3b38c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:51.844847Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935840775/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2025-07-11",
+              "name": "Martin Grønnslett",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-11",
+              "name": "Jeanette Therese Grønnslett",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "71.129",
+    "industry_label": "Annen teknisk konsulentvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "BODØ",
+    "municipality_number": "1804",
+    "name": "KAJEIMA HOLDING AS",
+    "organisation_number": "935840775",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1219,
+        1218,
+        1156,
+        30,
+        47
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:54Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "KAJEIMA HOLDING AS (AS, org.nr 935840775)",
+    "what_it_does": "KAJEIMA HOLDING AS is classified under NACE code 71.129 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, KAJEIMA HOLDING AS reported revenue of 70,960 NOK and an operating result of 50,690 NOK. Net result was 39,539 NOK, with total assets of 1,550,090 NOK and equity of 1,538,939 NOK. Operating margin was 71.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Jeanette Therese Grønnslett. Daily operations are led by general manager Martin Grønnslett. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "KAJEIMA HOLDING AS is classified under NACE code 71.129 (unspecified).",
+        "claim_ids": [
+          "6d071b5c907a9c75abbd",
+          "dffebdb6ebf590f996af"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "72944c45a2f28f752cd8",
+          "6d071b5c907a9c75abbd"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, KAJEIMA HOLDING AS reported revenue of 70,960 NOK and an operating result of 50,690 NOK.",
+        "claim_ids": [
+          "14606c73e4f17803d695",
+          "1fbe27a9adcecc2020d1"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 39,539 NOK, with total assets of 1,550,090 NOK and equity of 1,538,939 NOK.",
+        "claim_ids": [
+          "79b1f29abe73afef4c48",
+          "a418b8f656a5c4ef2213",
+          "726680d8bf368ef034fa"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Operating margin was 71.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "1fbe27a9adcecc2020d1",
+          "14606c73e4f17803d695"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The board of directors is chaired by Jeanette Therese Grønnslett.",
+        "claim_ids": [
+          "7cc9a69ccf6604eedc25"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Daily operations are led by general manager Martin Grønnslett.",
+        "claim_ids": [
+          "6a528fc7e158cba70cc1"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "6a528fc7e158cba70cc1",
+          "7cc9a69ccf6604eedc25"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "dffebdb6ebf590f996af"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "be03acc8cfe945435ff7"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "dffebdb6ebf590f996af"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "dffebdb6ebf590f996af"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "dffebdb6ebf590f996af"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1491 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "e6fbc4a719d4e3467c4d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -816853.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ebac290b13e207d951ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5920474.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef454a62ea12dd136732",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 933790.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2758ae5738fa2d6c917d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15335776.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "787c8469d857f995e249",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17549243.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b06c14ea5e16c896fb41",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11508358.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "06d95f8d3f25fe2b8ac9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44483.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7c4279341cee9455b133",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 33917.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2943aef1fe6377b411c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 191741.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "352d7c1f44f2b2d5b517",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11474440.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5d18971fcaecb577ca47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17357503.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "81be3a71ac6819aa11f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15291293.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82026c180c5b302910f7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -458181.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a4e278265bd3fd629f77",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -471210.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f99fbac6129e46258ec5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1047439.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1958300cf2b575719b97",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -816853.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "543efe1539d0cc510f7e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 933790.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee7d211d575ecd8a4416",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5920474.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2b59076a6afdc9c0c520",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2c09812b484431727e06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-984405499-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18200.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d08df5ec4d1542e4022d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-984405499"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e96979ff51af7d683c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-984405499"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "8e54fa8be80ad80748e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-984405499"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NOATUN AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "489c3ded169cc0e8b4bd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-ec5aab15a57a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "KOMPLETT REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7d0911a2ecf8d672f728",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-80786912db79"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Leif Magne Nordbø",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "831a85b9c2ca7eee60e1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-ed0417f211b2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Camilla Nordbø Ohm",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "848136f3b6a4b2aa95bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-800b22ca4d50"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eivind Otterlei Nordbø",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad26c2e230f68b1f572e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-05afdb055199"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ørjan Nordbø",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fea817422b31d26c61bb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-984405499-076b2e618bd5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Leif Magne Nordbø",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e7ee2721f93e787ef3e9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-984405499-998701848"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:57Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:57Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "c/o Komplett Regnskap AS",
+            "Skjoldavegen 123"
+          ],
+          "kommune": "HAUGESUND",
+          "kommunenummer": "1106",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5519",
+          "poststed": "HAUGESUND"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "NOATUN AS",
+        "organisation_number": "998701848"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 18200.0, operating_result: -1047439.0, profit_before_tax: 5920474.0, annual_result: 5920474.0, assets: 17549243.0, equity: 17357503.0, debt: 191741.0",
+      "content_sha256": "06b4fd4607fc5653de287e22e21d51ae68986f1e0cf1321f6992d58971227e8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "http_status": 200,
+      "id": "ev-fin-984405499-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.205118Z",
+      "snapshot_ref": "06/06b4fd4607fc5653de287e22e21d51ae68986f1e0cf1321f6992d58971227e8b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 0.0, operating_result: -458181.0, profit_before_tax: 933790.0, annual_result: 933790.0, assets: 15335776.0, equity: 15291293.0, debt: 44483.0",
+      "content_sha256": "ff27e0f926d8a75e97ba95e15e788ea25a6e3ad8bfcaf775cc2abaefe604937e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "http_status": 200,
+      "id": "ev-fin-984405499-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.205118Z",
+      "snapshot_ref": "ff/ff27e0f926d8a75e97ba95e15e788ea25a6e3ad8bfcaf775cc2abaefe604937e.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -471210.0, profit_before_tax: -816853.0, annual_result: -816853.0, assets: 11508358.0, equity: 11474440.0, debt: 33917.0",
+      "content_sha256": "ae691c7c687d265fc71b75be809032464024a65bd49865576564e5f86372ae56",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "http_status": 200,
+      "id": "ev-fin-984405499-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.205118Z",
+      "snapshot_ref": "ae/ae691c7c687d265fc71b75be809032464024a65bd49865576564e5f86372ae56.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 998701848: NOATUN AS",
+      "content_sha256": "3af3bb76301ef13789b6c9b7a4a4bc95e1f7fd8b4cfe9a6105f2b0c2f4d13b1d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=984405499&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-984405499-998701848",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.874791Z",
+      "snapshot_ref": "3a/3af3bb76301ef13789b6c9b7a4a4bc95e1f7fd8b4cfe9a6105f2b0c2f4d13b1d.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=984405499&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 984405499 NOATUN AS",
+      "content_sha256": "4cfd5eab6b70976760262cb9afe90efa0f4b8e380a2ed1ca66f1a7efb626ab88",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-984405499",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "4c/4cfd5eab6b70976760262cb9afe90efa0f4b8e380a2ed1ca66f1a7efb626ab88.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ørjan Nordbø",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-05afdb055199",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Leif Magne Nordbø",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-076b2e618bd5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Eivind Otterlei Nordbø",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-800b22ca4d50",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Leif Magne Nordbø",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-80786912db79",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: KOMPLETT REGNSKAP AS",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-ec5aab15a57a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Camilla Nordbø Ohm",
+      "content_sha256": "619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "http_status": 200,
+      "id": "ev-role-984405499-ed0417f211b2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.443009Z",
+      "snapshot_ref": "61/619f0d40d4cc63c005adf2fa9a150bf8a27eed287eb98e1e3d4d9a0e0c305d06.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "06d95f8d3f25fe2b8ac9",
+        "1958300cf2b575719b97",
+        "2758ae5738fa2d6c917d",
+        "2b59076a6afdc9c0c520",
+        "2c09812b484431727e06",
+        "352d7c1f44f2b2d5b517",
+        "543efe1539d0cc510f7e",
+        "5d18971fcaecb577ca47",
+        "787c8469d857f995e249",
+        "7c4279341cee9455b133",
+        "81be3a71ac6819aa11f0",
+        "82026c180c5b302910f7",
+        "a4e278265bd3fd629f77",
+        "b06c14ea5e16c896fb41",
+        "d2943aef1fe6377b411c",
+        "e6fbc4a719d4e3467c4d",
+        "ebac290b13e207d951ed",
+        "ee7d211d575ecd8a4416",
+        "ef454a62ea12dd136732",
+        "f99fbac6129e46258ec5"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0e96979ff51af7d683c2",
+        "8e54fa8be80ad80748e7",
+        "d08df5ec4d1542e4022d"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "489c3ded169cc0e8b4bd",
+        "7d0911a2ecf8d672f728",
+        "831a85b9c2ca7eee60e1",
+        "848136f3b6a4b2aa95bf",
+        "ad26c2e230f68b1f572e",
+        "fea817422b31d26c61bb"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "e7ee2721f93e787ef3e9"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "8e54fa8be80ad80748e7",
+      "0e96979ff51af7d683c2",
+      "d08df5ec4d1542e4022d"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NOATUN AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 9,
+    "runtime_ms": 15340,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "984405499",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:01.259676Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "984405499",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "0f4a574cfaed5b9ebb334bdfdd70607743e67dc0179f838f6db58403d267016a",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:43.205118Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/984405499",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 5920474.0,
+              "assets": 17549243.0,
+              "currency": "NOK",
+              "debt": 191741.0,
+              "equity": 17357503.0,
+              "operating_result": -1047439.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 5920474.0,
+              "record_id": 5153809,
+              "revenue": 18200.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 933790.0,
+              "assets": 15335776.0,
+              "currency": "NOK",
+              "debt": 44483.0,
+              "equity": 15291293.0,
+              "operating_result": -458181.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 933790.0,
+              "record_id": 5847249,
+              "revenue": 0.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -816853.0,
+              "assets": 11508358.0,
+              "currency": "NOK",
+              "debt": 33917.0,
+              "equity": 11474440.0,
+              "operating_result": -471210.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -816853.0,
+              "record_id": 6476695,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:45.644883Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/984405499",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "e82e57451c190b84d6c31553fd2a722b5b930b78fb5553d68723ea4826f49b15",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:46.874791Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=984405499&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "c/o Komplett Regnskap AS",
+                  "Skjoldavegen 123"
+                ],
+                "kommune": "HAUGESUND",
+                "kommunenummer": "1106",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5519",
+                "poststed": "HAUGESUND"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "NOATUN AS",
+              "organisation_number": "998701848"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "984405499",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investeringsvirksomhet med vekt på aksjer og fast eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o Komplett Regnskap AS\nSkjoldavegen 123",
+          "forretningsadresse.kommune": "HAUGESUND",
+          "forretningsadresse.kommunenummer": "1106",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5519",
+          "forretningsadresse.poststed": "HAUGESUND",
+          "fravalgRevisjonBeslutningsDato": "2024-10-25",
+          "fravalgRevisjonDato": "2024-11-16",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2002-04-23",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NOATUN AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "984405499",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2024-08-13",
+          "registreringsdatoForetaksregisteret": "2002-04-23",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2024-08-10",
+          "registreringsdatoenhetsregisteret": "2002-04-23",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2002-03-19",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2009-09-28",
+          "vedtektsfestetFormaal": "Investeringsvirksomhet med vekt på aksjer og fast eiendom. Selskapet skal også tilby konsulenttjenester."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "cfc5951d525b4d7ef175997a3d6a57f4fb9c3f049bd26a867e701c588c900cfe",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:44.443009Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/984405499/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2002-04-23",
+              "name": "Leif Magne Nordbø",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2008-07-31",
+              "name": "Leif Magne Nordbø",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2008-07-31",
+              "name": "Eivind Otterlei Nordbø",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2008-07-31",
+              "name": "Camilla Nordbø Ohm",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2008-07-31",
+              "name": "Ørjan Nordbø",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-08-20",
+              "name": [
+                "KOMPLETT REGNSKAP AS"
+              ],
+              "organisation_number": "933565831",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HAUGESUND",
+    "municipality_number": "1106",
+    "name": "NOATUN AS",
+    "organisation_number": "984405499",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1250,
+        1187,
+        1233,
+        1063,
+        3218,
+        2827,
+        1578,
+        1766
+      ],
+      "requests": 9
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:57Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NOATUN AS (AS, org.nr 984405499)",
+    "what_it_does": "NOATUN AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -816,853 NOK, with total assets of 11,508,358 NOK and equity of 11,474,440 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Leif Magne Nordbø. Daily operations are led by general manager Leif Magne Nordbø. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NOATUN AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "d08df5ec4d1542e4022d",
+          "8e54fa8be80ad80748e7"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "0e96979ff51af7d683c2",
+          "d08df5ec4d1542e4022d"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -816,853 NOK, with total assets of 11,508,358 NOK and equity of 11,474,440 NOK.",
+        "claim_ids": [
+          "e6fbc4a719d4e3467c4d",
+          "b06c14ea5e16c896fb41",
+          "352d7c1f44f2b2d5b517"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "e6fbc4a719d4e3467c4d"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Leif Magne Nordbø.",
+        "claim_ids": [
+          "fea817422b31d26c61bb"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Leif Magne Nordbø.",
+        "claim_ids": [
+          "7d0911a2ecf8d672f728"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "489c3ded169cc0e8b4bd",
+          "7d0911a2ecf8d672f728",
+          "831a85b9c2ca7eee60e1",
+          "848136f3b6a4b2aa95bf",
+          "ad26c2e230f68b1f572e",
+          "fea817422b31d26c61bb"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "8e54fa8be80ad80748e7"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "e7ee2721f93e787ef3e9"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "8e54fa8be80ad80748e7"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "8e54fa8be80ad80748e7"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "8e54fa8be80ad80748e7"
+        ]
+      }
+    ]
+  }
+}

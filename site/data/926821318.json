@@ -1,0 +1,2486 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "ccd4a00d8c5e8a95da43",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1758605.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d082755811d864f1188f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1523003.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e7c04473bb9e58227136",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1594017.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5983d3d2e26c6ec81c3d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22134568.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "988ee1cfca5b0405b241",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22672742.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c5b1b09bec8fbb8e4889",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22338427.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "03109b8578265e3e1c6d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 14192522.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1b9801086e49f14bce62",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16120854.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e561ea156bb0378e789",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12230059.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5086d2004a560d652959",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9904510.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7c016e20d66e7a68f574",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8145905.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e5198e33f2253e2d9156",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6551888.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e5fdce9f8e8b4efbf2e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2748144.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9fc9e3669b59ae766f2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2572349.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ff50541d7fabd06956d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2685637.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e6440e395e4c11a5b12",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2254763.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "92c919c79d0fcb4a18e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1954003.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b5bfc33d6ad3f7cc765c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2043567.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "368c01789c0cfb0e561c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3101710.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7349df861222e42680ff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3323409.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d847589d31beb1b818c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926821318-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3239856.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a249448d66411f11dc5f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926821318"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e140646303f2c4fc05a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926821318"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4175012f943e56c8da72",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926821318"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "STORGATA 123 DOKKA AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "8de107464e34d3dbf385",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926821318-2c2b096df5cb"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stian Strand Molstadkroken",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d7cfb7ea327e26cc419c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926821318-5970861b2356"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0ff61a4e39ba4aeae18",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926821318-e1e23cec664b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Martin Rolf Zettervall",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e40182cdab625ca6458e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-926821318-926908251"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:50:00Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:50:00Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "c/o Tema Eiendom AS",
+            "Ringvegen 16"
+          ],
+          "kommune": "GJØVIK",
+          "kommunenummer": "3407",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2816",
+          "poststed": "GJØVIK"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "STORGATA 123 DOKKA AS",
+        "organisation_number": "926908251"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 3101710.0, operating_result: 2572349.0, profit_before_tax: 1954003.0, annual_result: 1523003.0, assets: 22672742.0, equity: 6551888.0, debt: 16120854.0",
+      "content_sha256": "71feba9e050bf6bab42acf661c10c8128ae8cf2f4a740b86b4b8c34987139e89",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "http_status": 200,
+      "id": "ev-fin-926821318-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.309450Z",
+      "snapshot_ref": "71/71feba9e050bf6bab42acf661c10c8128ae8cf2f4a740b86b4b8c34987139e89.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 3239856.0, operating_result: 2685637.0, profit_before_tax: 2043567.0, annual_result: 1594017.0, assets: 22338427.0, equity: 8145905.0, debt: 14192522.0",
+      "content_sha256": "93ba0b1e2a2527637ae060c64f367fb782a348f870923066146eabec3c29a5dd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "http_status": 200,
+      "id": "ev-fin-926821318-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.309450Z",
+      "snapshot_ref": "93/93ba0b1e2a2527637ae060c64f367fb782a348f870923066146eabec3c29a5dd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 3323409.0, operating_result: 2748144.0, profit_before_tax: 2254763.0, annual_result: 1758605.0, assets: 22134568.0, equity: 9904510.0, debt: 12230059.0",
+      "content_sha256": "5cc4ce6abd62ced17820f1d6690f02bfc8c70df5ec223ac5beb02f2245903ea2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "http_status": 200,
+      "id": "ev-fin-926821318-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.309450Z",
+      "snapshot_ref": "5c/5cc4ce6abd62ced17820f1d6690f02bfc8c70df5ec223ac5beb02f2245903ea2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 926908251: STORGATA 123 DOKKA AS",
+      "content_sha256": "1b2e51b5c48628684831b4854c6cfeace800c3ee839d6adea03edea4f7d70e47",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926821318&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-926821318-926908251",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:28.400248Z",
+      "snapshot_ref": "1b/1b2e51b5c48628684831b4854c6cfeace800c3ee839d6adea03edea4f7d70e47.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926821318&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 926821318 STORGATA 123 DOKKA AS",
+      "content_sha256": "fe3d657c078147b70684758fc97f5f9527786abfff2ecada9b015ccb2761ddcd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-926821318",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "fe/fe3d657c078147b70684758fc97f5f9527786abfff2ecada9b015ccb2761ddcd.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Stian Strand Molstadkroken",
+      "content_sha256": "3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "http_status": 200,
+      "id": "ev-role-926821318-2c2b096df5cb",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.516322Z",
+      "snapshot_ref": "3a/3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE AS",
+      "content_sha256": "3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "http_status": 200,
+      "id": "ev-role-926821318-5970861b2356",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.516322Z",
+      "snapshot_ref": "3a/3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Martin Rolf Zettervall",
+      "content_sha256": "3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "http_status": 200,
+      "id": "ev-role-926821318-e1e23cec664b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.516322Z",
+      "snapshot_ref": "3a/3a12aa58faecdc30d4987cc4b588f717cc5bc666212e709ec6bd7345bf4fb190.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03109b8578265e3e1c6d",
+        "1b9801086e49f14bce62",
+        "1e561ea156bb0378e789",
+        "1e5fdce9f8e8b4efbf2e",
+        "368c01789c0cfb0e561c",
+        "5086d2004a560d652959",
+        "5983d3d2e26c6ec81c3d",
+        "7349df861222e42680ff",
+        "7c016e20d66e7a68f574",
+        "7e6440e395e4c11a5b12",
+        "92c919c79d0fcb4a18e6",
+        "988ee1cfca5b0405b241",
+        "b5bfc33d6ad3f7cc765c",
+        "c5b1b09bec8fbb8e4889",
+        "c9fc9e3669b59ae766f2",
+        "ccd4a00d8c5e8a95da43",
+        "d082755811d864f1188f",
+        "d847589d31beb1b818c7",
+        "e5198e33f2253e2d9156",
+        "e7c04473bb9e58227136",
+        "ff50541d7fabd06956d8"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4175012f943e56c8da72",
+        "6e140646303f2c4fc05a",
+        "a249448d66411f11dc5f"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "8de107464e34d3dbf385",
+        "d7cfb7ea327e26cc419c",
+        "f0ff61a4e39ba4aeae18"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "e40182cdab625ca6458e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "4175012f943e56c8da72",
+      "6e140646303f2c4fc05a",
+      "a249448d66411f11dc5f"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "STORGATA 123 DOKKA AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 37401,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "926821318",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.075171Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "926821318",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "7f4db8edf6dbcad0e663de511089951f97b2d2b840cfcdfd441e694c62bcb349",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:24.309450Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926821318",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1523003.0,
+              "assets": 22672742.0,
+              "currency": "NOK",
+              "debt": 16120854.0,
+              "equity": 6551888.0,
+              "operating_result": 2572349.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1954003.0,
+              "record_id": 4917801,
+              "revenue": 3101710.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1594017.0,
+              "assets": 22338427.0,
+              "currency": "NOK",
+              "debt": 14192522.0,
+              "equity": 8145905.0,
+              "operating_result": 2685637.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 2043567.0,
+              "record_id": 5550693,
+              "revenue": 3239856.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1758605.0,
+              "assets": 22134568.0,
+              "currency": "NOK",
+              "debt": 12230059.0,
+              "equity": 9904510.0,
+              "operating_result": 2748144.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 2254763.0,
+              "record_id": 6691798,
+              "revenue": 3323409.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "dcaeec8e55e422b87709322c1881d01f03ac6763edc21ba5a3587f5f0ca30442",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:27.191725Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/926821318",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "LØTEN NÆRINGSPARK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "998323223",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "children": [
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "OTTESTAD BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "997731670",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ELVESLETTA EIENDOM 1 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "997020987",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "NORDMO AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "990832323",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "RAMBEKKVEIEN 2 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "990648611",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "BRISKEBY EIENDOM 1 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "990405859",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "GJØVIK BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "989049283",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "LØTEN BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "989048880",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "HAKEDA EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "987594527",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "LITRA EIENDOM LILLEHAMMER AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "984840500",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "LILLEHAMMER EIENDOMSSENTER AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "983521096",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "99,0%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "RINGVEIEN 11 ANS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+                    "kode": "ANS"
+                  },
+                  "organisasjonsnummer": "981552628",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ØYER EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "980094561",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "FAKKELGÅRDEN AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "964927340",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "AJER EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "932505606",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "LENAGATA 32 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "927680319",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "STRANDVEGEN 12 UTVIKLING AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "927680297",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "SIGURD ØSTLIENSVEG 3 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "927680270",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "FREDENSBORG BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "926163698",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "SOGNSVEIEN 66 BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "926163132",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING D AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921390033",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING A AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921389078",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "BARDU BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "920418333",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "SLITU BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "919555211",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "TORSHOV DAGLIGVARE AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "918713301",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "NORGESBAKERIENE ROMEDAL AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "918197222",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "VEIERØD EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "917104328",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "BØGATA 55 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "913734130",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "BJERKE BUTIKKEIENDOM OSLO AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "897523272",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ASLAK BOLTSGATE EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "888695842",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "99,0%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "STASJONSVEIEN 3A OG 5A ANS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+                    "kode": "ANS"
+                  },
+                  "organisasjonsnummer": "887041202",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "INDUSTRIGATA 60 LILLEHAMMER AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "824785112",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "STORGATA 130-132 MOELV AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "820989392",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                },
+                {
+                  "dato": "2023-08-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "STRIDSKLEV BUTIKKEIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "820522362",
+                  "parentNavn": "TEMA NÆRINGSBYGG AS",
+                  "parentOrganisasjonsnummer": "991634908"
+                }
+              ],
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "TEMA NÆRINGSBYGG AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "991634908",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "children": [
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "SIKTEN EIENDOM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "997133951",
+                  "parentNavn": "TEMA UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "990523754"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "RING 16 AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "912568830",
+                  "parentNavn": "TEMA UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "990523754"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "1,0%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern grunnlag",
+                    "kode": "KGRL"
+                  },
+                  "navn": "RINGVEIEN 11 ANS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+                    "kode": "ANS"
+                  },
+                  "organisasjonsnummer": "981552628",
+                  "parentNavn": "TEMA UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "990523754"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "1,0%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern grunnlag",
+                    "kode": "KGRL"
+                  },
+                  "navn": "STASJONSVEIEN 3A OG 5A ANS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+                    "kode": "ANS"
+                  },
+                  "organisasjonsnummer": "887041202",
+                  "parentNavn": "TEMA UTVIKLING AS",
+                  "parentOrganisasjonsnummer": "990523754"
+                }
+              ],
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "TEMA UTVIKLING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "990523754",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "GUDBRANDSDALSVEGEN 196 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "990448272",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "INDUSTRIVEIEN 17 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "982704332",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SKAUN EIENDOM AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "981454979",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "VALLEVEGEN 16-18 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926827480",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "VALLEVEGEN 12-14 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926827413",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "LENAGATA 50 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821423",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STORGATA 125 DOKKA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821369",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SKULEVEGEN 7 LEIRA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821342",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STORGATA 123 DOKKA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821318",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "LANDBRUKSVEGEN 3 A/B AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821261",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SILOGATA 20 AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821253",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "ØVRE TORVGATE 3 GJØVIK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821229",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STORGATA 23 GJØVIK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821202",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "HAUGGATA 10-12 LENA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821180",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STRANDGATA 38 GJØVIK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "926821172",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "STOLVSTADLIA UTVIKLING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "921051468",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "HAUGGATA 2 LENA AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "826821132",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            },
+            {
+              "children": [
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING H AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921390289",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING G AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921390246",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING F AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921390181",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING E AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921390106",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING C AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921389957",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                },
+                {
+                  "dato": "2021-09-08",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "ÅKER UTVIKLING B AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "921389159",
+                  "parentNavn": "RINGSAKER HANDELSPARK AS",
+                  "parentOrganisasjonsnummer": "814451232"
+                }
+              ],
+              "dato": "2022-12-21",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "RINGSAKER HANDELSPARK AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "814451232",
+              "parentNavn": "TEMA EIENDOM AS",
+              "parentOrganisasjonsnummer": "910854887"
+            }
+          ],
+          "navn": "TEMA EIENDOM AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "910854887"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "46ac3984e51ec913222e3de1b2773dfa2088d1ea671ed9f627593a6d0d56548e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:28.400248Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926821318&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "c/o Tema Eiendom AS",
+                  "Ringvegen 16"
+                ],
+                "kommune": "GJØVIK",
+                "kommunenummer": "3407",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2816",
+                "poststed": "GJØVIK"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "STORGATA 123 DOKKA AS",
+              "organisation_number": "926908251"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "926821318",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eie og drive egen fast eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o Tema Eiendom AS\nRingvegen 16",
+          "forretningsadresse.kommune": "GJØVIK",
+          "forretningsadresse.kommunenummer": "3407",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2816",
+          "forretningsadresse.poststed": "GJØVIK",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-03-18",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "STORGATA 123 DOKKA AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "926821318",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2021-03-18",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-09-22",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-09-22",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2021-03-18",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-03-05",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-03-05",
+          "vedtektsfestetFormaal": "Selv, gjennom hel eller deleide selskaper eller ved samarbeide med andre virksomheter, å eie og drive egen fast eiendom, samt det som har naturlig tilknytning til dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "8dd352a6ecb621e9bf5f813597dbe2aba14182a27d095a901c58c530279bc7df",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:25.516322Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926821318/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2021-03-18",
+              "name": "Martin Rolf Zettervall",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-09-17",
+              "name": "Stian Strand Molstadkroken",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2025-09-23",
+              "name": [
+                "CEDRA NORGE AS"
+              ],
+              "organisation_number": "935416779",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "GJØVIK",
+    "municipality_number": "3407",
+    "name": "STORGATA 123 DOKKA AS",
+    "organisation_number": "926821318",
+    "run_metrics": {
+      "latencies_ms": [
+        1125,
+        1202,
+        1672,
+        1218,
+        46,
+        31,
+        31,
+        1733,
+        47,
+        62,
+        31,
+        30203
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:50:00Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "STORGATA 123 DOKKA AS (AS, org.nr 926821318)",
+    "what_it_does": "STORGATA 123 DOKKA AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, STORGATA 123 DOKKA AS reported revenue of 3,323,409 NOK and an operating result of 2,748,144 NOK. Net result was 1,758,605 NOK, with total assets of 22,134,568 NOK and equity of 9,904,510 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 82.7% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Stian Strand Molstadkroken. Daily operations are led by general manager Martin Rolf Zettervall. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "STORGATA 123 DOKKA AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "a249448d66411f11dc5f",
+          "4175012f943e56c8da72"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "6e140646303f2c4fc05a",
+          "a249448d66411f11dc5f"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, STORGATA 123 DOKKA AS reported revenue of 3,323,409 NOK and an operating result of 2,748,144 NOK.",
+        "claim_ids": [
+          "7349df861222e42680ff",
+          "1e5fdce9f8e8b4efbf2e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 1,758,605 NOK, with total assets of 22,134,568 NOK and equity of 9,904,510 NOK.",
+        "claim_ids": [
+          "ccd4a00d8c5e8a95da43",
+          "5983d3d2e26c6ec81c3d",
+          "5086d2004a560d652959"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "7349df861222e42680ff",
+          "d847589d31beb1b818c7"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 82.7% (derived: operating result / revenue).",
+        "claim_ids": [
+          "1e5fdce9f8e8b4efbf2e",
+          "7349df861222e42680ff"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Stian Strand Molstadkroken.",
+        "claim_ids": [
+          "8de107464e34d3dbf385"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Martin Rolf Zettervall.",
+        "claim_ids": [
+          "f0ff61a4e39ba4aeae18"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "8de107464e34d3dbf385",
+          "d7cfb7ea327e26cc419c",
+          "f0ff61a4e39ba4aeae18"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "4175012f943e56c8da72"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "e40182cdab625ca6458e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "4175012f943e56c8da72"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "4175012f943e56c8da72"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "4175012f943e56c8da72"
+        ]
+      }
+    ]
+  }
+}

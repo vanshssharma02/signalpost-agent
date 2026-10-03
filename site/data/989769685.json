@@ -1,0 +1,1285 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2572c241d8745c6f264d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 168306.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "71eb28b956c6d8c6b053",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -122404.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b2f72a5bc46a8e32732d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -23992.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "231280c5a3f42f13e6bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1351584.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cdca105baad240d4f931",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1374872.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0e9446cab104a87a6e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1534967.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f094080545a2f3ce42b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 187638.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c917b79cd6df48765f9c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 148349.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ff36f650f70da912a50d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "40f66d45c46e24b4882c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1226524.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eed76041266eaa32edc5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1347330.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fc766deaba39751bdd1d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1351584.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6a83e5e295bac231cb6a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -122425.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a9b4c7df1497851b29db",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -13441.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "af0a792e558a614a5c8a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 168173.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6f21ceb07b34392a760",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -13438.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c374f01c6bd67e5ef7c1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 168306.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd3cc71d5c70caf7af90",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -122404.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "569f9cee78594df1d9da",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 27500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0c9fde04df6ab8d3ae0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989769685-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 274336.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e30cb7563121c33ad42b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989769685"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "70.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1c5cf4f4fa404816f44",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989769685"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f63a5bf070bb3f3073b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989769685"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SUND RAAD AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "03a0c36e4dc906e33303",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989769685-0e0cf4d41c22"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Isabell Sund",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "593a37bfd9b4039d3898",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989769685-088c276fa13c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lillian Mathisen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "62c88322a602ed629d48",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989769685-d91989f42e24"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lillian Mathisen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -13441.0, profit_before_tax: -13438.0, annual_result: -23992.0, assets: 1351584.0, equity: 1351584.0, debt: 0.0",
+      "content_sha256": "b2ec22c2da810cd640c10b4dfe44a83fa77b9c6649e311467171e19493a4e145",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "http_status": 200,
+      "id": "ev-fin-989769685-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.362810Z",
+      "snapshot_ref": "b2/b2ec22c2da810cd640c10b4dfe44a83fa77b9c6649e311467171e19493a4e145.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 27500.0, operating_result: -122425.0, profit_before_tax: -122404.0, annual_result: -122404.0, assets: 1374872.0, equity: 1226524.0, debt: 148349.0",
+      "content_sha256": "8e750cd9e760c14f426507fc81b42b98af817a6386bbdce8025b271a210fcf7e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "http_status": 200,
+      "id": "ev-fin-989769685-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.362810Z",
+      "snapshot_ref": "8e/8e750cd9e760c14f426507fc81b42b98af817a6386bbdce8025b271a210fcf7e.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 274336.0, operating_result: 168173.0, profit_before_tax: 168306.0, annual_result: 168306.0, assets: 1534967.0, equity: 1347330.0, debt: 187638.0",
+      "content_sha256": "3c736582dd468642bf8fc44c22443a2a31c187ea2146a810db19f1846321b9dd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "http_status": 200,
+      "id": "ev-fin-989769685-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.362810Z",
+      "snapshot_ref": "3c/3c736582dd468642bf8fc44c22443a2a31c187ea2146a810db19f1846321b9dd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 989769685 SUND RAAD AS",
+      "content_sha256": "de8382492711fceadb1015136f44ca94695d9da0568dc6ead01466b54f962b8b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-989769685",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "de/de8382492711fceadb1015136f44ca94695d9da0568dc6ead01466b54f962b8b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Lillian Mathisen",
+      "content_sha256": "a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "http_status": 200,
+      "id": "ev-role-989769685-088c276fa13c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.497986Z",
+      "snapshot_ref": "a0/a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Isabell Sund",
+      "content_sha256": "a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "http_status": 200,
+      "id": "ev-role-989769685-0e0cf4d41c22",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.497986Z",
+      "snapshot_ref": "a0/a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Lillian Mathisen",
+      "content_sha256": "a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "http_status": 200,
+      "id": "ev-role-989769685-d91989f42e24",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.497986Z",
+      "snapshot_ref": "a0/a060bc297ab0f80b1877d860fdaf6e3d2403ce4abe7758524501ac3833dca2da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "231280c5a3f42f13e6bf",
+        "2572c241d8745c6f264d",
+        "40f66d45c46e24b4882c",
+        "569f9cee78594df1d9da",
+        "6a83e5e295bac231cb6a",
+        "71eb28b956c6d8c6b053",
+        "7f094080545a2f3ce42b",
+        "a6f21ceb07b34392a760",
+        "a9b4c7df1497851b29db",
+        "af0a792e558a614a5c8a",
+        "b2f72a5bc46a8e32732d",
+        "c374f01c6bd67e5ef7c1",
+        "c917b79cd6df48765f9c",
+        "cd3cc71d5c70caf7af90",
+        "cdca105baad240d4f931",
+        "eed76041266eaa32edc5",
+        "f0c9fde04df6ab8d3ae0",
+        "f0e9446cab104a87a6e7",
+        "fc766deaba39751bdd1d",
+        "ff36f650f70da912a50d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "c1c5cf4f4fa404816f44",
+        "e30cb7563121c33ad42b",
+        "f63a5bf070bb3f3073b1"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03a0c36e4dc906e33303",
+        "593a37bfd9b4039d3898",
+        "62c88322a602ed629d48"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f63a5bf070bb3f3073b1",
+      "c1c5cf4f4fa404816f44",
+      "e30cb7563121c33ad42b"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SUND RAAD AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 9,
+    "runtime_ms": 6259,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "989769685",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.213627Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "989769685",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "266a8fc230cf0ff3f6d11b681477503a642e6f2196c9c8bf8e6e3554e32f7142",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.362810Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989769685",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -23992.0,
+              "assets": 1351584.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 1351584.0,
+              "operating_result": -13441.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -13438.0,
+              "record_id": 4616987,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -122404.0,
+              "assets": 1374872.0,
+              "currency": "NOK",
+              "debt": 148349.0,
+              "equity": 1226524.0,
+              "operating_result": -122425.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -122404.0,
+              "record_id": 6327319,
+              "revenue": 27500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 168306.0,
+              "assets": 1534967.0,
+              "currency": "NOK",
+              "debt": 187638.0,
+              "equity": 1347330.0,
+              "operating_result": 168173.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 168306.0,
+              "record_id": 6660894,
+              "revenue": 274336.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.723736Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/989769685",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "7cd800cb8f7361eb06057e8fd84963399df4e148f05ee94bc1214738b0071cb1",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.942384Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989769685&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "989769685",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Rådgivningstjenester innen bedriftsutvikling, herunder prosjektarbeid, kurs/arrangement, samt delta i virksomhet med beslektede typer aktiviteter.",
+          "antallAnsatte": "",
+          "epostadresse": "post@sundraad.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kanonhallveien 66A",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0585",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2012-01-09",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.sundraad.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2013-12-10",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "naeringskode1.kode": "70.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SUND RAAD AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "989769685",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2006-05-04",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2025-01-31",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-05-23",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2006-05-04",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2006-04-21",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2013-06-28",
+          "vedtektsfestetFormaal": "Rådgivning innen bedriftsutvikling, prosjektarbeid og kurs/arrangement, samt delta i virksomhet med beslekted type aktivitet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "a172511f71d67f82c0a06eee1aa7da46b15d80296cbe9b59cba969160ab69c46",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.497986Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989769685/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2006-05-04",
+              "name": "Lillian Mathisen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-08-07",
+              "name": "Lillian Mathisen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-08-07",
+              "name": "Isabell Sund",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "70.200",
+    "industry_label": "Bedriftsrådgivning og annen administrativ rådgivning",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "SUND RAAD AS",
+    "organisation_number": "989769685",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1139,
+        1219,
+        1218,
+        889,
+        391,
+        47,
+        77,
+        77
+      ],
+      "requests": 9
+    },
+    "website": "www.sundraad.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:31Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SUND RAAD AS (AS, org.nr 989769685)",
+    "what_it_does": "SUND RAAD AS is classified under NACE code 70.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SUND RAAD AS reported revenue of 274,336 NOK and an operating result of 168,173 NOK. Net result was 168,306 NOK, with total assets of 1,534,967 NOK and equity of 1,347,330 NOK. Revenue grew by +897.6% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 61.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Lillian Mathisen. Daily operations are led by general manager Lillian Mathisen. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SUND RAAD AS is classified under NACE code 70.200 (unspecified).",
+        "claim_ids": [
+          "e30cb7563121c33ad42b",
+          "f63a5bf070bb3f3073b1"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c1c5cf4f4fa404816f44",
+          "e30cb7563121c33ad42b"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SUND RAAD AS reported revenue of 274,336 NOK and an operating result of 168,173 NOK.",
+        "claim_ids": [
+          "f0c9fde04df6ab8d3ae0",
+          "af0a792e558a614a5c8a"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 168,306 NOK, with total assets of 1,534,967 NOK and equity of 1,347,330 NOK.",
+        "claim_ids": [
+          "2572c241d8745c6f264d",
+          "f0e9446cab104a87a6e7",
+          "eed76041266eaa32edc5"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +897.6% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "f0c9fde04df6ab8d3ae0",
+          "569f9cee78594df1d9da"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 61.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "af0a792e558a614a5c8a",
+          "f0c9fde04df6ab8d3ae0"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Lillian Mathisen.",
+        "claim_ids": [
+          "62c88322a602ed629d48"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Lillian Mathisen.",
+        "claim_ids": [
+          "593a37bfd9b4039d3898"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "03a0c36e4dc906e33303",
+          "593a37bfd9b4039d3898",
+          "62c88322a602ed629d48"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f63a5bf070bb3f3073b1"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "f63a5bf070bb3f3073b1"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f63a5bf070bb3f3073b1"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f63a5bf070bb3f3073b1"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f63a5bf070bb3f3073b1"
+        ]
+      }
+    ]
+  }
+}

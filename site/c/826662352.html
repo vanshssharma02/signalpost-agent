@@ -1,0 +1,761 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' data:; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:;">
+  <title>NORDLAND REGNSKAP AS (826662352) — Signalpost Static Profile</title>
+  <meta name="description" content="Verified facts for NORDLAND REGNSKAP AS (org.nr 826662352).">
+  <style>
+:root {
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bg-page: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f1f5f9;
+  --bg-subtle: #f8fafc;
+  --text-main: #0f172a;
+  --text-muted: #475569;
+  --border: #cbd5e1;
+  --border-focus: #0284c7;
+  --accent: #0369a1;
+  --accent-light: #e0f2fe;
+  --accent-text: #0284c7;
+  --status-available-bg: #dcfce7;
+  --status-available-text: #14532d;
+  --status-ambiguous-bg: #fef3c7;
+  --status-ambiguous-text: #78350f;
+  --status-not-avail-bg: #f1f5f9;
+  --status-not-avail-text: #334155;
+  --status-failed-bg: #fee2e2;
+  --status-failed-text: #7f1d1d;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-page: #0b0f19;
+    --bg-card: #131b2e;
+    --bg-card-hover: #1e293b;
+    --bg-subtle: #0f172a;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --border: #334155;
+    --border-focus: #38bdf8;
+    --accent: #38bdf8;
+    --accent-light: #082f49;
+    --accent-text: #38bdf8;
+    --status-available-bg: #064e3b;
+    --status-available-text: #a7f3d0;
+    --status-ambiguous-bg: #78350f;
+    --status-ambiguous-text: #fde68a;
+    --status-not-avail-bg: #1e293b;
+    --status-not-avail-text: #cbd5e1;
+    --status-failed-bg: #7f1d1d;
+    --status-failed-text: #fecaca;
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-page);
+  color: var(--text-main);
+  line-height: 1.6;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--border-focus);
+  outline-offset: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 10px;
+  background: var(--accent);
+  color: #ffffff;
+  padding: 8px 16px;
+  z-index: 1000;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: top 0.15s;
+}
+.skip-link:focus {
+  top: 10px;
+}
+
+header.app-header {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+@media (max-width: 640px) {
+  header.app-header {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 10px 12px;
+    gap: 8px;
+  }
+  .brand-wrap {
+    justify-content: space-between;
+    width: 100%;
+  }
+  .header-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    width: 100%;
+  }
+  .btn {
+    padding: 6px 10px;
+    font-size: 13px;
+  }
+  .layout-container {
+    padding: 10px;
+  }
+  main.profile-view {
+    scroll-margin-top: 115px;
+  }
+}
+
+.brand-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand-logo {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+
+.brand-badge {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 14px;
+  min-height: 44px;
+  min-width: 44px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-main);
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+}
+
+.btn:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #ffffff;
+  border-color: var(--accent);
+}
+.btn-primary:hover {
+  filter: brightness(1.1);
+}
+
+.layout-container {
+  max-width: 1560px;
+  margin: 0 auto;
+  padding: 18px;
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 960px) {
+  .layout-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Sidebar / Directory */
+aside.directory-sidebar {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 76px;
+  max-height: calc(100vh - 96px);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+@media (max-width: 960px) {
+  aside.directory-sidebar {
+    position: static;
+    max-height: none;
+  }
+}
+
+.search-box {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.search-input {
+  width: 100%;
+  min-height: 44px;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg-subtle);
+  color: var(--text-main);
+  font-size: 15px;
+}
+
+.filter-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.filter-select {
+  width: 100%;
+  min-height: 44px;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg-subtle);
+  color: var(--text-main);
+  font-size: 13px;
+}
+
+.result-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 500;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.company-list {
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding-right: 4px;
+  flex: 1;
+  min-height: 200px;
+}
+
+.company-card-btn {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 12px;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+  min-height: 44px;
+  color: var(--text-main);
+}
+
+.company-card-btn:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--accent);
+}
+
+.company-card-btn.active {
+  background: var(--accent-light);
+  border-color: var(--accent);
+}
+
+.card-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.card-name {
+  font-weight: 700;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-sub-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.badge-available { background: var(--status-available-bg); color: var(--status-available-text); }
+.badge-ambiguous { background: var(--status-ambiguous-bg); color: var(--status-ambiguous-text); }
+.badge-not_available { background: var(--status-not-avail-bg); color: var(--status-not-avail-text); }
+.badge-not_applicable { background: var(--status-not-avail-bg); color: var(--status-not-avail-text); }
+.badge-failed { background: var(--status-failed-bg); color: var(--status-failed-text); }
+
+/* Main Profile Panel */
+main.profile-view {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.profile-header {
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.company-title-area h1 {
+  font-size: 26px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 6px;
+}
+
+.company-meta-line {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.copy-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 12px;
+  cursor: pointer;
+  color: var(--text-muted);
+  min-height: 28px;
+}
+.copy-btn:hover {
+  background: var(--bg-card-hover);
+  color: var(--text-main);
+}
+
+/* Synthesis narrative box */
+.synthesis-card {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  padding: 16px 18px;
+}
+
+.synthesis-card h2 {
+  font-size: 17px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.synthesis-narrative {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.citation-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  background: var(--accent-light);
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0 5px;
+  margin: 0 2px;
+  cursor: pointer;
+  text-decoration: none;
+  vertical-align: baseline;
+  min-height: 22px;
+}
+.citation-chip:hover {
+  background: var(--accent);
+  color: #ffffff;
+}
+
+/* Key facts grid */
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.fact-item {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px;
+}
+
+.fact-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  font-weight: 700;
+}
+
+.fact-value {
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: 4px;
+  word-break: break-word;
+}
+
+.fact-sub {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* Tab/Sections */
+.section-block {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 16px;
+  background: var(--bg-card);
+}
+
+.section-block h3 {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Tables */
+.data-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+table.data-table th, table.data-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+
+table.data-table th {
+  color: var(--text-muted);
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  background: var(--bg-subtle);
+}
+
+@media (max-width: 640px) {
+  table.responsive-cards-table thead {
+    display: none;
+  }
+  table.responsive-cards-table,
+  table.responsive-cards-table tbody,
+  table.responsive-cards-table tr,
+  table.responsive-cards-table td {
+    display: block;
+    width: 100%;
+  }
+  table.responsive-cards-table tr {
+    margin-bottom: 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px;
+    background: var(--bg-subtle);
+  }
+  table.responsive-cards-table td {
+    border: none;
+    padding: 4px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  table.responsive-cards-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: var(--text-muted);
+  }
+}
+
+/* Unknowns & Evidence Cards */
+.unknowns-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.unknown-item {
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--border);
+  padding: 8px 12px;
+  font-size: 13px;
+  border-radius: 0 4px 4px 0;
+}
+
+.evidence-card {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px;
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.evidence-quote {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 8px;
+  border-radius: 4px;
+  margin: 6px 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.compare-matrix {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 14px;
+}
+
+.compare-col {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 14px;
+}
+
+/* Raw JSON drawer */
+details.json-drawer {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 12px;
+}
+details.json-drawer summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+}
+pre.json-code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: var(--bg-card);
+  padding: 12px;
+  border-radius: 4px;
+  overflow-x: auto;
+  margin-top: 8px;
+  max-height: 400px;
+}
+
+/* Modal / Evidence Popover */
+.evidence-popover {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 500;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.evidence-popover.active {
+  display: flex;
+}
+.evidence-modal {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  max-width: 640px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 20px;
+  box-shadow: var(--shadow-md);
+  position: relative;
+}
+
+/* Print styles */
+@media print {
+  body { background: #ffffff; color: #000000; font-size: 12pt; }
+  header.app-header, aside.directory-sidebar, .btn, .copy-btn, .evidence-popover { display: none !important; }
+  .layout-container { display: block; padding: 0; }
+  main.profile-view { border: none; box-shadow: none; padding: 0; }
+  .badge { border: 1px solid #000000; }
+  a { text-decoration: underline; color: #000000; }
+}
+</style>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to main content</a>
+  <header class="app-header" role="banner">
+    <div class="brand-wrap">
+      <a href="../index.html#826662352" class="brand-logo">
+        <span style="color:var(--accent);">◆</span> Signalpost
+      </a>
+      <span class="brand-badge">Static Page</span>
+    </div>
+    <div class="header-actions">
+      <a href="../index.html#826662352" class="btn btn-primary">← Interactive Viewer</a>
+      <a href="../data/826662352.json" class="btn" download>Download JSON</a>
+    </div>
+  </header>
+
+  <div class="layout-container" style="grid-template-columns: 1fr; max-width: 1100px;">
+    <main id="main" class="profile-view" role="main">
+      <div class="profile-header">
+        <div class="company-title-area">
+          <h1>NORDLAND REGNSKAP AS</h1>
+          <div class="company-meta-line">
+            <span><b>Org.nr:</b> 826662352</span>
+            <span class="badge badge-available">available</span>
+            <span>AS</span>
+            
+          </div>
+        </div>
+      </div>
+
+      <section class="synthesis-card" aria-labelledby="synth-title">
+        <h2 id="synth-title">Verified Narrative Synthesis</h2>
+        <div class="synthesis-narrative"><span>NORDLAND REGNSKAP AS is classified under NACE code 69.202 (unspecified). <span class="citation-chip">[18c0]</span> <span class="citation-chip">[160e]</span></span> <span>Operates as a registered AS entity within the commercial sector. <span class="citation-chip">[8020]</span> <span class="citation-chip">[18c0]</span></span> <span>For fiscal year 2025, NORDLAND REGNSKAP AS reported revenue of 160,500 NOK and an operating result of 800 NOK. <span class="citation-chip">[298a]</span> <span class="citation-chip">[1277]</span></span> <span>Net result was 561 NOK, with total assets of 96,061 NOK and equity of 33,557 NOK. <span class="citation-chip">[275f]</span> <span class="citation-chip">[28f1]</span> <span class="citation-chip">[ac5d]</span></span> <span>Revenue grew by +133.4% year-over-year from 2024 (derived: YoY revenue change). <span class="citation-chip">[298a]</span> <span class="citation-chip">[00e7]</span></span> <span>Operating margin was 0.5% (derived: operating result / revenue). <span class="citation-chip">[1277]</span> <span class="citation-chip">[298a]</span></span> <span>The board of directors is chaired by Stian Aleksander Dahl Trulsen. <span class="citation-chip">[2bfb]</span></span> <span>Daily operations are led by general manager Stian Aleksander Dahl Trulsen. <span class="citation-chip">[9921]</span></span> <span>The entity has 3 registered role position(s) in the register of business enterprises. <span class="citation-chip">[2bfb]</span> <span class="citation-chip">[668d]</span> <span class="citation-chip">[9921]</span></span> <span>No corporate group hierarchy or parent company is registered. <span class="citation-chip">[160e]</span></span> <span>The entity maintains 1 registered operating subunit(s) across Norway. <span class="citation-chip">[aefe]</span></span> <span>No active job postings were found in the NAV feed or on verified site pages. <span class="citation-chip">[160e]</span></span> <span>No recent news items were detected on verified company sources. <span class="citation-chip">[160e]</span></span> <span>First observation on 2026-10-03; no earlier snapshot recorded. <span class="citation-chip">[160e]</span></span></div>
+      </section>
+
+      <section class="facts-grid" aria-label="Key Facts">
+        <div class="fact-item">
+          <div class="fact-label">Employees</div>
+          <div class="fact-value">0</div>
+          <div class="fact-sub">Registered employees</div>
+        </div>
+        <div class="fact-item">
+          <div class="fact-label">Revenue (Latest)</div>
+          <div class="fact-value">21 000 NOK</div>
+        </div>
+        <div class="fact-item">
+          <div class="fact-label">Operating Result</div>
+          <div class="fact-value">24 317 NOK</div>
+        </div>
+        <div class="fact-item">
+          <div class="fact-label">Equity</div>
+          <div class="fact-value">32 996 NOK</div>
+        </div>
+        <div class="fact-item">
+          <div class="fact-label">Municipality</div>
+          <div class="fact-value">Not reported</div>
+        </div>
+        <div class="fact-item">
+          <div class="fact-label">Industry (NACE)</div>
+          <div class="fact-value" style="font-size:15px;">69.202</div>
+        </div>
+      </section>
+
+      <section class="section-block" aria-labelledby="unverified-title">
+        <h3 id="unverified-title">Missing / Unverified Data Points (7)</h3>
+        <div class="unknowns-list"><div class="unknown-item"><b>brand:</b> <code>brand: checked_nothing_found</code><br><small style="color:var(--text-muted);">Checked sources: verified_website_meta</small></div><div class="unknown-item"><b>accounts_history:</b> <code>accounts_history: checked_nothing_found</code><br><small style="color:var(--text-muted);">Checked sources: official_annual_accounts</small></div><div class="unknown-item"><b>group:</b> <code>group: not_in_group</code><br><small style="color:var(--text-muted);">Checked sources: official_group_structure_api</small></div><div class="unknown-item"><b>website:</b> <code>website: discovery_ladder_exhausted_unverified</code><br><small style="color:var(--text-muted);">Checked sources: registry_homepage, email_domain, subunits, domain_probing</small></div><div class="unknown-item"><b>company_profiles:</b> <code>company_profiles: no_profiles_detected</code><br><small style="color:var(--text-muted);">Checked sources: verified_website_outbound</small></div><div class="unknown-item"><b>hiring:</b> <code>hiring: none_in_nav_feed_or_site</code><br><small style="color:var(--text-muted);">Checked sources: pam_stilling_feed, verified_website</small></div><div class="unknown-item"><b>activity:</b> <code>activity: no_news_items_detected</code><br><small style="color:var(--text-muted);">Checked sources: verified_website_articles</small></div></div>
+      </section>
+
+      <section class="section-block" aria-labelledby="claims-title">
+        <h3 id="claims-title">All Backed Claims (28)</h3>
+        <div class="data-table-wrap">
+          <table class="data-table responsive-cards-table">
+            <thead>
+              <tr><th>Field</th><th>Value</th><th>Source Link</th><th>Verbatim Span Quote</th></tr>
+            </thead>
+            <tbody>
+              <tr><td data-label="Field"><code>annual_result</code></td><td data-label="Value"><b>836.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>annual_result</code></td><td data-label="Value"><b>561.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>annual_result</code></td><td data-label="Value"><b>18967.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>assets</code></td><td data-label="Value"><b>96061.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>assets</code></td><td data-label="Value"><b>61059.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>assets</code></td><td data-label="Value"><b>18250.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>debt</code></td><td data-label="Value"><b>62504.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>debt</code></td><td data-label="Value"><b>28063.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>debt</code></td><td data-label="Value"><b>4222.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>equity</code></td><td data-label="Value"><b>14029.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>equity</code></td><td data-label="Value"><b>33557.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>equity</code></td><td data-label="Value"><b>32996.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>operating_result</code></td><td data-label="Value"><b>800.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>operating_result</code></td><td data-label="Value"><b>1071.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>operating_result</code></td><td data-label="Value"><b>24317.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>profit_before_tax</code></td><td data-label="Value"><b>1071.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>profit_before_tax</code></td><td data-label="Value"><b>24317.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>profit_before_tax</code></td><td data-label="Value"><b>737.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>revenue</code></td><td data-label="Value"><b>68753.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2024: revenue: 68753.0, operating_result: 24317.0, profit_before_tax: 24317.0, annual_result: 18967.0, assets: 61059.0, equity: 32996.0, debt: 28063.0</small></td></tr><tr><td data-label="Field"><code>revenue</code></td><td data-label="Value"><b>160500.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2025: revenue: 160500.0, operating_result: 800.0, profit_before_tax: 737.0, annual_result: 561.0, assets: 96061.0, equity: 33557.0, debt: 62504.0</small></td></tr><tr><td data-label="Field"><code>revenue</code></td><td data-label="Value"><b>21000.0</b></td><td data-label="Source"><a href="https://data.brreg.no/regnskapsregisteret/regnskap/826662352" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Filing 2023: revenue: 21000.0, operating_result: 1071.0, profit_before_tax: 1071.0, annual_result: 836.0, assets: 18250.0, equity: 14029.0, debt: 4222.0</small></td></tr><tr><td data-label="Field"><code>industry_code</code></td><td data-label="Value"><b>69.202</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Organisasjonsnummer 826662352 NORDLAND REGNSKAP AS</small></td></tr><tr><td data-label="Field"><code>legal_form</code></td><td data-label="Value"><b>AS</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Organisasjonsnummer 826662352 NORDLAND REGNSKAP AS</small></td></tr><tr><td data-label="Field"><code>legal_name</code></td><td data-label="Value"><b>NORDLAND REGNSKAP AS</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Organisasjonsnummer 826662352 NORDLAND REGNSKAP AS</small></td></tr><tr><td data-label="Field"><code>role_holder</code></td><td data-label="Value"><b>Stian Aleksander Dahl Trulsen (Styrets leder)</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/826662352/roller" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Role LEDE: Stian Aleksander Dahl Trulsen</small></td></tr><tr><td data-label="Field"><code>role_holder</code></td><td data-label="Value"><b>HELGELAND REVISJON AS (Revisor)</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/826662352/roller" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Role REVI: HELGELAND REVISJON AS</small></td></tr><tr><td data-label="Field"><code>role_holder</code></td><td data-label="Value"><b>Stian Aleksander Dahl Trulsen (Daglig leder)</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/enheter/826662352/roller" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Role DAGL: Stian Aleksander Dahl Trulsen</small></td></tr><tr><td data-label="Field"><code>subunit</code></td><td data-label="Value"><b>NORDLAND REGNSKAP AS ()</b></td><td data-label="Source"><a href="https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=826662352&amp;size=1000" target="_blank" rel="noopener noreferrer">Source ↗</a></td><td data-label="Span quote"><small>Subunit 926696300: NORDLAND REGNSKAP AS</small></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

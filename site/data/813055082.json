@@ -1,0 +1,1445 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "635821b1f6a5d7c3602e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3007.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7dbaccdc31c24b11706d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -17669.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8b6a350e13cb76dc6c8e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -27352.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ed2f5a4b7e467a49deb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 391538.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "283cbee1893a2a063c28",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 384075.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f43e446e87849ca189d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 350826.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4247ddf822a04a8c4f97",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 195374.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5c0b343e9ac9685fa895",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 230189.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "969c30aa8a928634623c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 207146.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4cc84c8921832dcd0a69",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 161349.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c4c5e4fb5e2e68ee4d4f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 143680.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d78cfe279523b31d9c9c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 188701.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "38b246fd3fd8f620e51b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 17204.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6198c055902a122f322b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -23458.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82c0fdda4125c94ecc1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -36322.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "544e87d599a324ec7d5a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19005.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6b2e5932a0bb58706c86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22652.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "78610d00004f4a4cbdde",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -35067.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "85c8e781c3afb9797f5a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2483041.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8babe7a0ceffffb95a08",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2577375.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "abeaf7ad23d30c5e182f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-813055082-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2061891.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee34b540e80f33ff42ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-813055082"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Golfpremier.no"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1d179f047d66f5e48f72",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-813055082"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "46.490"
+    },
+    {
+      "availability": "available",
+      "claim_id": "90101c95c9388177aea1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-813055082"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0e310008cc1b09c2fd4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-813055082"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "LPG AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "8a38045fe1aa7bac6aa1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-813055082-b5409533f061"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Betina Dolata",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b44370616273616d03c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-813055082-76bc26f8d4c4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Raymond Leon Dolata",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c0d003425391d6185997",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-813055082-1761a809cdba"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Raymond Leon Dolata",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a48c7f5242c9ecc79f1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-813055082-913125517"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Frydenlundbakken 3"
+          ],
+          "kommune": "ASKER",
+          "kommunenummer": "3203",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3474",
+          "poststed": "ÅROS"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Engroshandel med andre husholdningsvarer",
+          "kode": "46.490"
+        },
+        "name": "LEON PROFIL OG GOLFSPORT AS",
+        "organisation_number": "913125517"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "31e439e7f39fb4cd7286",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-813055082"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:36Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:36Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://golfpremier.no/kontakt-oss"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 2483041.0, operating_result: 17204.0, profit_before_tax: 19005.0, annual_result: -3007.0, assets: 384075.0, equity: 188701.0, debt: 195374.0",
+      "content_sha256": "09ef0f032b7b50cdeb8f4157248f72085440a70358fc63524bdee9da3ef50bd2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "http_status": 200,
+      "id": "ev-fin-813055082-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.390139Z",
+      "snapshot_ref": "09/09ef0f032b7b50cdeb8f4157248f72085440a70358fc63524bdee9da3ef50bd2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 2577375.0, operating_result: -36322.0, profit_before_tax: -35067.0, annual_result: -27352.0, assets: 391538.0, equity: 161349.0, debt: 230189.0",
+      "content_sha256": "22cba3672a14be62d7e8f4dfb6e5f4caaa23e05d9475209866ca8e6ce8a99f26",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "http_status": 200,
+      "id": "ev-fin-813055082-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.390139Z",
+      "snapshot_ref": "22/22cba3672a14be62d7e8f4dfb6e5f4caaa23e05d9475209866ca8e6ce8a99f26.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2061891.0, operating_result: -23458.0, profit_before_tax: -22652.0, annual_result: -17669.0, assets: 350826.0, equity: 143680.0, debt: 207146.0",
+      "content_sha256": "dfdfc8c9f2e34311dda9fd6967e851e7002e4dc2e2821b69344251a18df35749",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "http_status": 200,
+      "id": "ev-fin-813055082-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.390139Z",
+      "snapshot_ref": "df/dfdfc8c9f2e34311dda9fd6967e851e7002e4dc2e2821b69344251a18df35749.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 913125517: LEON PROFIL OG GOLFSPORT AS",
+      "content_sha256": "65336654f8381d6ae75d8c61bd874597ed064f1e9d09b30c356bf226d77c8717",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813055082&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-813055082-913125517",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.925608Z",
+      "snapshot_ref": "65/65336654f8381d6ae75d8c61bd874597ed064f1e9d09b30c356bf226d77c8717.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813055082&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 813055082 LPG AS",
+      "content_sha256": "680cfdd059878eb5b1d2aad1c5e9290af3de3f0d36c59754eb54bb7489477005",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-813055082",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "68/680cfdd059878eb5b1d2aad1c5e9290af3de3f0d36c59754eb54bb7489477005.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Raymond Leon Dolata",
+      "content_sha256": "43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "http_status": 200,
+      "id": "ev-role-813055082-1761a809cdba",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.551798Z",
+      "snapshot_ref": "43/43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Raymond Leon Dolata",
+      "content_sha256": "43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "http_status": 200,
+      "id": "ev-role-813055082-76bc26f8d4c4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.551798Z",
+      "snapshot_ref": "43/43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Betina Dolata",
+      "content_sha256": "43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "http_status": 200,
+      "id": "ev-role-813055082-b5409533f061",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.551798Z",
+      "snapshot_ref": "43/43f06f56cb0e4df7ef7548bc5782135735db7c4fb10e1ac18bbdf785da9ea57d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "pp logo Adresse LPG AS Frydenlundbakken 3 3474 Åros Org.nr. 813055082 E-post post@lpgas.no Telefon 911 32 407 INFORMASJON Kontakt",
+      "content_sha256": "69ac13728dd082e3660d1a1a2b83ee838a9a4d278aefdacd322a8bbe879ae957",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://golfpremier.no/kontakt-oss",
+      "http_status": 200,
+      "id": "ev-web-813055082",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36Z",
+      "snapshot_ref": "69/69ac13728dd082e3660d1a1a2b83ee838a9a4d278aefdacd322a8bbe879ae957.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.golfpremier.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1ed2f5a4b7e467a49deb",
+        "283cbee1893a2a063c28",
+        "38b246fd3fd8f620e51b",
+        "4247ddf822a04a8c4f97",
+        "4cc84c8921832dcd0a69",
+        "544e87d599a324ec7d5a",
+        "5c0b343e9ac9685fa895",
+        "6198c055902a122f322b",
+        "635821b1f6a5d7c3602e",
+        "6b2e5932a0bb58706c86",
+        "78610d00004f4a4cbdde",
+        "7dbaccdc31c24b11706d",
+        "82c0fdda4125c94ecc1a",
+        "85c8e781c3afb9797f5a",
+        "8b6a350e13cb76dc6c8e",
+        "8babe7a0ceffffb95a08",
+        "969c30aa8a928634623c",
+        "abeaf7ad23d30c5e182f",
+        "c4c5e4fb5e2e68ee4d4f",
+        "d78cfe279523b31d9c9c",
+        "f43e446e87849ca189d3"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "ee34b540e80f33ff42ae"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1d179f047d66f5e48f72",
+        "90101c95c9388177aea1",
+        "f0e310008cc1b09c2fd4"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "8a38045fe1aa7bac6aa1",
+        "b44370616273616d03c5",
+        "c0d003425391d6185997"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "9a48c7f5242c9ecc79f1"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "31e439e7f39fb4cd7286"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f0e310008cc1b09c2fd4",
+      "90101c95c9388177aea1",
+      "1d179f047d66f5e48f72"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "LPG AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 11200,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "813055082",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:48.460345Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "813055082",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "021cbb0a1528d672b9f844f30464c191a08b203016a8ef68f91bd0deb185a634",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.390139Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/813055082",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -3007.0,
+              "assets": 384075.0,
+              "currency": "NOK",
+              "debt": 195374.0,
+              "equity": 188701.0,
+              "operating_result": 17204.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 19005.0,
+              "record_id": 5374393,
+              "revenue": 2483041.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -27352.0,
+              "assets": 391538.0,
+              "currency": "NOK",
+              "debt": 230189.0,
+              "equity": 161349.0,
+              "operating_result": -36322.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -35067.0,
+              "record_id": 6098297,
+              "revenue": 2577375.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -17669.0,
+              "assets": 350826.0,
+              "currency": "NOK",
+              "debt": 207146.0,
+              "equity": 143680.0,
+              "operating_result": -23458.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -22652.0,
+              "record_id": 6448959,
+              "revenue": 2061891.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.745575Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/813055082",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "8844cbeff762a8a3913e60d88ad3197ee5247855e839b65a568a0433893406fd",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.925608Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=813055082&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Frydenlundbakken 3"
+                ],
+                "kommune": "ASKER",
+                "kommunenummer": "3203",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3474",
+                "poststed": "ÅROS"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Engroshandel med andre husholdningsvarer",
+                "kode": "46.490"
+              },
+              "name": "LEON PROFIL OG GOLFSPORT AS",
+              "organisation_number": "913125517"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "813055082",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Salg av golfutstyr og tilbehør, samt profilering og reklameprodukter innen golfsport i Norge. Salg av rene reklameprodukter til bedriftsmarkedet. Gravering-trykking av reklame produkter.",
+          "antallAnsatte": "",
+          "epostadresse": "rldolata@online.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Frydenlundbakken 3",
+          "forretningsadresse.kommune": "ASKER",
+          "forretningsadresse.kommunenummer": "3203",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3474",
+          "forretningsadresse.poststed": "ÅROS",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2014-01-14",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.golfpremier.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2014-01-14",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "911 32 407",
+          "naeringskode1.beskrivelse": "Engroshandel med andre husholdningsvarer",
+          "naeringskode1.kode": "46.490",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "LPG AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "813055082",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2021-06-12",
+          "registreringsdatoForetaksregisteret": "2014-01-14",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2014-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2014-01-18",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2021-06-10",
+          "registreringsdatoenhetsregisteret": "2014-01-14",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2014-01-03",
+          "telefon": "31 41 06 09",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2014-01-03",
+          "vedtektsfestetFormaal": "Å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender. Salg og produksjon av golfrelaterte produkter, samt salg og produksjon av profil og reklameprodukter til bedrifter, lag og privatmarkedet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "da0d781a9be374c6fff64a77803ded36c66976a43b3934f15fd21de36f4f876c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.551798Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/813055082/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2014-01-14",
+              "name": "Raymond Leon Dolata",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2014-01-14",
+              "name": "Raymond Leon Dolata",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2014-01-14",
+              "name": "Betina Dolata",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:36Z",
+        "source_url": "https://www.golfpremier.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Golfpremier.no",
+          "claim_span": "pp logo Adresse LPG AS Frydenlundbakken 3 3474 Åros Org.nr. 813055082 E-post post@lpgas.no Telefon 911 32 407 INFORMASJON Kontakt",
+          "final_url": "https://golfpremier.no/kontakt-oss",
+          "homepage": "https://www.golfpremier.no/",
+          "page_html": "\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<base href=\"https://golfpremier.no\">\r\n<title>Golfpremier.no</title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<meta name=\"robots\" content=\"INDEX, FOLLOW\">\r\n<meta name=\"description\" content=\"Adresse LPG AS Frydenlundbakken 3 3474 Åros Org.nr. 813055082 E-post post@lpgas.no Telefon 911 32 407\">\r\n\r\n\r\n<meta property=\"og:title\" content=\"Kontakt oss\">\r\n<meta property=\"og:description\" content=\"Adresse LPG AS Frydenlundbakken 3 3474 Åros Org.nr. 813055082 E-post post@lpgas.no Telefon 911 32 407\">\r\n<meta property=\"og:url\" content=\"https://golfpremier.no/kontakt-oss\">\r\n<meta property=\"og:site_name\" content=\"Golfpremier.no\">\r\n<meta property=\"og:image\" content=\"https://golfpremier.no/files/images/favicons/logo-fb.png\">\r\n<meta property=\"og:type\" content=\"article\">\r\n\r\n<link rel=\"canonical\" href=\"https://golfpremier.no/kontakt-oss\">\r\n\r\n<link rel=\"stylesheet\" href=\"/sh-common/libs/bootstrap/3.3/css/bootstrap.min.css\">\r\n<link rel=\"stylesheet\" href=\"/sh-common/libs/font-awesome/4.7/css/font-awesome.min.css\">\r\n<link rel=\"stylesheet\" href=\"/sh-common/libs/fancybox/source/jquery.fancybox.css?v=2.1.5-a\">\r\n<link rel=\"stylesheet\" href=\"/sh-common/libs/tipTip/tiptip.css\">\r\n<link rel=\"stylesheet\" href=\"/sh-common/libs/icheck/skins/square/cms.css?v1\">\r\n<link rel=\"stylesheet\" href=\"/assets/css/frame.css?v3\" media=\"screen\">\r\n<link rel=\"stylesheet\" href=\"/assets/css/content.css?v3\" media=\"screen\">\r\n<link rel=\"stylesheet\" href=\"/assets/css/dateslider.css?v3\" media=\"screen\">\r\n<link rel=\"stylesheet\" href=\"/assets/css/colors.css?v3\" media=\"screen\">\r\n<link rel=\"stylesheet\" href=\"/assets/css/responsive.css?v3\" media=\"screen\">\r\n\r\n<script src=\"/sh-common/libs/jquery/jquery-1.11.1.min.js\"></script>\r\n<script src=\"/sh-common/libs/jquery/modernizr-2.6.2.min.js\"></script>\r\n\r\n\r\n</head>\r\n<body>\r\n<div id=\"wrapper\">\r\n<div class=\"topline\">\r\n\t<div class=\"inner\">\r\n\t\t<ul>\r\n\t\t\t<li><a href=\"https://sportspremier.no\" target=\"_blank\"><span>SE OGSÅ sportspremier.no</span></a></li>\r\n\t\t\t<li><a href=\"/onskeliste\"><i class=\"fa fa-heart-o\"></i>ØNSKELISTE</a></li>\r\n\t\t\t<li><a class=\"hide-mobile\" href=\"/sammenligne\"><i class=\"fa fa-exchange\"></i>SAMMENLIGNE</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a href=\"/minkonto\"><i class=\"fa fa-user-o\"></i>LOGG INN</a></li>\r\n\t\t\t\r\n\t\t</ul>\r\n\t</div>\r\n</div>\r\n\r\n<header>\r\n\t<div id=\"header\" class=\"inner clearfix\">\r\n\t\t<div class=\"logo\">\r\n\t\t\t<a href=\"/\"><h1>Golfpremier.no</h1></a>\r\n\t\t</div>\r\n\r\n\t\t<ul class=\"tools\">\r\n\t\t\t<li>\r\n                <div id=\"main-nav\" class=\"main-nav\">\r\n                    <ul class=\"sf-menu clearfix\" id=\"menu\">\r\n                        \r\n                    </ul>\r\n                </div>\r\n            </li>\r\n            <li>\r\n\t\t\t\t<a id=\"mobile-menu-trigger\" class=\"no-drop\"></a>\r\n\t\t\t</li>\r\n\t\t\t<li>\r\n\t\t\t\t<a class=\"drop\" id=\"trig-search\"><i class=\"fa fa-search\"></i><span></span></a>\r\n\t\t\t\t<div id=\"nav-search\" class=\"nav-search search nav-dropper clearfix\">\r\n\t\t\t\t\t<h6>SØK ETTER PRODUKT<a class=\"closeit\">x</a></h6>\r\n\t\t\t\t\t<form>\r\n\t\t\t\t\t\t<input type=\"text\" name=\"site-search\" class=\"searchfield\" maxlength=\"31\" id=\"inp-search-header\" placeholder=\"Søk her...\">\r\n\t\t\t\t\t\t<a id=\"search-submit-header\"><i class=\"fa fa-search\"></i></a>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t</div>\r\n\t\t\t</li>\r\n\t\t\t<li>\r\n\t\t\t\t<a class=\"drop\" id=\"trig-cart\"><i class=\"fa fa-shopping-cart\"></i>\r\n\t\t\t\t<i class=\"shortcart\"> (0)</i><span></span></a>\r\n\t\t\t\t<div id=\"nav-cart\" class=\"nav-cart nav-dropper\">\r\n\t\t\t\t\t<h6>HANDLEKURV<a class=\"closeit\">x</a></h6>\r\n\t\t\t\t\t<div class=\"content\"></div>\r\n\t\t\t\t</div>\r\n\t\t\t</li>\r\n\t\t</ul>\r\n\t</div>\r\n</header>\r\n\r\n<div id=\"subtitle\">\r\n\t<div class=\"inner\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col-sm-3\">\r\n                <a id=\"main-drop\">Alle produkter</a><div class=\"maincatsdrop\" id=\"maincats-dropper\"><ul class=\"nav-drop\"><li><a href=\"/katalog/1/golfpremier\">Golfpremier</a></li><li><a href=\"/katalog/2/alt-du-trenger-til-golf-og-golfklr\">Alt du trenger til golf og golfklær</a></li><li><a href=\"/katalog/3/gaver-gourmet-hus--hjem-fritid-reise-profil\">Gaver - Gourmet - Hus & Hjem - Fritid - Reise - Profil</a></li><li><a href=\"/katalog/21/gravering\">Gravering</a></li><li><a href=\"/katalog/79/golf-produkter-klubb-reklame\">GOLF PRODUKTER - KLUBB / REKLAME</a></li><li><a href=\"/katalog/86/golfklubb-service\">Golfklubb SERVICE</a></li><li><a href=\"/katalog/102/callaway-profil\">CALLAWAY profil</a></li></ul></div>\r\n            </div>\r\n\t\t\t<div class=\"col-sm-9\">\r\n\t\t\t\t<div class=\"subtitle\">\r\n\t\t\t\t\t<h1>Kontakt oss</h1>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n    <a id=\"showcats\">Se kategorier</a>\r\n</div>\r\n\r\n<section>\r\n\t<div class=\"inner\">\r\n\t\t<div class=\"row\">\r\n            <div id=\"sidebar\" class=\"col-sm-3\">\r\n                <a class=\"closeit\">X</a>\r\n                <div class=\"widget colnav\">\r\n<h6>Informasjon</h6><ul class=\"nav-col\">\r\n<li><a class=\"selected\" href=\"/kontakt-oss\">Kontakt oss</a></li><li><a href=\"/om-golfpremierno\">Om golfpremier.no</a></li><li><a href=\"/last-opp-logo\">Last opp logo</a></li></ul></div>\r\n            </div>\r\n\t\t\t<div class=\"col-sm-9\">\r\n                <div class=\"content\">\r\n    \t\t\t\t\r\n<div class=\"edit-content clearfix\">\r\n<div class=\"row\">\r\n<div class=\"col-lg-4\">\r\n<h3>Adresse</h3>\r\n\r\n<ul>\r\n\t<li>LPG AS&nbsp;</li>\r\n\t<li>Frydenlundbakken 3</li>\r\n\t<li>3474 Åros</li>\r\n\t<li>Org.nr. 813055082</li>\r\n</ul>\r\n</div>\r\n\r\n<div class=\"col-lg-4\">\r\n<h3>E-post</h3>\r\n\r\n<p>post@lpgas.no</p>\r\n</div>\r\n\r\n<div class=\"col-lg-4\">\r\n<h3>Telefon</h3>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>911 32 407</p>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n                </div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</section>\r\n<footer>\r\n\t<div class=\"inner\">\r\n\t\t<div class=\"row\">\r\n\t\t\t<div class=\"col-sm-4\">\r\n\t\t\t\t<div class=\"widget\">\r\n\t\t\t\t\t<h3>INFORMASJON</h3>\r\n\t\t\t\t\t<ul>\r\n<li><a class=\"selected\" href=\"/kontakt-oss\">Kontakt oss</a></li><li><a href=\"/om-golfpremierno\">Om golfpremier.no</a></li><li><a href=\"/last-opp-logo\">Last opp logo</a></li>\r\n\t\t\t\t\t\t<li><a href=\"/sh-common/documents/skjema_angrerett.pdf\" target=\"_blank\">Skjema for angrerett</a></li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t\t<div class=\"col-sm-4\">\r\n\t\t\t\t<div class=\"widget\">\r\n\t\t\t\t\t<h3>MIN KONTO</h3>\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li><a href=\"/minkonto/mineordre\">Mine ordre</a></li>\r\n\t\t\t\t\t\t<li><a href=\"/minkonto/mininfo\">Min konto</a></li>\r\n\t\t\t\t\t\t<li><a href=\"/handlekurv\">Handlekurv</a></li>\r\n\t\t\t\t\t\t<li><a href=\"/onskeliste\">Ønskeliste</a></li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"col-sm-4\">\r\n\t\t\t\t<div class=\"widget\">\r\n\t\t\t\t\t<h3>KATEGORIER</h3>\r\n\t\t\t\t\t<ul>\r\n                        <li><a href=\"katalog/1/golfpremier\">Golfpremier</a></li><li><a href=\"katalog/2/alt-du-trenger-til-golf-og-golfklr\">Alt du trenger til golf og golfklær</a></li><li><a href=\"katalog/3/gaver-gourmet-hus--hjem-fritid-reise-profil\">Gaver - Gourmet - Hus & Hjem - Fritid - Reise - Profil</a></li><li><a href=\"katalog/21/gravering\">Gravering</a></li><li><a href=\"katalog/79/golf-produkter-klubb-reklame\">GOLF PRODUKTER - KLUBB / REKLAME</a></li><li><a href=\"katalog/86/golfklubb-service\">Golfklubb SERVICE</a></li><li><a href=\"katalog/102/callaway-profil\">CALLAWAY profil</a></li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\t\r\n\t</div>\r\n\r\n\t<div style=\"border-top:1px solid #333; padding:10px 0;\">\r\n\t\t<div class=\"inner\">\r\n\t\t\t<div class=\"row\">\r\n\t\t\t\t<div class=\"col-sm-6\">\r\n\t\t\t\t\t<div class=\"klarna-widget klarna-logo-tooltip\" data-eid=\"InsertYourMerchantID\" data-locale=\"nb_no\" data-logo-name=\"logo_white\" data-logo-width=\"140\"></div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"col-sm-6 text-right\"><img src=\"/assets/images/temp-1.png\" alt=\"\"></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div id=\"copyright\" style=\"border-top:1px solid #333; padding:10px 0;\">\r\n\t\t<div class=\"inner\">\r\n\t\t\t<div class=\"row copyright\">\r\n\t\t\t\t<div class=\"col-sm-6\">&copy; Copyright 2026 <a href=\"\">Golfpremier.no</a></div>\r\n\t\t\t\t<div class=\"col-sm-6 text-right\">Sidene er produsert med <a target=\"_blank\">Shopix</a></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\r\n</footer>\r\n\r\n\r\n<div id=\"info-cookies\" class=\"info-cookies\">\r\n    <span>Dette nettstedet bruker cookies (informasjonskapsler) for å tilpasse nettbutikken bedre til deg som bruker. </span>\r\n    <span>Klikk OK hvis du godtar dette</span>\r\n    <button name=\"user_accept\" id=\"user_accept\">OK</button>\r\n    <a href=\"/personvern\">Les mer om cookies og personvern her</a>\r\n</div>\r\n\r\n\r\n<div id=\"back-to-top\"><a href=\"#\">&nbsp;<i class=\"fa fa-arrow-up\"></i>&nbsp;</a></div>\r\n</div>\r\n\r\n<script src=\"/sh-common/libs/bootstrap/3.3/js/bootstrap.min.js\"></script>\r\n<script src=\"/sh-common/libs/fancybox/source/jquery.fancybox.js\"></script>\r\n<script src=\"/sh-common/libs/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6\"></script>\r\n<script src=\"/sh-common/libs/tipTip/jquery.tipTip.min.js\"></script>\r\n<script src=\"/sh-common/libs/icheck/icheck.min.js\"></script>\r\n<script async src=\"https://cdn.klarna.com/1.0/code/client/all.js\"></script>\r\n<script src=\"/sh-common/js/common.js\"></script>\r\n<script src=\"/assets/js/init.js\"></script>\r\n<script src=\"/assets/js/forms.js\"></script>\r\n\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-113190210-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-113190210-1');\r\n</script>\r\n\r\n</body>\r\n</html>\r\n",
+          "page_text": "Golfpremier.no SE OGSÅ sportspremier.no ØNSKELISTE SAMMENLIGNE LOGG INN Golfpremier.no SØK ETTER PRODUKT x (0) HANDLEKURV x Alle produkter Golfpremier Alt du trenger til golf og golfklær Gaver - Gourmet - Hus & Hjem - Fritid - Reise - Profil Gravering GOLF PRODUKTER - KLUBB / REKLAME Golfklubb SERVICE CALLAWAY profil Kontakt oss Se kategorier X Informasjon Kontakt oss Om golfpremier.no Last opp logo Adresse LPG AS Frydenlundbakken 3 3474 Åros Org.nr. 813055082 E-post post@lpgas.no Telefon 911 32 407 INFORMASJON Kontakt oss Om golfpremier.no Last opp logo Skjema for angrerett MIN KONTO Mine ordre Min konto Handlekurv Ønskeliste KATEGORIER Golfpremier Alt du trenger til golf og golfklær Gaver - Gourmet - Hus & Hjem - Fritid - Reise - Profil Gravering GOLF PRODUKTER - KLUBB / REKLAME Golfklubb SERVICE CALLAWAY profil © Copyright 2026 Golfpremier.no Sidene er produsert med Shopix Dette nettstedet bruker cookies (informasjonskapsler) for å tilpasse nettbutikken bedre til deg som bruker. Klikk OK hvis du godtar dette OK Les mer om cookies og personvern her",
+          "proof_level": "p1_exact",
+          "registrable_domain": "golfpremier.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "46.490",
+    "industry_label": "Engroshandel med andre husholdningsvarer",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ASKER",
+    "municipality_number": "3203",
+    "name": "LPG AS",
+    "organisation_number": "813055082",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1156,
+        1202,
+        1172,
+        4875,
+        1577
+      ],
+      "requests": 6
+    },
+    "website": "www.golfpremier.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:36Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "LPG AS (AS, org.nr 813055082)",
+    "what_it_does": "LPG AS is classified under NACE code 46.490 (unspecified). The company operates its verified website at https://golfpremier.no/kontakt-oss. It operates publicly under the brand name 'Golfpremier.no', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, LPG AS reported revenue of 2,061,891 NOK and an operating result of -23,458 NOK. Net result was -17,669 NOK, with total assets of 350,826 NOK and equity of 143,680 NOK. The company was loss-making in 2025. Revenue contracted by -20.0% year-over-year from 2024 (derived: YoY revenue change). Operating margin was -1.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Raymond Leon Dolata. Daily operations are led by general manager Raymond Leon Dolata. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "LPG AS is classified under NACE code 46.490 (unspecified).",
+        "claim_ids": [
+          "1d179f047d66f5e48f72",
+          "f0e310008cc1b09c2fd4"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://golfpremier.no/kontakt-oss.",
+        "claim_ids": [
+          "31e439e7f39fb4cd7286"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Golfpremier.no', according to its website.",
+        "claim_ids": [
+          "ee34b540e80f33ff42ae"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "90101c95c9388177aea1",
+          "1d179f047d66f5e48f72"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, LPG AS reported revenue of 2,061,891 NOK and an operating result of -23,458 NOK.",
+        "claim_ids": [
+          "abeaf7ad23d30c5e182f",
+          "6198c055902a122f322b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was -17,669 NOK, with total assets of 350,826 NOK and equity of 143,680 NOK.",
+        "claim_ids": [
+          "7dbaccdc31c24b11706d",
+          "f43e446e87849ca189d3",
+          "c4c5e4fb5e2e68ee4d4f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "7dbaccdc31c24b11706d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Revenue contracted by -20.0% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "abeaf7ad23d30c5e182f",
+          "8babe7a0ceffffb95a08"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Operating margin was -1.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "6198c055902a122f322b",
+          "abeaf7ad23d30c5e182f"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The board of directors is chaired by Raymond Leon Dolata.",
+        "claim_ids": [
+          "b44370616273616d03c5"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "Daily operations are led by general manager Raymond Leon Dolata.",
+        "claim_ids": [
+          "c0d003425391d6185997"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "8a38045fe1aa7bac6aa1",
+          "b44370616273616d03c5",
+          "c0d003425391d6185997"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f0e310008cc1b09c2fd4"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "9a48c7f5242c9ecc79f1"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f0e310008cc1b09c2fd4"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f0e310008cc1b09c2fd4"
+        ]
+      },
+      {
+        "id": "s17",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f0e310008cc1b09c2fd4"
+        ]
+      }
+    ]
+  }
+}

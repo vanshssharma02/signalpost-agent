@@ -1,0 +1,1531 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "3aaebb24d27903ba5f11",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 230886.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8dedc28b9c34d93009a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 76830.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f2051347fda96df5abd6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23994.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "05ea4ce389a505976a80",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1126868.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6de74691b87674482cd9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2151226.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c06914af999694dc4595",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1570215.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "314b79316487243527b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 743714.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "712bf61a14dfc3688486",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1110230.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9760c96dd3f40c600bbb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1667248.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ded434cd62504652ad1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 459984.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7a954a9f20feaddde61f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 383154.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f1cf37a192434d07c6e0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 483979.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3fe9ab725004b33b87dd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 217219.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "73e229144e3b2e5dc1fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 106733.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "832ce607c3f4550121ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 96625.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4b729083d07f47aa70e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23994.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "62605b2c391e6f11af00",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 230886.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de6334ba0504f6d9664d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 76830.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ee2547b8ce4d9978ba6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6718626.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2b56aacc98457f4abf67",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4769725.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee5989d39bc63f6fe6ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997906454-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6016230.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb1a09e48014cbb4c20a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997906454"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "73.300"
+    },
+    {
+      "availability": "available",
+      "claim_id": "d6ea4291ee2b65de67c1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997906454"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2c38edd01fc8510cbc6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997906454"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SPALT PR NORWAY AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "296b1e2324803eaa624d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-bd6ade6c3db2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "349010370aad87f9052c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-502e1c336472"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HLO REVISJON & RÅDGIVNING AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "36e22010db841b5a5040",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-490b8ae200b1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anna Elisabeth Fors",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5fe265f98f4b0332b8d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-2419cfc90332"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "KVESETH REGNSKAPSKONTOR AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d95a647f5fc08eb3e05b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-2dce18c7d851"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rebeckah Elisabeth Caroline Stensson",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f991206bb773a39cb7a2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997906454-a96f02b008ff"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e272525337f3529217a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-997906454-997930991"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:48Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:48Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Øvre Slottsgate 29"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0157",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Pr og kommunikasjonstjenester",
+          "kode": "73.300"
+        },
+        "name": "SPALT PR NORWAY AS",
+        "organisation_number": "997930991"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 4769725.0, operating_result: 217219.0, profit_before_tax: 230886.0, annual_result: 230886.0, assets: 1126868.0, equity: 383154.0, debt: 743714.0",
+      "content_sha256": "985dfdd568ebe714d6b3209859864e7e21313bf2f933ef43b6caae50d57af9e8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "http_status": 200,
+      "id": "ev-fin-997906454-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:41.612180Z",
+      "snapshot_ref": "98/985dfdd568ebe714d6b3209859864e7e21313bf2f933ef43b6caae50d57af9e8.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 6016230.0, operating_result: 106733.0, profit_before_tax: 76830.0, annual_result: 76830.0, assets: 1570215.0, equity: 459984.0, debt: 1110230.0",
+      "content_sha256": "3ef257d5c960a6799295ce91cbc7c2c3d0b950748daad5716fb5e8f7762fbbcc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "http_status": 200,
+      "id": "ev-fin-997906454-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:41.612180Z",
+      "snapshot_ref": "3e/3ef257d5c960a6799295ce91cbc7c2c3d0b950748daad5716fb5e8f7762fbbcc.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 6718626.0, operating_result: 96625.0, profit_before_tax: 23994.0, annual_result: 23994.0, assets: 2151226.0, equity: 483979.0, debt: 1667248.0",
+      "content_sha256": "15c128cd24fd6cd51d308c3e2b916a0c83da4c72febbaa5dbaa3899f09f18b2d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "http_status": 200,
+      "id": "ev-fin-997906454-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:41.612180Z",
+      "snapshot_ref": "15/15c128cd24fd6cd51d308c3e2b916a0c83da4c72febbaa5dbaa3899f09f18b2d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 997930991: SPALT PR NORWAY AS",
+      "content_sha256": "9bee3902da2b83320234b2401c05b20ed1ec4d3553597858d09e03b7abd5e75f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997906454&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-997906454-997930991",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:45.153135Z",
+      "snapshot_ref": "9b/9bee3902da2b83320234b2401c05b20ed1ec4d3553597858d09e03b7abd5e75f.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997906454&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 997906454 SPALT PR NORWAY AS",
+      "content_sha256": "bcfb15d5ba5d7eaa0a01e97dbc5c8f1501cb9aba9707442343de2c06001e0ac9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-997906454",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "bc/bcfb15d5ba5d7eaa0a01e97dbc5c8f1501cb9aba9707442343de2c06001e0ac9.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: KVESETH REGNSKAPSKONTOR AS",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-2419cfc90332",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Rebeckah Elisabeth Caroline Stensson",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-2dce18c7d851",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anna Elisabeth Fors",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-490b8ae200b1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: HLO REVISJON & RÅDGIVNING AS",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-502e1c336472",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-a96f02b008ff",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+      "content_sha256": "8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "http_status": 200,
+      "id": "ev-role-997906454-bd6ade6c3db2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:42.784901Z",
+      "snapshot_ref": "8c/8cda4a9dc6d3266060187347bb837b9d9f45d2ea7c613822bfbf007943dcbee7.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "05ea4ce389a505976a80",
+        "1ee2547b8ce4d9978ba6",
+        "2b56aacc98457f4abf67",
+        "314b79316487243527b8",
+        "3aaebb24d27903ba5f11",
+        "3ded434cd62504652ad1",
+        "3fe9ab725004b33b87dd",
+        "4b729083d07f47aa70e7",
+        "62605b2c391e6f11af00",
+        "6de74691b87674482cd9",
+        "712bf61a14dfc3688486",
+        "73e229144e3b2e5dc1fd",
+        "7a954a9f20feaddde61f",
+        "832ce607c3f4550121ca",
+        "8dedc28b9c34d93009a5",
+        "9760c96dd3f40c600bbb",
+        "c06914af999694dc4595",
+        "de6334ba0504f6d9664d",
+        "ee5989d39bc63f6fe6ae",
+        "f1cf37a192434d07c6e0",
+        "f2051347fda96df5abd6"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "d2c38edd01fc8510cbc6",
+        "d6ea4291ee2b65de67c1",
+        "fb1a09e48014cbb4c20a"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "296b1e2324803eaa624d",
+        "349010370aad87f9052c",
+        "36e22010db841b5a5040",
+        "5fe265f98f4b0332b8d3",
+        "d95a647f5fc08eb3e05b",
+        "f991206bb773a39cb7a2"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "e272525337f3529217a0"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "d2c38edd01fc8510cbc6",
+      "d6ea4291ee2b65de67c1",
+      "fb1a09e48014cbb4c20a"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SPALT PR NORWAY AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 6416,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "997906454",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:04.095882Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "997906454",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "4e0bf2f4a55decc5615e7814f031a0190e8f1f900fd7b191f13052bbcc55731f",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:41.612180Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997906454",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 230886.0,
+              "assets": 1126868.0,
+              "currency": "NOK",
+              "debt": 743714.0,
+              "equity": 383154.0,
+              "operating_result": 217219.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 230886.0,
+              "record_id": 4604517,
+              "revenue": 4769725.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 76830.0,
+              "assets": 1570215.0,
+              "currency": "NOK",
+              "debt": 1110230.0,
+              "equity": 459984.0,
+              "operating_result": 106733.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 76830.0,
+              "record_id": 5565007,
+              "revenue": 6016230.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 23994.0,
+              "assets": 2151226.0,
+              "currency": "NOK",
+              "debt": 1667248.0,
+              "equity": 483979.0,
+              "operating_result": 96625.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 23994.0,
+              "record_id": 6713914,
+              "revenue": 6718626.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:43.992106Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/997906454",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9aec445e3202c3bfe7e79af817bb1ea6dfd8fdb9ee5c65db956fb75170d6d7bc",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:45.153135Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997906454&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Øvre Slottsgate 29"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0157",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Pr og kommunikasjonstjenester",
+                "kode": "73.300"
+              },
+              "name": "SPALT PR NORWAY AS",
+              "organisation_number": "997930991"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "997906454",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Drive public relations-, markeds- og kommunikasjonsvirksomhet, samt virksomhet som hører inn under dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Øvre Slottsgate 29",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0157",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.spaltpr.com",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2012-01-31",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Pr og kommunikasjonstjenester",
+          "naeringskode1.kode": "73.300",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SPALT PR NORWAY AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "997906454",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2012-01-31",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-03-01",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2012-01-31",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2012-01-01",
+          "telefon": "22 41 94 40",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2012-01-01",
+          "vedtektsfestetFormaal": "Drive public relations-, markeds- og kommunikasjonsvirksomhet, samt virksomhet som hører inn under dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "8214a74cf726399cb650cf7fbea498ab7ff32e29d3073ffca3187126860ced0c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:42.784901Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997906454/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": true,
+              "last_changed": "2026-08-30",
+              "name": "Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-08-30",
+              "name": "Rebeckah Elisabeth Caroline Stensson",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-08-30",
+              "name": "Anna Elisabeth Fors",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2026-08-30",
+              "name": "Jenny Cecilie Irmelinsdatter Grahm Kaspersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2023-12-28",
+              "name": [
+                "HLO REVISJON & RÅDGIVNING AS"
+              ],
+              "organisation_number": "989027654",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2012-04-10",
+              "name": [
+                "KVESETH REGNSKAPSKONTOR AS"
+              ],
+              "organisation_number": "980091422",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "73.300",
+    "industry_label": "Pr og kommunikasjonstjenester",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "SPALT PR NORWAY AS",
+    "organisation_number": "997906454",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1172,
+        1217,
+        1157,
+        842,
+        391,
+        342,
+        47,
+        31,
+        46
+      ],
+      "requests": 10
+    },
+    "website": "www.spaltpr.com"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:48Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SPALT PR NORWAY AS (AS, org.nr 997906454)",
+    "what_it_does": "SPALT PR NORWAY AS is classified under NACE code 73.300 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SPALT PR NORWAY AS reported revenue of 6,718,626 NOK and an operating result of 96,625 NOK. Net result was 23,994 NOK, with total assets of 2,151,226 NOK and equity of 483,979 NOK. Revenue grew by +11.7% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 1.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Rebeckah Elisabeth Caroline Stensson. Daily operations are led by general manager Jenny Cecilie Irmelinsdatter Grahm Kaspersen. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SPALT PR NORWAY AS is classified under NACE code 73.300 (unspecified).",
+        "claim_ids": [
+          "fb1a09e48014cbb4c20a",
+          "d2c38edd01fc8510cbc6"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "d6ea4291ee2b65de67c1",
+          "fb1a09e48014cbb4c20a"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SPALT PR NORWAY AS reported revenue of 6,718,626 NOK and an operating result of 96,625 NOK.",
+        "claim_ids": [
+          "1ee2547b8ce4d9978ba6",
+          "832ce607c3f4550121ca"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 23,994 NOK, with total assets of 2,151,226 NOK and equity of 483,979 NOK.",
+        "claim_ids": [
+          "f2051347fda96df5abd6",
+          "6de74691b87674482cd9",
+          "f1cf37a192434d07c6e0"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +11.7% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "1ee2547b8ce4d9978ba6",
+          "ee5989d39bc63f6fe6ae"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 1.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "832ce607c3f4550121ca",
+          "1ee2547b8ce4d9978ba6"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Rebeckah Elisabeth Caroline Stensson.",
+        "claim_ids": [
+          "d95a647f5fc08eb3e05b"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Jenny Cecilie Irmelinsdatter Grahm Kaspersen.",
+        "claim_ids": [
+          "296b1e2324803eaa624d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "296b1e2324803eaa624d",
+          "349010370aad87f9052c",
+          "36e22010db841b5a5040",
+          "5fe265f98f4b0332b8d3",
+          "d95a647f5fc08eb3e05b",
+          "f991206bb773a39cb7a2"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "d2c38edd01fc8510cbc6"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "e272525337f3529217a0"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "d2c38edd01fc8510cbc6"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "d2c38edd01fc8510cbc6"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "d2c38edd01fc8510cbc6"
+        ]
+      }
+    ]
+  }
+}

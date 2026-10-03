@@ -1,0 +1,1182 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0e86dde41cf2c4206a5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e06074a2cb596a88bd5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f58a15d68fd2c3df976d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "309ef5b7452224941191",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "73afb9ea0d2feb29e21a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f20a9c4cd1949b7baf7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8b19a647afecb95420bc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eba64ad298618f5757ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "46a2c7aa26529b16335b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "484d39131c8b82609ca3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b02a8d6273f585d1ddef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9ba913bee451a2fa2ca8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "02ecdcb01679a4f29ef1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "08c967dd62dbc0a5fa06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "33085bebaacb1161b328",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1809f1956e8d7b4529fc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-918880550-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ebd32929750ac19d56e4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918880550"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "43.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "770ba8964fddcd1389d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918880550"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e3fd1bbbf0a2feb514d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-918880550"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "O.B. MASKIN AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "5045fc654af5a094f457",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918880550-a7a8a08311ec"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Havtor Linde Coztiny",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8eaf32a8ede22edafe20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918880550-a293bfd621f1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Olav Bratland",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9d451a41217fd482aa3d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-918880550-8a763c0768b3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:15Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:15Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Olav Bratland",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: profit_before_tax: 0.0, annual_result: 0.0, assets: 30000.0, equity: 30000.0, debt: 0.0",
+      "content_sha256": "2c065338341212cec34cd7cbcfece93e5d77a64837172fb5f468aab3e22adba4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "http_status": 200,
+      "id": "ev-fin-918880550-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:11.031217Z",
+      "snapshot_ref": "2c/2c065338341212cec34cd7cbcfece93e5d77a64837172fb5f468aab3e22adba4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: profit_before_tax: 0.0, annual_result: 0.0, assets: 30000.0, equity: 30000.0, debt: 0.0",
+      "content_sha256": "768e06570434b29a2d128f5b743d824644b695a6831935e4962806da99b6dca4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "http_status": 200,
+      "id": "ev-fin-918880550-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:11.031217Z",
+      "snapshot_ref": "76/768e06570434b29a2d128f5b743d824644b695a6831935e4962806da99b6dca4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: 0.0, profit_before_tax: 0.0, annual_result: 0.0, assets: 30000.0, equity: 30000.0",
+      "content_sha256": "52b2e83a8ce56a72260cc26403e298cc3c9dd4d2ca8adfe69ee6882d1650f2eb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "http_status": 200,
+      "id": "ev-fin-918880550-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:11.031217Z",
+      "snapshot_ref": "52/52b2e83a8ce56a72260cc26403e298cc3c9dd4d2ca8adfe69ee6882d1650f2eb.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 918880550 O.B. MASKIN AS",
+      "content_sha256": "f890e0debb94d3d385c8ebfc94dd70a262d1b00f8fb45d5abcfe6554e3cfd853",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-918880550",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "f8/f890e0debb94d3d385c8ebfc94dd70a262d1b00f8fb45d5abcfe6554e3cfd853.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Olav Bratland",
+      "content_sha256": "7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "http_status": 200,
+      "id": "ev-role-918880550-8a763c0768b3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:12.150741Z",
+      "snapshot_ref": "7a/7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Olav Bratland",
+      "content_sha256": "7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "http_status": 200,
+      "id": "ev-role-918880550-a293bfd621f1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:12.150741Z",
+      "snapshot_ref": "7a/7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Lars Havtor Linde Coztiny",
+      "content_sha256": "7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "http_status": 200,
+      "id": "ev-role-918880550-a7a8a08311ec",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:12.150741Z",
+      "snapshot_ref": "7a/7a399c9b0f2cbba6a15c63a11c52ce77022821ff5e328747d2d4d86598ed18bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02ecdcb01679a4f29ef1",
+        "08c967dd62dbc0a5fa06",
+        "0e86dde41cf2c4206a5d",
+        "1809f1956e8d7b4529fc",
+        "1e06074a2cb596a88bd5",
+        "309ef5b7452224941191",
+        "33085bebaacb1161b328",
+        "46a2c7aa26529b16335b",
+        "484d39131c8b82609ca3",
+        "73afb9ea0d2feb29e21a",
+        "8b19a647afecb95420bc",
+        "9ba913bee451a2fa2ca8",
+        "b02a8d6273f585d1ddef",
+        "eba64ad298618f5757ed",
+        "f20a9c4cd1949b7baf7a",
+        "f58a15d68fd2c3df976d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "770ba8964fddcd1389d8",
+        "9e3fd1bbbf0a2feb514d",
+        "ebd32929750ac19d56e4"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "5045fc654af5a094f457",
+        "8eaf32a8ede22edafe20",
+        "9d451a41217fd482aa3d"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "9e3fd1bbbf0a2feb514d",
+      "770ba8964fddcd1389d8",
+      "ebd32929750ac19d56e4"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "O.B. MASKIN AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 5682,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "918880550",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:51.411795Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "918880550",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "57e9b68c930832af296bfa6a4f1080f237f053633c2b0b8115549d50bc6ba49f",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:11.031217Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/918880550",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 30000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 5014089,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 30000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 5867097,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": null,
+              "equity": 30000.0,
+              "operating_result": 0.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 6717882,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:13.322884Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/918880550",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "1889afd0292106304da49ed8c134205900783064590603aa832ae8f0a842aaa6",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:14.499084Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=918880550&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "918880550",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Bygg- og anleggsarbeid. Utleie av maskiner, utstyr og personell innen bygg- og anleggsbransjen. Bygging og drift av infrastruktur i private tomtefelt.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "BedriftsHuset B33\nChr. H. Bloms gate 33",
+          "forretningsadresse.kommune": "SKIEN",
+          "forretningsadresse.kommunenummer": "4003",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3717",
+          "forretningsadresse.poststed": "SKIEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2017-04-21",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "300",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2017-04-21",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Grunnarbeid",
+          "naeringskode1.kode": "43.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "O.B. MASKIN AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "918880550",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "c/o Bratland\nBratlandsvegen 3",
+          "postadresse.kommune": "VINJE",
+          "postadresse.kommunenummer": "4036",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "3895",
+          "postadresse.poststed": "EDLAND",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2017-04-21",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2017-04-21",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2017-01-12",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2017-01-12",
+          "vedtektsfestetFormaal": "Bygg- og anleggsvirksomhet, i egen eller annens regi. Utleie av maskiner og personell til bygg- og anleggsbransjen."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "6241a795bb3702dfa11c33087f50e7a73a69c90c3a907af2ac78e70649ec4a8a",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:12.150741Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/918880550/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2017-04-21",
+              "name": "Olav Bratland",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-05",
+              "name": "Olav Bratland",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2026-02-05",
+              "name": "Lars Havtor Linde Coztiny",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "43.120",
+    "industry_label": "Grunnarbeid",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SKIEN",
+    "municipality_number": "4003",
+    "name": "O.B. MASKIN AS",
+    "organisation_number": "918880550",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1125,
+        1171,
+        1171,
+        47,
+        47,
+        468,
+        46,
+        47,
+        342
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:15Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "O.B. MASKIN AS (AS, org.nr 918880550)",
+    "what_it_does": "O.B. MASKIN AS is classified under NACE code 43.120 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, O.B. MASKIN AS reported revenue of 0 NOK and an operating result of 0 NOK. Net result was 0 NOK, with total assets of 30,000 NOK and equity of 30,000 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Olav Bratland. Daily operations are led by general manager Olav Bratland. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "O.B. MASKIN AS is classified under NACE code 43.120 (unspecified).",
+        "claim_ids": [
+          "ebd32929750ac19d56e4",
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "770ba8964fddcd1389d8",
+          "ebd32929750ac19d56e4"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, O.B. MASKIN AS reported revenue of 0 NOK and an operating result of 0 NOK.",
+        "claim_ids": [
+          "1809f1956e8d7b4529fc",
+          "9ba913bee451a2fa2ca8"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 0 NOK, with total assets of 30,000 NOK and equity of 30,000 NOK.",
+        "claim_ids": [
+          "1e06074a2cb596a88bd5",
+          "f20a9c4cd1949b7baf7a",
+          "b02a8d6273f585d1ddef"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Olav Bratland.",
+        "claim_ids": [
+          "8eaf32a8ede22edafe20"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Olav Bratland.",
+        "claim_ids": [
+          "9d451a41217fd482aa3d"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "5045fc654af5a094f457",
+          "8eaf32a8ede22edafe20",
+          "9d451a41217fd482aa3d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "9e3fd1bbbf0a2feb514d"
+        ]
+      }
+    ]
+  }
+}

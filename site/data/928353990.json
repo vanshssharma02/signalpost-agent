@@ -1,0 +1,1573 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2aca3f5624c33f31cd13",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -966.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8adad37277ed5305aea6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -842.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9024643f556e83bffb64",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2743.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "39573d65961ed8c62b1b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20397.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0e9631599159b229598",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22868.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3e755b0a85bfc53328a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20125.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "20f9ba2132fa52d08a49",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1238.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "77d82f02d1cb12e12abc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b45b933d2212b53d54f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "681686b1f20f7b66ac3f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22868.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a4a364bcfd29f6c4a376",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20125.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a87a5353fe42a4fdd9d2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19160.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0f33571c8ea3bc866a1d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3516.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "127bd6c25555af53684f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1080.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "48214cb41db2191f3c74",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1238.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "06c3ce3f174ba7d06416",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1080.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "11b8750db83ebcfac851",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3516.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc5f0f5704e1ab8cc593",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928353990-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1238.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f8897650c12f86db174",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928353990"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "85.330"
+    },
+    {
+      "availability": "available",
+      "claim_id": "68a253237a5affb4d75d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928353990"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1a5695ee33a02555cf33",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928353990"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "DATAPOWER SKOLE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "29467d2ce8f5941f8f62",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-56b1c9e9b619"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Odd-Steinar Olsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "83bc4bfae55df069c263",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-85b564fa311d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Einar Kvemo",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f8e5503de9f037e87b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-71cd514788b5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Gunn Elisabeth Guldahl",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b0bef4c1060120db6e64",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-e77022d4dae0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kirsti Brandsegg Arntsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c0d7b22bd1687cfe4ac9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-8cda3040e654"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rune Johansen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c58a17d3b71a66f3d8c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-36eb1f4189dc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Morten Stene",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d51228a1e7f6970f4763",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-05b38734a1f3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Joar Nyborg",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f45bb3d9a8367931e883",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-36ffa7a331f7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tommy Stian Ellingsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6eec4eeff1ce803ff19",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-31dee9d4e5e9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rune Leknes",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fdb6e1583a0b10a36e45",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928353990-e04d52d9e66c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ingrid Dahl Furunes",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -1080.0, profit_before_tax: -1080.0, annual_result: -842.0, assets: 22868.0, equity: 22868.0, debt: 0.0",
+      "content_sha256": "32bf0e6ec99aed4d14c192108badc8437081292cd5982e178556775101518aa3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "http_status": 200,
+      "id": "ev-fin-928353990-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:00.272741Z",
+      "snapshot_ref": "32/32bf0e6ec99aed4d14c192108badc8437081292cd5982e178556775101518aa3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -3516.0, profit_before_tax: -3516.0, annual_result: -2743.0, assets: 20125.0, equity: 20125.0, debt: 0.0",
+      "content_sha256": "9681685bd020fa244d83be8b48133ef9555de9a27b50efba66d32ae8ce637a20",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "http_status": 200,
+      "id": "ev-fin-928353990-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:00.272741Z",
+      "snapshot_ref": "96/9681685bd020fa244d83be8b48133ef9555de9a27b50efba66d32ae8ce637a20.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -1238.0, profit_before_tax: -1238.0, annual_result: -966.0, assets: 20397.0, equity: 19160.0, debt: 1238.0",
+      "content_sha256": "6e7096e0b48011c1ce47b537d44eadde21f287d31a570280e235b9914029a742",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "http_status": 200,
+      "id": "ev-fin-928353990-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:00.272741Z",
+      "snapshot_ref": "6e/6e7096e0b48011c1ce47b537d44eadde21f287d31a570280e235b9914029a742.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 928353990 DATAPOWER SKOLE AS",
+      "content_sha256": "42e2ca086bed9ed61b845f3785359e190a4e11c8f18798fb139c469b91054928",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-928353990",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "42/42e2ca086bed9ed61b845f3785359e190a4e11c8f18798fb139c469b91054928.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Joar Nyborg",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-05b38734a1f3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Rune Leknes",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-31dee9d4e5e9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Morten Stene",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-36eb1f4189dc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Tommy Stian Ellingsen",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-36ffa7a331f7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Odd-Steinar Olsen",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-56b1c9e9b619",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Gunn Elisabeth Guldahl",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-71cd514788b5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Einar Kvemo",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-85b564fa311d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Rune Johansen",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-8cda3040e654",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ingrid Dahl Furunes",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-e04d52d9e66c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kirsti Brandsegg Arntsen",
+      "content_sha256": "fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "http_status": 200,
+      "id": "ev-role-928353990-e77022d4dae0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.491722Z",
+      "snapshot_ref": "fc/fcb618e13694fa9a0a40ce062b19c7fc03601511ad90f4dddb83b8ed9a174a41.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "06c3ce3f174ba7d06416",
+        "0f33571c8ea3bc866a1d",
+        "11b8750db83ebcfac851",
+        "127bd6c25555af53684f",
+        "20f9ba2132fa52d08a49",
+        "2aca3f5624c33f31cd13",
+        "39573d65961ed8c62b1b",
+        "48214cb41db2191f3c74",
+        "681686b1f20f7b66ac3f",
+        "77d82f02d1cb12e12abc",
+        "8adad37277ed5305aea6",
+        "9024643f556e83bffb64",
+        "a0e9631599159b229598",
+        "a4a364bcfd29f6c4a376",
+        "a87a5353fe42a4fdd9d2",
+        "b45b933d2212b53d54f4",
+        "cc5f0f5704e1ab8cc593",
+        "f3e755b0a85bfc53328a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1a5695ee33a02555cf33",
+        "3f8897650c12f86db174",
+        "68a253237a5affb4d75d"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "29467d2ce8f5941f8f62",
+        "83bc4bfae55df069c263",
+        "9f8e5503de9f037e87b3",
+        "b0bef4c1060120db6e64",
+        "c0d7b22bd1687cfe4ac9",
+        "c58a17d3b71a66f3d8c5",
+        "d51228a1e7f6970f4763",
+        "f45bb3d9a8367931e883",
+        "f6eec4eeff1ce803ff19",
+        "fdb6e1583a0b10a36e45"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "1a5695ee33a02555cf33",
+      "68a253237a5affb4d75d",
+      "3f8897650c12f86db174"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "DATAPOWER SKOLE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 13680,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "928353990",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.707765Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "928353990",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "be62bdcff1b99ff8d2fb250cd534402595c7c830d587cf4a388db2db46d89208",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:00.272741Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928353990",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -842.0,
+              "assets": 22868.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 22868.0,
+              "operating_result": -1080.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -1080.0,
+              "record_id": 5274351,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -2743.0,
+              "assets": 20125.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 20125.0,
+              "operating_result": -3516.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -3516.0,
+              "record_id": 5953681,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -966.0,
+              "assets": 20397.0,
+              "currency": "NOK",
+              "debt": 1238.0,
+              "equity": 19160.0,
+              "operating_result": -1238.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -1238.0,
+              "record_id": 7027528,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:02.645176Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/928353990",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "88224fe9dabcad5c557fb48a2ec66bdd67d8e033a8a97da94aa591838e72454c",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:03.852910Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928353990&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "928353990",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Utdanning, fagskolevirksomhet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Hamnegata 20",
+          "forretningsadresse.kommune": "STEINKJER",
+          "forretningsadresse.kommunenummer": "5006",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7714",
+          "forretningsadresse.poststed": "STEINKJER",
+          "fravalgRevisjonBeslutningsDato": "2021-10-22",
+          "fravalgRevisjonDato": "2022-01-04",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-01-04",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Undervisning innenfor kort høyere yrkesfaglig utdanning",
+          "naeringskode1.kode": "85.330",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "DATAPOWER SKOLE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "928353990",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2022-01-04",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2022-01-04",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-10-22",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-10-22",
+          "vedtektsfestetFormaal": "Fagskolevirksomhet, samt det som naturlig står i forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "b166d710cb7d329fedd5d3f57d1b2c31fad9d7d6dc10935b076b326669b2f2f1",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:01.491722Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928353990/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2022-01-04",
+              "name": "Joar Nyborg",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Rune Johansen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Kirsti Brandsegg Arntsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Gunn Elisabeth Guldahl",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Einar Kvemo",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Ingrid Dahl Furunes",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Odd-Steinar Olsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Rune Leknes",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Tommy Stian Ellingsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-07-02",
+              "name": "Morten Stene",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "85.330",
+    "industry_label": "Undervisning innenfor kort høyere yrkesfaglig utdanning",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "STEINKJER",
+    "municipality_number": "5006",
+    "name": "DATAPOWER SKOLE AS",
+    "organisation_number": "928353990",
+    "run_metrics": {
+      "latencies_ms": [
+        1297,
+        1217,
+        1141,
+        1218,
+        31,
+        47,
+        3483,
+        1983,
+        1983,
+        46,
+        78,
+        1156
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:12Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "DATAPOWER SKOLE AS (AS, org.nr 928353990)",
+    "what_it_does": "DATAPOWER SKOLE AS is classified under NACE code 85.330 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -966 NOK, with total assets of 20,397 NOK and equity of 19,160 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Rune Johansen. Daily operations are led by general manager Joar Nyborg. The entity has 10 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "DATAPOWER SKOLE AS is classified under NACE code 85.330 (unspecified).",
+        "claim_ids": [
+          "3f8897650c12f86db174",
+          "1a5695ee33a02555cf33"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "68a253237a5affb4d75d",
+          "3f8897650c12f86db174"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -966 NOK, with total assets of 20,397 NOK and equity of 19,160 NOK.",
+        "claim_ids": [
+          "2aca3f5624c33f31cd13",
+          "39573d65961ed8c62b1b",
+          "a87a5353fe42a4fdd9d2"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "2aca3f5624c33f31cd13"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Rune Johansen.",
+        "claim_ids": [
+          "c0d7b22bd1687cfe4ac9"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Joar Nyborg.",
+        "claim_ids": [
+          "d51228a1e7f6970f4763"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 10 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "29467d2ce8f5941f8f62",
+          "83bc4bfae55df069c263",
+          "9f8e5503de9f037e87b3",
+          "b0bef4c1060120db6e64",
+          "c0d7b22bd1687cfe4ac9",
+          "c58a17d3b71a66f3d8c5"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "1a5695ee33a02555cf33"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "1a5695ee33a02555cf33"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "1a5695ee33a02555cf33"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "1a5695ee33a02555cf33"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "1a5695ee33a02555cf33"
+        ]
+      }
+    ]
+  }
+}

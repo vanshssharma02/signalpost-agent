@@ -1,0 +1,1586 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "07e54f3168788c5e32b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 53145.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "790980137053a27ff729",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13796.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f48c4a0eb093ca3c023",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 54779.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0142cbffa08c38592785",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 668565.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "602f8fe253715da9e1d7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 593378.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "944941b5b296b6ca3747",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 632053.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1da50e8a59e49e85fdb4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2611032.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "87b425cd2a4a81761ae0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2519213.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8a73b757a0ee9ca53f86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2661340.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "29d54901613fa9a16adb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1978980.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "58b2b1e2dff034aba07a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1925835.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e245bb6e28499ce9d2bd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1992776.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8740cd41b5bef9ac8113",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 184140.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a84b155cd7da59bdff2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 181376.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9ae80e0ccbf4e35f6ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 159611.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "76b80f3e7befe30d5b87",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 53145.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ddfe3b2a229aa264e65e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 54779.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6aeffbfc7a4365da418",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13796.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0915991f9adc2d286657",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 424944.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "33f80d321abdcff5ef0a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 455678.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4619111349b1fdf826bd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-955098498-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 526684.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b6bfc65fb08871e40bff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-955098498"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "97.001"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f905ad850f622b9d82ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-955098498"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BRL"
+    },
+    {
+      "availability": "available",
+      "claim_id": "88572dc7ef0f03d023fe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-955098498"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BL ØVREGATA 3 AL"
+    },
+    {
+      "availability": "available",
+      "claim_id": "004e8005dbab4483f82c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-671132be2064"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Yogendran Pathmanathan",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3503f8a752a583663e74",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-578637758cac"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "OBOS EIENDOMSFORVALTNING AS",
+        "role": "Forretningsfører",
+        "role_code": "FFØR"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "694a7e6fd9c89061edf2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-4ca74193a149"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ingeborg Sørvik Busch",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "aaa775347f0589c30af2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-348702d597f3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Johann Barstad Lade",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b29d8b143d9403290e61",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-b1558a2a45e1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE BOREALIS AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c90bf55c1d791279336d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-9ec38515c7b5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "OBOS EIENDOMSFORVALTNING AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d1fd053c794a4e6b3bc6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-955098498-175c40783d34"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Thea Liavaag Ellefsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa50b17e69185524dafc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-955098498-995103133"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:41Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "OBOS Eiendomsforvaltning AS",
+            "Ystenesgata 6B"
+          ],
+          "kommune": "ÅLESUND",
+          "kommunenummer": "1508",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6003",
+          "poststed": "ÅLESUND"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "kode": "97.001"
+        },
+        "name": "BL ØVREGATA 3 AL",
+        "organisation_number": "995103133"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 424944.0, operating_result: 184140.0, profit_before_tax: 54779.0, annual_result: 54779.0, assets: 668565.0, equity: -1992776.0, debt: 2661340.0",
+      "content_sha256": "2797aee4819fd3aaf60bfc7925a64296dca389660a8ac63ce2430479bd5700b1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "http_status": 200,
+      "id": "ev-fin-955098498-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.349400Z",
+      "snapshot_ref": "27/2797aee4819fd3aaf60bfc7925a64296dca389660a8ac63ce2430479bd5700b1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 455678.0, operating_result: 159611.0, profit_before_tax: 13796.0, annual_result: 13796.0, assets: 632053.0, equity: -1978980.0, debt: 2611032.0",
+      "content_sha256": "18e2c0bb7fb62007e1911facbb9f65714c4e73399891cffabc65f52915f904d5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "http_status": 200,
+      "id": "ev-fin-955098498-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.349400Z",
+      "snapshot_ref": "18/18e2c0bb7fb62007e1911facbb9f65714c4e73399891cffabc65f52915f904d5.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 526684.0, operating_result: 181376.0, profit_before_tax: 53145.0, annual_result: 53145.0, assets: 593378.0, equity: -1925835.0, debt: 2519213.0",
+      "content_sha256": "f9d9f6fa2246a47a237185aa0f56d5670e722b51586278522e5156a5b7d6dedb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "http_status": 200,
+      "id": "ev-fin-955098498-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.349400Z",
+      "snapshot_ref": "f9/f9d9f6fa2246a47a237185aa0f56d5670e722b51586278522e5156a5b7d6dedb.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 995103133: BL ØVREGATA 3 AL",
+      "content_sha256": "be9bdb5388dd5a6b3f9bc0ad18e3c4c3aee612da6c6316403a2859ebf3feccbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=955098498&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-955098498-995103133",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.934153Z",
+      "snapshot_ref": "be/be9bdb5388dd5a6b3f9bc0ad18e3c4c3aee612da6c6316403a2859ebf3feccbd.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=955098498&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 955098498 BL ØVREGATA 3 AL",
+      "content_sha256": "43479393623d8f6767250e872899afc4259ba6aca3b808696fad04732e49b29b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-955098498",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "43/43479393623d8f6767250e872899afc4259ba6aca3b808696fad04732e49b29b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Thea Liavaag Ellefsen",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-175c40783d34",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Johann Barstad Lade",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-348702d597f3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Ingeborg Sørvik Busch",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-4ca74193a149",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role FFØR: OBOS EIENDOMSFORVALTNING AS",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-578637758cac",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Yogendran Pathmanathan",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-671132be2064",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: OBOS EIENDOMSFORVALTNING AS",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-9ec38515c7b5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE BOREALIS AS",
+      "content_sha256": "beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "http_status": 200,
+      "id": "ev-role-955098498-b1558a2a45e1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.563880Z",
+      "snapshot_ref": "be/beb5654c388d6d8e1e18fec7ff3f7064eaeb1dde948650844884a920ca391fbd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0142cbffa08c38592785",
+        "07e54f3168788c5e32b3",
+        "0915991f9adc2d286657",
+        "1da50e8a59e49e85fdb4",
+        "29d54901613fa9a16adb",
+        "33f80d321abdcff5ef0a",
+        "4619111349b1fdf826bd",
+        "58b2b1e2dff034aba07a",
+        "602f8fe253715da9e1d7",
+        "76b80f3e7befe30d5b87",
+        "790980137053a27ff729",
+        "7f48c4a0eb093ca3c023",
+        "8740cd41b5bef9ac8113",
+        "87b425cd2a4a81761ae0",
+        "8a73b757a0ee9ca53f86",
+        "944941b5b296b6ca3747",
+        "9a84b155cd7da59bdff2",
+        "ddfe3b2a229aa264e65e",
+        "e245bb6e28499ce9d2bd",
+        "e9ae80e0ccbf4e35f6ad",
+        "f6aeffbfc7a4365da418"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "88572dc7ef0f03d023fe",
+        "b6bfc65fb08871e40bff",
+        "f905ad850f622b9d82ca"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "004e8005dbab4483f82c",
+        "3503f8a752a583663e74",
+        "694a7e6fd9c89061edf2",
+        "aaa775347f0589c30af2",
+        "b29d8b143d9403290e61",
+        "c90bf55c1d791279336d",
+        "d1fd053c794a4e6b3bc6"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "fa50b17e69185524dafc"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "88572dc7ef0f03d023fe",
+      "f905ad850f622b9d82ca",
+      "b6bfc65fb08871e40bff"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "BL ØVREGATA 3 AL"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 19,
+    "runtime_ms": 16147,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "955098498",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.440573Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "955098498",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "BRL",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "de16af98f8ff99d8739cb928da2e01c2d6c0aa310dd13bbd1e34ac9bc719cbe0",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.349400Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/955098498",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 54779.0,
+              "assets": 668565.0,
+              "currency": "NOK",
+              "debt": 2661340.0,
+              "equity": -1992776.0,
+              "operating_result": 184140.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 54779.0,
+              "record_id": 4900679,
+              "revenue": 424944.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 13796.0,
+              "assets": 632053.0,
+              "currency": "NOK",
+              "debt": 2611032.0,
+              "equity": -1978980.0,
+              "operating_result": 159611.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 13796.0,
+              "record_id": 5529865,
+              "revenue": 455678.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 53145.0,
+              "assets": 593378.0,
+              "currency": "NOK",
+              "debt": 2519213.0,
+              "equity": -1925835.0,
+              "operating_result": 181376.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 53145.0,
+              "record_id": 6482297,
+              "revenue": 526684.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.749443Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/955098498",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "2fb68a786c3d3919dd48e201581564fc9e5481261ba0a066eb4e268f6666eb47",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.934153Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=955098498&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "OBOS Eiendomsforvaltning AS",
+                  "Ystenesgata 6B"
+                ],
+                "kommune": "ÅLESUND",
+                "kommunenummer": "1508",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6003",
+                "poststed": "ÅLESUND"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+                "kode": "97.001"
+              },
+              "name": "BL ØVREGATA 3 AL",
+              "organisation_number": "995103133"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "955098498",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Borettslag.",
+          "antallAnsatte": "",
+          "epostadresse": "ovregata3al@styrerommet.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "OBOS Eiendomsforvaltning AS\nYstenesgata 6B",
+          "forretningsadresse.kommune": "ÅLESUND",
+          "forretningsadresse.kommunenummer": "1508",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6003",
+          "forretningsadresse.poststed": "ÅLESUND",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.obos.no",
+          "institusjonellSektorkode.beskrivelse": "Borettslag o.l.",
+          "institusjonellSektorkode.kode": "8300",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "naeringskode1.kode": "97.001",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "BL ØVREGATA 3 AL",
+          "organisasjonsform.beskrivelse": "Borettslag",
+          "organisasjonsform.kode": "BRL",
+          "organisasjonsnummer": "955098498",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "v/ OBOS Eiendomsforvaltning AS\nPostboks 393 Alnabru",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0614",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "1990-03-09",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "1995-02-19",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1947-09-25",
+          "telefon": "22 86 55 00",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2026-03-18",
+          "vedtektsfestetFormaal": "Borettslag."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "aeb00a5e269a734756cba0c13edac50e435d63aaa4e3872ed234abe6c9e80121",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.563880Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/955098498/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Forretningsfører",
+              "group_code": "FFØR",
+              "inactive": false,
+              "last_changed": "2020-06-17",
+              "name": [
+                "OBOS EIENDOMSFORVALTNING AS"
+              ],
+              "organisation_number": "934261585",
+              "role": "Forretningsfører",
+              "role_code": "FFØR"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-08",
+              "name": "Ingeborg Sørvik Busch",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-08",
+              "name": "Yogendran Pathmanathan",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-08",
+              "name": "Johann Barstad Lade",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-08",
+              "name": "Thea Liavaag Ellefsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-05-08",
+              "name": [
+                "CEDRA NORGE BOREALIS AS"
+              ],
+              "organisation_number": "936295800",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2020-06-17",
+              "name": [
+                "OBOS EIENDOMSFORVALTNING AS"
+              ],
+              "organisation_number": "934261585",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "97.001",
+    "industry_label": "Aktiviteter i borettslag og boligsameier",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "BRL",
+    "liquidating": false,
+    "municipality": "ÅLESUND",
+    "municipality_number": "1508",
+    "name": "BL ØVREGATA 3 AL",
+    "organisation_number": "955098498",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1203,
+        1186,
+        1188,
+        2452,
+        4562,
+        3656,
+        63,
+        46,
+        47,
+        46,
+        78,
+        46,
+        78,
+        46,
+        62,
+        31,
+        62,
+        93
+      ],
+      "requests": 19
+    },
+    "website": "www.obos.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:41Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "BL ØVREGATA 3 AL (BRL, org.nr 955098498)",
+    "what_it_does": "BL ØVREGATA 3 AL is classified under NACE code 97.001 (unspecified).",
+    "business_model": "Operates as a registered BRL entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, BL ØVREGATA 3 AL reported revenue of 526,684 NOK and an operating result of 181,376 NOK. Net result was 53,145 NOK, with total assets of 593,378 NOK and equity of -1,925,835 NOK. Revenue grew by +15.6% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 34.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Ingeborg Sørvik Busch. The entity has 7 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "BL ØVREGATA 3 AL is classified under NACE code 97.001 (unspecified).",
+        "claim_ids": [
+          "b6bfc65fb08871e40bff",
+          "88572dc7ef0f03d023fe"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered BRL entity within the commercial sector.",
+        "claim_ids": [
+          "f905ad850f622b9d82ca",
+          "b6bfc65fb08871e40bff"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, BL ØVREGATA 3 AL reported revenue of 526,684 NOK and an operating result of 181,376 NOK.",
+        "claim_ids": [
+          "4619111349b1fdf826bd",
+          "9a84b155cd7da59bdff2"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 53,145 NOK, with total assets of 593,378 NOK and equity of -1,925,835 NOK.",
+        "claim_ids": [
+          "07e54f3168788c5e32b3",
+          "602f8fe253715da9e1d7",
+          "58b2b1e2dff034aba07a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +15.6% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "4619111349b1fdf826bd",
+          "33f80d321abdcff5ef0a"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 34.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "9a84b155cd7da59bdff2",
+          "4619111349b1fdf826bd"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Ingeborg Sørvik Busch.",
+        "claim_ids": [
+          "694a7e6fd9c89061edf2"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 7 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "004e8005dbab4483f82c",
+          "3503f8a752a583663e74",
+          "694a7e6fd9c89061edf2",
+          "aaa775347f0589c30af2",
+          "b29d8b143d9403290e61",
+          "c90bf55c1d791279336d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "88572dc7ef0f03d023fe"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "fa50b17e69185524dafc"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "88572dc7ef0f03d023fe"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "88572dc7ef0f03d023fe"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "88572dc7ef0f03d023fe"
+        ]
+      }
+    ]
+  }
+}

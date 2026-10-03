@@ -1,0 +1,1323 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "650ea64f6c8a7f5e8beb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79849.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8dfdfb152c3af83e6674",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 77554.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aea0528370f9fe81772c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 168116.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d8e66a345a6de55b260",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 859462.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3d764924dbcf8ac41325",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 681233.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fba85584f6e122f1a3c0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 559174.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab29fef4a101a95412e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 263267.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4d680d4aa3fffb956c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 217211.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f34a85f81b978a1ef502",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 315591.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "072b39c63d5a475fa2ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 543871.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5d7682a522eccce5a852",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 295905.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d1ad5f79c3e90b36247",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 464021.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15bbc99ce8f6fe3f43f9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 110719.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2f45b0a3d6569ffeeb7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 74612.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e5d0a87774fcc0f870f2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 163452.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "448a2642026b238e6740",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 104057.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f51a39a51a011b0bae5e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 94140.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fc7a2ebbc2bb41b2d77d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 205403.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8a1222318a4f0b519c6a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1794857.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "94b3b1e4b3b369f4408d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1494277.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9bddd6a6bb9e5cef7014",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923819800-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1829095.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3b840c3bf892f6bac085",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923819800"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "62.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f4b3bf6c6fa6a443ecd0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923819800"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2ff78efb7bc3b821e89",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923819800"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "DIGITABEL AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "52f9ee3a97346ac1d032",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923819800-a366b87089f7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bård Indredavik",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "889106c67d78a4960456",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923819800-05bbae9d2386"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bård Indredavik",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "49ed0c7d21baa9fc3b45",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-923819800-923844813"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:55Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:55Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Fjellgata 10"
+          ],
+          "kommune": "RAUMA",
+          "kommunenummer": "1539",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6300",
+          "poststed": "ÅNDALSNES"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+          "kode": "62.200"
+        },
+        "name": "DIGITABEL AS",
+        "organisation_number": "923844813"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 1494277.0, operating_result: 74612.0, profit_before_tax: 94140.0, annual_result: 77554.0, assets: 559174.0, equity: 295905.0, debt: 263267.0",
+      "content_sha256": "2c9d221cf5e8cf3d31af1f17f9158cb1931228522e92a6555a4c956e666f3729",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "http_status": 200,
+      "id": "ev-fin-923819800-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.838518Z",
+      "snapshot_ref": "2c/2c9d221cf5e8cf3d31af1f17f9158cb1931228522e92a6555a4c956e666f3729.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 1794857.0, operating_result: 163452.0, profit_before_tax: 205403.0, annual_result: 168116.0, assets: 681233.0, equity: 464021.0, debt: 217211.0",
+      "content_sha256": "8cb2930f602d314268d72402916db6711d5e7b868c68192215d6494da52f0c46",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "http_status": 200,
+      "id": "ev-fin-923819800-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.838518Z",
+      "snapshot_ref": "8c/8cb2930f602d314268d72402916db6711d5e7b868c68192215d6494da52f0c46.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 1829095.0, operating_result: 110719.0, profit_before_tax: 104057.0, annual_result: 79849.0, assets: 859462.0, equity: 543871.0, debt: 315591.0",
+      "content_sha256": "1aea48ef6d4a6f792f114c036f0d5bb24fe52c8fada2e1079f3441055a5ab29d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "http_status": 200,
+      "id": "ev-fin-923819800-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:51.838518Z",
+      "snapshot_ref": "1a/1aea48ef6d4a6f792f114c036f0d5bb24fe52c8fada2e1079f3441055a5ab29d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 923844813: DIGITABEL AS",
+      "content_sha256": "973a38ffb2eb40d1dba640db1e81266cdc82e0a201b29b8f415d03e2a0ca4d23",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923819800&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-923819800-923844813",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:55.422353Z",
+      "snapshot_ref": "97/973a38ffb2eb40d1dba640db1e81266cdc82e0a201b29b8f415d03e2a0ca4d23.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923819800&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 923819800 DIGITABEL AS",
+      "content_sha256": "c4b716d169c87782bee68cc86da0870655f249a6270f187804b9649e839f295d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-923819800",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "c4/c4b716d169c87782bee68cc86da0870655f249a6270f187804b9649e839f295d.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Bård Indredavik",
+      "content_sha256": "5d457d1cb6a95659f2a954d59ce06fe072b95adf3e56b7946de0152a095555bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923819800/roller",
+      "http_status": 200,
+      "id": "ev-role-923819800-05bbae9d2386",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:53.065826Z",
+      "snapshot_ref": "5d/5d457d1cb6a95659f2a954d59ce06fe072b95adf3e56b7946de0152a095555bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923819800/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Bård Indredavik",
+      "content_sha256": "5d457d1cb6a95659f2a954d59ce06fe072b95adf3e56b7946de0152a095555bd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923819800/roller",
+      "http_status": 200,
+      "id": "ev-role-923819800-a366b87089f7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:53.065826Z",
+      "snapshot_ref": "5d/5d457d1cb6a95659f2a954d59ce06fe072b95adf3e56b7946de0152a095555bd.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923819800/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "072b39c63d5a475fa2ee",
+        "15bbc99ce8f6fe3f43f9",
+        "2d8e66a345a6de55b260",
+        "2f45b0a3d6569ffeeb7a",
+        "3d764924dbcf8ac41325",
+        "448a2642026b238e6740",
+        "5d7682a522eccce5a852",
+        "650ea64f6c8a7f5e8beb",
+        "6d1ad5f79c3e90b36247",
+        "8a1222318a4f0b519c6a",
+        "8dfdfb152c3af83e6674",
+        "94b3b1e4b3b369f4408d",
+        "9bddd6a6bb9e5cef7014",
+        "ab29fef4a101a95412e7",
+        "aea0528370f9fe81772c",
+        "d4d680d4aa3fffb956c5",
+        "e5d0a87774fcc0f870f2",
+        "f34a85f81b978a1ef502",
+        "f51a39a51a011b0bae5e",
+        "fba85584f6e122f1a3c0",
+        "fc7a2ebbc2bb41b2d77d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3b840c3bf892f6bac085",
+        "d2ff78efb7bc3b821e89",
+        "f4b3bf6c6fa6a443ecd0"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "52f9ee3a97346ac1d032",
+        "889106c67d78a4960456"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "49ed0c7d21baa9fc3b45"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "d2ff78efb7bc3b821e89",
+      "f4b3bf6c6fa6a443ecd0",
+      "3b840c3bf892f6bac085"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "DIGITABEL AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 4951,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "923819800",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:52.968723Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "923819800",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "07de0a1202365dc3ad484cc70e9beecb9925ba66dc9686ae9063b742e5ab0b88",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:51.838518Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923819800",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 77554.0,
+              "assets": 559174.0,
+              "currency": "NOK",
+              "debt": 263267.0,
+              "equity": 295905.0,
+              "operating_result": 74612.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 94140.0,
+              "record_id": 4793683,
+              "revenue": 1494277.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 168116.0,
+              "assets": 681233.0,
+              "currency": "NOK",
+              "debt": 217211.0,
+              "equity": 464021.0,
+              "operating_result": 163452.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 205403.0,
+              "record_id": 5720159,
+              "revenue": 1794857.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 79849.0,
+              "assets": 859462.0,
+              "currency": "NOK",
+              "debt": 315591.0,
+              "equity": 543871.0,
+              "operating_result": 110719.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 104057.0,
+              "record_id": 6889712,
+              "revenue": 1829095.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:54.211301Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/923819800",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "5ed10d73e02be2a31d197d708f19e33b272727c3a155f397984313192f7fcc4d",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:55.422353Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923819800&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Fjellgata 10"
+                ],
+                "kommune": "RAUMA",
+                "kommunenummer": "1539",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6300",
+                "poststed": "ÅNDALSNES"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+                "kode": "62.200"
+              },
+              "name": "DIGITABEL AS",
+              "organisation_number": "923844813"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "923819800",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Konsulenttjenester innen digitalisering, innovasjon og teknologi.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Fjellgata 10",
+          "forretningsadresse.kommune": "RAUMA",
+          "forretningsadresse.kommunenummer": "1539",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6300",
+          "forretningsadresse.poststed": "ÅNDALSNES",
+          "fravalgRevisjonBeslutningsDato": "2019-10-27",
+          "fravalgRevisjonDato": "2019-11-14",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2019-11-14",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+          "naeringskode1.kode": "62.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "DIGITABEL AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "923819800",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2019-11-14",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-01-06",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2019-11-14",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-10-27",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2019-10-27",
+          "vedtektsfestetFormaal": "Konsulenttjenester innen digitalisering, innovasjon og teknologi."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "39fe8ccacc6996c49f4e0465d7e7b7c8ef27e0db661f5c8636f5e5837f655119",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:53.065826Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923819800/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2019-11-14",
+              "name": "Bård Indredavik",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-11-14",
+              "name": "Bård Indredavik",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "62.200",
+    "industry_label": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "RAUMA",
+    "municipality_number": "1539",
+    "name": "DIGITABEL AS",
+    "organisation_number": "923819800",
+    "run_metrics": {
+      "latencies_ms": [
+        1219,
+        1218,
+        1156,
+        1202,
+        31,
+        125
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:55Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "DIGITABEL AS (AS, org.nr 923819800)",
+    "what_it_does": "DIGITABEL AS is classified under NACE code 62.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, DIGITABEL AS reported revenue of 1,829,095 NOK and an operating result of 110,719 NOK. Net result was 79,849 NOK, with total assets of 859,462 NOK and equity of 543,871 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 6.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Bård Indredavik. Daily operations are led by general manager Bård Indredavik. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "DIGITABEL AS is classified under NACE code 62.200 (unspecified).",
+        "claim_ids": [
+          "3b840c3bf892f6bac085",
+          "d2ff78efb7bc3b821e89"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "f4b3bf6c6fa6a443ecd0",
+          "3b840c3bf892f6bac085"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, DIGITABEL AS reported revenue of 1,829,095 NOK and an operating result of 110,719 NOK.",
+        "claim_ids": [
+          "9bddd6a6bb9e5cef7014",
+          "15bbc99ce8f6fe3f43f9"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 79,849 NOK, with total assets of 859,462 NOK and equity of 543,871 NOK.",
+        "claim_ids": [
+          "650ea64f6c8a7f5e8beb",
+          "2d8e66a345a6de55b260",
+          "072b39c63d5a475fa2ee"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "9bddd6a6bb9e5cef7014",
+          "8a1222318a4f0b519c6a"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 6.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "15bbc99ce8f6fe3f43f9",
+          "9bddd6a6bb9e5cef7014"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Bård Indredavik.",
+        "claim_ids": [
+          "52f9ee3a97346ac1d032"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Bård Indredavik.",
+        "claim_ids": [
+          "889106c67d78a4960456"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "52f9ee3a97346ac1d032",
+          "889106c67d78a4960456"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "d2ff78efb7bc3b821e89"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "49ed0c7d21baa9fc3b45"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "d2ff78efb7bc3b821e89"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "d2ff78efb7bc3b821e89"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "d2ff78efb7bc3b821e89"
+        ]
+      }
+    ]
+  }
+}

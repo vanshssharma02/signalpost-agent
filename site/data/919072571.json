@@ -1,0 +1,1523 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "880c61c1ce81a1030169",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5887179.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d052a26469f23a4a8bb8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6101082.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d599ad2b0cf2ab37e5df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4400866.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ecfbeacb8ab30ce61b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38754039.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "52ca981cec0b121f9257",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44815803.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa0042caea0484f8545a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 50939543.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "105844060a9fca2174f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 470590.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "700454c4344adc2545a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 234028.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a3f70d2c23b734a3d4a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 273346.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "39f0bc7426e299704988",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 50468954.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4ac96597e29537b1fc4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38480692.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e6cbb3caddc3f55300c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44581774.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ca390fedc56ea24c2aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4480031.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9186f4e3e1ff23690805",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5666104.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eeba8f7273a351cdff97",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5917184.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "314b5f0933088b800e04",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6146553.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a019603d6c1c5891b781",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6161141.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c69e016b0bab3653083b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4484668.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5622fa7b0e34533c7bc9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6031669.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b16661738c5b69d3cc84",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4868384.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f53b2ea80aa1b0e71c82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-919072571-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6321173.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d691a428e0ba41b92028",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-919072571"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "85.597"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2729120d599b713e4ec0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-919072571"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ff7b1744562873df4d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-919072571"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BKRAFT HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "25ec951dae929d58a02d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-d340e6bf0095"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tom Eivind Harlem Glover",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "399cd3ee2e6c28cf0211",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-2b03df6334c4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CROWE PARTNER REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ea99f7382ac9aa5acbb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-b15cc4a3385a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anne Margaret Glover",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "607b8a2e1bcceaf0be6c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-baf3e83fe4d2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "SÖDERBERG & PARTNERS REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "67d6c1b08c266b18af52",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-43a14f21851b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Brian James Glover",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "dd9ea71365659d5c5c34",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-919072571-7254fe081b54"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "FORMUE ACCOUNTING AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2b420c0f23803b7ef4a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-919072571-923680489"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:21Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:21Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Myrerskogveien 54E"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0495",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen undervisning ellers",
+          "kode": "85.597"
+        },
+        "name": "BKRAFT HOLDING AS",
+        "organisation_number": "923680489"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 4868384.0, operating_result: 4480031.0, profit_before_tax: 4484668.0, annual_result: 4400866.0, assets: 38754039.0, equity: 38480692.0, debt: 273346.0",
+      "content_sha256": "e5df145894778bb28d8bf4b2f135cea8193ca4b6140cedd98448903e332a1330",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "http_status": 200,
+      "id": "ev-fin-919072571-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:15.079555Z",
+      "snapshot_ref": "e5/e5df145894778bb28d8bf4b2f135cea8193ca4b6140cedd98448903e332a1330.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 6321173.0, operating_result: 5917184.0, profit_before_tax: 6161141.0, annual_result: 6101082.0, assets: 44815803.0, equity: 44581774.0, debt: 234028.0",
+      "content_sha256": "a436bc3ef97b4bb22c94f8bc2ae4c68fb99a66271e7da8b2bc8245d6f3a7eaae",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "http_status": 200,
+      "id": "ev-fin-919072571-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:15.079555Z",
+      "snapshot_ref": "a4/a436bc3ef97b4bb22c94f8bc2ae4c68fb99a66271e7da8b2bc8245d6f3a7eaae.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 6031669.0, operating_result: 5666104.0, profit_before_tax: 6146553.0, annual_result: 5887179.0, assets: 50939543.0, equity: 50468954.0, debt: 470590.0",
+      "content_sha256": "1929e5c135645f8aa08f9f2681f16672ba9957831e8b3ae881251dfed2d04722",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "http_status": 200,
+      "id": "ev-fin-919072571-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:15.079555Z",
+      "snapshot_ref": "19/1929e5c135645f8aa08f9f2681f16672ba9957831e8b3ae881251dfed2d04722.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 923680489: BKRAFT HOLDING AS",
+      "content_sha256": "edfd70642cd4cc7e82dec49f4fa273b9c40dab32219cd65995ba69058df4cdf4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=919072571&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-919072571-923680489",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:18.644889Z",
+      "snapshot_ref": "ed/edfd70642cd4cc7e82dec49f4fa273b9c40dab32219cd65995ba69058df4cdf4.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=919072571&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 919072571 BKRAFT HOLDING AS",
+      "content_sha256": "4ad24d7d38ea23e06fea897a8e74ae43634542abc68eb558e6e93422e444d803",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-919072571",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "4a/4ad24d7d38ea23e06fea897a8e74ae43634542abc68eb558e6e93422e444d803.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CROWE PARTNER REVISJON AS",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-2b03df6334c4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Brian James Glover",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-43a14f21851b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: FORMUE ACCOUNTING AS",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-7254fe081b54",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anne Margaret Glover",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-b15cc4a3385a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: SÖDERBERG & PARTNERS REGNSKAP AS",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-baf3e83fe4d2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tom Eivind Harlem Glover",
+      "content_sha256": "353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "http_status": 200,
+      "id": "ev-role-919072571-d340e6bf0095",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:16.281571Z",
+      "snapshot_ref": "35/353d77d849c8cb610cd26802e06547af4d854bb998b0c2f8fea0d6a24d09e638.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "105844060a9fca2174f4",
+        "1ca390fedc56ea24c2aa",
+        "1ecfbeacb8ab30ce61b1",
+        "314b5f0933088b800e04",
+        "39f0bc7426e299704988",
+        "52ca981cec0b121f9257",
+        "5622fa7b0e34533c7bc9",
+        "700454c4344adc2545a3",
+        "880c61c1ce81a1030169",
+        "9186f4e3e1ff23690805",
+        "a019603d6c1c5891b781",
+        "a3f70d2c23b734a3d4a3",
+        "b16661738c5b69d3cc84",
+        "c69e016b0bab3653083b",
+        "d052a26469f23a4a8bb8",
+        "d4ac96597e29537b1fc4",
+        "d599ad2b0cf2ab37e5df",
+        "e6cbb3caddc3f55300c2",
+        "eeba8f7273a351cdff97",
+        "f53b2ea80aa1b0e71c82",
+        "fa0042caea0484f8545a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2729120d599b713e4ec0",
+        "6ff7b1744562873df4d8",
+        "d691a428e0ba41b92028"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "25ec951dae929d58a02d",
+        "399cd3ee2e6c28cf0211",
+        "5ea99f7382ac9aa5acbb",
+        "607b8a2e1bcceaf0be6c",
+        "67d6c1b08c266b18af52",
+        "dd9ea71365659d5c5c34"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "e2b420c0f23803b7ef4a"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "6ff7b1744562873df4d8",
+      "2729120d599b713e4ec0",
+      "d691a428e0ba41b92028"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "BKRAFT HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 7,
+    "runtime_ms": 7339,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "919072571",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:51.461993Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "919072571",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "410c2be7de083a4753c228fa10132d66904d4cbbf7d615dedeb081cfb08acae2",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:15.079555Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/919072571",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 4400866.0,
+              "assets": 38754039.0,
+              "currency": "NOK",
+              "debt": 273346.0,
+              "equity": 38480692.0,
+              "operating_result": 4480031.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 4484668.0,
+              "record_id": 5078429,
+              "revenue": 4868384.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 6101082.0,
+              "assets": 44815803.0,
+              "currency": "NOK",
+              "debt": 234028.0,
+              "equity": 44581774.0,
+              "operating_result": 5917184.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 6161141.0,
+              "record_id": 6090929,
+              "revenue": 6321173.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 5887179.0,
+              "assets": 50939543.0,
+              "currency": "NOK",
+              "debt": 470590.0,
+              "equity": 50468954.0,
+              "operating_result": 5666104.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 6146553.0,
+              "record_id": 7021230,
+              "revenue": 6031669.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:17.499472Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/919072571",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a229a45523f200cdef26031bf15a8372092f9d3654fe565c3f976a75018be008",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:18.644889Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=919072571&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Myrerskogveien 54E"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0495",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen undervisning ellers",
+                "kode": "85.597"
+              },
+              "name": "BKRAFT HOLDING AS",
+              "organisation_number": "923680489"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "919072571",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investering i og deltagelse i andre selskaper gjennom aksjebesittelse eller på annen måte. Undervisning.",
+          "antallAnsatte": "",
+          "epostadresse": "holding@bkraft.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Myrerskogveien 54E",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0495",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100000",
+          "kapital.belop": "120000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-12-15",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "92828197",
+          "naeringskode1.beskrivelse": "Annen undervisning ellers",
+          "naeringskode1.kode": "85.597",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "BKRAFT HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "919072571",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2017-06-01",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2017-06-01",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2017-05-19",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-11-28",
+          "vedtektsfestetFormaal": "Investering i og deltagelse i andre selskaper gjennom aksjebesittelse eller på annen måte."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "52449ff384c4b4bd97866d0b7791d0f56072684a4b63630c53b7d73e8dd36649",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:16.281571Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/919072571/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-10-23",
+              "name": "Brian James Glover",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-10-23",
+              "name": "Tom Eivind Harlem Glover",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-10-23",
+              "name": "Anne Margaret Glover",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2019-10-24",
+              "name": [
+                "CROWE PARTNER REVISJON AS"
+              ],
+              "organisation_number": "922829845",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": true,
+              "last_changed": "2026-09-17",
+              "name": [
+                "FORMUE ACCOUNTING AS"
+              ],
+              "organisation_number": "889990082",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2026-09-17",
+              "name": [
+                "SÖDERBERG & PARTNERS REGNSKAP AS"
+              ],
+              "organisation_number": "931237764",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "85.597",
+    "industry_label": "Annen undervisning ellers",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "BKRAFT HOLDING AS",
+    "organisation_number": "919072571",
+    "run_metrics": {
+      "latencies_ms": [
+        1139,
+        1203,
+        1217,
+        1141,
+        1483,
+        625,
+        531
+      ],
+      "requests": 7
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:21Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "BKRAFT HOLDING AS (AS, org.nr 919072571)",
+    "what_it_does": "BKRAFT HOLDING AS is classified under NACE code 85.597 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, BKRAFT HOLDING AS reported revenue of 6,031,669 NOK and an operating result of 5,666,104 NOK. Net result was 5,887,179 NOK, with total assets of 50,939,543 NOK and equity of 50,468,954 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 93.9% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Brian James Glover. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "BKRAFT HOLDING AS is classified under NACE code 85.597 (unspecified).",
+        "claim_ids": [
+          "d691a428e0ba41b92028",
+          "6ff7b1744562873df4d8"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "2729120d599b713e4ec0",
+          "d691a428e0ba41b92028"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, BKRAFT HOLDING AS reported revenue of 6,031,669 NOK and an operating result of 5,666,104 NOK.",
+        "claim_ids": [
+          "5622fa7b0e34533c7bc9",
+          "9186f4e3e1ff23690805"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 5,887,179 NOK, with total assets of 50,939,543 NOK and equity of 50,468,954 NOK.",
+        "claim_ids": [
+          "880c61c1ce81a1030169",
+          "fa0042caea0484f8545a",
+          "39f0bc7426e299704988"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "5622fa7b0e34533c7bc9",
+          "f53b2ea80aa1b0e71c82"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 93.9% (derived: operating result / revenue).",
+        "claim_ids": [
+          "9186f4e3e1ff23690805",
+          "5622fa7b0e34533c7bc9"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Brian James Glover.",
+        "claim_ids": [
+          "67d6c1b08c266b18af52"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "25ec951dae929d58a02d",
+          "399cd3ee2e6c28cf0211",
+          "5ea99f7382ac9aa5acbb",
+          "607b8a2e1bcceaf0be6c",
+          "67d6c1b08c266b18af52",
+          "dd9ea71365659d5c5c34"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "6ff7b1744562873df4d8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "e2b420c0f23803b7ef4a"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "6ff7b1744562873df4d8"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "6ff7b1744562873df4d8"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "6ff7b1744562873df4d8"
+        ]
+      }
+    ]
+  }
+}

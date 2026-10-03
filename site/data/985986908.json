@@ -1,0 +1,1660 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "a597d7b3323598fed7db",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1958808.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b54346772e7879350749",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1903557.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c65c5db66b52c2f90a2c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 787458.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b20d90cc99806f4fa297",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4946028.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bb652cadedc1dd85f0e1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4972860.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e58c1b92aa1b6024a769",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5252861.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "06ccfae957360e1ec81e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4509534.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19bdf351841cd847d341",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4148967.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ade9dc5a98feb5d1b979",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4016991.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1b39b219f88559da4858",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 743327.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbcb4b114d6ebdd228b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 797061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c22e41ddaa1950017983",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 955869.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "18c53e37d6757188e770",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1259593.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2041ec5c3e2bf8a8ad11",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2494626.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8de660e3aefea07de093",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2459808.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d9511dc28dfb26271a7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2498649.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "41e6ecd9f038ed7f5553",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2460281.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64bd73b647a00dc01018",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1265677.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "07ed636c53ccaba3e540",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11977099.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "84359b2d2d4ecbe9dbdb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11264388.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc07519d903a4be2f60c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-985986908-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11634264.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f30fe339df6657094039",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-985986908"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Exigo VVS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b18848712a1f7d600c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-985986908"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "71.121"
+    },
+    {
+      "availability": "available",
+      "claim_id": "df11338f62048bed6819",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-985986908"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "638894cd171c22e735ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-985986908"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "EXIGO VVS AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c34cb796c5110dc4a927",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-985986908"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 6
+    },
+    {
+      "availability": "available",
+      "claim_id": "35eb2bdec4abd287b62f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-d1b27111a5c1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Geir Vingelsgaard",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "47d6330242b8e0088584",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-947f0a8e27b1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HVERVEN REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "545f9e7d1899b13f80d6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-314d23a14549"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Geir Vingelsgaard",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "aa9930be95316fbb44f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-baa8389fba3e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Klas Sven Lundberg",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad50e2a1ae34a5d828f8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-eed075394666"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stian Trygve Dørum",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ea7c3a6e909454b20bc1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-1a73fd0aea1f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ECIT ELVERUM AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ed527fa56ce4424c5a0c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-985986908-b6612c763ce5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jarle Kåre Røine",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "04ccf8e1ce4b8007e68a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-985986908-985993327"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Kirkevegen 74"
+          ],
+          "kommune": "ELVERUM",
+          "kommunenummer": "3420",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2413",
+          "poststed": "ELVERUM"
+        },
+        "employees": 6,
+        "industry": {
+          "beskrivelse": "Byggeteknisk konsulentvirksomhet",
+          "kode": "71.121"
+        },
+        "name": "EXIGO VVS AS",
+        "organisation_number": "985993327"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a09ea5b1a45ebc96f482",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-985986908"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:39Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:39Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://exigovvs.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 11264388.0, operating_result: 2494626.0, profit_before_tax: 2498649.0, annual_result: 1903557.0, assets: 4946028.0, equity: 797061.0, debt: 4148967.0",
+      "content_sha256": "6868b3472d36b2ef66460f72c8959a52b991918b4a5b989dbfc0812b075200d9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "http_status": 200,
+      "id": "ev-fin-985986908-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:31.704619Z",
+      "snapshot_ref": "68/6868b3472d36b2ef66460f72c8959a52b991918b4a5b989dbfc0812b075200d9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 11634264.0, operating_result: 2459808.0, profit_before_tax: 2460281.0, annual_result: 1958808.0, assets: 4972860.0, equity: 955869.0, debt: 4016991.0",
+      "content_sha256": "4f8ef42671762a2941ba46ebe267fa8aad25a4247cf4263c20b568decf1cca2f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "http_status": 200,
+      "id": "ev-fin-985986908-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:31.704619Z",
+      "snapshot_ref": "4f/4f8ef42671762a2941ba46ebe267fa8aad25a4247cf4263c20b568decf1cca2f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 11977099.0, operating_result: 1259593.0, profit_before_tax: 1265677.0, annual_result: 787458.0, assets: 5252861.0, equity: 743327.0, debt: 4509534.0",
+      "content_sha256": "1737a21291b5f8b46f25fa1d0df74f2f8633d4ba57912cf0c9227613e2457cea",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "http_status": 200,
+      "id": "ev-fin-985986908-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:31.704619Z",
+      "snapshot_ref": "17/1737a21291b5f8b46f25fa1d0df74f2f8633d4ba57912cf0c9227613e2457cea.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 985993327: EXIGO VVS AS",
+      "content_sha256": "c8e88e56f2f5cd6b921c6c171190ef6ce40fe0a0870eac5f94849b21ba1cd914",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=985986908&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-985986908-985993327",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:35.184923Z",
+      "snapshot_ref": "c8/c8e88e56f2f5cd6b921c6c171190ef6ce40fe0a0870eac5f94849b21ba1cd914.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=985986908&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 985986908 EXIGO VVS AS",
+      "content_sha256": "2da4a7ea4d8b18617362b808ab0cbb7461d24ae42f8668e7c7472745dd264f25",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-985986908",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "2d/2da4a7ea4d8b18617362b808ab0cbb7461d24ae42f8668e7c7472745dd264f25.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ECIT ELVERUM AS",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-1a73fd0aea1f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Geir Vingelsgaard",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-314d23a14549",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: HVERVEN REVISJON AS",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-947f0a8e27b1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jarle Kåre Røine",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-b6612c763ce5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Klas Sven Lundberg",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-baa8389fba3e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Geir Vingelsgaard",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-d1b27111a5c1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Stian Trygve Dørum",
+      "content_sha256": "255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "http_status": 200,
+      "id": "ev-role-985986908-eed075394666",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:32.853219Z",
+      "snapshot_ref": "25/255a93fcad23dbb43bd2b6fde2d8fdafff11e5812a70fa1c002c8928c90448ef.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "ådgivende ingeniører Exigo VVS rådgivende ingeniører Org.nr 985 986 908 Personvern & cookies: Dette nettstedet bruker informasjonsk",
+      "content_sha256": "76845027fcea4270f3b79b43ab640fcca281e13cf5731ae309368d77246a34ee",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://exigovvs.no/",
+      "http_status": 200,
+      "id": "ev-web-985986908",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39Z",
+      "snapshot_ref": "76/76845027fcea4270f3b79b43ab640fcca281e13cf5731ae309368d77246a34ee.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.exigovvs.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "06ccfae957360e1ec81e",
+        "07ed636c53ccaba3e540",
+        "0d9511dc28dfb26271a7",
+        "18c53e37d6757188e770",
+        "19bdf351841cd847d341",
+        "1b39b219f88559da4858",
+        "2041ec5c3e2bf8a8ad11",
+        "41e6ecd9f038ed7f5553",
+        "64bd73b647a00dc01018",
+        "84359b2d2d4ecbe9dbdb",
+        "8de660e3aefea07de093",
+        "a597d7b3323598fed7db",
+        "ade9dc5a98feb5d1b979",
+        "b20d90cc99806f4fa297",
+        "b54346772e7879350749",
+        "bb652cadedc1dd85f0e1",
+        "bbcb4b114d6ebdd228b0",
+        "c22e41ddaa1950017983",
+        "c65c5db66b52c2f90a2c",
+        "dc07519d903a4be2f60c",
+        "e58c1b92aa1b6024a769"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f30fe339df6657094039"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "638894cd171c22e735ad",
+        "7b18848712a1f7d600c6",
+        "c34cb796c5110dc4a927",
+        "df11338f62048bed6819"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "35eb2bdec4abd287b62f",
+        "47d6330242b8e0088584",
+        "545f9e7d1899b13f80d6",
+        "aa9930be95316fbb44f6",
+        "ad50e2a1ae34a5d828f8",
+        "ea7c3a6e909454b20bc1",
+        "ed527fa56ce4424c5a0c"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04ccf8e1ce4b8007e68a"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a09ea5b1a45ebc96f482"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "638894cd171c22e735ad",
+      "df11338f62048bed6819",
+      "c34cb796c5110dc4a927",
+      "7b18848712a1f7d600c6"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "EXIGO VVS AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 8873,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "985986908",
+  "profile": {
+    "bankrupt": false,
+    "employees": 6,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:01.474109Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "985986908",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "9f890e5c010c03dfb30764be5f3640876107a4a6fcee3bde522d4aae1e240d55",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:31.704619Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/985986908",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1903557.0,
+              "assets": 4946028.0,
+              "currency": "NOK",
+              "debt": 4148967.0,
+              "equity": 797061.0,
+              "operating_result": 2494626.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 2498649.0,
+              "record_id": 4720857,
+              "revenue": 11264388.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1958808.0,
+              "assets": 4972860.0,
+              "currency": "NOK",
+              "debt": 4016991.0,
+              "equity": 955869.0,
+              "operating_result": 2459808.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 2460281.0,
+              "record_id": 5507335,
+              "revenue": 11634264.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 787458.0,
+              "assets": 5252861.0,
+              "currency": "NOK",
+              "debt": 4509534.0,
+              "equity": 743327.0,
+              "operating_result": 1259593.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1265677.0,
+              "record_id": 6508245,
+              "revenue": 11977099.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:34.005897Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/985986908",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "e980fac52562c459a602cc58079f0faa4f01d8ddac671c6d769e900fab272209",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:35.184923Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=985986908&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Kirkevegen 74"
+                ],
+                "kommune": "ELVERUM",
+                "kommunenummer": "3420",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2413",
+                "poststed": "ELVERUM"
+              },
+              "employees": 6,
+              "industry": {
+                "beskrivelse": "Byggeteknisk konsulentvirksomhet",
+                "kode": "71.121"
+              },
+              "name": "EXIGO VVS AS",
+              "organisation_number": "985993327"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "985986908",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Levere tjenester, herunder levere tekniske tegninger og datatjenester til byggebransjen samt hva som herved står i forbindelse og deltagelse i andre virksomheter.",
+          "antallAnsatte": "6",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kirkevegen 74",
+          "forretningsadresse.kommune": "ELVERUM",
+          "forretningsadresse.kommunenummer": "3420",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2413",
+          "forretningsadresse.poststed": "ELVERUM",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.exigovvs.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "10000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2019-04-10",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Byggeteknisk konsulentvirksomhet",
+          "naeringskode1.kode": "71.121",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "EXIGO VVS AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "985986908",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-12",
+          "registreringsdatoForetaksregisteret": "2003-08-30",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2003-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2003-09-06",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-05-10",
+          "registreringsdatoenhetsregisteret": "2003-08-30",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2003-08-19",
+          "telefon": "62 40 97 97",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2019-03-01",
+          "vedtektsfestetFormaal": "Drive rådgivende ingeniørvirksomhet og dertil knyttet virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "2595de92c80fd6243deb71f4910879b6e2fa5ab84f762dd6e684d7dfbb8a98af",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:32.853219Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/985986908/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2017-06-22",
+              "name": "Geir Vingelsgaard",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-07-09",
+              "name": "Stian Trygve Dørum",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-07-09",
+              "name": "Jarle Kåre Røine",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-07-09",
+              "name": "Geir Vingelsgaard",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-07-09",
+              "name": "Klas Sven Lundberg",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2024-07-05",
+              "name": [
+                "HVERVEN REVISJON AS"
+              ],
+              "organisation_number": "979290861",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-05-06",
+              "name": [
+                "ECIT ELVERUM AS"
+              ],
+              "organisation_number": "923758941",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:39Z",
+        "source_url": "https://www.exigovvs.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Exigo VVS",
+          "claim_span": "ådgivende ingeniører Exigo VVS rådgivende ingeniører Org.nr 985 986 908 Personvern & cookies: Dette nettstedet bruker informasjonsk",
+          "final_url": "https://exigovvs.no/",
+          "homepage": "https://www.exigovvs.no/",
+          "page_html": "\n<!DOCTYPE html>\n<html lang=\"nb-NO\">\n<head>\n<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\" />\n<link rel=\"pingback\" href=\"https://exigovvs.no/xmlrpc.php\" />\n<title>Exigo VVS &#8211; rådgivende ingeniører</title>\n<meta name='robots' content='max-image-preview:large' />\n<link rel='dns-prefetch' href='//secure.gravatar.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel='dns-prefetch' href='//v0.wordpress.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Exigo VVS &raquo; strøm\" href=\"https://exigovvs.no/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Exigo VVS &raquo; kommentarstrøm\" href=\"https://exigovvs.no/comments/feed/\" />\n<script type=\"text/javascript\">\nwindow._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/exigovvs.no\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.0.16\"}};\n/*! This file is auto-generated */\n!function(e,a,t){var n,r,o,i=a.createElement(\"canvas\"),p=i.getContext&&i.getContext(\"2d\");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(o=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline=\"top\",p.font=\"600 32px Arial\",e){case\"flag\":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case\"emoji\":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],\"flag\"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);\n</script>\n<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 0.07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet' id='wp-block-library-css'  href='https://exigovvs.no/wp-includes/css/dist/block-library/style.min.css?ver=6.0.16' type='text/css' media='all' />\n<style id='wp-block-library-inline-css' type='text/css'>\n.has-text-align-justify{text-align:justify;}\n</style>\n<link rel='stylesheet' id='mediaelement-css'  href='https://exigovvs.no/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />\n<link rel='stylesheet' id='wp-mediaelement-css'  href='https://exigovvs.no/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.16' type='text/css' media='all' />\n<style id='global-styles-inline-css' type='text/css'>\nbody{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n</style>\n<link rel='stylesheet' id='accelerate_style-css'  href='https://exigovvs.no/wp-content/themes/accelerate-pro/style.css?ver=6.0.16' type='text/css' media='all' />\n<link rel='stylesheet' id='accelerate_googlefonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=6.0.16' type='text/css' media='all' />\n<link rel='stylesheet' id='accelerate-fontawesome-css'  href='https://exigovvs.no/wp-content/themes/accelerate-pro/fontawesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />\n<link rel='stylesheet' id='jetpack_css-css'  href='https://exigovvs.no/wp-content/plugins/jetpack/css/jetpack.css?ver=12.0.3' type='text/css' media='all' />\n<script type='text/javascript' src='https://exigovvs.no/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>\n<!--[if lte IE 8]>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/html5shiv.js?ver=3.7.3' id='html5shiv-js'></script>\n<![endif]-->\n<link rel=\"https://api.w.org/\" href=\"https://exigovvs.no/wp-json/\" /><link rel=\"alternate\" type=\"application/json\" href=\"https://exigovvs.no/wp-json/wp/v2/pages/6\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://exigovvs.no/xmlrpc.php?rsd\" />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://exigovvs.no/wp-includes/wlwmanifest.xml\" /> \n<meta name=\"generator\" content=\"WordPress 6.0.16\" />\n<link rel=\"canonical\" href=\"https://exigovvs.no/\" />\n<link rel='shortlink' href='https://wp.me/P8CcFR-6' />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://exigovvs.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexigovvs.no%2F\" />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://exigovvs.no/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fexigovvs.no%2F&#038;format=xml\" />\n\t<style>img#wpstats{display:none}</style>\n\t\t\n<!-- Jetpack Open Graph Tags -->\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:title\" content=\"Exigo VVS\" />\n<meta property=\"og:description\" content=\"rådgivende ingeniører\" />\n<meta property=\"og:url\" content=\"https://exigovvs.no/\" />\n<meta property=\"og:site_name\" content=\"Exigo VVS\" />\n<meta property=\"og:image\" content=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS.png\" />\n<meta property=\"og:image:width\" content=\"512\" />\n<meta property=\"og:image:height\" content=\"512\" />\n<meta property=\"og:image:alt\" content=\"\" />\n<meta property=\"og:locale\" content=\"nb_NO\" />\n<meta name=\"twitter:text:title\" content=\"Velkommen\" />\n<meta name=\"twitter:image\" content=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS-270x270.png\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n\n<!-- End Jetpack Open Graph Tags -->\n<link rel=\"icon\" href=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS-32x32.png\" sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS-192x192.png\" sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS-180x180.png\" />\n<meta name=\"msapplication-TileImage\" content=\"https://exigovvs.no/wp-content/uploads/2017/05/cropped-favicon-Exigo-VVS-270x270.png\" />\n\t\t<style type=\"text/css\"> .main-navigation{text-align:center}.main-navigation a,.main-navigation li{display:inline-block;float:none}.main-navigation ul li ul li:last-child{float:left}.main-navigation ul li ul li{float:left;text-align:left}.main-navigation ul li ul li a,.main-navigation ul li ul li.current-menu-item a,.main-navigation ul li.current-menu-ancestor ul li a,.main-navigation ul li.current-menu-item ul li a,.main-navigation ul li.current_page_ancestor ul li a,.main-navigation ul li.current_page_item ul li a{width:172px}\n .accelerate-button,blockquote,button,input[type=button],input[type=reset],input[type=submit]{background-color:#00bffe}#site-title a:hover,.next a:hover,.previous a:hover,a{color:#00bffe}#search-form span,.main-navigation a:hover,.main-navigation ul li ul li a:hover,.main-navigation ul li ul li:hover>a,.main-navigation ul li.current-menu-ancestor a,.main-navigation ul li.current-menu-item a,.main-navigation ul li.current-menu-item ul li a:hover,.main-navigation ul li.current_page_ancestor a,.main-navigation ul li.current_page_item a,.main-navigation ul li:hover>a,.main-small-navigation li:hover > a,.main-navigation ul ul.sub-menu li.current-menu-ancestor> a,.main-navigation ul li.current-menu-ancestor li.current_page_item> a{background-color:#00bffe}.site-header .menu-toggle:before{color:#00bffe}.main-small-navigation li a:hover,.widget_team_block .more-link{background-color:#00bffe}.main-small-navigation .current-menu-item a,.main-small-navigation .current_page_item a,.team-title::b {background:#00bffe}.footer-menu a:hover,.footer-menu ul li.current-menu-ancestor a,.footer-menu ul li.current-menu-item a,.footer-menu ul li.current_page_ancestor a,.footer-menu ul li.current_page_item a,.footer-menu ul li:hover>a,.widget_team_block .team-title:hover>a{color:#00bffe}a.slide-prev,a.slide-next,.slider-title-head .entry-title a{background-color:#00bffe}#controllers a.active,#controllers a:hover,.widget_team_block .team-social-icon a:hover{background-color:#00bffe;color:#00bffe}.format-link .entry-content a{background-color:#00bffe}.tg-one-fourth .widget-title a:hover,.tg-one-half .widget-title a:hover,.tg-one-third .widget-title a:hover,.widget_featured_posts .tg-one-half .entry-title a:hover,.widget_image_service_block .entry-title a:hover,.widget_service_block i.fa,.widget_fun_facts .counter-icon i{color:#00bffe}#content .wp-pagenavi .current,#content .wp-pagenavi a:hover,.pagination span{background-color:#00bffe}.pagination a span:hover{color:#00bffe;border-color:#00bffe}#content .comments-area a.comment-edit-link:hover,#content .comments-area a.comment-permalink:hover,#content .comments-area article header cite a:hover,.comments-area .comment-author-link a:hover,.widget_testimonial .testimonial-icon:before,.widget_testimonial i.fa-quote-left{color:#00bffe}#wp-calendar #today,.comment .comment-reply-link:hover,.nav-next a:hover,.nav-previous a:hover{color:#00bffe}.widget-title span{border-bottom:2px solid #00bffe}#secondary h3 span:before,.footer-widgets-area h3 span:before{color:#00bffe}#secondary .accelerate_tagcloud_widget a:hover,.footer-widgets-area .accelerate_tagcloud_widget a:hover{background-color:#00bffe}.footer-socket-wrapper .copyright a:hover,.footer-widgets-area a:hover{color:#00bffe}a#scroll-up{background-color:#00bffe}.entry-meta .byline i,.entry-meta .cat-links i,.entry-meta a,.post .entry-title a:hover{color:#00bffe}.entry-meta .post-format i{background-color:#00bffe}.entry-meta .comments-link a:hover,.entry-meta .edit-link a:hover,.entry-meta .posted-on a:hover,.entry-meta .tag-links a:hover{color:#00bffe}.more-link span,.read-more{background-color:#00bffe}.single #content .tags a:hover{color:#00bffe}#page{border-top:3px solid #00bffe}.nav-menu li a:hover,.top-menu-toggle:before{color:#00bffe}.footer-socket-wrapper{border-top: 3px solid #00bffe;}.comments-area .comment-author-link span,{background-color:#00bffe}@media screen and (max-width: 767px){.better-responsive-menu .sub-toggle{background-color:#008dcc}}.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button,main-navigation li.menu-item-has-children:hover, .main-small-navigation .current_page_item > a, .main-small-navigation .current-menu-item > a { background-color: #00bffe; } @media(max-width: 1024px) and (min-width: 768px){\n\t\t\t.main-navigation li.menu-item-has-children:hover,.main-navigation li.current_page_item{background:#00bffe;}}.widget_our_clients .clients-cycle-prev, .widget_our_clients .clients-cycle-next{background-color:#00bffe} #site-title a { font-family: \"Open Sans\"; } #site-description { font-family: \"Open Sans\"; } .main-navigation li { font-family: \"Open Sans\"; } .small-menu li { font-family: \"Open Sans\"; } h1, h2, h3, h4, h5, h6, .widget_recent_work .recent_work_title .title_box h5 { font-family: \"Open Sans\"; } body, button, input, select, textarea, p, .entry-meta, .read-more, .more-link, .widget_testimonial .testimonial-author, .widget_testimonial .testimonial-author span { font-family: \"Open Sans\"; } #header-text-nav-container { background-color: #ffffff; }</style>\n\t\t<style type=\"text/css\" id=\"wp-custom-css\">/*\nDu kan legge til din egen CSS her.\n\nKlikk hjelp-ikonet over for å lære mer.\n*/\n#header-text-nav-wrap {\n  padding: 10px 0 20px;\n}</style></head>\n\n<body class=\"home page-template page-template-page-templates page-template-business page-template-page-templatesbusiness-php page page-id-6 wp-custom-logo  better-responsive-menu wide\">\n<div id=\"page\" class=\"hfeed site\">\n\t\t<header id=\"masthead\" class=\"site-header clearfix\">\n\n\t\t\n\t\t<div id=\"header-text-nav-container\" class=\"clearfix\">\n\n\t\t\t\n\t\t\t<div class=\"inner-wrap\">\n\n\t\t\t\t<div id=\"header-text-nav-wrap\" class=\"clearfix\">\n\t\t\t\t\t<div id=\"header-left-section\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"header-logo-image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://exigovvs.no/\" class=\"custom-logo-link\" rel=\"home\" aria-current=\"page\"><img width=\"300\" height=\"137\" src=\"https://exigovvs.no/wp-content/uploads/2017/04/Logo-Exigo-VVS_300px-br.jpg\" class=\"custom-logo\" alt=\"Exigo VVS\" /></a>\t\t\t\t\t\t\t</div><!-- #header-logo-image -->\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"header-text\" class=\"screen-reader-text\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<h1 id=\"site-title\">\n\t\t\t\t\t\t\t\t\t<a href=\"https://exigovvs.no/\" title=\"Exigo VVS\" rel=\"home\">Exigo VVS</a>\n\t\t\t\t\t\t\t\t</h1>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p id=\"site-description\">rådgivende ingeniører</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div><!-- #header-text -->\n\t\t\t\t\t</div><!-- #header-left-section -->\n\t\t\t\t\t<div id=\"header-right-section\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"header-right-sidebar\" class=\"clearfix\">\n\t\t\t\t\t\t<aside id=\"text-3\" class=\"widget widget_text\">\t\t\t<div class=\"textwidget\"><h2><span style=\"color: #00bffe;\">Org.nr 985 986 908</h2></div>\n\t\t</aside><aside id=\"eu_cookie_law_widget-2\" class=\"widget widget_eu_cookie_law_widget\">\n<div\n\tclass=\"hide-on-button\"\n\tdata-hide-timeout=\"30\"\n\tdata-consent-expiration=\"180\"\n\tid=\"eu-cookie-law\"\n>\n\t<form method=\"post\">\n\t\t<input type=\"submit\" value=\"Lukk og aksepter\" class=\"accept\" />\n\t</form>\n\n\tPersonvern &amp; cookies: Dette nettstedet bruker informasjonskapsler (cookies). Ved å fortsette å bruke dette nettstedet aksepterer du dette.<br />\nFor å finne ut mer, inkludert hvordan kontrollere cookies, se her:\n\t\t<a href=\"https://exigovvs.no/personvern/\" rel=\"\">\n\t\tCookie-erklæring\t</a>\n</div>\n</aside>\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t    \t</div><!-- #header-right-section -->\n\n\t\t\t   </div><!-- #header-text-nav-wrap -->\n\n\t\t\t</div><!-- .inner-wrap -->\n\n\t\t\t\n\t\t\t\n\t\t\t<nav id=\"site-navigation\" class=\"main-navigation inner-wrap clearfix\" role=\"navigation\">\n\t\t\t\t<h3 class=\"menu-toggle\">Menu</h3>\n\t\t\t\t<div class=\"menu-primary-container inner-wrap\"><ul id=\"menu-hovedmeny-exigo\" class=\"menu\"><li id=\"menu-item-43\" class=\"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-43\"><a href=\"http://exigovvs.no/\" aria-current=\"page\">Hjem</a></li>\n<li id=\"menu-item-48\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-48\"><a href=\"https://exigovvs.no/kontakt-oss/\">Kontakt oss</a></li>\n<li id=\"menu-item-54\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-54\"><a href=\"https://exigovvs.no/om-oss/\">Om oss</a></li>\n<li id=\"menu-item-71\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-71\"><a href=\"https://exigovvs.no/referanser/\">Referanser</a></li>\n<li id=\"menu-item-343\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-343\"><a href=\"https://exigovvs.no/personvern/\">Personvern</a></li>\n</ul></div>\t\t\t</nav>\n\t\t</div><!-- #header-text-nav-container -->\n\n\t\t\n\t\t\t\t\t\t<section id=\"featured-slider\">\n\t\t\t<div class=\"slider-cycle\">\n\t\t\t\t<div class=\"slider-rotate\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"slides displayblock\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img alt=\"Kort om oss:\" src=\"https://exigovvs.no/wp-content/uploads/2017/04/teknisk-tegning-front-topp.jpg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t\t<div class=\"entry-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"slider-title-head\"><h3 class=\"entry-title\"><a href=\"#\" title=\"Kort om oss:\">Kort om oss:</a></h3></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"entry-content\"><p>Vi tilbyr prosjektering og utarbeidelse av tekniske tegninger og 3D modeller, samt bistand i prosjektledelse innen VVS faget.\nVi benytter oss både av AutoCad og REVIT med MagiCAD som fagapplikasjon.\n</p></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<nav id=\"controllers\" class=\"clearfix\"></nav>\n\t\t\t\t</div>\n\n\t\t\t\t<a class=\"slide-next\" href=\"#\"><i class=\"fa fa-angle-right\"></i></a>\n\t\t\t\t<a class=\"slide-prev\" href=\"#\"><i class=\"fa fa-angle-left\"></i></a>\n\t\t\t</div>\n\n\t\t</section>\n\n\t\t\n\t</header>\n\t\t\t<div id=\"main\" class=\"clearfix\">\n\t\t<div class=\"inner-wrap clearfix\">\n\n<div id=\"content\" class=\"clearfix\">\n\n\t<section id=\"text-4\" class=\"widget widget_text clearfix\">\t\t\t<div class=\"textwidget\"><h3 class=\"widget-title\" style=\"text-align: center;\">Exigo VVS AS har sentral godkjenning innen følgende godkjenningsområder:</h3>\r\n\r\n<h6 style=\"text-align: center;\">- Prosjektering av slukkeinstallasjoner i tiltaksklasse 3<br>\r\n- Prosjektering av sanitærinstallasjoner i tiltaksklasse  3<br>\r\n- Prosjektering av varme- og kuldeinstallasjoner i tiltaksklasse 3<br>\r\n- Prosjektering av ventilasjon- og klimainstallasjoner i tiltaksklasse 3<br>\r\n- Prosjektering av vannforsynings og avløpsinstallasjoner i tiltaksklasse 3<br></h6>\r\n<center><strong>Sertifisert foretak etter FG-910 innen kontroll og prosjektering av sprinkleranlegg.</strong> </center></div>\n\t\t</section>\n</div>\n\n\n\t\t</div><!-- .inner-wrap -->\n\t</div><!-- #main -->\n\t\t\t<footer id=\"colophon\" class=\"clearfix\">\n\t\t\t\t\t\t<div class=\"footer-socket-wrapper clearfix\">\n\t\t\t\t<div class=\"inner-wrap\">\n\t\t\t\t\t<div class=\"footer-socket-area\">\n\t\t\t\t\t\t<div class=\"copyright\">Copyright &copy; 2026 <a href=\"https://exigovvs.no/\" title=\"Exigo VVS\" ><span>Exigo VVS</span></a> Theme by: <a href=\"https://themegrill.com\" target=\"_blank\" title=\"ThemeGrill\" ><span>ThemeGrill</span></a> Powered by: <a href=\"http://wordpress.org\" target=\"_blank\" title=\"WordPress\"><span>WordPress</span></a></div>\t\t\t\t\t\t<nav class=\"footer-menu\" class=\"clearfix\">\n\t\t\t\t\t\t\t\t\t    \t\t\t</nav>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</footer>\n\t\t<a href=\"#masthead\" id=\"scroll-up\"><i class=\"fa fa-long-arrow-up\"></i></a>\n\t</div><!-- #page -->\n\t<script type='text/javascript' id='jquery_cycle-js-extra'>\n/* <![CDATA[ */\nvar accelerate_slider_value = {\"transition_effect\":\"fade\",\"transition_delay\":\"4000\",\"transition_duration\":\"1000\"};\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/jquery.cycle2.min.js?ver=2.1.6' id='jquery_cycle-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/waypoints.min.js?ver=2.0.3' id='waypoints-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/jquery.counterup.min.js?ver=6.0.16' id='counterup-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/navigation.min.js?ver=6.0.16' id='accelerate-navigation-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/themes/accelerate-pro/js/accelerate-custom.min.js?ver=6.0.16' id='accelerate-custom-js'></script>\n<script type='text/javascript' src='https://exigovvs.no/wp-content/plugins/jetpack/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522' id='eu-cookie-law-script-js'></script>\n\t<script src='https://stats.wp.com/e-202640.js' defer></script>\n\t<script>\n\t\t_stq = window._stq || [];\n\t\t_stq.push([ 'view', {v:'ext',blog:'127315875',post:'6',tz:'2',srv:'exigovvs.no',j:'1:12.0.3'} ]);\n\t\t_stq.push([ 'clickTrackerInit', '127315875', '6' ]);\n\t</script></body>\n</html>",
+          "page_text": "Exigo VVS – rådgivende ingeniører Exigo VVS rådgivende ingeniører Org.nr 985 986 908 Personvern & cookies: Dette nettstedet bruker informasjonskapsler (cookies). Ved å fortsette å bruke dette nettstedet aksepterer du dette. For å finne ut mer, inkludert hvordan kontrollere cookies, se her: Cookie-erklæring Menu Hjem Kontakt oss Om oss Referanser Personvern Kort om oss: Vi tilbyr prosjektering og utarbeidelse av tekniske tegninger og 3D modeller, samt bistand i prosjektledelse innen VVS faget.\nVi benytter oss både av AutoCad og REVIT med MagiCAD som fagapplikasjon. Exigo VVS AS har sentral godkjenning innen følgende godkjenningsområder: - Prosjektering av slukkeinstallasjoner i tiltaksklasse 3 - Prosjektering av sanitærinstallasjoner i tiltaksklasse  3 - Prosjektering av varme- og kuldeinstallasjoner i tiltaksklasse 3 - Prosjektering av ventilasjon- og klimainstallasjoner i tiltaksklasse 3 - Prosjektering av vannforsynings og avløpsinstallasjoner i tiltaksklasse 3 Sertifisert foretak etter FG-910 innen kontroll og prosjektering av sprinkleranlegg. Copyright © 2026 Exigo VVS Theme by: ThemeGrill Powered by: WordPress",
+          "proof_level": "p1_exact",
+          "registrable_domain": "exigovvs.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "71.121",
+    "industry_label": "Byggeteknisk konsulentvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ELVERUM",
+    "municipality_number": "3420",
+    "name": "EXIGO VVS AS",
+    "organisation_number": "985986908",
+    "run_metrics": {
+      "latencies_ms": [
+        1233,
+        1156,
+        1156,
+        1172,
+        4156
+      ],
+      "requests": 5
+    },
+    "website": "www.exigovvs.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:39Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "EXIGO VVS AS (AS, org.nr 985986908)",
+    "what_it_does": "EXIGO VVS AS is classified under NACE code 71.121 (unspecified). The company operates its verified website at https://exigovvs.no/. It operates publicly under the brand name 'Exigo VVS', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, EXIGO VVS AS reported revenue of 11,977,099 NOK and an operating result of 1,259,593 NOK. Net result was 787,458 NOK, with total assets of 5,252,861 NOK and equity of 743,327 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 10.5% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Stian Trygve Dørum. Daily operations are led by general manager Geir Vingelsgaard. The entity has 7 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "EXIGO VVS AS is classified under NACE code 71.121 (unspecified).",
+        "claim_ids": [
+          "7b18848712a1f7d600c6",
+          "638894cd171c22e735ad"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://exigovvs.no/.",
+        "claim_ids": [
+          "a09ea5b1a45ebc96f482"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Exigo VVS', according to its website.",
+        "claim_ids": [
+          "f30fe339df6657094039"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "df11338f62048bed6819",
+          "7b18848712a1f7d600c6"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, EXIGO VVS AS reported revenue of 11,977,099 NOK and an operating result of 1,259,593 NOK.",
+        "claim_ids": [
+          "07ed636c53ccaba3e540",
+          "18c53e37d6757188e770"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 787,458 NOK, with total assets of 5,252,861 NOK and equity of 743,327 NOK.",
+        "claim_ids": [
+          "c65c5db66b52c2f90a2c",
+          "e58c1b92aa1b6024a769",
+          "1b39b219f88559da4858"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "07ed636c53ccaba3e540",
+          "dc07519d903a4be2f60c"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 10.5% (derived: operating result / revenue).",
+        "claim_ids": [
+          "18c53e37d6757188e770",
+          "07ed636c53ccaba3e540"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Stian Trygve Dørum.",
+        "claim_ids": [
+          "ad50e2a1ae34a5d828f8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Geir Vingelsgaard.",
+        "claim_ids": [
+          "35eb2bdec4abd287b62f"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 7 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "35eb2bdec4abd287b62f",
+          "47d6330242b8e0088584",
+          "545f9e7d1899b13f80d6",
+          "aa9930be95316fbb44f6",
+          "ad50e2a1ae34a5d828f8",
+          "ea7c3a6e909454b20bc1"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "638894cd171c22e735ad"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "04ccf8e1ce4b8007e68a"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "638894cd171c22e735ad"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "638894cd171c22e735ad"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "638894cd171c22e735ad"
+        ]
+      }
+    ]
+  }
+}

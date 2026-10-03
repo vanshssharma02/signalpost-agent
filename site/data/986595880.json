@@ -1,0 +1,1467 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "aca5833ffc3f0536ba22",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 21718000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "af5a03e5af778fb14d6a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 24832000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ffb3bf5a6252137d7eb8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23165000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c01cd4d1f1a4e2bd8f5f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 669652000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e304e7f26a8d2fa9b046",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 833422000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f2f5e0cd7a507af6c205",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 749380000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5233ff8f7c7926474944",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 502447000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68ac9d756acd63f62631",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 676100000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6c01d84c968e9756e0b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 588893000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "72ed54e0558a4549afa4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 167205000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef67f039ea84504fbe7d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 160487000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe0527b71b9953096b0d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 157322000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "059f626c139fdb5bfeca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31836000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "22e8e247d9b1c62dcfae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29698000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbd8c50ef59b6cb229b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-986595880-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 27868000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db68251e569943889242",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-986595880"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "42.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9506b56d6163d54434d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-986595880"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bafa7583ccdf32392c94",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-986595880"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ALLFARVEG AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "11f53c74d32f02ba325a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-603e7d1b5a56"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jakob Iqbal",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "748ab51928731e179168",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-239fc248d215"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Per Erik Løkken",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "955bf06c2220552ac71c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-d651ac4c9d54"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Leiv Askvig",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "baf6f3de1fc26755b132",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-4267430eb5cc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "John Strand",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbf9cdc53d5bf7f5eb23",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-739a98447ac0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Claus Refsum Flinder",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc488a088f4ea3cd4bec",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-e4921e060df0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jørgen Georg Michelet",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ea52348ca9a5e56c15e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-5d65897d1a3e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Dag Andresen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb6a3e241c713c98fa9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-986595880-f6344b33967d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "KPMG AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "58c7be210db11847661e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-986595880-886716672"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:31Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:31Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Standardveien 28B"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0581",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Bygging av veier og motorveier",
+          "kode": "42.110"
+        },
+        "name": "ALLFARVEG AS",
+        "organisation_number": "886716672"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: profit_before_tax: 31836000.0, annual_result: 24832000.0, assets: 833422000.0, equity: 157322000.0, debt: 676100000.0",
+      "content_sha256": "93118208b5a6dfdfd8b6e17441d44a3b5aa15ac574f5f6b7094b1f8872411136",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "http_status": 200,
+      "id": "ev-fin-986595880-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:25.625080Z",
+      "snapshot_ref": "93/93118208b5a6dfdfd8b6e17441d44a3b5aa15ac574f5f6b7094b1f8872411136.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: profit_before_tax: 29698000.0, annual_result: 23165000.0, assets: 749380000.0, equity: 160487000.0, debt: 588893000.0",
+      "content_sha256": "1a8640395730ed8b5faec1641c6ec8843d9c5e5dd3343d4541395a34c87100b9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "http_status": 200,
+      "id": "ev-fin-986595880-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:25.625080Z",
+      "snapshot_ref": "1a/1a8640395730ed8b5faec1641c6ec8843d9c5e5dd3343d4541395a34c87100b9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: profit_before_tax: 27868000.0, annual_result: 21718000.0, assets: 669652000.0, equity: 167205000.0, debt: 502447000.0",
+      "content_sha256": "b63e38aa3b5f8b27e618bba16f642ffbf9748444bdd379d3cf7909a986520f6d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "http_status": 200,
+      "id": "ev-fin-986595880-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:25.625080Z",
+      "snapshot_ref": "b6/b63e38aa3b5f8b27e618bba16f642ffbf9748444bdd379d3cf7909a986520f6d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 886716672: ALLFARVEG AS",
+      "content_sha256": "e2c6ccab02ebc787ed2e72b5330bcf3592e39c7325aa892e4bd9dbe808258732",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=986595880&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-986595880-886716672",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:29.289816Z",
+      "snapshot_ref": "e2/e2c6ccab02ebc787ed2e72b5330bcf3592e39c7325aa892e4bd9dbe808258732.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=986595880&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 986595880 ALLFARVEG AS",
+      "content_sha256": "96730d7dcb194a615f4861c2b764f1b4fbccb9abc7f698317372addc45b6034d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-986595880",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "96/96730d7dcb194a615f4861c2b764f1b4fbccb9abc7f698317372addc45b6034d.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Per Erik Løkken",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-239fc248d215",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: John Strand",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-4267430eb5cc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Dag Andresen",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-5d65897d1a3e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Jakob Iqbal",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-603e7d1b5a56",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Claus Refsum Flinder",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-739a98447ac0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Leiv Askvig",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-d651ac4c9d54",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jørgen Georg Michelet",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-e4921e060df0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: KPMG AS",
+      "content_sha256": "51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "http_status": 200,
+      "id": "ev-role-986595880-f6344b33967d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:26.859122Z",
+      "snapshot_ref": "51/51ceaf578a7f4e7f76eab9dab999abe2a6953d33b13f40a66eb6929a9d628da8.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "059f626c139fdb5bfeca",
+        "22e8e247d9b1c62dcfae",
+        "5233ff8f7c7926474944",
+        "68ac9d756acd63f62631",
+        "6c01d84c968e9756e0b4",
+        "72ed54e0558a4549afa4",
+        "aca5833ffc3f0536ba22",
+        "af5a03e5af778fb14d6a",
+        "bbd8c50ef59b6cb229b8",
+        "c01cd4d1f1a4e2bd8f5f",
+        "e304e7f26a8d2fa9b046",
+        "ef67f039ea84504fbe7d",
+        "f2f5e0cd7a507af6c205",
+        "fe0527b71b9953096b0d",
+        "ffb3bf5a6252137d7eb8"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "bafa7583ccdf32392c94",
+        "db68251e569943889242",
+        "e9506b56d6163d54434d"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "11f53c74d32f02ba325a",
+        "748ab51928731e179168",
+        "955bf06c2220552ac71c",
+        "baf6f3de1fc26755b132",
+        "bbf9cdc53d5bf7f5eb23",
+        "dc488a088f4ea3cd4bec",
+        "ea52348ca9a5e56c15e5",
+        "fb6a3e241c713c98fa9a"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "58c7be210db11847661e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "bafa7583ccdf32392c94",
+      "e9506b56d6163d54434d",
+      "db68251e569943889242"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ALLFARVEG AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 6903,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "986595880",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:01.568413Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "986595880",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "fb8b1844f6a06f960e7123fc8c9674c5276a387b708d6aaf87ddfdf5c7ac373e",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:25.625080Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/986595880",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 24832000.0,
+              "assets": 833422000.0,
+              "currency": "NOK",
+              "debt": 676100000.0,
+              "equity": 157322000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 31836000.0,
+              "record_id": 4981401,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 23165000.0,
+              "assets": 749380000.0,
+              "currency": "NOK",
+              "debt": 588893000.0,
+              "equity": 160487000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 29698000.0,
+              "record_id": 5879037,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 21718000.0,
+              "assets": 669652000.0,
+              "currency": "NOK",
+              "debt": 502447000.0,
+              "equity": 167205000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 27868000.0,
+              "record_id": 7100557,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:28.060192Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/986595880",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "5a6424d6ebeb3849fcb9db5e827ba863c945f0bedd54be516172aa5a472b9e34",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:29.289816Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=986595880&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Standardveien 28B"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0581",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Bygging av veier og motorveier",
+                "kode": "42.110"
+              },
+              "name": "ALLFARVEG AS",
+              "organisation_number": "886716672"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "986595880",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Selskapet er et \"singel purpose\"\" selskap hvis formål er å være kontraktspart til statens vegvesen Vegdirektoratet etter OPS-kontrakten \"\"E39 Lyngdal - Flekkefjord\"\".\"",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Standardveien 28B",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0581",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "500000",
+          "kapital.belop": "5000000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2008-12-23",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Bygging av veier og motorveier",
+          "naeringskode1.kode": "42.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ALLFARVEG AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "986595880",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 457 Alnabru",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0614",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2004-03-22",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2004-04-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-06-09",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2004-03-22",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2004-02-20",
+          "telefon": "21 05 50 00",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2008-12-18",
+          "vedtektsfestetFormaal": "Formål og virksomhet er å være kontraktspart til Statens vegvesen Vegdirektoratet etter OPS-kontrakten \"E39 Lyngdal - Flekkefjord\"\".\""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "09c2e9d413cdd6fa790594bef8120258d207a41f4ff2dd3d4e6537d1f12ca913",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:26.859122Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/986595880/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2024-05-29",
+              "name": "Per Erik Løkken",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "Jørgen Georg Michelet",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "Leiv Askvig",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "Claus Refsum Flinder",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "Dag Andresen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "Jakob Iqbal",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-13",
+              "name": "John Strand",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2025-11-27",
+              "name": [
+                "KPMG AS"
+              ],
+              "organisation_number": "935174627",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "42.110",
+    "industry_label": "Bygging av veier og motorveier",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "ALLFARVEG AS",
+    "organisation_number": "986595880",
+    "run_metrics": {
+      "latencies_ms": [
+        1233,
+        1235,
+        1203,
+        1233,
+        1235,
+        764
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:31Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ALLFARVEG AS (AS, org.nr 986595880)",
+    "what_it_does": "ALLFARVEG AS is classified under NACE code 42.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 21,718,000 NOK, with total assets of 669,652,000 NOK and equity of 167,205,000 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Jørgen Georg Michelet. Daily operations are led by general manager Per Erik Løkken. The entity has 8 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ALLFARVEG AS is classified under NACE code 42.110 (unspecified).",
+        "claim_ids": [
+          "db68251e569943889242",
+          "bafa7583ccdf32392c94"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "e9506b56d6163d54434d",
+          "db68251e569943889242"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 21,718,000 NOK, with total assets of 669,652,000 NOK and equity of 167,205,000 NOK.",
+        "claim_ids": [
+          "aca5833ffc3f0536ba22",
+          "c01cd4d1f1a4e2bd8f5f",
+          "72ed54e0558a4549afa4"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Jørgen Georg Michelet.",
+        "claim_ids": [
+          "dc488a088f4ea3cd4bec"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Per Erik Løkken.",
+        "claim_ids": [
+          "748ab51928731e179168"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 8 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "11f53c74d32f02ba325a",
+          "748ab51928731e179168",
+          "955bf06c2220552ac71c",
+          "baf6f3de1fc26755b132",
+          "bbf9cdc53d5bf7f5eb23",
+          "dc488a088f4ea3cd4bec"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "bafa7583ccdf32392c94"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "58c7be210db11847661e"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "bafa7583ccdf32392c94"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "bafa7583ccdf32392c94"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "bafa7583ccdf32392c94"
+        ]
+      }
+    ]
+  }
+}

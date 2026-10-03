@@ -1,0 +1,1265 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "92978b4ec5b754a97a21",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1559048.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9514ddcc1160359e9476",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 682354.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f55b103a48c4f88a40bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2238510.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7475d97d3ce18186367e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 98931148.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e599c3821cef3d37bc37",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 99368279.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f65d829648f08cac28ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 99210286.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3be1c7e04e407b2d308d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 68454495.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2b43efd438eee7beb60",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 70734405.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c4bc85d54c69de13bb8a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 69873979.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d4d29b43cb974488c10",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30755791.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6939eee5c56bb2c43bbb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29494300.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab279bad633c58ba318b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 28196743.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a9d3e2911c63fa561ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -100653.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec2591bda9e39f87dae0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -92039.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f4aa51b3f364eab20c57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -237698.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1ed1ce01e2cd7a040227",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 875301.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "99af9f120d6c03fe9c49",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1999093.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b5b9b16190dd854dd9b9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-929527569-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2871325.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "03987ef490c80b67e9a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-929527569"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a85934b0d90d88910614",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-929527569"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "719a1e68af24173aa609",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-929527569"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "MESNA HOTELL LILLEHAMMER HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "495563105cb53cd184b9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-929527569-8a27373f2aa2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE MOMENTUM AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b928b2fbf7dc404961b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-929527569-b6f8bd4b125f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Finn Erik Røed",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c035c00a41f9ea250660",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-929527569-b83416a35cc5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ADMENTO AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6e89ec0bcd44f584bb5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-929527569-6bd2fb9c56fa"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:09Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:09Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jørn Bertil Lyshoel",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -237698.0, profit_before_tax: 875301.0, annual_result: 682354.0, assets: 98931148.0, equity: 28196743.0, debt: 70734405.0",
+      "content_sha256": "d128fa8a74122aa382945b62808bab7f39e6a2492306e03e202d43e5d04f5b86",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "http_status": 200,
+      "id": "ev-fin-929527569-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:05.827076Z",
+      "snapshot_ref": "d1/d128fa8a74122aa382945b62808bab7f39e6a2492306e03e202d43e5d04f5b86.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -92039.0, profit_before_tax: 1999093.0, annual_result: 1559048.0, assets: 99210286.0, equity: 30755791.0, debt: 68454495.0",
+      "content_sha256": "06728365fc8141222ec2faa6c08aa5ec61d226534bd5fadf7dfa7eadceb64c73",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "http_status": 200,
+      "id": "ev-fin-929527569-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:05.827076Z",
+      "snapshot_ref": "06/06728365fc8141222ec2faa6c08aa5ec61d226534bd5fadf7dfa7eadceb64c73.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -100653.0, profit_before_tax: 2871325.0, annual_result: 2238510.0, assets: 99368279.0, equity: 29494300.0, debt: 69873979.0",
+      "content_sha256": "30419ad3c59fecdd66108a67a16458de83d25f3d668d4bb37071307d5ebe9879",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "http_status": 200,
+      "id": "ev-fin-929527569-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:05.827076Z",
+      "snapshot_ref": "30/30419ad3c59fecdd66108a67a16458de83d25f3d668d4bb37071307d5ebe9879.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 929527569 MESNA HOTELL LILLEHAMMER HOLDING AS",
+      "content_sha256": "e68efff40f7b159c89ec35e113553bc9acd514ee589f4936a58be64efef5638a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-929527569",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "e6/e68efff40f7b159c89ec35e113553bc9acd514ee589f4936a58be64efef5638a.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jørn Bertil Lyshoel",
+      "content_sha256": "05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "http_status": 200,
+      "id": "ev-role-929527569-6bd2fb9c56fa",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:07.034289Z",
+      "snapshot_ref": "05/05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE MOMENTUM AS",
+      "content_sha256": "05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "http_status": 200,
+      "id": "ev-role-929527569-8a27373f2aa2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:07.034289Z",
+      "snapshot_ref": "05/05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Finn Erik Røed",
+      "content_sha256": "05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "http_status": 200,
+      "id": "ev-role-929527569-b6f8bd4b125f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:07.034289Z",
+      "snapshot_ref": "05/05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ADMENTO AS",
+      "content_sha256": "05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "http_status": 200,
+      "id": "ev-role-929527569-b83416a35cc5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:07.034289Z",
+      "snapshot_ref": "05/05fd5d05c3e92521a4720411cc03f7a7b07288a1039fd2636914c51ab1efd3f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0d4d29b43cb974488c10",
+        "1ed1ce01e2cd7a040227",
+        "3be1c7e04e407b2d308d",
+        "6939eee5c56bb2c43bbb",
+        "7475d97d3ce18186367e",
+        "92978b4ec5b754a97a21",
+        "9514ddcc1160359e9476",
+        "99af9f120d6c03fe9c49",
+        "9a9d3e2911c63fa561ad",
+        "ab279bad633c58ba318b",
+        "b5b9b16190dd854dd9b9",
+        "c2b43efd438eee7beb60",
+        "c4bc85d54c69de13bb8a",
+        "e599c3821cef3d37bc37",
+        "ec2591bda9e39f87dae0",
+        "f4aa51b3f364eab20c57",
+        "f55b103a48c4f88a40bf",
+        "f65d829648f08cac28ef"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03987ef490c80b67e9a3",
+        "719a1e68af24173aa609",
+        "a85934b0d90d88910614"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "495563105cb53cd184b9",
+        "b928b2fbf7dc404961b7",
+        "c035c00a41f9ea250660",
+        "f6e89ec0bcd44f584bb5"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "719a1e68af24173aa609",
+      "a85934b0d90d88910614",
+      "03987ef490c80b67e9a3"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "MESNA HOTELL LILLEHAMMER HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 5168,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "929527569",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:55.193818Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "929527569",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "6a3cb031648be6681f5ec8e7b6aa9b8e3cc49ab009c72c94d30e9def32ed4961",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:05.827076Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/929527569",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 682354.0,
+              "assets": 98931148.0,
+              "currency": "NOK",
+              "debt": 70734405.0,
+              "equity": 28196743.0,
+              "operating_result": -237698.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 875301.0,
+              "record_id": 5090541,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1559048.0,
+              "assets": 99210286.0,
+              "currency": "NOK",
+              "debt": 68454495.0,
+              "equity": 30755791.0,
+              "operating_result": -92039.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1999093.0,
+              "record_id": 5821633,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2238510.0,
+              "assets": 99368279.0,
+              "currency": "NOK",
+              "debt": 69873979.0,
+              "equity": 29494300.0,
+              "operating_result": -100653.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 2871325.0,
+              "record_id": 6967254,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:08.225386Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/929527569",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "073b7091a4bd1157a1a7e3dcec595da4610e56ec221d80d531d5c0bdae3f1c17",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:09.395824Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=929527569&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "929527569",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investering i fast eiendom eller selskaper som eier fast eiendom.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "v/Oslo Finans AS\nOlav Vs gate 5",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0161",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "Hovedkontortjenester",
+          "hjelpeenhetskode.kode": "70.100",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "10000",
+          "kapital.belop": "31000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-02-08",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "MESNA HOTELL LILLEHAMMER HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "929527569",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 1543 Vika",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0117",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2022-07-21",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2022-07-21",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-05-16",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-11-28",
+          "vedtektsfestetFormaal": "Investering i fast eiendom eller selskaper som eier fast eiendom, og alt som dermed står i forbindelse, herunder å oppta Iån for å finansiere virksomheten."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "5f850c00d399a9b6dfad6df27d1f6fdb07bacd2c7123a3c74d8432a355c58169",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:07.034289Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/929527569/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-11-10",
+              "name": "Jørn Bertil Lyshoel",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-11-10",
+              "name": "Finn Erik Røed",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-07-01",
+              "name": [
+                "CEDRA NORGE MOMENTUM AS"
+              ],
+              "organisation_number": "936032249",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-10-20",
+              "name": [
+                "ADMENTO AS"
+              ],
+              "organisation_number": "989176013",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "MESNA HOTELL LILLEHAMMER HOLDING AS",
+    "organisation_number": "929527569",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1203,
+        1202,
+        1156,
+        47,
+        46,
+        62,
+        125,
+        47,
+        62
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:09Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "MESNA HOTELL LILLEHAMMER HOLDING AS (AS, org.nr 929527569)",
+    "what_it_does": "MESNA HOTELL LILLEHAMMER HOLDING AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 2,238,510 NOK, with total assets of 99,368,279 NOK and equity of 29,494,300 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Jørn Bertil Lyshoel. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "MESNA HOTELL LILLEHAMMER HOLDING AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "03987ef490c80b67e9a3",
+          "719a1e68af24173aa609"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "a85934b0d90d88910614",
+          "03987ef490c80b67e9a3"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 2,238,510 NOK, with total assets of 99,368,279 NOK and equity of 29,494,300 NOK.",
+        "claim_ids": [
+          "f55b103a48c4f88a40bf",
+          "e599c3821cef3d37bc37",
+          "6939eee5c56bb2c43bbb"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Jørn Bertil Lyshoel.",
+        "claim_ids": [
+          "f6e89ec0bcd44f584bb5"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "495563105cb53cd184b9",
+          "b928b2fbf7dc404961b7",
+          "c035c00a41f9ea250660",
+          "f6e89ec0bcd44f584bb5"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "719a1e68af24173aa609"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "719a1e68af24173aa609"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "719a1e68af24173aa609"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "719a1e68af24173aa609"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "719a1e68af24173aa609"
+        ]
+      }
+    ]
+  }
+}

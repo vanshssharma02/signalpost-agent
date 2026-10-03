@@ -1,0 +1,1650 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "17aba40f0981280eafd7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 119914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9d19634f3885330faeab",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 309689.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc36c9c5417c877357b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 224819.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0377d37b48236b1e30a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5045664.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1b99288801590d172ba7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4996405.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6d53636fccfb50a37c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5213659.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2db1eaa07591918e0ecd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2076159.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "36dabb5c5582f09a93cc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1936589.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "769d724a85b4c49979fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2078662.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "902bb43429af4f102fb8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2969505.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a359befaddd56b789e2a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3134997.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d7c5e13d30e0cab14bfa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3059816.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2dd48b0abcb14a62161e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 249187.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "911e923850f9db84c113",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 136913.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dad27d0de3b94daac6dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 351624.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0c3ded3290a2f5694c34",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 396835.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5b27503363a94f87b431",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 178800.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "96f30a04184aa24782f5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 288881.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "41f4ff1a88c58b5e1580",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8511389.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "784967f3b8baa7057a14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8616172.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0217abac39413ff3155",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-964687811-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8269062.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "906a11c0c01390ada513",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-964687811"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3fb54b56254354260a27",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-prof-964687811-facebook-eba277"
+      ],
+      "family": "company_profiles",
+      "field": "company_profile",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "verified_site_outbound",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "platform": "facebook",
+        "url": "https://facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "39c067df235b9ca59d4a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-964687811"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.761"
+    },
+    {
+      "availability": "available",
+      "claim_id": "48f6f183ddf9dfec0f38",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-964687811"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "acb649f0c6319e180795",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-964687811"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2144cc54abd67013192e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-964687811"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 19
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a69634d9ab9c1174557",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-4af89ed195ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDO AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4051ef0ed4a33853931c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-b39943898aaf"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jennie Ulrika Sjöö Frantzen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "89740a5e10e9cfb3a7d9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-41d1eca82f13"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Randi Harriet Borgen Mikalsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ae8b3163272a8e27eca1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-a3416961f3fc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ØKORÅD HADSEL AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "db9a649bcff2333918e0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-4bfea6fc514b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Gunnar Jan Olsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e72be59e37feb5bbcf8f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-964687811-1123e864b1bc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Egil Øyvind Sakariassen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "442bffc1b8dfdca4eac5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-964687811-971669071"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Storgata 37"
+          ],
+          "kommune": "ANDØY",
+          "kommunenummer": "1871",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8480",
+          "poststed": "ANDENES"
+        },
+        "employees": 19,
+        "industry": {
+          "beskrivelse": "Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+          "kode": "47.761"
+        },
+        "name": "BORGEN ERNA BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+        "organisation_number": "971669071"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6767076c99762f3e3402",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-964687811"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://www.ernaborgen.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 8511389.0, operating_result: 136913.0, profit_before_tax: 178800.0, annual_result: 119914.0, assets: 5213659.0, equity: 3134997.0, debt: 2078662.0",
+      "content_sha256": "21f9c8f0f36e11dff8e3fff44d9dd1da6b2e5198af49d85c80785e218652132b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "http_status": 200,
+      "id": "ev-fin-964687811-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:35.424236Z",
+      "snapshot_ref": "21/21f9c8f0f36e11dff8e3fff44d9dd1da6b2e5198af49d85c80785e218652132b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 8269062.0, operating_result: 249187.0, profit_before_tax: 288881.0, annual_result: 224819.0, assets: 4996405.0, equity: 3059816.0, debt: 1936589.0",
+      "content_sha256": "55487ee47137e30ddfd7026e2302e67fcf908817ae5e15711ef7e03b3d936337",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "http_status": 200,
+      "id": "ev-fin-964687811-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:35.424236Z",
+      "snapshot_ref": "55/55487ee47137e30ddfd7026e2302e67fcf908817ae5e15711ef7e03b3d936337.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 8616172.0, operating_result: 351624.0, profit_before_tax: 396835.0, annual_result: 309689.0, assets: 5045664.0, equity: 2969505.0, debt: 2076159.0",
+      "content_sha256": "6728c891af2d39fe1ab34de22c3db4246bc560702b976d1d65e293cd6de37754",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "http_status": 200,
+      "id": "ev-fin-964687811-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:35.424236Z",
+      "snapshot_ref": "67/6728c891af2d39fe1ab34de22c3db4246bc560702b976d1d65e293cd6de37754.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 971669071: BORGEN ERNA BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+      "content_sha256": "71346e25aaf19b1220dabaf97ee0ff1a917fecde877dae489536ab5b6fbb1551",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=964687811&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-964687811-971669071",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.022819Z",
+      "snapshot_ref": "71/71346e25aaf19b1220dabaf97ee0ff1a917fecde877dae489536ab5b6fbb1551.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=964687811&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/",
+      "content_sha256": "e183a86d162e182d1a6a5d47118946090874d220b00b9eb57112009e4653d5b2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751",
+      "http_status": 200,
+      "id": "ev-prof-964687811-facebook-eba277",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:40Z",
+      "snapshot_ref": "e1/e183a86d162e182d1a6a5d47118946090874d220b00b9eb57112009e4653d5b2.gz",
+      "source_class": "company_owned",
+      "source_url": "https://facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 964687811 ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+      "content_sha256": "d7e2421142fde8d4fc7266b4739c7248fd2ed1208af3a86a996e0b15b8abe615",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-964687811",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "d7/d7e2421142fde8d4fc7266b4739c7248fd2ed1208af3a86a996e0b15b8abe615.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Egil Øyvind Sakariassen",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-1123e864b1bc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Randi Harriet Borgen Mikalsen",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-41d1eca82f13",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: BDO AS",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-4af89ed195ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Gunnar Jan Olsen",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-4bfea6fc514b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ØKORÅD HADSEL AS",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-a3416961f3fc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Jennie Ulrika Sjöö Frantzen",
+      "content_sha256": "a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "http_status": 200,
+      "id": "ev-role-964687811-b39943898aaf",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.638086Z",
+      "snapshot_ref": "a9/a9205ba79b57255d31614e690f3bf213fc7bbdc29fbeb32fce4c8bed754976c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Kontaktinfo Erna Borgen Storgata 37, 8480 Andenes Org. nr.: 964 687 811 Tlf: 7614 1133 E-post: Kjøpsinfo Kjøpsbetingelser Følg oss ",
+      "content_sha256": "a6622842103c550587840fe3d7d708709073811c83012b67a605cf185fa6a98b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://www.ernaborgen.no/",
+      "http_status": 200,
+      "id": "ev-web-964687811",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:40Z",
+      "snapshot_ref": "a6/a6622842103c550587840fe3d7d708709073811c83012b67a605cf185fa6a98b.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.ernaborgen.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0377d37b48236b1e30a5",
+        "0c3ded3290a2f5694c34",
+        "17aba40f0981280eafd7",
+        "1b99288801590d172ba7",
+        "2db1eaa07591918e0ecd",
+        "2dd48b0abcb14a62161e",
+        "36dabb5c5582f09a93cc",
+        "41f4ff1a88c58b5e1580",
+        "5b27503363a94f87b431",
+        "769d724a85b4c49979fd",
+        "784967f3b8baa7057a14",
+        "902bb43429af4f102fb8",
+        "911e923850f9db84c113",
+        "96f30a04184aa24782f5",
+        "9d19634f3885330faeab",
+        "a359befaddd56b789e2a",
+        "a6d53636fccfb50a37c3",
+        "bc36c9c5417c877357b5",
+        "d7c5e13d30e0cab14bfa",
+        "dad27d0de3b94daac6dc",
+        "f0217abac39413ff3155"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "906a11c0c01390ada513"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3fb54b56254354260a27"
+      ],
+      "reason": "verified"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2144cc54abd67013192e",
+        "39c067df235b9ca59d4a",
+        "48f6f183ddf9dfec0f38",
+        "acb649f0c6319e180795"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2a69634d9ab9c1174557",
+        "4051ef0ed4a33853931c",
+        "89740a5e10e9cfb3a7d9",
+        "ae8b3163272a8e27eca1",
+        "db9a649bcff2333918e0",
+        "e72be59e37feb5bbcf8f"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "442bffc1b8dfdca4eac5"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6767076c99762f3e3402"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "acb649f0c6319e180795",
+      "48f6f183ddf9dfec0f38",
+      "2144cc54abd67013192e",
+      "39c067df235b9ca59d4a"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 6576,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "964687811",
+  "profile": {
+    "bankrupt": false,
+    "employees": 19,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.583163Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "964687811",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "9f169bc74cff2c24eba700c64aa3e488c7666841a075732930753b952809ab5a",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:35.424236Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/964687811",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 119914.0,
+              "assets": 5213659.0,
+              "currency": "NOK",
+              "debt": 2078662.0,
+              "equity": 3134997.0,
+              "operating_result": 136913.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 178800.0,
+              "record_id": 4719507,
+              "revenue": 8511389.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 224819.0,
+              "assets": 4996405.0,
+              "currency": "NOK",
+              "debt": 1936589.0,
+              "equity": 3059816.0,
+              "operating_result": 249187.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 288881.0,
+              "record_id": 5879753,
+              "revenue": 8269062.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 309689.0,
+              "assets": 5045664.0,
+              "currency": "NOK",
+              "debt": 2076159.0,
+              "equity": 2969505.0,
+              "operating_result": 351624.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 396835.0,
+              "record_id": 6800248,
+              "revenue": 8616172.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:37.844081Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/964687811",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a11cc1e852158804f466b5a22a04a03012521724f93dfc2f677ddc4b926ba355",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:39.022819Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=964687811&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Storgata 37"
+                ],
+                "kommune": "ANDØY",
+                "kommunenummer": "1871",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8480",
+                "poststed": "ANDENES"
+              },
+              "employees": 19,
+              "industry": {
+                "beskrivelse": "Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+                "kode": "47.761"
+              },
+              "name": "BORGEN ERNA BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+              "organisation_number": "971669071"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "964687811",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Handel og alt som står i forbindelse med dette, samt å kunne delta i andre selskaper med lignende formål.",
+          "antallAnsatte": "19",
+          "epostadresse": "post@ernaborgen.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Storgata 37",
+          "forretningsadresse.kommune": "ANDØY",
+          "forretningsadresse.kommunenummer": "1871",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8480",
+          "forretningsadresse.poststed": "ANDENES",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.ernaborgen.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "200",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2002-08-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+          "naeringskode1.kode": "47.761",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "964687811",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "1992-09-23",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1994-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-20",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "1995-02-20",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1992-02-03",
+          "telefon": "76 14 11 33",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2002-05-06",
+          "vedtektsfestetFormaal": "Handel og alt som står i forbindelse med dette, samt å kunne delta i andre selskaper med lignende formål."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "09df0359ccfc86f5f004c4ad747c563201794f47db4576ddfc414effc11234e3",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:36.638086Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/964687811/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2023-09-18",
+              "name": "Jennie Ulrika Sjöö Frantzen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-30",
+              "name": "Egil Øyvind Sakariassen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-30",
+              "name": "Randi Harriet Borgen Mikalsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-06-30",
+              "name": "Gunnar Jan Olsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2010-07-22",
+              "name": [
+                "BDO AS"
+              ],
+              "organisation_number": "993606650",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2021-12-02",
+              "name": [
+                "ØKORÅD HADSEL AS"
+              ],
+              "organisation_number": "987447702",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "site_profiles": [
+        {
+          "claim_span": "https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/",
+          "platform": "facebook",
+          "url": "https://facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751"
+        }
+      ],
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:40Z",
+        "source_url": "https://www.ernaborgen.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+          "claim_span": "Kontaktinfo Erna Borgen Storgata 37, 8480 Andenes Org. nr.: 964 687 811 Tlf: 7614 1133 E-post: Kjøpsinfo Kjøpsbetingelser Følg oss ",
+          "final_url": "https://www.ernaborgen.no/",
+          "homepage": "https://www.ernaborgen.no/",
+          "page_html": "<!doctype html>\r\n<html lang=\"no\" xml:lang=\"no\" >\r\n\t<head>\r\n\t\t<!-- EE -->\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t\n\t<script>\n\t\tvar dataLayer = dataLayer || [];\n\t\tdataLayer.push({\n\t\t\t\"cpGTM_pageID\" : \"361322\",\n\t\t\t\"cpGTM_pageLevel\" : \"0\",\n\t\t\t\"cpGTM_isArticleListing\" : \"true\",\n\t\t\t\"cpGTM_isAdminMode\" : \"false\",\n\t\t\t\"cpGTM_isPublicUser\" : \"false\",\n\t\t\t\"cpGTM_isArticleView\" : \"false\",\n\t\t\t\"cpGTM_isCheckoutPage\" : \"false\",\n\t\t\t\"cpGTM_isSearchPage\" : \"false\",\n\t\t\t\"cpGTM_isMyPage\" : \"false\",\n\t\t\t\"cpGTM_pageHasSubPage\" : \"false\",\n\t\t\t\"cpGTM_isProductView\" : \"false\",\n\t\t\t\"cpGTM_productNo\" : \"NA\",\n\t\t\t\"cpGTM_productPrice\" : \"NA\",\n\t\t\t// \"cpGTM_productOnSale\" : \"false\",\n\t\t});\n\t</script>\n\n\n\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t<meta charset=\"utf-8\" />\r\n\t\t<title>Hjem - Erna Borgen</title>\r\n\t\t<meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">\r\n\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n\r\n\t\t<meta name=\"description\" content=\"Hjem\" />\r\n\t\t<meta name=\"keywords\" content=\"Hjem\" />\r\n\t\t<meta name=\"generator\" content=\"www.CustomPublish.com\" />\r\n\t\t<link rel=\"alternate\" type=\"application/rss+xml\" href=\"/rss.php/cat/361322\" title=\"Hjem - www.ernaborgen.no\" />\r\n\t\t<meta name=\"og:image\" content=\"\" />\r\n\t\t<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"/customers/interflora/favicons/apple-touch-icon.png\">\r\n\t\t<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/customers/interflora/favicons/favicon-32x32.png\">\r\n\t\t<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/customers/interflora/favicons/favicon-16x16.png\">\r\n\t\t<!-- <link rel=\"manifest\" href=\"/getfile.php/3919669.1285.uaqyrxccfa/manifest.json\"> -->\r\n\t\t<!-- <link rel=\"mask-icon\" href=\"/getfile.php/3919671.1285.ddxwrbwtwq/safari-pinned-tab.svg\" color=\"#1a1a1a\"> -->\r\n\t\t<link rel=\"shortcut icon\" href=\"/customers/interflora/favicons/favicon.ico\">\r\n\t\t<meta name=\"msapplication-config\" content=\"/getfile.php/3919665.1285.csrpquabew/browserconfig.xml\">\r\n\t\t<meta name=\"theme-color\" content=\"#1a1a1a\">\r\n\t\t<!-- CSS -->\r\n\t\t<!-- <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\"> -->\r\n\t\t<link href=\"https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:300,400,500\" rel=\"stylesheet\">\r\n\t\t\r\n\t\t\r\n\t\t<meta name=\"format-detection\" content=\"telephone=no\">\r\n\t\t<link type=\"text/css\" rel=\"Stylesheet\" media=\"all\" href=\"/cpclass/js/jquery/lightslider/css/lightslider.min.css\">\r\n\t\t<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"/cpclass/js/jquery/fullpage/jquery.fullpage.min.css\" />\r\n\t\t<link type=\"text/css\" rel=\"Stylesheet\" media=\"all\" href=\"/cpclass/js/jquery/ui/css/smoothness/jquery-ui.css\" />\r\n\t\t<link type=\"text/css\" rel=\"Stylesheet\" media=\"all\" href=\"/cpclass/js/jquery/lightgallery/css/lightgallery.min.css\" />\r\n\t\t<link type=\"text/css\" rel=\"Stylesheet\" media=\"all\" href=\"/cpclass/css/scss-imports/motionui/motion-ui.min.css\" />\r\n\t\t<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"/stylesheet.php/26941.1285.css?v=2\" />\r\n\t\t\r\n\t\t<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"/stylesheet.php/29488.1285.css?v=1\" />\r\n\t\t<!-- JS FOR ADMIN FUNCTIONS -->\r\n\t\t<script>window.jQuery || document.write('<script src=\"/cpclass/js/jquery/jquery.js\"><\\/script>')</script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/ui/js/jquery-ui.js\"></script>\r\n\t\t<script>\r\n\t\t\t// Minified version of isMobile included in the HTML since it's small\r\n        !function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\\bAndroid\\b)(?=.*\\bMobile\\b)/i,f=/Android/i,g=/(?=.*\\bAndroid\\b)(?=.*\\bSD4930UR\\b)/i,h=/(?=.*\\bAndroid\\b)(?=.*\\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\\b)/i,i=/IEMobile/i,j=/(?=.*\\bWindows\\b)(?=.*\\bARM\\b)/i,k=/BlackBerry/i,l=/BB10/i,m=/Opera Mini/i,n=/(CriOS|Chrome)(?=.*\\bMobile\\b)/i,o=/(?=.*\\bFirefox\\b)(?=.*\\bMobile\\b)/i,p=new RegExp(\"(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)\",\"i\"),q=function(a,b){return a.test(b)},r=function(a){var r=a||navigator.userAgent,s=r.split(\"[FBAN\");return\"undefined\"!=typeof s[1]&&(r=s[0]),s=r.split(\"Twitter\"),\"undefined\"!=typeof s[1]&&(r=s[0]),this.apple={phone:q(b,r),ipod:q(c,r),tablet:!q(b,r)&&q(d,r),device:q(b,r)||q(c,r)||q(d,r)},this.amazon={phone:q(g,r),tablet:!q(g,r)&&q(h,r),device:q(g,r)||q(h,r)},this.android={phone:q(g,r)||q(e,r),tablet:!q(g,r)&&!q(e,r)&&(q(h,r)||q(f,r)),device:q(g,r)||q(h,r)||q(e,r)||q(f,r)},this.windows={phone:q(i,r),tablet:q(j,r),device:q(i,r)||q(j,r)},this.other={blackberry:q(k,r),blackberry10:q(l,r),opera:q(m,r),firefox:q(o,r),chrome:q(n,r),device:q(k,r)||q(l,r)||q(m,r)||q(o,r)||q(n,r)},this.seven_inch=q(p,r),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,\"undefined\"==typeof window?this:void 0},s=function(){var a=new r;return a.Class=r,a};\"undefined\"!=typeof module&&module.exports&&\"undefined\"==typeof window?module.exports=r:\"undefined\"!=typeof module&&module.exports&&\"undefined\"!=typeof window?module.exports=s():\"function\"==typeof define&&define.amd?define(\"isMobile\",[],a.isMobile=s()):a.isMobile=s()}(this);\r\n\t\t</script>\r\n\t\t\r\n\t\t\r\n\t\t<script>\r\n  \t\t\t/**\r\n         * GA4 event handler\r\n         */\r\n        function ga4_trigger_event(event, ecommerce) {\r\n          var qs = window.location.search.split(/\\?|\\&/);\r\n          console.log('GA4 event handler called for event \"'+event+'\" with data:', ecommerce);\r\n          window.dataLayer = window.dataLayer || [];\r\n          // dataLayer.push({ ecommerce: null });\r\n          dataLayer.push({ event, ecommerce });\r\n          console.log('Current dataLayer', dataLayer);\r\n        }\r\n\t\t</script>\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/css/cpcommon.css?v=20261003\" />\n<script type=\"text/javascript\" src=\"/cpclass/js/cpcommon.js.php?v=20261003x\"></script>\n\n<script type=\"text/javascript\" src=\"/cpclass/run/cookieinfo/cookieinfo-interflora.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/cpclass/run/cookieinfo/cookieinfo-interflora.css\" />\n\n</head>\n\n\r\n\t<body class=\"hid2057  interflorasatellitt templsetid3 pagelevel0 page361322  ppt361322 frontpage pgn_hjem articlelisting hasnosubmenuitem langno mooktober AAAA   \">\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t<div class=\"off-canvas position-right\" id=\"mobilemenu\" data-off-canvas data-transition=\"overlap\">\r\n\t\t\t<div class=\"menuheader\">\r\n\t\t\t\tMeny\r\n\t\t\t\t<button class=\"close-button\" aria-label=\"Close menu\" type=\"button\" data-close>\r\n\t\t\t\t  <span aria-hidden=\"true\">\r\n\t\t\t\t  \t\r\n\t\t\t\t  \t&times;\r\n\t\t\t\t  \t\r\n\t\t\t\t  </span>\r\n\t\t\t\t</button>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t<div class=\"search show-for-small-only\">\r\n\t\t\t\t<form action=\"index.php\" method=\"get\" class=\"searchform\" id=\"searchform\">\r\n\t\t\t\t\t<ul class=\"menu\">\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<input class=\"searchinput\" name=\"find\" value=\"\" placeholder=\"S&oslash;k...\" type=\"search\" />\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t<input class=\"searchsubmit button\" value=\"S&oslash;k\" type=\"submit\" />\r\n\t\t\t\t\t\t</li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</form>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t\t<ul class=\"login-mobile menu vertical\">\r\n\t\t\t\t<li><a class=\"menuitem\" href=\"/?mypage=1\">Logg inn</a></li>\r\n\t\t\t</ul>\r\n\t\t\t\r\n\t\t\t<nav class=\"main-navigation-mobile\">\r\n\t\t\t\t\n<ul class=\"vertical menu menulevel0\" id=\"mainmenu\">\n <li data-cat=\"361322\" class=\"menu menuitem itemlvlnum1 menulevel0 menu361322 menu361322 itemselected itemselectedcurrent itemselected\" id=\"mainmenuli361322\">\n  <a data-cat=\"361322\" class=\"menu menuitem menulevel0 menu menuitemselected menuselected itemselected\" id=\"mainmenuamenu menuitem361322\" href=\"/\">Hjem</a>\n </li>\n <li data-cat=\"216851\" class=\"menu menuitem hassubitem itemlvlnum2 menulevel0 menu216851 menu216851\" id=\"mainmenuli216851\">\n  <a data-cat=\"216851\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem216851\" href=\"/bestill-blomster-her.216851.no.html\">Bestill blomster her</a>\n </li>\n <li data-cat=\"361323\" class=\"menu menuitem itemlvlnum3 menulevel0 menu361323 menu361323\" id=\"mainmenuli361323\">\n  <a data-cat=\"361323\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361323\" href=\"/begravelsesbyraaet.361323.no.html\">Begravelsesbyrået</a>\n </li>\n <li data-cat=\"361329\" class=\"menu menuitem itemlvlnum4 menulevel0 menu361329 menu361329\" id=\"mainmenuli361329\">\n  <a data-cat=\"361329\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361329\" href=\"/kontakt-oss.361329.no.html\">Kontakt oss</a>\n </li>\n <li data-cat=\"361324\" class=\"menu menuitem hassubitem itemlvlnum5 menulevel0 menu361324 menu361324\" id=\"mainmenuli361324\">\n  <a data-cat=\"361324\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361324\" href=\"/om-erna-borgen.361324.no.html\">Om Erna Borgen</a>\n </li>\n</ul>\n\r\n\t\t\t</nav>\r\n\t\t</div>\r\n\r\n\t\t<div class=\"off-canvas position-top\" id=\"searchbox\" data-off-canvas data-auto-focus=\"false\">\r\n\t\t\t<div class=\"grid-container searchbox off-canvas-box\">\r\n\t\t\t\t<div class=\"grid-x grid-padding-x\">\r\n\t\t\t\t\t<div class=\"large-5 small-12 cell\">\r\n\t\t\t\t\t\t<h3 class=\"caption\">Popul&aelig;re kategorier:</h3>\r\n\t\t\t\t\t\t<ul class=\"menu popularsearchmenu\">\r\n\t\t\t\t\t\t\t<li class=\"dib\"><a class=\"headlinelink \"  href=\"/bestselgere.5024465-337839.html\">Bestselgere</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li class=\"dib\"><a class=\"headlinelink \"  href=\"/gratulerer.4892131-337839.html\">Gratulerer</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li class=\"dib\"><a class=\"headlinelink \"  href=\"/kondolanse.4891134-337839.html\">Kondolanse</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li class=\"dib\"><a class=\"headlinelink \"  href=\"/begravelse.4891137-337839.html\">Begravelse</a></li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"large-7 small-12 cell\">\r\n\t\t\t\t\t\t<h3 class=\"caption\">Trenger du hjelp til &aring; finne frem?</h3>\r\n\t\t\t\t\t\t<form action=\"index.php\" method=\"get\" class=\"searchform pr\" id=\"searchform\">\r\n\t\t\t\t\t\t\t<input class=\"searchinput dib\" name=\"find\" value=\"\" placeholder=\"S&oslash;k her...\" type=\"text\" />\r\n\t\t\t\t\t\t\t<input class=\"searchsubmit dib pa\" type=\"image\" src=\"/customers/interflora/favicons/sok.svg\" alt=\"S&oslash;k\" />\r\n\t\t\t\t\t\t</form>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"closebtn\"><i class=\"material-icons\" data-toggle=\"searchbox\">&#xE5CD;</i></div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"off-canvas position-top\" id=\"loginbox\" data-off-canvas data-auto-focus=\"false\">\r\n\t\t\t<div class=\"grid-container loginbox off-canvas-box\">\r\n\t\t\t\t<div class=\"grid-x grid-padding-x\">\r\n\t\t\t\t\t<div class=\"large-6 small-12 cell\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t<h3 class=\"caption\">Logg inn</h3>\r\n\t\t\t\t\t\t<a href=\"/?mypage=1\" class=\"iflorabtn\">Logg inn her</a>\r\n\t\t\t\t\t\t<!-- <form method=\"post\" action=\"/?mypgage=1\" id=\"cploginform\" name=\"cploginformname\">\r\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"gologin\" value=\"1\">\r\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"cat\" value=\"198990\">\r\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"mypage\" value=\"\">\r\n\t\t\t\t\t\t\t<div class=\"grid-x\">\r\n\t\t\t\t\t\t\t\t<div class=\"large-6 small-12 cell\">\r\n\t\t\t\t\t\t\t\t\t<div id=\"loginemaillabel\">\r\n\t\t\t\t\t\t\t\t\t\t<label for=\"loginuserid\">\r\n\t\t\t\t\t\t\t\t\t\t\tE-post <i>eller</i> brukernavn:\r\n\t\t\t\t\t\t\t\t\t\t</label>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div>\r\n\t\t\t\t\t\t\t\t\t\t<input class=\"logininput\" type=\"text\" id=\"loginuserid\" name=\"user\" value=\"\" size=\"24\">\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"large-6 small-12 cell\">\r\n\t\t\t\t\t\t\t\t\t<div id=\"loginpasswordlabel\">\r\n\t\t\t\t\t\t\t\t\t\t<label for=\"loginuserpassid\">Passord:</label>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div>\r\n\t\t\t\t\t\t\t\t\t\t<input class=\"logininput\" type=\"password\" id=\"loginuserpassid\" name=\"pass\" value=\"\" size=\"24\">\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div style=\"margin-top: 12px\">\r\n\t\t\t\t\t\t\t\t<input class=\"loginbutton\" type=\"submit\" name=\"login\" value=\"Logg inn\">\r\n\t\t\t\t\t\t\t\t<a id=\"forgotlink\" href=\"/?mypage=1&forgotlink=1\">Har du glemt ditt passord?</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</form> -->\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"large-6 small-12 cell\">\r\n\t\t\t\t\t\t<!--\r\n\t\t\t\t\t\t<h3 class=\"caption\">Registrer deg</h3>\r\n\t\t\t\t\t\t<a href=\"/registrer-deg.198989.no.html\" class=\"loginoption\">Privatkunde</a>\r\n\t\t\t\t\t\t<a href=\"/bedriftskunder.177953.no.html\" class=\"loginoption\">Bedriftkunde</a>\r\n\t\t\t\t\t\t-->\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"closebtn\"><i class=\"material-icons\" data-toggle=\"loginbox\">&#xE5CD;</i></div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t\t<div id=\"page\" class=\"off-canvas-content\" data-off-canvas-content>\r\n\t\t\t<a class=\"show-for-sr show-on-focus\" href=\"#mainmenu\">Hopp til hovedmenyen p&aring; siden</a>\r\n\t\t\t<a class=\"show-for-sr show-on-focus\" href=\"#main\">Hopp til hovedinnholdet p&aring; siden</a>\r\n\t\t\t\r\n\t\t\t<header id=\"header\">\r\n\t\t\t\t<div class=\"grid-x\">\r\n\t\t\t\t\t<div class=\"cell small-10 medium-7 large-4 align-self-middle\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t<a class=\"shoplogo \" href=\"/\">\r\n\t\t\t\t\t\t\t<img class=\"shoplogoimg customlogo2057   \" src=\"/getfile.php/4142210.2057.wmljltpqnqjktq/387.svg\" alt=\"Interflora\" />\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div class=\"cell small-12 hide-for-small-only medium-auto header-right align-self-middle\">\r\n\t\t\t\t\t\t<nav id=\"navigation\" class=\"main-navigation show-for-large\">\r\n\t\t\t\t\t\t\t\n<ul class=\"horizontal small-vertical menu menulevel0\" id=\"mainmenu\">\n <li data-cat=\"216851\" class=\"menu menuitem hassubitem itemlvlnum2 menulevel0 menu216851 menu216851\" id=\"mainmenuli216851\">\n  <a data-cat=\"216851\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem216851\" href=\"/bestill-blomster-her.216851.no.html\">Bestill blomster her</a>\n </li>\n <li data-cat=\"361323\" class=\"menu menuitem itemlvlnum3 menulevel0 menu361323 menu361323\" id=\"mainmenuli361323\">\n  <a data-cat=\"361323\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361323\" href=\"/begravelsesbyraaet.361323.no.html\">Begravelsesbyrået</a>\n </li>\n <li data-cat=\"361329\" class=\"menu menuitem itemlvlnum4 menulevel0 menu361329 menu361329\" id=\"mainmenuli361329\">\n  <a data-cat=\"361329\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361329\" href=\"/kontakt-oss.361329.no.html\">Kontakt oss</a>\n </li>\n <li data-cat=\"361324\" class=\"menu menuitem hassubitem itemlvlnum5 menulevel0 menu361324 menu361324\" id=\"mainmenuli361324\">\n  <a data-cat=\"361324\" class=\"menu menuitem menulevel0\" id=\"mainmenuamenu menuitem361324\" href=\"/om-erna-borgen.361324.no.html\">Om Erna Borgen</a>\n </li>\n</ul>\n\r\n\t\t\t\t\t\t</nav>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t<a class=\"headericonbtn\" href=\"#\" class=\"loginbtn\" data-toggle=\"loginbox\">\r\n\t\t\t\t\t\t\t<img src=\"/customers/interflora/favicons/profil.svg\" alt=\"Profil\">\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t<a class=\"headericonbtn shoppingcartbtn pr\" href=\"/?checkout=1\">\r\n\t\t\t\t\t\t\t<img src=\"/customers/interflora/favicons/handlekurv.svg\" alt=\"Handlekurv\">\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<button type=\"button\" class=\"button mainmenubutton\" data-toggle=\"mobilemenu\">\r\n\t\t\t\t\t\t<img class=\"menuicon\" src=\"/customers/interflora/favicons/menuicon-svg.svg\" alt=\"Meny\" /><br />\r\n\t\t\t\t\t\t<span class=\"menutext\">Meny</span>\r\n\t\t\t\t\t</button>\r\n\t\t\t\t</div>\r\n\t\t\t</header><!-- end header -->\r\n\t\t\t<div class=\"searchbox show-for-sr\">\r\n\t\t\t\t<div class=\"search\">\r\n\t\t\t\t\t<form action=\"index.php\" method=\"get\" class=\"searchform\" id=\"searchform\">\r\n\t\t\t\t\t\t<ul class=\"menu\">\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<input class=\"searchinput\" name=\"find\" value=\"\" placeholder=\"S&oslash;k...\" type=\"text\" />\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<input class=\"searchsubmit button\" value=\"S&oslash;k\" type=\"submit\" />\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</form>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"main-grid-container\">\r\n\t\t\t\t<div id=\"content\">\r\n\r\n\t\t\t\t\t<main id=\"main\" class=\"main\" lang=\"no\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\r\n\r\n<div class=\"listingarea\">\r\n\r\n\t\r\n\t\t<div class=\"cta2\">\r\n\t\t\t<div class=\"grid-container\">\r\n          <ul class=\"horizontal-pointslist\">\r\n            <li><img style=\"width: 22px; margin-bottom: 3px;\" class=\"pointicon\" src=\"https://img5.custompublish.com/getfile.php/3820770.1285.syywavstde/levering.svg\" alt=\"\">&nbsp; H&aring;ndverk levert på døren</li>\r\n            <li><img style=\"width: 22px; margin-bottom: 3px;\" class=\"pointicon\" src=\"https://img5.custompublish.com/getfile.php/3820775.1285.dfpfbcffqs/verden.svg\" alt=\"\">&nbsp; Levering i hele verden</li>\r\n            <li><img style=\"width: 22px; margin-bottom: 3px;\" class=\"pointicon\" src=\"https://img5.custompublish.com/getfile.php/3820767.1285.xfcdqucudp/butikk.svg\" alt=\"\">&nbsp; 400 butikker i Norge</li>\r\n          </ul>\r\n\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div class=\"bannerimg cparticleblock  artord1641473648 arttype1 artno0 aid6482878 haslistingpic\" style=\"background-image: url(getfile.php/5382960.1285.kaulauusznnjpt/topbanner_januar_2025.jpg);\">\r\n\t\t\t\t\t<div class=\"bannertext\">\r\n\t\t\t\t\t\t<h2><span>Blomsterhilsen,<br/> levert på døra</span></h2>\r\n\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/bestselgere.241907.no.html\" class=\"button\">\r\n\t\t\t\t\t\t\t<!-- <a class=\"button\"  href=\"/januar_2025.6482878-562588.html\"></a> -->SE VÅRE BESTSELGERE HER<!-- <a href=\"#\"></a> -->\r\n\t\t\t\t\t\t</a>\r\n\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t</div>\r\n\t\r\n\r\n\t<div class=\"frontpage-popular-wrapper grid-container\">\r\n\t\t<h2 class=\"caption\">Popul&aelig;re anledninger</h2><div class=\"listingarea\"><div class=\"articlelist grid-x promoanledninger\">\r\n\t\t<article itemscope class=\"articleblock article0 artid5024465 cparticleblock  artord1329991020 arttype15 artno0 aid5024465 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=5024465\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/bestselgere.241907.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Bestselgere</h2>\r\n\t\t\t\t<img id=\"dynimage0\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5474961.1285.tuuppitaqqzp7j/300f300/0_5474961.jpg\"  border=\"0\"   alt=\"910431_roser_interflora_blomster\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t\r\n\t\t<article itemscope class=\"articleblock article1 artid4900759 cparticleblock  artord1300787163 arttype0 artno1 aid4900759 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=4900759\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/dekoratoerens-anbefaling.556827.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Dekoratørens anbefaling</h2>\r\n\t\t\t\t<img id=\"dynimage1\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5246541.1285.wpnnqtswm7pkmq/300f300/0_5246541.jpg\"  border=\"0\"   alt=\"910089_blomster_bukett\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t\r\n\t\t<article itemscope class=\"articleblock article2 artid4892131 cparticleblock  artord1299156167 arttype0 artno2 aid4892131 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=4892131\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/gratulerer.194364.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Gratulerer</h2>\r\n\t\t\t\t<img id=\"dynimage2\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5474962.1285.tnlatstnzlljkt/300f300/0_5474962.jpg\"  border=\"0\"   alt=\"240401_bukett_interflora_blomster (2)\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t\r\n\t\t<article itemscope class=\"articleblock article3 artid4891134 cparticleblock  artord1298972687 arttype0 artno3 aid4891134 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=4891134\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/kondolanse.199574.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Kondolanse</h2>\r\n\t\t\t\t<img id=\"dynimage3\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5338791.1285.tiq7ttnbkzwnzm/300f300/0_5338791.jpg\"  border=\"0\"   alt=\"242691_bukett_interflora_blomster\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t\r\n\t\t<article itemscope class=\"articleblock article4 artid4891137 cparticleblock  artord1298972741 arttype0 artno4 aid4891137 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=4891137\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/begravelse.250448.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Begravelse</h2>\r\n\t\t\t\t<img id=\"dynimage4\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5464187.1285.biiia77bjmlbap/300f300/0_5464187.jpg\"  border=\"0\"   alt=\"248006_begravelse_interflora_blomster (1)\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t\r\n\t\t<article itemscope class=\"articleblock article5 artid5915178 cparticleblock  artord1475822333 arttype1 artno5 aid5915178 haslistingpic notproduct large-2 medium-4 small-6 cell \" itemtype=\"http://schema.org/Article\" rel=\"cat=177883&id=5915178\">\r\n\t\t\t<a class=\"blockinner db pr\" href=\"/kjaerlighet.199493.no.html\">\r\n\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Kjærlighet</h2>\r\n\t\t\t\t<img id=\"dynimage5\" class=\"dynimage listingpicimg \"  src=\"/getfile.php/5338792.1285.npbqbbmkpllwlu/300f300/0_5338792.jpg\"  border=\"0\"   alt=\"242665_dekorasjon_interflora_blomster\"  width=\"300\"  height=\"300\"  />\r\n\t\t\t</a>\r\n\t\t</article>\r\n\t\t<div class=\"btnconainer cell small-12\" style=\"margin-top: 1rem;\"><a href=\"/bestill-blomster-her\" class=\"iflorabtn\">Se flere anledninger</a></div></div></div>\r\n\t</div>\r\n<style>\r\n.promoanledninger .artid4900759 h2.headline {\r\n\t\tpadding: 0;\r\n    padding-top: 12px;\r\n    margin: 0;\r\n}\r\n</style>\r\n\r\n\t<section class=\"localcontent grid-container\">\r\n\t\t<div class=\"grid-x grid-padding-x\">\r\n\t\t\t<div class=\"cell large-7 small-12\">\r\n\t\t\t\t<div class=\"grid-x grid-padding-x\">\r\n\t\t\t\t\t<div class=\"fpblock articlelist\">\r\n\t\t\t\t\t<article class=\"articleblock cparticleblock  artord1444227680 arttype0 artno0 aid4998589 nolistingpic nopic\">\r\n\t\t\t\t\t\t<header>\r\n\t\t\t\t\t\t\t<h2 class=\"headline\">Bestille blomster?</h2>\r\n\t\t\t\t\t\t\t<p><a href=\"https://www.ernaborgen.no/bestselgere.316107.no.html\">Blomster kan bestilles direkte her i Nettbutikken, eller</a></p><ul><li><strong>Telefon 76 14 11 33</strong></li><li>Epost til <a href=\"mailto:post@ernaborgen.no?subject=Blomsterbestilling%20%2F%20foresp%C3%B8rsel&amp;body=%0AHusk%20%C3%A5%20oppgi%3A%0A-%20Beskrivelse%20av%20produkt%2Fvare%0A-%20%C3%98nsket%20tidspunkt%20for%20levering%0A-%20Navn%2C%20adresse%20og%20telefonnummer%20til%20mottaker%28e%29%0A-%20Navn%2C%20adresse%20og%20telefonnummer%20til%20bestiller\"><u>post@ernaborgen.no</u></a></li></ul><h3><strong>LEDIGE STILLINGER:</strong></h3><ul><li><strong>Butikkmedarbeider </strong>(heltid)</li></ul><p><a class=\"button\" href=\"https://www.ernaborgen.no/om-erna-borgen\">Les mer her ….</a></p>\r\n\t\t\t\t\t\t</header>\r\n\t\t\t\t\t</article>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\t\t\t\t</div>\r\n\r\n\t\t\t\t\r\n\t\t\t\t\t<div class=\"bestsellers\">\r\n\t\t\t\t\t\t<h2 class=\"caption\">V&aring;re bestselgere</h2>\r\n\t\t\t\t\t\t<div class=\"bestselgeresliderouter\" style=\"padding:0;\">\r\n\t\t\t\t\t\t\t<div class=\"articlelist bestselgereslider productlisting version202201 grid-x\">\r\n\t\t\t\t<article itemscope class=\"articleblock article0 cparticleblock  artord1759687876 arttype0 artno0 aid6730791 artisproduct nolistingpic nopic isproduct producthassubprodno cell small-6\r\n \" itemtype=\"http://schema.org/Product\" rel=\"cat=241907&id=6730791\">\r\n\t\t\t\t\t<div class=\"slideinner\">\r\n\t\t\t\t\t\t<a href=\"/mental-helse-ungdom-gerbera.6730791-241907.html\" rel=\"cat=241907&id=6730791\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<div class=\"imagewrap pr\">\r\n\t\t\t\t\t\t\t\t<div class=\"image tac\">\r\n\t\t\t\t\t\t\t\t\t<img itemprop=\"image\" srcset=\"/customers/interflora/prodimage.php?prodno=910532&amp;aid=6730791&amp;scale=282x282 1x,\r\n\t\t\t\t\t\t\t\t\t\t\t\t /customers/interflora/prodimage.php?prodno=910532&amp;aid=6730791&amp;scale=564x564 2x\"\r\n\t\t\t\t\t\t\t\t\t\t \tsrc=\"/customers/interflora/prodimage.php?prodno=910532&amp;aid=6730791&amp;scale=564x564\"\r\n\t\t\t\t\t\t\t\t\talt=\"Mental Helse Ungdom - Gerbera\" />\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text-overlay\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"textwrap\">\r\n\t\t\t\t\t\t\t\t\t\t<header>\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"productbasicinfo\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">Mental Helse Ungdom - Gerbera</h2>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"price\" itemprop=\"offers\" itemscope itemtype=\"http://schema.org/Offer\"><span class=\"prices__NUMPRICES__ morepricestext\">Fra</span> <span class=\"thepricetag\"><span class=\"onlyfordesktop\" itemprop=\"priceCurrency\" content=\"NOK\">kr</span> <span class=\"pricedigits\" itemprop=\"price\" >649,-</span></span></div>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t</header>\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"ingress tac\">En varm og fargerik hilsen som lyser opp dagen, der 20 kr av inntektene per solgte bukett, går til Mental Helse ungdom. Når du velger denne gerbera-buketten gir du ikke b...</div>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div class=\"quick-buy-info\">\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"iflorabtn\">Kjøp</div>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</article>\r\n\t\t\t\t\r\n\t\t\t\t<article itemscope class=\"articleblock article1 cparticleblock  artord1723992228 arttype0 artno1 aid6683493 artisproduct nolistingpic nopic isproduct producthassubprodno cell small-6\r\n \" itemtype=\"http://schema.org/Product\" rel=\"cat=241907&id=6683493\">\r\n\t\t\t\t\t<div class=\"slideinner\">\r\n\t\t\t\t\t\t<a href=\"/20-hoestroser.6683493-241907.html\" rel=\"cat=241907&id=6683493\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<div class=\"imagewrap pr\">\r\n\t\t\t\t\t\t\t\t<div class=\"image tac\">\r\n\t\t\t\t\t\t\t\t\t<img itemprop=\"image\" srcset=\"/customers/interflora/prodimage.php?prodno=242630&amp;aid=6683493&amp;scale=282x282 1x,\r\n\t\t\t\t\t\t\t\t\t\t\t\t /customers/interflora/prodimage.php?prodno=242630&amp;aid=6683493&amp;scale=564x564 2x\"\r\n\t\t\t\t\t\t\t\t\t\t \tsrc=\"/customers/interflora/prodimage.php?prodno=242630&amp;aid=6683493&amp;scale=564x564\"\r\n\t\t\t\t\t\t\t\t\talt=\"20 høstroser\" />\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<div class=\"text-overlay\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"textwrap\">\r\n\t\t\t\t\t\t\t\t\t\t<header>\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"productbasicinfo\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<h2 class=\"headline\" itemprop=\"name\">20 høstroser</h2>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"price\" itemprop=\"offers\" itemscope itemtype=\"http://schema.org/Offer\"><span class=\"prices__NUMPRICES__ morepricestext\">Fra</span> <span class=\"thepricetag\"><span class=\"onlyfordesktop\" itemprop=\"priceCurrency\" content=\"NOK\">kr</span> <span class=\"pricedigits\" itemprop=\"price\" >399,-</span></span></div>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t</header>\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"ingress tac\">Roser er og blir en sikker vinner! 20 flotte roser i vakre gyldne høstfarger gavepakket leveres på døren til den du vil sende en blomstrende omtanke. </div>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div class=\"quick-buy-info\">\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"iflorabtn\">Kjøp</div>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</article>\r\n\t\t\t\t\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"slidercontrols\">\r\n\t\t\t\t\t\t\t\t<a class=\"sliderprevbtn\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"sliderprevarrow\">\r\n\t\t\t\t\t\t\t\t\t\t<img src=\"/getfile.php/3820772.1285.vvcrydpbda/pil.svg\" alt=\"Pil venstre\">\r\n\t\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t<a class=\"slidernextbtn\">\r\n\t\t\t\t\t\t\t\t\t<span class=\"slidernextarrow\">\r\n\t\t\t\t\t\t\t\t\t\t<img src=\"/getfile.php/3820772.1285.vvcrydpbda/pil.svg\" alt=\"Pil h&oslash;yre\">\r\n\t\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"btncontainer\"><a href=\"/bestselgere\" class=\"iflorabtn\">Se flere bestselgere</a></div>\r\n\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t</div>\r\n\r\n\t\t\t<div class=\"cell large-5 small-12\">\r\n\t\t\t\t<div class=\"fpblock klikkoghent\">\r\n\t\t\t\t\t<h2 class=\"headline\">Klikk og Hent</h2>\r\n\t\t\t\t\t<p>&Oslash;nsker du &aring; bestille p&aring; nett og hente blomstene i v&aring;r butikk? Bestill her og velg \"Hentes selv i butikk\" som leveringsform.</p>\r\n\t\t\t\t\t<div class=\"btncontainer text-center\"><a href=\"/bestill-blomster-her\" class=\"iflorabtn\">BESTILL HER</a></div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"fpblock openinghours\">\r\n\t\t\t\t<article class=\"articleblock cparticleblock  artord1524045100 arttype0 artno0 aid6109918 nolistingpic nopic\">\r\n\t\t\t\t\t\r\n\t\t\t\t\t<header>\r\n\t\t\t\t\t\t<h2 class=\"headline\">Våre åpningstider</h2>\r\n\t\t\t\t\t\t<p>Mandag til fredag: 0900 - 1630<br />\r\nL&oslash;rdag: 1000 - 1500</p>\r\n\r\n\t\t\t\t\t</header>\r\n\t\t\t\t</article>\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\r\n\t\t\t\t\r\n\r\n\t\t\t\t\t<div id=\"fb-root\"></div>\r\n\t\t\t\t\t<script>(function(d, s, id) {\r\n\t\t\t\t\t  var js, fjs = d.getElementsByTagName(s)[0];\r\n\t\t\t\t\t  if (d.getElementById(id)) return;\r\n\t\t\t\t\t  js = d.createElement(s); js.id = id;\r\n\t\t\t\t\t  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=202747429790596';\r\n\t\t\t\t\t  fjs.parentNode.insertBefore(js, fjs);\r\n\t\t\t\t\t}(document, 'script', 'facebook-jssdk'));</script>\r\n\t\t\t\t\t<div class=\"fb-page\" data-href=\"https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/\" data-tabs=\"timeline\" data-small-header=\"true\" data-adapt-container-width=\"true\" data-width=\"500\" data-hide-cover=\"false\" data-show-facepile=\"false\"><blockquote cite=\"https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/\">Erna Borgen</a></blockquote></div>\r\n\r\n\t\t\t\t\t\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</section>\r\n\r\n\t   \r\n\r\n</div><!-- end listingarea -->\r\n\t\t\t\t\t</main><!-- end main -->\r\n\r\n\t\t\t\t</div><!-- end content -->\r\n\t\t\t</div>\r\n\r\n\t\t\t<footer id=\"footer\">\r\n\t\t\t\t<div class=\"grid-container\">\r\n\t\t\t\t\t<div class=\"footercontent grid-x\">\r\n\t\t\t\t\t\t<div class=\"contactinfo cell small-12 large-6\">\r\n\t\t\t\t\t\t\t<div class=\"footerblock contactinfo\">\r\n\t\t\t\t\t\t\t\t<h2 class=\"footerheading\">Kontaktinfo</h2>\r\n\t\t\t\t\t\t\t\t<div class=\"grid-x\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"cell small-6\">\r\n\t\t\t\t\t\t\t\t\t\tErna Borgen<br />\r\n\t\t\t\t\t\t\t\t\t\tStorgata 37, 8480 Andenes<br />\r\n<br />\r\n<br />\r\n\t\t\t\t\t\t\t\t\t\tOrg. nr.: 964 687 811\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div class=\"cell small-6\">\r\n\t\t\t\t\t\t\t\t\t\tTlf: <a href=\"tel:7614 1133 \">7614 1133 </a><br />\r\n\t\t\t\t\t\t\t\t\t\t<br />\r\n\t\t\t\t\t\t\t\t\t\t<span style=\"word-wrap: break-word;\">E-post: <span id=\"spnde336b2\"></span><script rel=\"not\" type=\"text/javascript\"><!--\nde336b2 = Array();\nfunction fde336b2() {\nde336b2.push('');\nde336b2.push('>');\nde336b2.push('a');\nde336b2.push('/');\nde336b2.push('<');\nde336b2.push('o');\nde336b2.push('n');\nde336b2.push('.');\nde336b2.push('n');\nde336b2.push('e');\nde336b2.push('g');\nde336b2.push('r');\nde336b2.push('o');\nde336b2.push('b');\nde336b2.push('a');\nde336b2.push('n');\nde336b2.push('r');\nde336b2.push('e');\nde336b2.push('@');\nde336b2.push('t');\nde336b2.push('s');\nde336b2.push('o');\nde336b2.push('p');\nde336b2.push('>');\nde336b2.push('\"');\nde336b2.push('o');\nde336b2.push('t');\nde336b2.push('l');\nde336b2.push('i');\nde336b2.push('a');\nde336b2.push('m');\nde336b2.push('\"');\nde336b2.push('=');\nde336b2.push('s');\nde336b2.push('s');\nde336b2.push('a');\nde336b2.push('l');\nde336b2.push('c');\nde336b2.push(' ');\nde336b2.push('\"');\nde336b2.push('=');\nde336b2.push('t');\nde336b2.push('c');\nde336b2.push('e');\nde336b2.push('j');\nde336b2.push('b');\nde336b2.push('u');\nde336b2.push('s');\nde336b2.push('?');\nde336b2.push('o');\nde336b2.push('n');\nde336b2.push('.');\nde336b2.push('n');\nde336b2.push('e');\nde336b2.push('g');\nde336b2.push('r');\nde336b2.push('o');\nde336b2.push('b');\nde336b2.push('a');\nde336b2.push('n');\nde336b2.push('r');\nde336b2.push('e');\nde336b2.push('@');\nde336b2.push('t');\nde336b2.push('s');\nde336b2.push('o');\nde336b2.push('p');\nde336b2.push(':');\nde336b2.push('o');\nde336b2.push('t');\nde336b2.push('l');\nde336b2.push('i');\nde336b2.push('a');\nde336b2.push('m');\nde336b2.push('\"');\nde336b2.push('=');\nde336b2.push('f');\nde336b2.push('e');\nde336b2.push('r');\nde336b2.push('h');\nde336b2.push(' ');\nde336b2.push('a');\nde336b2.push('<');\ndiv = document.getElementById('spnde336b2');\ntmp = \"\";\nfor (de336b2i=de336b2.length-1;de336b2i>-1;de336b2i=de336b2i-1) {  tmp += de336b2[de336b2i];\n}\n div.innerHTML += tmp;\n}\nif (window.addEventListener) { window.addEventListener('load', fde336b2, false); }\nelse if (window.attachEvent) { window.attachEvent('onload', fde336b2); }\n// --></script>\n</span>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"footerblock kjopsinfo\">\r\n\t\t\t\t\t\t\t\t<h2 class=\"footerheading\">Kj&oslash;psinfo</h2>\r\n\t\t\t\t\t\t\t\t<a href=\"/kjoepsbetingelser\">Kj&oslash;psbetingelser</a>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"footerblock someinfo\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<h2 class=\"footerheading\">F&oslash;lg oss p&aring</h2>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<a target=\"_blank\" href=\"https://www.facebook.com/Nettbutikken-Erna-Borgen-Si-det-med-blomster-315529930751/\">Facebook</a>&nbsp;\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"interflorainfo cell small-12 large-6\">\r\n\t\t\t\t\t\t\t<div class=\"footerlogo row\">\r\n\t\t\t\t\t\t\t\t<div class=\"cell small-12 large-6\">\r\n\t\t\t\t\t\t\t\t\t<img class=\"logoimg\" id=\"logo\" src=\"/customers/interflora/favicons/ifloralogo--svg.svg\" alt=\"Interflora logo\" />\r\n\t\t\t\t\t\t\t\t\t<p class=\"logotext\">Medlem av Interflora Norge SA</p>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"cpcredits\">\r\n\t\t\t\t\t<a class=\"cp\" href=\"http://www.custompublish.com/\" target=\"_blank\">Web levert av CustomPublish</a>\r\n\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div style=\"display:none;\">\n<ul class=\"menu menulevel0\" >\n <li data-cat=\"361322\" class=\"menu menuitem itemlvlnum1 menulevel0 menu361322 menu361322 itemselected itemselectedcurrent itemselected\" id=\"li361322\">\n  <a data-cat=\"361322\" class=\"menu menuitem menulevel0 menu menuitemselected menuselected itemselected\" id=\"amenu menuitem361322\" href=\"/\">Hjem</a>\n </li>\n <li data-cat=\"216851\" class=\"menu menuitem hassubitem itemlvlnum2 menulevel0 menu216851 menu216851\" id=\"li216851\">\n  <a data-cat=\"216851\" class=\"menu menuitem menulevel0\" id=\"amenu menuitem216851\" href=\"/bestill-blomster-her.216851.no.html\">Bestill blomster her</a>\n </li>\n <li data-cat=\"361323\" class=\"menu menuitem itemlvlnum3 menulevel0 menu361323 menu361323\" id=\"li361323\">\n  <a data-cat=\"361323\" class=\"menu menuitem menulevel0\" id=\"amenu menuitem361323\" href=\"/begravelsesbyraaet.361323.no.html\">Begravelsesbyrået</a>\n </li>\n <li data-cat=\"361329\" class=\"menu menuitem itemlvlnum4 menulevel0 menu361329 menu361329\" id=\"li361329\">\n  <a data-cat=\"361329\" class=\"menu menuitem menulevel0\" id=\"amenu menuitem361329\" href=\"/kontakt-oss.361329.no.html\">Kontakt oss</a>\n </li>\n <li data-cat=\"361324\" class=\"menu menuitem hassubitem itemlvlnum5 menulevel0 menu361324 menu361324\" id=\"li361324\">\n  <a data-cat=\"361324\" class=\"menu menuitem menulevel0\" id=\"amenu menuitem361324\" href=\"/om-erna-borgen.361324.no.html\">Om Erna Borgen</a>\n </li>\n</ul>\n</div>\r\n\t\t\t</footer><!-- end footer -->\r\n\t\t\t\r\n\t\t\t\t<div class=\"globalnotice\" id=\"privacynotice\" style=\"display:none;\">\r\n\t\t\t\t\t<div class=\"grid-container\">\r\n\t\t\t\t\t\t<div class=\"grid-x\">\r\n\t\t\t\t\t\t\t<div class=\"small-12 medium-10 cell\">\r\n\t\t\t\t\t\t\t\t<p>DENNE NETTSIDEN BRUKER COOKIES<br />\r\n\tVi bruker informasjonskapsler (cookies) slik at vi kan yte deg bedre service. Informasjonskapslene blir hovedsakelig benyttet for trafikkmåling og optimalisering av tjenesten. Ved å bruke vår nettside samtykker du til vår bruk av cookies. <a href=\"/personvernpolicy-og-gdpr\">Les mer</a></p>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div class=\"small-12 medium-2 cell\">\r\n\t\t\t\t\t\t\t\t<button type=\"button\" onclick=\"setPrivacyCookie();\" class=\"button\">Jeg forst&aring;r</button>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/cookie/jquery.cookie.js\"></script>\r\n\t\t\t\t<script>\r\n\t\t\t\t\tif( $.cookie('privacyNoticeRead') === 'read' ) {\r\n\t\t\t\t\t\t// .. ignore silently\r\n\t\t\t\t\t} else {\r\n\t\t\t\t\t\t$('#privacynotice').show();\r\n\t\t\t\t\t}\r\n\t\t\t\t\tfunction setPrivacyCookie() {\r\n\t\t\t\t\t\tvar date = new Date();\r\n\t\t\t\t\t\tdate.setTime(date.getTime() + (525948 * 60 * 1000)); // one year\r\n\t\t\t\t\t\t$.cookie('privacyNoticeRead', 'read', {\r\n\t\t\t\t\t\t\tpath: '/',\r\n\t\t\t\t\t\t\texpires: date\r\n\t\t\t\t\t\t});\r\n\t\t\t\t\t\t$('#privacynotice').hide();\r\n\t\t\t\t\t}\r\n\t\t\t\t</script>\r\n\t\t\t\r\n\t\t</div><!-- end page -->\r\n\t\t<!-- JS -->\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/css/scss-imports/v6.4.3/js/what-input.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/css/scss-imports/v6.4.3/js/foundation.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/run/cpshop4/js/shop4jq.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/fullpage/jquery.fullpage.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/lazysizes-respimg/ls.respimg.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/lazysizes/lazysizes.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/imagesloaded/jquery.imagesloaded.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/masonry/masonry.pkgd.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/magnific-popup/jquery.magnific-popup.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/lightslider/js/lightslider.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/lightgallery/js/lightgallery.min.js\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/class/shop4/customers/interflora/js/custom2017v2.js?v=33\"></script>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/class/shop4/customers/interflora/js/custom-satelitt.js?v=8\"></script>\r\n\t\t<!-- variable scripts -->\r\n\t\t<script type=\"text/javascript\">\r\n\t\t\t// Retargeting\r\n\t\t\t// legg script uten script-tag her\r\n\r\n\t\t\t// Div scripts\r\n\t\t\t// legg script uten script-tag her\r\n\t\t</script>\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t<!--[if lt IE 9]>\r\n\t\t<script type=\"text/javascript\" src=\"/cpclass/js/jquery/trunk/js/html5shiv.js\"></script>\r\n\t\t<![endif]-->\r\n\t\t\r\n\r\n\t\t\n\n<!-- Google Analytics ID missing. Check site profile -->\n\n\r\n\r\n\t</body>\r\n</html>\n<!-- 2057 - 26939/26942/ - qms2_VIAVAR 7x - AbexEOP - pu= - 16 s=0 - p=0.01  22:47:40 -->\n<!-- Tset Prsr=3 -->\n\n<!-- 0.028444051742554\n-->\n",
+          "page_text": "Hjem - Erna Borgen Meny × Logg inn Hjem Bestill blomster her Begravelsesbyrået Kontakt oss Om Erna Borgen Populære kategorier: Bestselgere Gratulerer Kondolanse Begravelse Trenger du hjelp til å finne frem?  Logg inn Logg inn her  Hopp til hovedmenyen på siden Hopp til hovedinnholdet på siden Bestill blomster her Begravelsesbyrået Kontakt oss Om Erna Borgen Meny Håndverk levert på døren Levering i hele verden 400 butikker i Norge Blomsterhilsen, levert på døra SE VÅRE BESTSELGERE HER Populære anledninger Bestselgere Dekoratørens anbefaling Gratulerer Kondolanse Begravelse Kjærlighet Se flere anledninger Bestille blomster? Blomster kan bestilles direkte her i Nettbutikken, eller Telefon 76 14 11 33 Epost til post@ernaborgen.no LEDIGE STILLINGER: Butikkmedarbeider (heltid) Les mer her …. Våre bestselgere Mental Helse Ungdom - Gerbera Fra kr 649,- En varm og fargerik hilsen som lyser opp dagen, der 20 kr av inntektene per solgte bukett, går til Mental Helse ungdom. Når du velger denne gerbera-buketten gir du ikke b... Kjøp 20 høstroser Fra kr 399,- Roser er og blir en sikker vinner! 20 flotte roser i vakre gyldne høstfarger gavepakket leveres på døren til den du vil sende en blomstrende omtanke. Kjøp Se flere bestselgere Klikk og Hent Ønsker du å bestille på nett og hente blomstene i vår butikk? Bestill her og velg \"Hentes selv i butikk\" som leveringsform. BESTILL HER Våre åpningstider Mandag til fredag: 0900 - 1630 Lørdag: 1000 - 1500 Erna Borgen Kontaktinfo Erna Borgen Storgata 37, 8480 Andenes Org. nr.: 964 687 811 Tlf: 7614 1133 E-post: Kjøpsinfo Kjøpsbetingelser Følg oss p&aring Facebook Medlem av Interflora Norge SA Web levert av CustomPublish Hjem Bestill blomster her Begravelsesbyrået Kontakt oss Om Erna Borgen DENNE NETTSIDEN BRUKER COOKIES Vi bruker informasjonskapsler (cookies) slik at vi kan yte deg bedre service. Informasjonskapslene blir hovedsakelig benyttet for trafikkmåling og optimalisering av tjenesten. Ved å bruke vår nettside samtykker du til vår bruk av cookies. Les mer Jeg forstår",
+          "proof_level": "p1_exact",
+          "registrable_domain": "ernaborgen.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "47.761",
+    "industry_label": "Detaljhandel med blomster, planter, gjødsel og plantevernmidler",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ANDØY",
+    "municipality_number": "1871",
+    "name": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS",
+    "organisation_number": "964687811",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1218,
+        1203,
+        1187,
+        1796
+      ],
+      "requests": 5
+    },
+    "website": "www.ernaborgen.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:40Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS (AS, org.nr 964687811)",
+    "what_it_does": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS is classified under NACE code 47.761 (unspecified). The company operates its verified website at https://www.ernaborgen.no/. It operates publicly under the brand name 'ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS reported revenue of 8,616,172 NOK and an operating result of 351,624 NOK. Net result was 309,689 NOK, with total assets of 5,045,664 NOK and equity of 2,969,505 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 4.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Egil Øyvind Sakariassen. Daily operations are led by general manager Jennie Ulrika Sjöö Frantzen. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS is classified under NACE code 47.761 (unspecified).",
+        "claim_ids": [
+          "39c067df235b9ca59d4a",
+          "acb649f0c6319e180795"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://www.ernaborgen.no/.",
+        "claim_ids": [
+          "6767076c99762f3e3402"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS', according to its website.",
+        "claim_ids": [
+          "906a11c0c01390ada513"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "48f6f183ddf9dfec0f38",
+          "39c067df235b9ca59d4a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, ERNA BORGEN BLOMSTERFORRETNING OG BEGRAVELSESBYRÅ AS reported revenue of 8,616,172 NOK and an operating result of 351,624 NOK.",
+        "claim_ids": [
+          "784967f3b8baa7057a14",
+          "dad27d0de3b94daac6dc"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 309,689 NOK, with total assets of 5,045,664 NOK and equity of 2,969,505 NOK.",
+        "claim_ids": [
+          "9d19634f3885330faeab",
+          "0377d37b48236b1e30a5",
+          "902bb43429af4f102fb8"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "784967f3b8baa7057a14",
+          "f0217abac39413ff3155"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 4.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "dad27d0de3b94daac6dc",
+          "784967f3b8baa7057a14"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Egil Øyvind Sakariassen.",
+        "claim_ids": [
+          "e72be59e37feb5bbcf8f"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Jennie Ulrika Sjöö Frantzen.",
+        "claim_ids": [
+          "4051ef0ed4a33853931c"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2a69634d9ab9c1174557",
+          "4051ef0ed4a33853931c",
+          "89740a5e10e9cfb3a7d9",
+          "ae8b3163272a8e27eca1",
+          "db9a649bcff2333918e0",
+          "e72be59e37feb5bbcf8f"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "acb649f0c6319e180795"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "442bffc1b8dfdca4eac5"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "acb649f0c6319e180795"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "acb649f0c6319e180795"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "acb649f0c6319e180795"
+        ]
+      }
+    ]
+  }
+}

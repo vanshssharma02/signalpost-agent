@@ -1,0 +1,1313 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "6382dafc68aeaab07740",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 847085.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc468040e708f3c18a82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 750261.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dbe6927609cbb3406bef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 807611.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d7342d0a039fab90aae9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 319147.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc0ae85a1e8a88e9cbdc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 335262.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e91f03119eac62b70a18",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 441539.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "347af7bfdcd8daee338c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 221507.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7c0057503492568661f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 204542.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cf0bd1e31e78ece94931",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 193938.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0adc8e5d419fabf40274",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 130720.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "467b19dd29f2cd64ec90",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 97640.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e4c83122617eb5d616e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 247601.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15a93140ad26327b0de2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 801658.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "658f35d4f59174dae897",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 847017.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dad3640879e61e8b4d0e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 739590.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5c87b82c58e90d06f321",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 807611.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e6657662839e088e5e1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 847085.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b865bdb4dd9cd039154a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 750261.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0709dddfa2c62fcabd20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 839980.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "88baa74266f04861e781",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 922762.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7cb435f777a6e3e8492",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-988613304-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 889002.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e6430e7b1efd7ded0573",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-988613304"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "69.202"
+    },
+    {
+      "availability": "available",
+      "claim_id": "51334172617863636955",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-988613304"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ENK"
+    },
+    {
+      "availability": "available",
+      "claim_id": "5f7aa66329ef4619e460",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-988613304"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "RANDI THUE"
+    },
+    {
+      "availability": "available",
+      "claim_id": "519a71cb7ee5c60f359a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-988613304-b5982e10a665"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Randi Thue",
+        "role": "Innehaver",
+        "role_code": "INNH"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "dd7936819d58211eb8b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-988613304-1135f477d965"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REVISOR TEAM AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d12e2e88555ce1ab27ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-988613304-988619221"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:22Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:22Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Jordstjerneveien 42"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "1283",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Regnskapsføring og bokføring",
+          "kode": "69.202"
+        },
+        "name": "RANDI THUE",
+        "organisation_number": "988619221"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 922762.0, operating_result: 847017.0, profit_before_tax: 847085.0, annual_result: 847085.0, assets: 319147.0, equity: 97640.0, debt: 221507.0",
+      "content_sha256": "bc2156dd3e1bddce3d8e48e9a4799001a4c1f8bd431669c791ef7235fccf9735",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "http_status": 200,
+      "id": "ev-fin-988613304-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.125085Z",
+      "snapshot_ref": "bc/bc2156dd3e1bddce3d8e48e9a4799001a4c1f8bd431669c791ef7235fccf9735.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 889002.0, operating_result: 801658.0, profit_before_tax: 807611.0, annual_result: 807611.0, assets: 335262.0, equity: 130720.0, debt: 204542.0",
+      "content_sha256": "7ff7e31e7649aff321a93eb8f91519908aa39394236f0f32f70b62785183d506",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "http_status": 200,
+      "id": "ev-fin-988613304-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.125085Z",
+      "snapshot_ref": "7f/7ff7e31e7649aff321a93eb8f91519908aa39394236f0f32f70b62785183d506.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 839980.0, operating_result: 739590.0, profit_before_tax: 750261.0, annual_result: 750261.0, assets: 441539.0, equity: 247601.0, debt: 193938.0",
+      "content_sha256": "de3fec64ef42ff911ace03cbe3ea9e63d0186c6c3792406b6e628a97c5f83876",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "http_status": 200,
+      "id": "ev-fin-988613304-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:19.125085Z",
+      "snapshot_ref": "de/de3fec64ef42ff911ace03cbe3ea9e63d0186c6c3792406b6e628a97c5f83876.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 988619221: RANDI THUE",
+      "content_sha256": "51a6cebd7df5849aa33df789c95aa36f8e800b04d3b188f412574b051edce4f5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=988613304&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-988613304-988619221",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:22.710060Z",
+      "snapshot_ref": "51/51a6cebd7df5849aa33df789c95aa36f8e800b04d3b188f412574b051edce4f5.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=988613304&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 988613304 RANDI THUE",
+      "content_sha256": "0f51b5740c00fb1f8d8a0cbe5a4afaf31c3577392b37fc8d34745e4f0abb9767",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-988613304",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "0f/0f51b5740c00fb1f8d8a0cbe5a4afaf31c3577392b37fc8d34745e4f0abb9767.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: REVISOR TEAM AS",
+      "content_sha256": "de82546bbc60e6452abf68710204929dec9951241cab2c9e5c0cc6db2b9318d4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988613304/roller",
+      "http_status": 200,
+      "id": "ev-role-988613304-1135f477d965",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:20.311157Z",
+      "snapshot_ref": "de/de82546bbc60e6452abf68710204929dec9951241cab2c9e5c0cc6db2b9318d4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988613304/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role INNH: Randi Thue",
+      "content_sha256": "de82546bbc60e6452abf68710204929dec9951241cab2c9e5c0cc6db2b9318d4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988613304/roller",
+      "http_status": 200,
+      "id": "ev-role-988613304-b5982e10a665",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:20.311157Z",
+      "snapshot_ref": "de/de82546bbc60e6452abf68710204929dec9951241cab2c9e5c0cc6db2b9318d4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988613304/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0709dddfa2c62fcabd20",
+        "0adc8e5d419fabf40274",
+        "15a93140ad26327b0de2",
+        "347af7bfdcd8daee338c",
+        "467b19dd29f2cd64ec90",
+        "5c87b82c58e90d06f321",
+        "6382dafc68aeaab07740",
+        "658f35d4f59174dae897",
+        "7c0057503492568661f0",
+        "7e6657662839e088e5e1",
+        "88baa74266f04861e781",
+        "9e4c83122617eb5d616e",
+        "a7cb435f777a6e3e8492",
+        "b865bdb4dd9cd039154a",
+        "bc468040e708f3c18a82",
+        "cf0bd1e31e78ece94931",
+        "d7342d0a039fab90aae9",
+        "dad3640879e61e8b4d0e",
+        "dbe6927609cbb3406bef",
+        "dc0ae85a1e8a88e9cbdc",
+        "e91f03119eac62b70a18"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "51334172617863636955",
+        "5f7aa66329ef4619e460",
+        "e6430e7b1efd7ded0573"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "519a71cb7ee5c60f359a",
+        "dd7936819d58211eb8b3"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "d12e2e88555ce1ab27ee"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "5f7aa66329ef4619e460",
+      "51334172617863636955",
+      "e6430e7b1efd7ded0573"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "RANDI THUE"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 5012,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "988613304",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:01.875043Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "988613304",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "ENK",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "4dbce4a90d345de04eb8a96f108afed844ce131d45d70b90f8459d3ed542d880",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:19.125085Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/988613304",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 847085.0,
+              "assets": 319147.0,
+              "currency": "NOK",
+              "debt": 221507.0,
+              "equity": 97640.0,
+              "operating_result": 847017.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 847085.0,
+              "record_id": 4872091,
+              "revenue": 922762.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 807611.0,
+              "assets": 335262.0,
+              "currency": "NOK",
+              "debt": 204542.0,
+              "equity": 130720.0,
+              "operating_result": 801658.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 807611.0,
+              "record_id": 5460045,
+              "revenue": 889002.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 750261.0,
+              "assets": 441539.0,
+              "currency": "NOK",
+              "debt": 193938.0,
+              "equity": 247601.0,
+              "operating_result": 739590.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 750261.0,
+              "record_id": 6344927,
+              "revenue": 839980.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:21.502073Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/988613304",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "ff3d142d8c855e6a8983441f1ff86c5d856c0b17dc14bf2d6c691335dbda4c9c",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:22.710060Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=988613304&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Jordstjerneveien 42"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "1283",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Regnskapsføring og bokføring",
+                "kode": "69.202"
+              },
+              "name": "RANDI THUE",
+              "organisation_number": "988619221"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "988613304",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Regnskapsføringstjenester, økonomisk og administrativ rådgivning.  ",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Jordstjerneveien 42",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1283",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Personlig næringsdrivende",
+          "institusjonellSektorkode.kode": "8200",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "959 47 375",
+          "naeringskode1.beskrivelse": "Regnskapsføring og bokføring",
+          "naeringskode1.kode": "69.202",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "RANDI THUE",
+          "organisasjonsform.beskrivelse": "Enkeltpersonforetak",
+          "organisasjonsform.kode": "ENK",
+          "organisasjonsnummer": "988613304",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2023-02-21",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2005-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2005-10-18",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2005-09-06",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "f8033de4ed72d4f7d0dedb42c62b2f974361eef7b15e9a1d7f34c4653209da7b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:20.311157Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/988613304/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Innehaver",
+              "group_code": "INNH",
+              "inactive": false,
+              "last_changed": "2005-09-06",
+              "name": "Randi Thue",
+              "organisation_number": null,
+              "role": "Innehaver",
+              "role_code": "INNH"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2023-02-21",
+              "name": [
+                "REVISOR TEAM AS"
+              ],
+              "organisation_number": "921505744",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "69.202",
+    "industry_label": "Regnskapsføring og bokføring",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "ENK",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "RANDI THUE",
+    "organisation_number": "988613304",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1188,
+        1186,
+        1219,
+        30,
+        63,
+        61,
+        63
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:22Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "RANDI THUE (ENK, org.nr 988613304)",
+    "what_it_does": "RANDI THUE is classified under NACE code 69.202 (unspecified).",
+    "business_model": "Operates as a registered ENK entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, RANDI THUE reported revenue of 839,980 NOK and an operating result of 739,590 NOK. Net result was 750,261 NOK, with total assets of 441,539 NOK and equity of 247,601 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 88.0% (derived: operating result / revenue).",
+    "leadership_and_structure": "The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "RANDI THUE is classified under NACE code 69.202 (unspecified).",
+        "claim_ids": [
+          "e6430e7b1efd7ded0573",
+          "5f7aa66329ef4619e460"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered ENK entity within the commercial sector.",
+        "claim_ids": [
+          "51334172617863636955",
+          "e6430e7b1efd7ded0573"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, RANDI THUE reported revenue of 839,980 NOK and an operating result of 739,590 NOK.",
+        "claim_ids": [
+          "0709dddfa2c62fcabd20",
+          "dad3640879e61e8b4d0e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 750,261 NOK, with total assets of 441,539 NOK and equity of 247,601 NOK.",
+        "claim_ids": [
+          "bc468040e708f3c18a82",
+          "e91f03119eac62b70a18",
+          "9e4c83122617eb5d616e"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "0709dddfa2c62fcabd20",
+          "a7cb435f777a6e3e8492"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 88.0% (derived: operating result / revenue).",
+        "claim_ids": [
+          "dad3640879e61e8b4d0e",
+          "0709dddfa2c62fcabd20"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "519a71cb7ee5c60f359a",
+          "dd7936819d58211eb8b3"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "5f7aa66329ef4619e460"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "d12e2e88555ce1ab27ee"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "5f7aa66329ef4619e460"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "5f7aa66329ef4619e460"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "5f7aa66329ef4619e460"
+        ]
+      }
+    ]
+  }
+}

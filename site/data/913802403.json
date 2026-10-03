@@ -1,0 +1,1506 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "3a952d66b2834b42c504",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 112556.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "54c36d22680b100eb2ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 89328.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f9cccc5fa30ef1a3d80c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 151771.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "28c6cef341dc51511b93",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 563425.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "91889ff6b399c8b046ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 451320.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f744bacbde92a9f2d4d0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 704180.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "418d31cb8f9bb198d679",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79014.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "875569659ba0d8c67713",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 78562.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f5b429cb39913d3cefe3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 67546.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0c95ef42f6eea487b1ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 636634.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "59ecd84c4f68c5c7a0c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 372306.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9137b8f0836f9731be63",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 484862.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21675cae442c23bb198a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 90340.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a143a96101a35695e0d6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 147064.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec1f3c4491a2c3473a1a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 109576.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "53335f6699b6e9b0155c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 112558.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa5a596790a57762bc39",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 89328.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "28c5652a351eeb2f9cee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 915970.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6795acffba97a1d02b83",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1007282.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f966acffc254c2fd7078",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-913802403-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 859521.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "84e9349b97a9208926b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913802403"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "97.001"
+    },
+    {
+      "availability": "available",
+      "claim_id": "972e88422185111362f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913802403"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ESEK"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7158ebd3c7ee3a882428",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-913802403"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "POPPELLUNDEN BOLIGSAMEIE"
+    },
+    {
+      "availability": "available",
+      "claim_id": "07262514c0ffcf83907e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-8f5e51ce78f3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BOLIGBYGGELAGET MIDT",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "20f3e2a52eadd237308e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-96a8f54ebe7c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Torkil Kvaran",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "32fd6524262e9a9261a8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-413aaba8de0b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BOLIGBYGGELAGET MIDT",
+        "role": "Forretningsfører",
+        "role_code": "FFØR"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "366a80316799638c359a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-558ae49d27ef"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tomm Ivar Vangen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "39543ff45b01bffed90f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-17772074537f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kirsten Finstad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "560dcfc4a64bfd56385f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-913802403-dcf69f24a174"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tove Marie Hervik",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d6f8a6818e549891395e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-913802403-924069791"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:43Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:43Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Kroghbakken 3"
+          ],
+          "kommune": "STEINKJER",
+          "kommunenummer": "5006",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "7713",
+          "poststed": "STEINKJER"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "kode": "97.001"
+        },
+        "name": "POPPELLUNDEN BOLIGSAMEIE",
+        "organisation_number": "924069791"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 859521.0, operating_result: 90340.0, profit_before_tax: 89328.0, annual_result: 89328.0, assets: 451320.0, equity: 372306.0, debt: 79014.0",
+      "content_sha256": "fa9cb354d403381eddbb6eb397a025ae987ddbcd66f25835338ea4aab21b58cc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "http_status": 200,
+      "id": "ev-fin-913802403-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:33.605913Z",
+      "snapshot_ref": "fa/fa9cb354d403381eddbb6eb397a025ae987ddbcd66f25835338ea4aab21b58cc.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 915970.0, operating_result: 109576.0, profit_before_tax: 112558.0, annual_result: 112556.0, assets: 563425.0, equity: 484862.0, debt: 78562.0",
+      "content_sha256": "ab2e52eae3b82b584a0c45f14e37d92e214e92bd16ab7dcf3cc19ad53ac475d8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "http_status": 200,
+      "id": "ev-fin-913802403-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:33.605913Z",
+      "snapshot_ref": "ab/ab2e52eae3b82b584a0c45f14e37d92e214e92bd16ab7dcf3cc19ad53ac475d8.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 1007282.0, operating_result: 147064.0, annual_result: 151771.0, assets: 704180.0, equity: 636634.0, debt: 67546.0",
+      "content_sha256": "949bb8e9cbf1b1710ffa2b9e762ef903e932920472001a3a4127eef391bb3a3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "http_status": 200,
+      "id": "ev-fin-913802403-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:33.605913Z",
+      "snapshot_ref": "94/949bb8e9cbf1b1710ffa2b9e762ef903e932920472001a3a4127eef391bb3a3a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 924069791: POPPELLUNDEN BOLIGSAMEIE",
+      "content_sha256": "0fe34c23ddaf55e144942caf66ff6128dc44de8a03ed547705e21a24c29a8e75",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913802403&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-913802403-924069791",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:37.126095Z",
+      "snapshot_ref": "0f/0fe34c23ddaf55e144942caf66ff6128dc44de8a03ed547705e21a24c29a8e75.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913802403&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 913802403 POPPELLUNDEN BOLIGSAMEIE",
+      "content_sha256": "e5a67f31216ad73d5a4dfc3c4f8d1899c07ca0d31407ab22bad5147fb527a08d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-913802403",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "e5/e5a67f31216ad73d5a4dfc3c4f8d1899c07ca0d31407ab22bad5147fb527a08d.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kirsten Finstad",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-17772074537f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role FFØR: BOLIGBYGGELAGET MIDT",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-413aaba8de0b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Tomm Ivar Vangen",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-558ae49d27ef",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: BOLIGBYGGELAGET MIDT",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-8f5e51ce78f3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Torkil Kvaran",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-96a8f54ebe7c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tove Marie Hervik",
+      "content_sha256": "5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "http_status": 200,
+      "id": "ev-role-913802403-dcf69f24a174",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:34.741721Z",
+      "snapshot_ref": "5a/5ab9ab6699a7a883fdbed3801946453077dd0d3441e78287e965c8d4613539c1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0c95ef42f6eea487b1ce",
+        "21675cae442c23bb198a",
+        "28c5652a351eeb2f9cee",
+        "28c6cef341dc51511b93",
+        "3a952d66b2834b42c504",
+        "418d31cb8f9bb198d679",
+        "53335f6699b6e9b0155c",
+        "54c36d22680b100eb2ef",
+        "59ecd84c4f68c5c7a0c3",
+        "6795acffba97a1d02b83",
+        "875569659ba0d8c67713",
+        "9137b8f0836f9731be63",
+        "91889ff6b399c8b046ed",
+        "a143a96101a35695e0d6",
+        "ec1f3c4491a2c3473a1a",
+        "f5b429cb39913d3cefe3",
+        "f744bacbde92a9f2d4d0",
+        "f966acffc254c2fd7078",
+        "f9cccc5fa30ef1a3d80c",
+        "fa5a596790a57762bc39"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "7158ebd3c7ee3a882428",
+        "84e9349b97a9208926b7",
+        "972e88422185111362f4"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "07262514c0ffcf83907e",
+        "20f3e2a52eadd237308e",
+        "32fd6524262e9a9261a8",
+        "366a80316799638c359a",
+        "39543ff45b01bffed90f",
+        "560dcfc4a64bfd56385f"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "d6f8a6818e549891395e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "7158ebd3c7ee3a882428",
+      "972e88422185111362f4",
+      "84e9349b97a9208926b7"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "POPPELLUNDEN BOLIGSAMEIE"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 14,
+    "runtime_ms": 11179,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "913802403",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:50.099472Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "913802403",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "ESEK",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "c3e6a729cb3fc39b328ad44f3076dbb474b2c4a6b93c57e4e7991116ce888e1c",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:33.605913Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/913802403",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 89328.0,
+              "assets": 451320.0,
+              "currency": "NOK",
+              "debt": 79014.0,
+              "equity": 372306.0,
+              "operating_result": 90340.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 89328.0,
+              "record_id": 4728545,
+              "revenue": 859521.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 112556.0,
+              "assets": 563425.0,
+              "currency": "NOK",
+              "debt": 78562.0,
+              "equity": 484862.0,
+              "operating_result": 109576.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 112558.0,
+              "record_id": 5607035,
+              "revenue": 915970.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 151771.0,
+              "assets": 704180.0,
+              "currency": "NOK",
+              "debt": 67546.0,
+              "equity": 636634.0,
+              "operating_result": 147064.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": null,
+              "record_id": 6605971,
+              "revenue": 1007282.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:35.923195Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/913802403",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "00b0714eeca2225643b22a891b716bbe34aca3ecf3c5ac006035a915d55b620e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:37.126095Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=913802403&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Kroghbakken 3"
+                ],
+                "kommune": "STEINKJER",
+                "kommunenummer": "5006",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "7713",
+                "poststed": "STEINKJER"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+                "kode": "97.001"
+              },
+              "name": "POPPELLUNDEN BOLIGSAMEIE",
+              "organisation_number": "924069791"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "913802403",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eierseksjonssameie",
+          "antallAnsatte": "",
+          "epostadresse": "hei@bomidt.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kroghbakken 3",
+          "forretningsadresse.kommune": "STEINKJER",
+          "forretningsadresse.kommunenummer": "5006",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7713",
+          "forretningsadresse.poststed": "STEINKJER",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "bomidt.no",
+          "institusjonellSektorkode.beskrivelse": "",
+          "institusjonellSektorkode.kode": "",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "naeringskode1.kode": "97.001",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "POPPELLUNDEN BOLIGSAMEIE",
+          "organisasjonsform.beskrivelse": "Eierseksjonssameie",
+          "organisasjonsform.kode": "ESEK",
+          "organisasjonsnummer": "913802403",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2014-07-07",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2014-07-07",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2014-05-06",
+          "telefon": "74 07 31 80",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2014-06-18",
+          "vedtektsfestetFormaal": "Eierseksjonssameie"
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "51631b9cfc3ab7a79de285c72882b247a239451c08f3cb50e0b71d9de6e7ae7a",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:34.741721Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/913802403/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Forretningsfører",
+              "group_code": "FFØR",
+              "inactive": false,
+              "last_changed": "2018-06-28",
+              "name": [
+                "BOLIGBYGGELAGET MIDT"
+              ],
+              "organisation_number": "926332104",
+              "role": "Forretningsfører",
+              "role_code": "FFØR"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Tomm Ivar Vangen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Kirsten Finstad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Tove Marie Hervik",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-04",
+              "name": "Torkil Kvaran",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2018-06-28",
+              "name": [
+                "BOLIGBYGGELAGET MIDT"
+              ],
+              "organisation_number": "926332104",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "97.001",
+    "industry_label": "Aktiviteter i borettslag og boligsameier",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "ESEK",
+    "liquidating": false,
+    "municipality": "STEINKJER",
+    "municipality_number": "5006",
+    "name": "POPPELLUNDEN BOLIGSAMEIE",
+    "organisation_number": "913802403",
+    "run_metrics": {
+      "latencies_ms": [
+        1156,
+        1139,
+        1172,
+        1202,
+        2078,
+        1062,
+        1217,
+        968,
+        31,
+        47,
+        858,
+        110,
+        77,
+        62
+      ],
+      "requests": 14
+    },
+    "website": "bomidt.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:43Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "POPPELLUNDEN BOLIGSAMEIE (ESEK, org.nr 913802403)",
+    "what_it_does": "POPPELLUNDEN BOLIGSAMEIE is classified under NACE code 97.001 (unspecified).",
+    "business_model": "Operates as a registered ESEK entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, POPPELLUNDEN BOLIGSAMEIE reported revenue of 1,007,282 NOK and an operating result of 147,064 NOK. Net result was 151,771 NOK, with total assets of 704,180 NOK and equity of 636,634 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 14.6% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Tomm Ivar Vangen. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "POPPELLUNDEN BOLIGSAMEIE is classified under NACE code 97.001 (unspecified).",
+        "claim_ids": [
+          "84e9349b97a9208926b7",
+          "7158ebd3c7ee3a882428"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered ESEK entity within the commercial sector.",
+        "claim_ids": [
+          "972e88422185111362f4",
+          "84e9349b97a9208926b7"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, POPPELLUNDEN BOLIGSAMEIE reported revenue of 1,007,282 NOK and an operating result of 147,064 NOK.",
+        "claim_ids": [
+          "6795acffba97a1d02b83",
+          "a143a96101a35695e0d6"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 151,771 NOK, with total assets of 704,180 NOK and equity of 636,634 NOK.",
+        "claim_ids": [
+          "f9cccc5fa30ef1a3d80c",
+          "f744bacbde92a9f2d4d0",
+          "0c95ef42f6eea487b1ce"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "6795acffba97a1d02b83",
+          "28c5652a351eeb2f9cee"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 14.6% (derived: operating result / revenue).",
+        "claim_ids": [
+          "a143a96101a35695e0d6",
+          "6795acffba97a1d02b83"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Tomm Ivar Vangen.",
+        "claim_ids": [
+          "366a80316799638c359a"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "07262514c0ffcf83907e",
+          "20f3e2a52eadd237308e",
+          "32fd6524262e9a9261a8",
+          "366a80316799638c359a",
+          "39543ff45b01bffed90f",
+          "560dcfc4a64bfd56385f"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "7158ebd3c7ee3a882428"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "d6f8a6818e549891395e"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "7158ebd3c7ee3a882428"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "7158ebd3c7ee3a882428"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "7158ebd3c7ee3a882428"
+        ]
+      }
+    ]
+  }
+}

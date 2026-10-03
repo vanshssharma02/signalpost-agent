@@ -1,0 +1,1327 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "00e0719265e4fdacf1f1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10333.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1026d4432cef1bddbaaa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 140658.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cabcceb2edb7a4566105",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -375515.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0afcb25ac93483fca390",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 137797.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4dd547b53e2ab68b456e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1123007.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7389a98a8c597267d2ba",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 133891.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4284e4bb7936ab04ecb5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -182879.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9ad80ef1d5b02f189df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1027019.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f59975f3ac3a7362dbe0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9407.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8d4ed784b263294f919c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 124485.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f22b0459c8e4c1911a95",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1305886.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe34bdf1b59fa6a05bdf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1164816.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "57657e1a672db478696c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37990.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "729d45e9df218a5edf52",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -475097.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b58768b7865f4d0bea92",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 219849.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "259ff41e9cc2d754778f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 190575.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "463f7ebd9dee89049212",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 27482.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa19da2a3cc3acba0e19",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -479264.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bddc00d722dc0b89d0d4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2138396.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ca12a97a81a33964e4ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1272157.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "da9f5894b38e655f85b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-931558617-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 417303.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9bc23a5388e832adc0c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-931558617"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "81.100"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bce90dd2f5598b7b5538",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-931558617"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "57cd692a63b5ac7d48ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-931558617"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "RANDBY AGRO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "89d454e3bc6435c52b7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-931558617-85cd11780b9e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lasse Bogstad",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "af520d965d36999c3c9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-931558617-edb917454cda"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lasse Bogstad",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "69fc953e04f5d2a4882d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-931558617-932035472"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Rambygutua 25"
+          ],
+          "kommune": "ULLENSAKER",
+          "kommunenummer": "3209",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2040",
+          "poststed": "KLØFTA"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+          "kode": "81.100"
+        },
+        "name": "RANDBY AGRO AS",
+        "organisation_number": "932035472"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 417303.0, operating_result: -475097.0, profit_before_tax: -479264.0, annual_result: -375515.0, assets: 133891.0, equity: 124485.0, debt: 9407.0",
+      "content_sha256": "719c4eaeb5185e2afea870013681ad31665810bc879ec612b234fd33931d40e7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "http_status": 200,
+      "id": "ev-fin-931558617-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:41.358738Z",
+      "snapshot_ref": "71/719c4eaeb5185e2afea870013681ad31665810bc879ec612b234fd33931d40e7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 1272157.0, operating_result: 37990.0, profit_before_tax: 27482.0, annual_result: 10333.0, assets: 137797.0, equity: 1164816.0, debt: -1027019.0",
+      "content_sha256": "2bc4fbb9954c57d286433d7326acaf88b3746008af66120bb61161802a87cfaf",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "http_status": 200,
+      "id": "ev-fin-931558617-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:41.358738Z",
+      "snapshot_ref": "2b/2bc4fbb9954c57d286433d7326acaf88b3746008af66120bb61161802a87cfaf.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2138396.0, operating_result: 219849.0, profit_before_tax: 190575.0, annual_result: 140658.0, assets: 1123007.0, equity: 1305886.0, debt: -182879.0",
+      "content_sha256": "e302491df8018108f14bcc8ef8753cf6ff21a8d181170d35f5b404dec2d5ca0c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "http_status": 200,
+      "id": "ev-fin-931558617-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:41.358738Z",
+      "snapshot_ref": "e3/e302491df8018108f14bcc8ef8753cf6ff21a8d181170d35f5b404dec2d5ca0c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 932035472: RANDBY AGRO AS",
+      "content_sha256": "12956b57bac748f09c5bade148e3fb13918dec91f1d154ee5ff5c7b3dcd561af",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=931558617&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-931558617-932035472",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.908011Z",
+      "snapshot_ref": "12/12956b57bac748f09c5bade148e3fb13918dec91f1d154ee5ff5c7b3dcd561af.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=931558617&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 931558617 RANDBY AGRO AS",
+      "content_sha256": "1b937b8cd765a2278470cbd4d8bd513d2aa3747cdc56cf940b8c353b2a1a842e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-931558617",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "1b/1b937b8cd765a2278470cbd4d8bd513d2aa3747cdc56cf940b8c353b2a1a842e.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Lasse Bogstad",
+      "content_sha256": "09f9b88fa7620c914c48e51c7ad561b7ae19ffe03a63ef31d5df08bfd0da8825",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931558617/roller",
+      "http_status": 200,
+      "id": "ev-role-931558617-85cd11780b9e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:42.549946Z",
+      "snapshot_ref": "09/09f9b88fa7620c914c48e51c7ad561b7ae19ffe03a63ef31d5df08bfd0da8825.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931558617/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Lasse Bogstad",
+      "content_sha256": "09f9b88fa7620c914c48e51c7ad561b7ae19ffe03a63ef31d5df08bfd0da8825",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931558617/roller",
+      "http_status": 200,
+      "id": "ev-role-931558617-edb917454cda",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:42.549946Z",
+      "snapshot_ref": "09/09f9b88fa7620c914c48e51c7ad561b7ae19ffe03a63ef31d5df08bfd0da8825.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931558617/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "00e0719265e4fdacf1f1",
+        "0afcb25ac93483fca390",
+        "1026d4432cef1bddbaaa",
+        "259ff41e9cc2d754778f",
+        "4284e4bb7936ab04ecb5",
+        "463f7ebd9dee89049212",
+        "4dd547b53e2ab68b456e",
+        "57657e1a672db478696c",
+        "729d45e9df218a5edf52",
+        "7389a98a8c597267d2ba",
+        "8d4ed784b263294f919c",
+        "b58768b7865f4d0bea92",
+        "bddc00d722dc0b89d0d4",
+        "ca12a97a81a33964e4ad",
+        "cabcceb2edb7a4566105",
+        "da9f5894b38e655f85b0",
+        "e9ad80ef1d5b02f189df",
+        "f22b0459c8e4c1911a95",
+        "f59975f3ac3a7362dbe0",
+        "fa19da2a3cc3acba0e19",
+        "fe34bdf1b59fa6a05bdf"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "57cd692a63b5ac7d48ee",
+        "9bc23a5388e832adc0c2",
+        "bce90dd2f5598b7b5538"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "89d454e3bc6435c52b7a",
+        "af520d965d36999c3c9a"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "69fc953e04f5d2a4882d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "57cd692a63b5ac7d48ee",
+      "bce90dd2f5598b7b5538",
+      "9bc23a5388e832adc0c2"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "RANDBY AGRO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 9496,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "931558617",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:55.961998Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "931558617",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "e0fba7f70fb7eaac60fe733984997be081f2da03b8c65a79e6960bc8dcd40fa6",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:41.358738Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/931558617",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -375515.0,
+              "assets": 133891.0,
+              "currency": "NOK",
+              "debt": 9407.0,
+              "equity": 124485.0,
+              "operating_result": -475097.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -479264.0,
+              "record_id": 5346519,
+              "revenue": 417303.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 10333.0,
+              "assets": 137797.0,
+              "currency": "NOK",
+              "debt": -1027019.0,
+              "equity": 1164816.0,
+              "operating_result": 37990.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 27482.0,
+              "record_id": 6245387,
+              "revenue": 1272157.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 140658.0,
+              "assets": 1123007.0,
+              "currency": "NOK",
+              "debt": -182879.0,
+              "equity": 1305886.0,
+              "operating_result": 219849.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 190575.0,
+              "record_id": 6387991,
+              "revenue": 2138396.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:43.728314Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/931558617",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "0051e9364700be96433aaa993b3880f9da5505efb971b6a8efb95019d0267eab",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:44.908011Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=931558617&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Rambygutua 25"
+                ],
+                "kommune": "ULLENSAKER",
+                "kommunenummer": "3209",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2040",
+                "poststed": "KLØFTA"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+                "kode": "81.100"
+              },
+              "name": "RANDBY AGRO AS",
+              "organisation_number": "932035472"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "931558617",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Vaktmestertjenester. Dyrking av korn (unntatt ris), belgvekster og oljeholdige vekster.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Rambygutua 25",
+          "forretningsadresse.kommune": "ULLENSAKER",
+          "forretningsadresse.kommunenummer": "3209",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2040",
+          "forretningsadresse.poststed": "KLØFTA",
+          "fravalgRevisjonBeslutningsDato": "2023-05-11",
+          "fravalgRevisjonDato": "2023-06-12",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2023-06-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+          "naeringskode1.kode": "81.100",
+          "naeringskode2.beskrivelse": "Dyrking av korn, unntatt ris, belgvekster og oljeholdige vekster",
+          "naeringskode2.kode": "01.110",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "RANDBY AGRO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "931558617",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-08-11",
+          "registreringsdatoForetaksregisteret": "2023-06-12",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2023-06-20",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-06-20",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2025-08-10",
+          "registreringsdatoenhetsregisteret": "2023-06-12",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2023-05-11",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2023-05-11",
+          "vedtektsfestetFormaal": "Vaktmestertjenester. Dyrking av korn (unntatt ris), belgvekster og oljeholdige vekster. Tjenester tilknyttet planteproduksjon."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "8af40dbf796bfbd480be75d98936deff03893d75fafa0b821432e6efe9468a03",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:42.549946Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/931558617/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2023-06-12",
+              "name": "Lasse Bogstad",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-06-12",
+              "name": "Lasse Bogstad",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "81.100",
+    "industry_label": "Kombinerte tjenester tilknyttet eiendomsdrift",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ULLENSAKER",
+    "municipality_number": "3209",
+    "name": "RANDBY AGRO AS",
+    "organisation_number": "931558617",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1187,
+        1187,
+        1172,
+        46,
+        31,
+        47,
+        77,
+        62,
+        4485
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:49Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "RANDBY AGRO AS (AS, org.nr 931558617)",
+    "what_it_does": "RANDBY AGRO AS is classified under NACE code 81.100 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, RANDBY AGRO AS reported revenue of 2,138,396 NOK and an operating result of 219,849 NOK. Net result was 140,658 NOK, with total assets of 1,123,007 NOK and equity of 1,305,886 NOK. Revenue grew by +68.1% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 10.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Lasse Bogstad. Daily operations are led by general manager Lasse Bogstad. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "RANDBY AGRO AS is classified under NACE code 81.100 (unspecified).",
+        "claim_ids": [
+          "9bc23a5388e832adc0c2",
+          "57cd692a63b5ac7d48ee"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "bce90dd2f5598b7b5538",
+          "9bc23a5388e832adc0c2"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, RANDBY AGRO AS reported revenue of 2,138,396 NOK and an operating result of 219,849 NOK.",
+        "claim_ids": [
+          "bddc00d722dc0b89d0d4",
+          "b58768b7865f4d0bea92"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 140,658 NOK, with total assets of 1,123,007 NOK and equity of 1,305,886 NOK.",
+        "claim_ids": [
+          "1026d4432cef1bddbaaa",
+          "4dd547b53e2ab68b456e",
+          "f22b0459c8e4c1911a95"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +68.1% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "bddc00d722dc0b89d0d4",
+          "ca12a97a81a33964e4ad"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 10.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "b58768b7865f4d0bea92",
+          "bddc00d722dc0b89d0d4"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Lasse Bogstad.",
+        "claim_ids": [
+          "89d454e3bc6435c52b7a"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Lasse Bogstad.",
+        "claim_ids": [
+          "af520d965d36999c3c9a"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "89d454e3bc6435c52b7a",
+          "af520d965d36999c3c9a"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "57cd692a63b5ac7d48ee"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "69fc953e04f5d2a4882d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "57cd692a63b5ac7d48ee"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "57cd692a63b5ac7d48ee"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "57cd692a63b5ac7d48ee"
+        ]
+      }
+    ]
+  }
+}

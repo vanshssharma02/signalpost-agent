@@ -1,0 +1,3377 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "40513b154ddeeffbfd8c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 828.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d562bbf76875a5303952",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -15865.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e13c0f6724ec95359eae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1059.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19b4ca89d7015530c583",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bf1d422371bf20e8cc43",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31358.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e3063ccb2dee49c3824c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4fcb05f47edae2e57d35",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7c516edee38888d70ab9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1358.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d53be0e0e60c771c3e66",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a548de61cbb8833b08a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "337860387c7ba38428e9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e713a72ac1bdc6e813ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "58cda0c193a22c7d3824",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e27abe02b3bc32c64389",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2286.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "945b9438fd83597db7dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1358.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c47496b50f5e93e6f4df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e554a130e429843a79af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926325655-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -20340.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "88820ae2b7f6b3a35609",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926325655"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "90.390"
+    },
+    {
+      "availability": "available",
+      "claim_id": "313b6bc7874d52f2569b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926325655"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "eeb08f1a96f553ea7ca3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926325655"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "OSLO NEGATIV AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "35f07285beb0dda5a1b6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926325655-9beee38ee22d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Dagny Stensgård Wik",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "64afe1f3d8aa4e204eb4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926325655-99ba54a186e4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Andreas Jul Røsjø",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e0dc2f596b0bf709e7b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926325655-3858ca968379"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øyvind Hartveit",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ffb341d5fddb5b8e5355",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926325655-e33f07c1e200"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øyvind Hartveit",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "cef6f45726d99d1f4474",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-926325655-932651815"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:05Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:05Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Bygdøy allé 4"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0257",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+          "kode": "90.390"
+        },
+        "name": "OSLO NEGATIV AS",
+        "organisation_number": "932651815"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -2286.0, profit_before_tax: -20340.0, annual_result: -15865.0, assets: 30000.0, equity: 30000.0, debt: 0.0",
+      "content_sha256": "ebe09e41266c40d2500cab3f1fbfc3c068e9ec513f9c04c184fdfdcc22fe82d3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "http_status": 200,
+      "id": "ev-fin-926325655-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:58.564756Z",
+      "snapshot_ref": "eb/ebe09e41266c40d2500cab3f1fbfc3c068e9ec513f9c04c184fdfdcc22fe82d3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: 1.0, profit_before_tax: 1061.0, annual_result: 828.0, assets: 31061.0, equity: 30000.0, debt: 1061.0",
+      "content_sha256": "f684c476b801e749a0193ca67c32664339e4b197f41cf7e0a97bc89831a77b0f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "http_status": 200,
+      "id": "ev-fin-926325655-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:58.564756Z",
+      "snapshot_ref": "f6/f684c476b801e749a0193ca67c32664339e4b197f41cf7e0a97bc89831a77b0f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: profit_before_tax: 1358.0, annual_result: 1059.0, assets: 31358.0, equity: 30000.0, debt: 1358.0",
+      "content_sha256": "4be99c8b1b9a8092c7742962e5b256c2295aa44605d7595511435564d3d0a1e1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "http_status": 200,
+      "id": "ev-fin-926325655-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:58.564756Z",
+      "snapshot_ref": "4b/4be99c8b1b9a8092c7742962e5b256c2295aa44605d7595511435564d3d0a1e1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 932651815: OSLO NEGATIV AS",
+      "content_sha256": "f39f0422c52e30f28f8c98b5a13e6199efbbbddec8584fbdf0a9afefd2823d4e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926325655&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-926325655-932651815",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:03.102280Z",
+      "snapshot_ref": "f3/f39f0422c52e30f28f8c98b5a13e6199efbbbddec8584fbdf0a9afefd2823d4e.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926325655&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 926325655 OSLO NEGATIV AS",
+      "content_sha256": "d50590c3d52d8f56a1d4a4ef0a165c186daf18ca3e18ea73b1092bf87b7a8b77",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-926325655",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "d5/d50590c3d52d8f56a1d4a4ef0a165c186daf18ca3e18ea73b1092bf87b7a8b77.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Øyvind Hartveit",
+      "content_sha256": "4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "http_status": 200,
+      "id": "ev-role-926325655-3858ca968379",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:59.794071Z",
+      "snapshot_ref": "40/4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Andreas Jul Røsjø",
+      "content_sha256": "4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "http_status": 200,
+      "id": "ev-role-926325655-99ba54a186e4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:59.794071Z",
+      "snapshot_ref": "40/4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Dagny Stensgård Wik",
+      "content_sha256": "4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "http_status": 200,
+      "id": "ev-role-926325655-9beee38ee22d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:59.794071Z",
+      "snapshot_ref": "40/4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Øyvind Hartveit",
+      "content_sha256": "4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "http_status": 200,
+      "id": "ev-role-926325655-e33f07c1e200",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:59.794071Z",
+      "snapshot_ref": "40/4037d9b676fe3e4586ddcd93033eb428e36e98c25f38ddea691f168e56ba121d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "19b4ca89d7015530c583",
+        "2a548de61cbb8833b08a",
+        "337860387c7ba38428e9",
+        "40513b154ddeeffbfd8c",
+        "4fcb05f47edae2e57d35",
+        "58cda0c193a22c7d3824",
+        "7c516edee38888d70ab9",
+        "945b9438fd83597db7dc",
+        "bf1d422371bf20e8cc43",
+        "c47496b50f5e93e6f4df",
+        "d53be0e0e60c771c3e66",
+        "d562bbf76875a5303952",
+        "e13c0f6724ec95359eae",
+        "e27abe02b3bc32c64389",
+        "e3063ccb2dee49c3824c",
+        "e554a130e429843a79af",
+        "e713a72ac1bdc6e813ed"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "313b6bc7874d52f2569b",
+        "88820ae2b7f6b3a35609",
+        "eeb08f1a96f553ea7ca3"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "35f07285beb0dda5a1b6",
+        "64afe1f3d8aa4e204eb4",
+        "e0dc2f596b0bf709e7b4",
+        "ffb341d5fddb5b8e5355"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "cef6f45726d99d1f4474"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "eeb08f1a96f553ea7ca3",
+      "313b6bc7874d52f2569b",
+      "88820ae2b7f6b3a35609"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "OSLO NEGATIV AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 8166,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "926325655",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.856699Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "926325655",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "e1e54fe3ae3a5623474d104cae51ea8ca0db93acc00f43d2c723c4839c0dc927",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:58.564756Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926325655",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -15865.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 30000.0,
+              "operating_result": -2286.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -20340.0,
+              "record_id": 5051045,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 828.0,
+              "assets": 31061.0,
+              "currency": "NOK",
+              "debt": 1061.0,
+              "equity": 30000.0,
+              "operating_result": 1.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1061.0,
+              "record_id": 5865553,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1059.0,
+              "assets": 31358.0,
+              "currency": "NOK",
+              "debt": 1358.0,
+              "equity": 30000.0,
+              "operating_result": null,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1358.0,
+              "record_id": 6506067,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "0d306148525e560a00fae627afc1a975e062266d71e217d286970ab229156985",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:01.871440Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/926325655",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "dato": "2014-09-02",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER FASTIGHETER I MÅLARDALEN AB",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "897630532",
+                      "parentNavn": "MØLLER EIENDOM SVERIGE AS",
+                      "parentOrganisasjonsnummer": "996975754"
+                    }
+                  ],
+                  "dato": "2018-02-28",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "MØLLER EIENDOM SVERIGE AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "996975754",
+                  "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                  "parentOrganisasjonsnummer": "997077857"
+                },
+                {
+                  "children": [
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "EIZENSTEINA 6 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "997630467",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER REALITY UAB",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "997630106",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MUKUPURVA 1 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "931303317",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ULMANA 115 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "931303279",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "KRASTA 54 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "914093317",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ZVAIGZNU 11 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "914093244",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "AUTOHAUS HOLDING OÜ",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "914093163",
+                      "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                      "parentOrganisasjonsnummer": "996975592"
+                    }
+                  ],
+                  "dato": "2018-02-28",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "MØLLER REAL ESTATE BALTIC AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "996975592",
+                  "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                  "parentOrganisasjonsnummer": "997077857"
+                },
+                {
+                  "children": [
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "HASLEVOLLEN UTVIKLING AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "998366291",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "HASLEVANGEN 13 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "998366267",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "FORUS FORRETNINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "997991621",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLERGATA 4 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "997456661",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLERGATA 12 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "995727625",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLERGATA 6-8 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "995338602",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "LEIRAVEIEN FORRETNINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "994531573",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "KOKSTADVEIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "992883618",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "HASLEVANGEN 15 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "992670541",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "GRAN BOLIGBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "992052864",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "GRENSEVEIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "992047836",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ØKERNVEIEN 94 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "992038896",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "SMESTADMOEN HANDELSHUS AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "991872361",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "LEIRAVEIEN LOGISTIKKPARK AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "990638292",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "JERNKROKEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "990638225",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "LITLEÅSVEIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "990638195",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "SOGNNES 41 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "990591199",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "SOLBERGKRYSSET ÅS AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "989865706",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "GRAN EIENDOMSUTVIKLING AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "987015020",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "SVEND HAUGS GATE 9 OG 11 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "927386682",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MEDVIND EIENDOMSSERVICE AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "926325787",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER HYLLESELSKAP 9 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "926325701",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "OSLO NEGATIV AS",
+                          "nivaa": 4,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "926325655",
+                          "parentNavn": "ARNE GARBORGS PLASS 4 AS",
+                          "parentOrganisasjonsnummer": "923942106"
+                        }
+                      ],
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ARNE GARBORGS PLASS 4 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "923942106",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "DRAMMEN KABELINVEST AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "921563027",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "LILLE FROGNER ALLÉ 8A AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "920847617",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "LEIRAVEIEN LOGISTIKKBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "919047550",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "KJÆRLIGHETSSTIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "918180427",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "HVAMSTUBBEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917212813",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ENEBAKKVEIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917212805",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "INGVALD YSTGAARDSVEI NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917212414",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "KANALVEIEN 3 NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917212406",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "BILLINGSTADSLETTA NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917210217",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ÅSVEIEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "917210039",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "BALDERS GATE 28 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "916393024",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "TUNGASLETTA NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "914349559",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "FRYSJAVEIEN 31 TOMTESELSKAP AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "914349311",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "VIRIDIS GARDERMOEN AS",
+                          "nivaa": 4,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "915645453",
+                          "parentNavn": "VIRIDIS PROPERTY HOLDING AS",
+                          "parentOrganisasjonsnummer": "912977609"
+                        }
+                      ],
+                      "dato": "2023-09-07",
+                      "grunnlag": "60,0%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "VIRIDIS PROPERTY HOLDING AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "912977609",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "BYGDØY ALLE 4 AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "898366162",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "JANAFLATEN NÆRINGSBYGG AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "817212352",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    },
+                    {
+                      "dato": "2023-09-07",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "BALDERMOEN AS",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "814349322",
+                      "parentNavn": "MØLLER EIENDOM NORGE AS",
+                      "parentOrganisasjonsnummer": "928301931"
+                    }
+                  ],
+                  "dato": "2018-02-28",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "MØLLER EIENDOM NORGE AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "928301931",
+                  "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                  "parentOrganisasjonsnummer": "997077857"
+                },
+                {
+                  "children": [
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "ULMANA 86 SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "997630483",
+                      "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                      "parentOrganisasjonsnummer": "919900113"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MOLLER REAL ESTATE SIA",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "997630432",
+                      "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                      "parentOrganisasjonsnummer": "919900113"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "SAVANORIU PROSPEKTAS UAB",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "921513410",
+                      "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                      "parentOrganisasjonsnummer": "919900113"
+                    },
+                    {
+                      "dato": "2023-04-27",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "RAHU 3 D OÜ",
+                      "nivaa": 3,
+                      "organisasjonsform": {
+                        "beskrivelse": "Utenlandsk enhet",
+                        "kode": "UTLA"
+                      },
+                      "organisasjonsnummer": "921511507",
+                      "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                      "parentOrganisasjonsnummer": "919900113"
+                    }
+                  ],
+                  "dato": "2018-02-28",
+                  "grunnlag": "100%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern datter",
+                    "kode": "KDAT"
+                  },
+                  "navn": "MØLLER EIENDOM BALTIKUM AS",
+                  "nivaa": 2,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "919900113",
+                  "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                  "parentOrganisasjonsnummer": "997077857"
+                }
+              ],
+              "dato": "2023-04-27",
+              "grunnlag": "93,1%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "MØLLER EIENDOM HOLDING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "997077857",
+              "parentNavn": "AARS AS",
+              "parentOrganisasjonsnummer": "993853712"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "dato": "2014-09-02",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLER FASTIGHETER I MÅLARDALEN AB",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "897630532",
+                          "parentNavn": "MØLLER EIENDOM SVERIGE AS",
+                          "parentOrganisasjonsnummer": "996975754"
+                        }
+                      ],
+                      "dato": "2018-02-28",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER EIENDOM SVERIGE AS",
+                      "nivaa": 2,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "996975754",
+                      "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                      "parentOrganisasjonsnummer": "997077857"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "EIZENSTEINA 6 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "997630467",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLER REALITY UAB",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "997630106",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MUKUPURVA 1 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "931303317",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ULMANA 115 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "931303279",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "KRASTA 54 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "914093317",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ZVAIGZNU 11 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "914093244",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "AUTOHAUS HOLDING OÜ",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "914093163",
+                          "parentNavn": "MØLLER REAL ESTATE BALTIC AS",
+                          "parentOrganisasjonsnummer": "996975592"
+                        }
+                      ],
+                      "dato": "2018-02-28",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER REAL ESTATE BALTIC AS",
+                      "nivaa": 2,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "996975592",
+                      "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                      "parentOrganisasjonsnummer": "997077857"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "HASLEVOLLEN UTVIKLING AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "998366291",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "HASLEVANGEN 13 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "998366267",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "FORUS FORRETNINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "997991621",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLERGATA 4 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "997456661",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLERGATA 12 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "995727625",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLERGATA 6-8 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "995338602",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "LEIRAVEIEN FORRETNINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "994531573",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "KOKSTADVEIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "992883618",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "HASLEVANGEN 15 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "992670541",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "GRAN BOLIGBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "992052864",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "GRENSEVEIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "992047836",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ØKERNVEIEN 94 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "992038896",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "SMESTADMOEN HANDELSHUS AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "991872361",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "LEIRAVEIEN LOGISTIKKPARK AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "990638292",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "JERNKROKEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "990638225",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "LITLEÅSVEIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "990638195",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "SOGNNES 41 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "990591199",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "SOLBERGKRYSSET ÅS AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "989865706",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "GRAN EIENDOMSUTVIKLING AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "987015020",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "SVEND HAUGS GATE 9 OG 11 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "927386682",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MEDVIND EIENDOMSSERVICE AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "926325787",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MØLLER HYLLESELSKAP 9 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "926325701",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "children": [
+                            {
+                              "dato": "2023-04-27",
+                              "grunnlag": "100%",
+                              "knytningsform": {
+                                "beskrivelse": "Konsern datter",
+                                "kode": "KDAT"
+                              },
+                              "navn": "OSLO NEGATIV AS",
+                              "nivaa": 4,
+                              "organisasjonsform": {
+                                "beskrivelse": "Aksjeselskap",
+                                "kode": "AS"
+                              },
+                              "organisasjonsnummer": "926325655",
+                              "parentNavn": "ARNE GARBORGS PLASS 4 AS",
+                              "parentOrganisasjonsnummer": "923942106"
+                            }
+                          ],
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ARNE GARBORGS PLASS 4 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "923942106",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "DRAMMEN KABELINVEST AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "921563027",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "LILLE FROGNER ALLÉ 8A AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "920847617",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "LEIRAVEIEN LOGISTIKKBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "919047550",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "KJÆRLIGHETSSTIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "918180427",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "HVAMSTUBBEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917212813",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ENEBAKKVEIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917212805",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "INGVALD YSTGAARDSVEI NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917212414",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "KANALVEIEN 3 NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917212406",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "BILLINGSTADSLETTA NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917210217",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ÅSVEIEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "917210039",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "BALDERS GATE 28 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "916393024",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "TUNGASLETTA NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "914349559",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "FRYSJAVEIEN 31 TOMTESELSKAP AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "914349311",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "children": [
+                            {
+                              "dato": "2023-04-27",
+                              "grunnlag": "100%",
+                              "knytningsform": {
+                                "beskrivelse": "Konsern datter",
+                                "kode": "KDAT"
+                              },
+                              "navn": "VIRIDIS GARDERMOEN AS",
+                              "nivaa": 4,
+                              "organisasjonsform": {
+                                "beskrivelse": "Aksjeselskap",
+                                "kode": "AS"
+                              },
+                              "organisasjonsnummer": "915645453",
+                              "parentNavn": "VIRIDIS PROPERTY HOLDING AS",
+                              "parentOrganisasjonsnummer": "912977609"
+                            }
+                          ],
+                          "dato": "2023-09-07",
+                          "grunnlag": "60,0%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "VIRIDIS PROPERTY HOLDING AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "912977609",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "BYGDØY ALLE 4 AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "898366162",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "JANAFLATEN NÆRINGSBYGG AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "817212352",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        },
+                        {
+                          "dato": "2023-09-07",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "BALDERMOEN AS",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Aksjeselskap",
+                            "kode": "AS"
+                          },
+                          "organisasjonsnummer": "814349322",
+                          "parentNavn": "MØLLER EIENDOM NORGE AS",
+                          "parentOrganisasjonsnummer": "928301931"
+                        }
+                      ],
+                      "dato": "2018-02-28",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER EIENDOM NORGE AS",
+                      "nivaa": 2,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "928301931",
+                      "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                      "parentOrganisasjonsnummer": "997077857"
+                    },
+                    {
+                      "children": [
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "ULMANA 86 SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "997630483",
+                          "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                          "parentOrganisasjonsnummer": "919900113"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "MOLLER REAL ESTATE SIA",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "997630432",
+                          "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                          "parentOrganisasjonsnummer": "919900113"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "SAVANORIU PROSPEKTAS UAB",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "921513410",
+                          "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                          "parentOrganisasjonsnummer": "919900113"
+                        },
+                        {
+                          "dato": "2023-04-27",
+                          "grunnlag": "100%",
+                          "knytningsform": {
+                            "beskrivelse": "Konsern datter",
+                            "kode": "KDAT"
+                          },
+                          "navn": "RAHU 3 D OÜ",
+                          "nivaa": 3,
+                          "organisasjonsform": {
+                            "beskrivelse": "Utenlandsk enhet",
+                            "kode": "UTLA"
+                          },
+                          "organisasjonsnummer": "921511507",
+                          "parentNavn": "MØLLER EIENDOM BALTIKUM AS",
+                          "parentOrganisasjonsnummer": "919900113"
+                        }
+                      ],
+                      "dato": "2018-02-28",
+                      "grunnlag": "100%",
+                      "knytningsform": {
+                        "beskrivelse": "Konsern datter",
+                        "kode": "KDAT"
+                      },
+                      "navn": "MØLLER EIENDOM BALTIKUM AS",
+                      "nivaa": 2,
+                      "organisasjonsform": {
+                        "beskrivelse": "Aksjeselskap",
+                        "kode": "AS"
+                      },
+                      "organisasjonsnummer": "919900113",
+                      "parentNavn": "MØLLER EIENDOM HOLDING AS",
+                      "parentOrganisasjonsnummer": "997077857"
+                    }
+                  ],
+                  "dato": "2020-10-06",
+                  "grunnlag": "6,4%",
+                  "knytningsform": {
+                    "beskrivelse": "Konsern grunnlag",
+                    "kode": "KGRL"
+                  },
+                  "navn": "MØLLER EIENDOM HOLDING AS",
+                  "nivaa": 1,
+                  "organisasjonsform": {
+                    "beskrivelse": "Aksjeselskap",
+                    "kode": "AS"
+                  },
+                  "organisasjonsnummer": "997077857",
+                  "parentNavn": "MØLLER EIENDOM MI AS",
+                  "parentOrganisasjonsnummer": "916308523"
+                }
+              ],
+              "dato": "2023-04-27",
+              "grunnlag": "81,1%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "MØLLER EIENDOM MI AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "916308523",
+              "parentNavn": "AARS AS",
+              "parentOrganisasjonsnummer": "993853712"
+            }
+          ],
+          "navn": "AARS AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "993853712"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "7ecf05cce433bad0131a588adcbfa4dc94321c1eff1b9c96b808fe76305c65e6",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:03.102280Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926325655&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Bygdøy allé 4"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0257",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+                "kode": "90.390"
+              },
+              "name": "OSLO NEGATIV AS",
+              "organisation_number": "932651815"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "926325655",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Arrangere festivaler for fotokunst, samt alt som hermed er forbundet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Bygdøy allé 4",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0257",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2020-11-19",
+          "fravalgRevisjonDato": "2021-01-05",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "300",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-01-05",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+          "naeringskode1.kode": "90.390",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "OSLO NEGATIV AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "926325655",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 6671 Etterstad",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0609",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2021-01-05",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-08-16",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-04-29",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2021-01-05",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-11-19",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-04-29",
+          "vedtektsfestetFormaal": "Arrangere festivaler for fotokunst, samt alt som hermed er forbundet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "f3297c3058fdbb597b2a5e5b9b20b01ca48d7be504f484620d3a5bd6bbc7b736",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:59.794071Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926325655/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2024-05-07",
+              "name": "Øyvind Hartveit",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-07-13",
+              "name": "Andreas Jul Røsjø",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-07-13",
+              "name": "Øyvind Hartveit",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-07-13",
+              "name": "Dagny Stensgård Wik",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "90.390",
+    "industry_label": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "OSLO NEGATIV AS",
+    "organisation_number": "926325655",
+    "run_metrics": {
+      "latencies_ms": [
+        1188,
+        1233,
+        2077,
+        1235,
+        1187,
+        639,
+        421,
+        47,
+        77,
+        62
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:05Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "OSLO NEGATIV AS (AS, org.nr 926325655)",
+    "what_it_does": "OSLO NEGATIV AS is classified under NACE code 90.390 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 1,059 NOK, with total assets of 31,358 NOK and equity of 30,000 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Andreas Jul Røsjø. Daily operations are led by general manager Øyvind Hartveit. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "OSLO NEGATIV AS is classified under NACE code 90.390 (unspecified).",
+        "claim_ids": [
+          "88820ae2b7f6b3a35609",
+          "eeb08f1a96f553ea7ca3"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "313b6bc7874d52f2569b",
+          "88820ae2b7f6b3a35609"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 1,059 NOK, with total assets of 31,358 NOK and equity of 30,000 NOK.",
+        "claim_ids": [
+          "e13c0f6724ec95359eae",
+          "bf1d422371bf20e8cc43",
+          "2a548de61cbb8833b08a"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Andreas Jul Røsjø.",
+        "claim_ids": [
+          "64afe1f3d8aa4e204eb4"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Øyvind Hartveit.",
+        "claim_ids": [
+          "ffb341d5fddb5b8e5355"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "35f07285beb0dda5a1b6",
+          "64afe1f3d8aa4e204eb4",
+          "e0dc2f596b0bf709e7b4",
+          "ffb341d5fddb5b8e5355"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "eeb08f1a96f553ea7ca3"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "cef6f45726d99d1f4474"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "eeb08f1a96f553ea7ca3"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "eeb08f1a96f553ea7ca3"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "eeb08f1a96f553ea7ca3"
+        ]
+      }
+    ]
+  }
+}

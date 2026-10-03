@@ -1,0 +1,1347 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "02eae70f2bfe4bf9230c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -537810.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2b7aa5c6e2a565616ac1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -500032.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0b93f7723bd9ee866e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -334604.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3e6f9147511c8d23ddd1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22754639.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a32162786212eeef6b2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23513560.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "abf53df952766bb9579b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22611872.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "086da5a8c69bdc84d587",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 14455989.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "326d4d83f87423b97f2a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 23647826.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b95f7bf26f9fa505f591",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 14677100.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "32043f811089d9f8d938",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8836460.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f8a29d3b3a4d25492c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1035954.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c0088afc9aad1c4ee465",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8298650.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0caa18d206cea522c4d0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -29360.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "80190d25533425d2aaf9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -55337.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bfa89b0cee2ba77b4514",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -46834.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f5c2a45ec4312020425",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -428979.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad74bd7e3e1c59e6c6cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -641066.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f255c46012784252dd10",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-926524143-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -689500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f8a0bafbfa57a575850",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926524143"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c613899e1cb3c3304819",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926524143"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e970cada17e2c6eab28c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-926524143"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "KONGENS GATE 2A HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "61d20755d504f09ed372",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926524143-8b2736e1dc50"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REVISJONSPARTNER AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "95f5d116305f282d0e87",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926524143-4db45ab7f74c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ZENITH EIENDOM AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ecdd50e7805f7f628adf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926524143-d8fd044217a7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Marit Hornslien Hjelmtvedt",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6087e84591b293e8fdc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-926524143-7a0143d66bb2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ZENITH EIENDOM AS",
+        "role": "Forretningsfører",
+        "role_code": "FFØR"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "00b6d3867ea5782521b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-926524143-926706861"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:12Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:12Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Bygg B",
+            "Myrens verksted 1A"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0473",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "kode": "68.110"
+        },
+        "name": "KONGENS GATE 2A HOLDING AS",
+        "organisation_number": "926706861"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -29360.0, profit_before_tax: -641066.0, annual_result: -500032.0, assets: 23513560.0, equity: 8836460.0, debt: 14677100.0",
+      "content_sha256": "67a3511d7981c321ffaea3fa301e7c60e49c88ec97211a61e2c59c53ae56a45e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "http_status": 200,
+      "id": "ev-fin-926524143-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:04.642924Z",
+      "snapshot_ref": "67/67a3511d7981c321ffaea3fa301e7c60e49c88ec97211a61e2c59c53ae56a45e.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -55337.0, profit_before_tax: -689500.0, annual_result: -537810.0, assets: 22754639.0, equity: 8298650.0, debt: 14455989.0",
+      "content_sha256": "239def66281979ce5afdb28ecd3c0c541242a90296ce699de1a0c3e43a58d522",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "http_status": 200,
+      "id": "ev-fin-926524143-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:04.642924Z",
+      "snapshot_ref": "23/239def66281979ce5afdb28ecd3c0c541242a90296ce699de1a0c3e43a58d522.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -46834.0, profit_before_tax: -428979.0, annual_result: -334604.0, assets: 22611872.0, equity: -1035954.0, debt: 23647826.0",
+      "content_sha256": "1f31873ba7a8f2f6959f0fdce29bab53f8e4d547b2af18314301a1009cbd7b32",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "http_status": 200,
+      "id": "ev-fin-926524143-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:04.642924Z",
+      "snapshot_ref": "1f/1f31873ba7a8f2f6959f0fdce29bab53f8e4d547b2af18314301a1009cbd7b32.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 926706861: KONGENS GATE 2A HOLDING AS",
+      "content_sha256": "5f0713b0b3009f17c6141ffa4a25bb7f4669704bc9c54279c94ee75419128a35",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926524143&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-926524143-926706861",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:08.147093Z",
+      "snapshot_ref": "5f/5f0713b0b3009f17c6141ffa4a25bb7f4669704bc9c54279c94ee75419128a35.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926524143&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 926524143 KONGENS GATE 2A HOLDING AS",
+      "content_sha256": "d1dc517e11b79e99b7f51de437d39202b90d3d89acb34c5544f453c07e968cfd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-926524143",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "d1/d1dc517e11b79e99b7f51de437d39202b90d3d89acb34c5544f453c07e968cfd.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ZENITH EIENDOM AS",
+      "content_sha256": "3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "http_status": 200,
+      "id": "ev-role-926524143-4db45ab7f74c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:05.820814Z",
+      "snapshot_ref": "3b/3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role FFØR: ZENITH EIENDOM AS",
+      "content_sha256": "3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "http_status": 200,
+      "id": "ev-role-926524143-7a0143d66bb2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:05.820814Z",
+      "snapshot_ref": "3b/3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: REVISJONSPARTNER AS",
+      "content_sha256": "3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "http_status": 200,
+      "id": "ev-role-926524143-8b2736e1dc50",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:05.820814Z",
+      "snapshot_ref": "3b/3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Marit Hornslien Hjelmtvedt",
+      "content_sha256": "3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "http_status": 200,
+      "id": "ev-role-926524143-d8fd044217a7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:05.820814Z",
+      "snapshot_ref": "3b/3bdba05603630bd2953690e6ecd16d6575e4d10dd35177397fc20ea50b9588fa.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02eae70f2bfe4bf9230c",
+        "086da5a8c69bdc84d587",
+        "0caa18d206cea522c4d0",
+        "2b7aa5c6e2a565616ac1",
+        "32043f811089d9f8d938",
+        "326d4d83f87423b97f2a",
+        "3e6f9147511c8d23ddd1",
+        "6f5c2a45ec4312020425",
+        "7f8a29d3b3a4d25492c3",
+        "80190d25533425d2aaf9",
+        "9a32162786212eeef6b2",
+        "a0b93f7723bd9ee866e5",
+        "abf53df952766bb9579b",
+        "ad74bd7e3e1c59e6c6cd",
+        "b95f7bf26f9fa505f591",
+        "bfa89b0cee2ba77b4514",
+        "c0088afc9aad1c4ee465",
+        "f255c46012784252dd10"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1f8a0bafbfa57a575850",
+        "c613899e1cb3c3304819",
+        "e970cada17e2c6eab28c"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "61d20755d504f09ed372",
+        "95f5d116305f282d0e87",
+        "ecdd50e7805f7f628adf",
+        "f6087e84591b293e8fdc"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "00b6d3867ea5782521b0"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "e970cada17e2c6eab28c",
+      "c613899e1cb3c3304819",
+      "1f8a0bafbfa57a575850"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "KONGENS GATE 2A HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 8933,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "926524143",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.961969Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "926524143",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "daf6330b8d8478da3c4f65d0791f269bc8ce288d599082a6fd6a058e14d2b1f1",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:04.642924Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/926524143",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -500032.0,
+              "assets": 23513560.0,
+              "currency": "NOK",
+              "debt": 14677100.0,
+              "equity": 8836460.0,
+              "operating_result": -29360.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -641066.0,
+              "record_id": 4896767,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -537810.0,
+              "assets": 22754639.0,
+              "currency": "NOK",
+              "debt": 14455989.0,
+              "equity": 8298650.0,
+              "operating_result": -55337.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -689500.0,
+              "record_id": 5756443,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -334604.0,
+              "assets": 22611872.0,
+              "currency": "NOK",
+              "debt": 23647826.0,
+              "equity": -1035954.0,
+              "operating_result": -46834.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -428979.0,
+              "record_id": 6662252,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:06.992254Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/926524143",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "6f35e7fb55af322d5612287e78a4591cb4efdc7463e16b911d42d08d3ad065a5",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:08.147093Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=926524143&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Bygg B",
+                  "Myrens verksted 1A"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0473",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kjøp og salg av egen fast eiendom",
+                "kode": "68.110"
+              },
+              "name": "KONGENS GATE 2A HOLDING AS",
+              "organisation_number": "926706861"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "926524143",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøp, salg, utvikling og utleie av fast eiendom, samt kjøp og salg av verdipapirer og aksjer i selskapet som driver i samme virksomhet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Bygg B\nMyrens verksted 1A",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0473",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100000",
+          "kapital.belop": "2500000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2026-07-27",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "naeringskode1.kode": "68.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "KONGENS GATE 2A HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "926524143",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 4218 Nydalen",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0401",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2021-02-04",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2021-04-13",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-04-13",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2021-02-04",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-01-21",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2026-06-10",
+          "vedtektsfestetFormaal": "Kjøp, salg, utvikling og utleie av fast eiendom, samt kjøp og salg av verdipapirer og aksjer i selskapet som driver i samme virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "7771886b235649ebd4b90b431df8449f1b4b8d3692b57a493894b74d7e1f3249",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:05.820814Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/926524143/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Forretningsfører",
+              "group_code": "FFØR",
+              "inactive": false,
+              "last_changed": "2022-08-18",
+              "name": [
+                "ZENITH EIENDOM AS"
+              ],
+              "organisation_number": "984333757",
+              "role": "Forretningsfører",
+              "role_code": "FFØR"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-03-22",
+              "name": "Marit Hornslien Hjelmtvedt",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2022-10-05",
+              "name": [
+                "REVISJONSPARTNER AS"
+              ],
+              "organisation_number": "967645354",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2021-02-04",
+              "name": [
+                "ZENITH EIENDOM AS"
+              ],
+              "organisation_number": "984333757",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.110",
+    "industry_label": "Kjøp og salg av egen fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "KONGENS GATE 2A HOLDING AS",
+    "organisation_number": "926524143",
+    "run_metrics": {
+      "latencies_ms": [
+        1202,
+        1187,
+        1171,
+        1157,
+        46,
+        62,
+        47,
+        61,
+        125,
+        47,
+        2766,
+        1062
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:12Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "KONGENS GATE 2A HOLDING AS (AS, org.nr 926524143)",
+    "what_it_does": "KONGENS GATE 2A HOLDING AS is classified under NACE code 68.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -334,604 NOK, with total assets of 22,611,872 NOK and equity of -1,035,954 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Marit Hornslien Hjelmtvedt. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "KONGENS GATE 2A HOLDING AS is classified under NACE code 68.110 (unspecified).",
+        "claim_ids": [
+          "1f8a0bafbfa57a575850",
+          "e970cada17e2c6eab28c"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c613899e1cb3c3304819",
+          "1f8a0bafbfa57a575850"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -334,604 NOK, with total assets of 22,611,872 NOK and equity of -1,035,954 NOK.",
+        "claim_ids": [
+          "a0b93f7723bd9ee866e5",
+          "abf53df952766bb9579b",
+          "7f8a29d3b3a4d25492c3"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "a0b93f7723bd9ee866e5"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Marit Hornslien Hjelmtvedt.",
+        "claim_ids": [
+          "ecdd50e7805f7f628adf"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "61d20755d504f09ed372",
+          "95f5d116305f282d0e87",
+          "ecdd50e7805f7f628adf",
+          "f6087e84591b293e8fdc"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "e970cada17e2c6eab28c"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "00b6d3867ea5782521b0"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "e970cada17e2c6eab28c"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "e970cada17e2c6eab28c"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "e970cada17e2c6eab28c"
+        ]
+      }
+    ]
+  }
+}

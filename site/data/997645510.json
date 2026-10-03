@@ -1,0 +1,1431 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "07a10b2f264ad129efe4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 108641.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0c6ca3ed7ffdeb16f161",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1831.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bba6529b9ac67a506098",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18944.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "274e5ba6d8179b176e99",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 500928.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "47c1acff2c949a69497e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1146734.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64cad4a97afc111a79d5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 922687.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "100c698dea50008f5ae2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1112046.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1aafd97e5f9ac30b3d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 709231.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa6205d14da6eb34ecbe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1227453.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "32d0308bfde8528f693b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -80719.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "827f9a197052768c140f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -189360.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6a392e6d896c078b82d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -208304.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0f7ceebae5bbcd4c1dae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 78046.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "abe4cc480bf8d29ec0ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -15837.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f894844bb1e6e9c1de8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2343.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "abf00f1474e893af5028",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 108641.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b2cd16e38e683b5e2683",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18944.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c63f27c2c0c3935fef17",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1831.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f719c42a295940b1633",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 163620.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "389e6c236ff80df2ed19",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 90000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6cd392435efdf7b3413",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997645510-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 24470.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "38c3563af62a2fbd688c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997645510"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "81.100"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6482ea64d54d759350ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997645510"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "77c3ea73f6784e64e408",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997645510"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "VAKTMESTER'N AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2633c15f86a51dd76e0d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997645510-678d6fe473ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Arild Stang",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "421811f493456ca32177",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997645510-91570e06e75a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "SOLHØI REVISJON AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9aac8a53466556f433aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997645510-4f144c7b42a4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ferdinand Marensius Nilsen Stang",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee7e846f40f91f09d909",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997645510-54aebebf20e0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anne Christine Nilsen Stang",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7b76723936e7d493e9d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-997645510-997724593"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:13Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:13Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Revyveien 8"
+          ],
+          "kommune": "SARPSBORG",
+          "kommunenummer": "3105",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "1718",
+          "poststed": "GREÅKER"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+          "kode": "81.100"
+        },
+        "name": "VAKTMESTER'N AS",
+        "organisation_number": "997724593"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 24470.0, operating_result: 2343.0, profit_before_tax: 1831.0, annual_result: 1831.0, assets: 500928.0, equity: -208304.0, debt: 709231.0",
+      "content_sha256": "a2ae917b17f41a610469e955f5f3e5fb8ed8383bec0f41060ddd4acee326dc05",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "http_status": 200,
+      "id": "ev-fin-997645510-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.914723Z",
+      "snapshot_ref": "a2/a2ae917b17f41a610469e955f5f3e5fb8ed8383bec0f41060ddd4acee326dc05.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 90000.0, operating_result: -15837.0, profit_before_tax: 18944.0, annual_result: 18944.0, assets: 922687.0, equity: -189360.0, debt: 1112046.0",
+      "content_sha256": "61e6695291c942e887e7a5b3ce9159cef145adfdf15444a1c33766e8b9266d90",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "http_status": 200,
+      "id": "ev-fin-997645510-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.914723Z",
+      "snapshot_ref": "61/61e6695291c942e887e7a5b3ce9159cef145adfdf15444a1c33766e8b9266d90.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 163620.0, operating_result: 78046.0, profit_before_tax: 108641.0, annual_result: 108641.0, assets: 1146734.0, equity: -80719.0, debt: 1227453.0",
+      "content_sha256": "d9be39e7670709f82127b9561e01ed6c53aadbe74fe194a7bd42d3daed9dc580",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "http_status": 200,
+      "id": "ev-fin-997645510-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.914723Z",
+      "snapshot_ref": "d9/d9be39e7670709f82127b9561e01ed6c53aadbe74fe194a7bd42d3daed9dc580.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 997724593: VAKTMESTER'N AS",
+      "content_sha256": "d7b0349826a31f418caace65f13def01286d04a65d0a76a196625e7d138631b2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997645510&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-997645510-997724593",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:06.588739Z",
+      "snapshot_ref": "d7/d7b0349826a31f418caace65f13def01286d04a65d0a76a196625e7d138631b2.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997645510&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 997645510 VAKTMESTER'N AS",
+      "content_sha256": "552eae6474df0929445e2a821da9a1cb06e8e48cbb8cee340c07c93bdbf6e914",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-997645510",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "55/552eae6474df0929445e2a821da9a1cb06e8e48cbb8cee340c07c93bdbf6e914.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Ferdinand Marensius Nilsen Stang",
+      "content_sha256": "ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "http_status": 200,
+      "id": "ev-role-997645510-4f144c7b42a4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.122507Z",
+      "snapshot_ref": "ec/ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anne Christine Nilsen Stang",
+      "content_sha256": "ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "http_status": 200,
+      "id": "ev-role-997645510-54aebebf20e0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.122507Z",
+      "snapshot_ref": "ec/ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Arild Stang",
+      "content_sha256": "ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "http_status": 200,
+      "id": "ev-role-997645510-678d6fe473ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.122507Z",
+      "snapshot_ref": "ec/ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: SOLHØI REVISJON AS",
+      "content_sha256": "ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "http_status": 200,
+      "id": "ev-role-997645510-91570e06e75a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04.122507Z",
+      "snapshot_ref": "ec/ec5b78f3d09ff03f8523dba05c02a65e681239d6b2dcf896aed61dce7e76485a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "07a10b2f264ad129efe4",
+        "0c6ca3ed7ffdeb16f161",
+        "0f7ceebae5bbcd4c1dae",
+        "100c698dea50008f5ae2",
+        "1f719c42a295940b1633",
+        "274e5ba6d8179b176e99",
+        "32d0308bfde8528f693b",
+        "389e6c236ff80df2ed19",
+        "47c1acff2c949a69497e",
+        "64cad4a97afc111a79d5",
+        "827f9a197052768c140f",
+        "a6a392e6d896c078b82d",
+        "abe4cc480bf8d29ec0ee",
+        "abf00f1474e893af5028",
+        "b2cd16e38e683b5e2683",
+        "bba6529b9ac67a506098",
+        "c1aafd97e5f9ac30b3d3",
+        "c63f27c2c0c3935fef17",
+        "f6cd392435efdf7b3413",
+        "f894844bb1e6e9c1de8b",
+        "fa6205d14da6eb34ecbe"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "38c3563af62a2fbd688c",
+        "6482ea64d54d759350ae",
+        "77c3ea73f6784e64e408"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2633c15f86a51dd76e0d",
+        "421811f493456ca32177",
+        "9aac8a53466556f433aa",
+        "ee7e846f40f91f09d909"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "c7b76723936e7d493e9d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "77c3ea73f6784e64e408",
+      "6482ea64d54d759350ae",
+      "38c3563af62a2fbd688c"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "VAKTMESTER'N AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 12090,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "997645510",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:04.021298Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "997645510",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "a42804d043a43e30436e1bbf56c2d281691ebf06955ec0b695efcc64a61d1bc2",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:02.914723Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997645510",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1831.0,
+              "assets": 500928.0,
+              "currency": "NOK",
+              "debt": 709231.0,
+              "equity": -208304.0,
+              "operating_result": 2343.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1831.0,
+              "record_id": 5305681,
+              "revenue": 24470.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 18944.0,
+              "assets": 922687.0,
+              "currency": "NOK",
+              "debt": 1112046.0,
+              "equity": -189360.0,
+              "operating_result": -15837.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 18944.0,
+              "record_id": 6211511,
+              "revenue": 90000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 108641.0,
+              "assets": 1146734.0,
+              "currency": "NOK",
+              "debt": 1227453.0,
+              "equity": -80719.0,
+              "operating_result": 78046.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 108641.0,
+              "record_id": 7095549,
+              "revenue": 163620.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:05.358879Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/997645510",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "253f473be1d6a40bbcdddc131a8b447a85b04328bbeb0d441e2d370d4d9ab1d4",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:06.588739Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997645510&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Revyveien 8"
+                ],
+                "kommune": "SARPSBORG",
+                "kommunenummer": "3105",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "1718",
+                "poststed": "GREÅKER"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+                "kode": "81.100"
+              },
+              "name": "VAKTMESTER'N AS",
+              "organisation_number": "997724593"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "997645510",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Bygg og anleggsvirksomhet, vaktmestertjenester, kjøp og salg av handelsvarer og aksjer, kjøp, salg og utleie av fast eiendom og løsøre, samt all annen verdiskapende aktivitet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Revyveien 8",
+          "forretningsadresse.kommune": "SARPSBORG",
+          "forretningsadresse.kommunenummer": "3105",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1718",
+          "forretningsadresse.poststed": "GREÅKER",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2011-12-12",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2011-12-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift",
+          "naeringskode1.kode": "81.100",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "VAKTMESTER'N AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "997645510",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-12",
+          "registreringsdatoForetaksregisteret": "2011-12-12",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-02-23",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-05-10",
+          "registreringsdatoenhetsregisteret": "2011-12-12",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2011-11-11",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2011-11-11",
+          "vedtektsfestetFormaal": "Vaktmester og tømrertjenester og alt som står i den forbindele."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "2f691aa279c8a85520c968576d875808e81443f635276e25e3ad7d328eb6a74e",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:04.122507Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997645510/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2011-12-12",
+              "name": "Arild Stang",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-08-18",
+              "name": "Ferdinand Marensius Nilsen Stang",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-08-18",
+              "name": "Anne Christine Nilsen Stang",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": true,
+              "last_changed": "2026-09-21",
+              "name": [
+                "SOLHØI REVISJON AS"
+              ],
+              "organisation_number": "952011677",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "81.100",
+    "industry_label": "Kombinerte tjenester tilknyttet eiendomsdrift",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SARPSBORG",
+    "municipality_number": "3105",
+    "name": "VAKTMESTER'N AS",
+    "organisation_number": "997645510",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1202,
+        1235,
+        1234,
+        46,
+        47,
+        2031,
+        1656,
+        1750,
+        78,
+        46,
+        1593
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:13Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "VAKTMESTER'N AS (AS, org.nr 997645510)",
+    "what_it_does": "VAKTMESTER'N AS is classified under NACE code 81.100 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, VAKTMESTER'N AS reported revenue of 163,620 NOK and an operating result of 78,046 NOK. Net result was 108,641 NOK, with total assets of 1,146,734 NOK and equity of -80,719 NOK. Revenue grew by +81.8% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 47.7% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Ferdinand Marensius Nilsen Stang. Daily operations are led by general manager Arild Stang. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "VAKTMESTER'N AS is classified under NACE code 81.100 (unspecified).",
+        "claim_ids": [
+          "38c3563af62a2fbd688c",
+          "77c3ea73f6784e64e408"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "6482ea64d54d759350ae",
+          "38c3563af62a2fbd688c"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, VAKTMESTER'N AS reported revenue of 163,620 NOK and an operating result of 78,046 NOK.",
+        "claim_ids": [
+          "1f719c42a295940b1633",
+          "0f7ceebae5bbcd4c1dae"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 108,641 NOK, with total assets of 1,146,734 NOK and equity of -80,719 NOK.",
+        "claim_ids": [
+          "07a10b2f264ad129efe4",
+          "47c1acff2c949a69497e",
+          "32d0308bfde8528f693b"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +81.8% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "1f719c42a295940b1633",
+          "389e6c236ff80df2ed19"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 47.7% (derived: operating result / revenue).",
+        "claim_ids": [
+          "0f7ceebae5bbcd4c1dae",
+          "1f719c42a295940b1633"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Ferdinand Marensius Nilsen Stang.",
+        "claim_ids": [
+          "9aac8a53466556f433aa"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Arild Stang.",
+        "claim_ids": [
+          "2633c15f86a51dd76e0d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2633c15f86a51dd76e0d",
+          "421811f493456ca32177",
+          "9aac8a53466556f433aa",
+          "ee7e846f40f91f09d909"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "77c3ea73f6784e64e408"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "c7b76723936e7d493e9d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "77c3ea73f6784e64e408"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "77c3ea73f6784e64e408"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "77c3ea73f6784e64e408"
+        ]
+      }
+    ]
+  }
+}

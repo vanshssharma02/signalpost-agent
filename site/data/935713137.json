@@ -1,0 +1,1040 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "4bb0c268b17f27d55e26",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1554.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7a613b7d190548b80ea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 21946.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c6b231b5f7efd7725837",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f5fbccbf3b5a5a0d97c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 21946.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "04e79148201906c91433",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1554.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d552d0baf1044d0bf4a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1554.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "029c859526c90b2e45f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935713137-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4f0c2453b9aa4728d689",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935713137"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "82.990"
+    },
+    {
+      "availability": "available",
+      "claim_id": "d641068be4a995e3415c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935713137"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "02a74c11905dbd8edc36",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935713137"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "LCM NORGE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "15686f4333078210d43c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935713137-7b97da2d460b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Harald Jarnes Lillebø",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "565159132c920cd929b2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935713137-5dae1c6e013c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Annik Magerholm Fet",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "85f903aa519169daedaf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935713137-d794b5d5c69f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Børge Andreas Heggen Johansen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0a22c6ff51e3e0ba192",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935713137-fffcc8360fe8"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Annik Magerholm Fet",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d150eda5159f65530b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-935713137-935733693"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:40Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Sykkylvsvegen 125"
+          ],
+          "kommune": "SYKKYLVEN",
+          "kommunenummer": "1528",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6230",
+          "poststed": "SYKKYLVEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+          "kode": "82.990"
+        },
+        "name": "LCA-NORGE AS",
+        "organisation_number": "935733693"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: -1554.0, profit_before_tax: -1554.0, annual_result: -1554.0, assets: 21946.0, equity: 21946.0, debt: 0.0",
+      "content_sha256": "993aa4bf03db57a7adde86cc62840ba099660ab380493b83fa962a163fb66c86",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935713137",
+      "http_status": 200,
+      "id": "ev-fin-935713137-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-05-15",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.386301Z",
+      "snapshot_ref": "99/993aa4bf03db57a7adde86cc62840ba099660ab380493b83fa962a163fb66c86.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935713137",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 935733693: LCA-NORGE AS",
+      "content_sha256": "413dc4e7b808aeacb7d5eb34512e6c72eb1dd6c6aac1e4e139b8a569752d6eca",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935713137&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-935713137-935733693",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.941426Z",
+      "snapshot_ref": "41/413dc4e7b808aeacb7d5eb34512e6c72eb1dd6c6aac1e4e139b8a569752d6eca.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935713137&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 935713137 LCM NORGE AS",
+      "content_sha256": "898db5d9ab15551e131bee22475b2fb20570d9856eccee0545cba787b6f9a0e8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-935713137",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "89/898db5d9ab15551e131bee22475b2fb20570d9856eccee0545cba787b6f9a0e8.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Annik Magerholm Fet",
+      "content_sha256": "93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "http_status": 200,
+      "id": "ev-role-935713137-5dae1c6e013c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.584234Z",
+      "snapshot_ref": "93/93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Harald Jarnes Lillebø",
+      "content_sha256": "93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "http_status": 200,
+      "id": "ev-role-935713137-7b97da2d460b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.584234Z",
+      "snapshot_ref": "93/93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Børge Andreas Heggen Johansen",
+      "content_sha256": "93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "http_status": 200,
+      "id": "ev-role-935713137-d794b5d5c69f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.584234Z",
+      "snapshot_ref": "93/93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Annik Magerholm Fet",
+      "content_sha256": "93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "http_status": 200,
+      "id": "ev-role-935713137-fffcc8360fe8",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.584234Z",
+      "snapshot_ref": "93/93613e5de43738d87ba8a20456df8d412c81e3a75175e7f720fcb681aa4c5d61.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "029c859526c90b2e45f6",
+        "04e79148201906c91433",
+        "4bb0c268b17f27d55e26",
+        "6f5fbccbf3b5a5a0d97c",
+        "c6b231b5f7efd7725837",
+        "c7a613b7d190548b80ea",
+        "d552d0baf1044d0bf4a5"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "02a74c11905dbd8edc36",
+        "4f0c2453b9aa4728d689",
+        "d641068be4a995e3415c"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "15686f4333078210d43c",
+        "565159132c920cd929b2",
+        "85f903aa519169daedaf",
+        "f0a22c6ff51e3e0ba192"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2d150eda5159f65530b7"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "02a74c11905dbd8edc36",
+      "d641068be4a995e3415c",
+      "4f0c2453b9aa4728d689"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "LCM NORGE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 15449,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "935713137",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.871424Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "935713137",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "93262c2d442f223eff7f983f8d903714a911c7cc02a4d710d2ee2461ab1e53cf",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.386301Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935713137",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -1554.0,
+              "assets": 21946.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 21946.0,
+              "operating_result": -1554.0,
+              "period": {
+                "fraDato": "2025-05-15",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -1554.0,
+              "record_id": 7192489,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.739082Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/935713137",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "c8ad2f28b6d78e87648de471651e58071470d270433196d49ba8885101d29447",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.941426Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935713137&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Sykkylvsvegen 125"
+                ],
+                "kommune": "SYKKYLVEN",
+                "kommunenummer": "1528",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6230",
+                "poststed": "SYKKYLVEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+                "kode": "82.990"
+              },
+              "name": "LCA-NORGE AS",
+              "organisation_number": "935733693"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "935713137",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Være et nasjonalt komptansesenter for LCM, Life Cycle Management. Skape oppmerksomhet om, og tilby tjenester basert på LCM samt utvikle og gjennomføre felles prosjekter som skaper verdier for eierselskapene.",
+          "antallAnsatte": "",
+          "epostadresse": "post@lcanorge.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Sykkylvsvegen 125",
+          "forretningsadresse.kommune": "SYKKYLVEN",
+          "forretningsadresse.kommunenummer": "1528",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6230",
+          "forretningsadresse.poststed": "SYKKYLVEN",
+          "fravalgRevisjonBeslutningsDato": "2025-05-15",
+          "fravalgRevisjonDato": "2025-06-20",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.lcanorge.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-06-20",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "982 59 010",
+          "naeringskode1.beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+          "naeringskode1.kode": "82.990",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "LCM NORGE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "935713137",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-06-20",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-06-20",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2025-05-15",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-10-03",
+          "vedtektsfestetFormaal": "Være et nasjonalt kompetansesenter for LCM, Life Cycle Management. Skape oppmerksomhet om, og tilby tjenester basert på LCM, samt utvikle og gjennomføre felles prosjekter som skaper verdier for eierselskapene."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "4a498308bd9a451abbf7bb1712245291e3a21523b403a342b3cf118dc6deeffe",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.584234Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935713137/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2025-06-20",
+              "name": "Annik Magerholm Fet",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Børge Andreas Heggen Johansen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Annik Magerholm Fet",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Harald Jarnes Lillebø",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "82.990",
+    "industry_label": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SYKKYLVEN",
+    "municipality_number": "1528",
+    "name": "LCM NORGE AS",
+    "organisation_number": "935713137",
+    "run_metrics": {
+      "latencies_ms": [
+        1233,
+        1203,
+        1140,
+        1203,
+        77,
+        6016,
+        1906,
+        890,
+        875,
+        906
+      ],
+      "requests": 10
+    },
+    "website": "www.lcanorge.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:40Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "LCM NORGE AS (AS, org.nr 935713137)",
+    "what_it_does": "LCM NORGE AS is classified under NACE code 82.990 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, LCM NORGE AS reported revenue of 0 NOK and an operating result of -1,554 NOK. Net result was -1,554 NOK, with total assets of 21,946 NOK and equity of 21,946 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Børge Andreas Heggen Johansen. Daily operations are led by general manager Annik Magerholm Fet. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "LCM NORGE AS is classified under NACE code 82.990 (unspecified).",
+        "claim_ids": [
+          "4f0c2453b9aa4728d689",
+          "02a74c11905dbd8edc36"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "d641068be4a995e3415c",
+          "4f0c2453b9aa4728d689"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, LCM NORGE AS reported revenue of 0 NOK and an operating result of -1,554 NOK.",
+        "claim_ids": [
+          "029c859526c90b2e45f6",
+          "04e79148201906c91433"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -1,554 NOK, with total assets of 21,946 NOK and equity of 21,946 NOK.",
+        "claim_ids": [
+          "4bb0c268b17f27d55e26",
+          "c7a613b7d190548b80ea",
+          "6f5fbccbf3b5a5a0d97c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "4bb0c268b17f27d55e26"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The board of directors is chaired by Børge Andreas Heggen Johansen.",
+        "claim_ids": [
+          "85f903aa519169daedaf"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Daily operations are led by general manager Annik Magerholm Fet.",
+        "claim_ids": [
+          "565159132c920cd929b2"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "15686f4333078210d43c",
+          "565159132c920cd929b2",
+          "85f903aa519169daedaf",
+          "f0a22c6ff51e3e0ba192"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "02a74c11905dbd8edc36"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "2d150eda5159f65530b7"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "02a74c11905dbd8edc36"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "02a74c11905dbd8edc36"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "02a74c11905dbd8edc36"
+        ]
+      }
+    ]
+  }
+}

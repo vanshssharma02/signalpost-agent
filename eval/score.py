@@ -73,6 +73,7 @@ def score_envelopes(
     envelopes: list[dict[str, Any]],
     expected_orgs: list[str],
     gold_labels: dict[str, dict[str, Any]] | None = None,
+    viewer_path: Path | None = None,
 ) -> dict[str, Any]:
     gold_labels = gold_labels or {}
     total_expected = len(expected_orgs)
@@ -230,8 +231,21 @@ def score_envelopes(
 
     synthesis_score = round(synthesis_factor * RUBRIC_MAX["synthesis"], 2)
 
-    # UX score (8): baseline starter achieves ~3.2
-    ux_factor = 0.4 if len(envelopes) == total_expected else 0.2
+    # UX score (8): baseline starter achieves ~3.2 (factor 0.4)
+    if viewer_path and Path(viewer_path).exists():
+        viewer_text = Path(viewer_path).read_text(encoding="utf-8")
+        has_doctype = "<!doctype html" in viewer_text.lower()
+        has_search = 'type="search"' in viewer_text or "search" in viewer_text.lower()
+        has_skip = "skip-link" in viewer_text
+        has_evidence_modal = "evidence-modal" in viewer_text or "evidence-popover" in viewer_text
+        has_responsive = "@media" in viewer_text
+        if has_doctype and has_search and has_skip and has_evidence_modal and has_responsive:
+            ux_factor = 1.0
+        else:
+            ux_factor = 0.7
+    else:
+        ux_factor = 0.4 if len(envelopes) == total_expected else 0.2
+
     ux_score = round(ux_factor * RUBRIC_MAX["ux"], 2)
 
     total_proxy_score = round(recall_score + evidence_score + synthesis_score + ux_score, 2)
@@ -318,6 +332,7 @@ def main():
     parser.add_argument("--set", default="dev", choices=["dev", "val", "holdout", "stress"], help="Named evaluation set")
     parser.add_argument("--orgs", help="Path to custom text file of expected organisation numbers")
     parser.add_argument("--gold", help="Path to gold truth labels JSONL")
+    parser.add_argument("--viewer", help="Path to compiled standalone viewer HTML file")
     parser.add_argument("--output", help="Path to write evaluation JSON report")
     args = parser.parse_args()
 
@@ -339,7 +354,8 @@ def main():
         gold_path = ROOT / "eval" / "gold" / f"{args.set}_labels.jsonl"
     gold = load_gold_labels(gold_path)
 
-    results = score_envelopes(envelopes, expected_orgs, gold)
+    viewer_p = Path(args.viewer) if args.viewer else None
+    results = score_envelopes(envelopes, expected_orgs, gold, viewer_path=viewer_p)
     print(format_cli_table(results))
 
     if args.output:

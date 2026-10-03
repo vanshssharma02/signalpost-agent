@@ -1,8 +1,43 @@
-# Signalpost reference agent
+# Signalpost — Norwegian Company Intelligence Agent
 
-This is a runnable starting point for the Signalpost company-research challenge. It is intentionally a solid baseline, not a winning submission.
+## Judge Guide
 
-The public universe contains 411,160 eligible companies. Run the starter on 100 companies before submitting. Larger local tests, including 1,000 or more companies, are encouraged but their precomputed profiles are not submitted or scored.
+### 1. What This Is
+Signalpost is an autonomous company research agent for Norwegian legal entities (scoring v2, 100 pts). It inputs 9-digit organisation numbers, anchors identity solely on Brønnøysund registry keys, extracts verified claims with immutable content-hash snapshots and verbatim source quotes, and emits exactly ONE contract-compliant envelope per company.
+
+### 2. 3-Command Run
+```bash
+# 1. Run evaluation batch (150 companies)
+uv run python run_agent.py --input eval/sets/dev.txt --bulk data/brreg-enheter.csv --output out/envelopes.jsonl
+
+# 2. Validate strict contract compliance & evidence spans
+uv run python -m signalpost.ref.validate --input eval/sets/dev.txt --output out/envelopes.jsonl --snapshots out/snapshots
+
+# 3. Build static, mobile-first viewer & score run
+uv run python scripts/build_viewer.py --input out/envelopes.jsonl --output out/viewer/index.html
+uv run python eval/score.py --envelopes out/envelopes.jsonl --gold eval/gold/dev_labels.jsonl --viewer out/viewer/index.html
+```
+
+### 3. Where the Viewer Is
+- **Standalone Offline File**: `out/viewer/index.html` (zero external dependencies, open directly via `file://`).
+- **Static Multi-page Site**: `site/index.html` and pre-rendered serverless company pages under `site/c/<orgnr>.html`.
+- **Features**: Real-time directory search/filters, synthesis narrative with clickable claim citations, evidence popovers, 3-way company compare, unknowns inspector, and raw JSON envelope viewer. Fully responsive across desktop (1280px) and mobile (360px+), WCAG 2.1 AA compliant.
+
+### 4. How to Read a Claim
+Every published claim in `claims[]` adheres to Rule N3:
+- `claim_id`: deterministic `sha256(orgnr|field|discriminator)[:20]`.
+- `availability`: `available`, `ambiguous`, `not_available`, `not_applicable`, `failed` (never color alone).
+- `evidence_ids`: pointers into `evidence[]`, which contains `source_url`, `retrieved_at`, `content_sha256` of an immutable snapshot, and an exact verbatim `claim_span` present in the snapshot. Missing values are never fabricated as `0` or `""`.
+
+### 5. Known Limitations
+- Respects strict robot terms and platform prohibitions: zero scraping of LinkedIn, Facebook, Instagram, Google/Bing result pages, or 1881.
+- Social profile links are recorded only when declared on a verified company website.
+- NAV job posting ingestion requires `NAV_FEED_TOKEN` for full live coverage; gracefully falls back to company career portals.
+
+---
+
+## Baseline Starter Archive
+
 
 ## What it already does
 

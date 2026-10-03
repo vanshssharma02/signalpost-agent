@@ -1,0 +1,1480 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "5b54ed8a5a3a1088987c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2593.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68f73e6d3e426619f202",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20730.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8d6fd87afc2759879f24",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13282.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "18ae890ccda1cc8ccc3f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 94518.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4bdec70f10ed52d8d5a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 180385.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f0b6cd89d794f7e91aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 127369.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "033f7d9526127a4539e3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 462.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d56f9be2a587344836a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19466.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "62ad66a706c8baa3a33e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -53120.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "345b5d39fcc88646887d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 126907.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8d372e0ab21b705ac95c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 160920.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8c7ddec63651d89cda2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 147637.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "136940711570f4019730",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5427.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7495323a1c77a779f110",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3934.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a5722a62d6160814477a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13895.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d20fea3ddfb3d61b40f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 13282.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bce77e726bc95211f80f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2593.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4d3821696d3a4f85797",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20730.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "55d37ef0a9ca133370b6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 333454.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7614a5443de59b6131de",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 290714.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d92700d587217a3c9354",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-993368938-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 310044.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cdcd0145074b6c55e425",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-993368938"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "97.001"
+    },
+    {
+      "availability": "available",
+      "claim_id": "9b98ff3a300f808bf7fc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-993368938"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ESEK"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6a3850af91a35ca04a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-993368938"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SAMEIET PERSAUNET REKKEHUS, HUS 2"
+    },
+    {
+      "availability": "available",
+      "claim_id": "22d345519a389a5712be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-993368938-81e2f9e35869"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eivind Coward",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5776ca39a9c75c8d0ba0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-993368938-5cd9db064157"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BONITAS EIENDOMSFORVALTNING AS",
+        "role": "Forretningsfører",
+        "role_code": "FFØR"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "80cef1340447c832c994",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-993368938-6479a249174f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BONITAS EIENDOMSFORVALTNING AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef1573af8dca17689c83",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-993368938-eae2424f8fed"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anne Marit Ringvold",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f71010f96d011ea849cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-993368938-a2e97004b25e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Morten Olaussen Rosvoldaunet",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "449cd9a88f7453c8a972",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-993368938-923648577"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Kyavegen 4"
+          ],
+          "kommune": "TRONDHEIM",
+          "kommunenummer": "5001",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "7045",
+          "poststed": "TRONDHEIM"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "kode": "97.001"
+        },
+        "name": "SAMEIET PERSAUNET REKKEHUS, HUS 2",
+        "organisation_number": "923648577"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 290714.0, operating_result: -3934.0, profit_before_tax: 2593.0, annual_result: 2593.0, assets: 127369.0, equity: 126907.0, debt: 462.0",
+      "content_sha256": "164bde9a0807580427aec16d8d2f4a07d320179263c8d740395bf9ceb0f9ff84",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "http_status": 200,
+      "id": "ev-fin-993368938-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:32.718165Z",
+      "snapshot_ref": "16/164bde9a0807580427aec16d8d2f4a07d320179263c8d740395bf9ceb0f9ff84.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 333454.0, operating_result: 13895.0, profit_before_tax: 20730.0, annual_result: 20730.0, assets: 94518.0, equity: 147637.0, debt: -53120.0",
+      "content_sha256": "c99a5f36bc7fa644e50ded76d3927bcaae586f04a82d43974c6aa14779afeb1f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "http_status": 200,
+      "id": "ev-fin-993368938-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:32.718165Z",
+      "snapshot_ref": "c9/c99a5f36bc7fa644e50ded76d3927bcaae586f04a82d43974c6aa14779afeb1f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 310044.0, operating_result: 5427.0, profit_before_tax: 13282.0, annual_result: 13282.0, assets: 180385.0, equity: 160920.0, debt: 19466.0",
+      "content_sha256": "ef99221d5229c8756f997f34031fd2c655c402a74e41d5dfb6257b007b1fc1f8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "http_status": 200,
+      "id": "ev-fin-993368938-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:32.718165Z",
+      "snapshot_ref": "ef/ef99221d5229c8756f997f34031fd2c655c402a74e41d5dfb6257b007b1fc1f8.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 923648577: SAMEIET PERSAUNET REKKEHUS, HUS 2",
+      "content_sha256": "c575aea10111fed73174609be37832d4b0c6015294072489bd9a1c1ab7beb712",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=993368938&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-993368938-923648577",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:36.225373Z",
+      "snapshot_ref": "c5/c575aea10111fed73174609be37832d4b0c6015294072489bd9a1c1ab7beb712.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=993368938&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 993368938 SAMEIET PERSAUNET REKKEHUS, HUS 2",
+      "content_sha256": "ecadcccb87cd23e786c714fd9c2828e3faf5a0f3d7df51a29bd84177cb9b08f2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-993368938",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "ec/ecadcccb87cd23e786c714fd9c2828e3faf5a0f3d7df51a29bd84177cb9b08f2.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role FFØR: BONITAS EIENDOMSFORVALTNING AS",
+      "content_sha256": "ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "http_status": 200,
+      "id": "ev-role-993368938-5cd9db064157",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:33.905883Z",
+      "snapshot_ref": "dd/ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: BONITAS EIENDOMSFORVALTNING AS",
+      "content_sha256": "ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "http_status": 200,
+      "id": "ev-role-993368938-6479a249174f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:33.905883Z",
+      "snapshot_ref": "dd/ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Eivind Coward",
+      "content_sha256": "ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "http_status": 200,
+      "id": "ev-role-993368938-81e2f9e35869",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:33.905883Z",
+      "snapshot_ref": "dd/ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Morten Olaussen Rosvoldaunet",
+      "content_sha256": "ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "http_status": 200,
+      "id": "ev-role-993368938-a2e97004b25e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:33.905883Z",
+      "snapshot_ref": "dd/ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anne Marit Ringvold",
+      "content_sha256": "ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "http_status": 200,
+      "id": "ev-role-993368938-eae2424f8fed",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:33.905883Z",
+      "snapshot_ref": "dd/ddec0408f74f4f733b63454ae60d17cfd92392baa68632ae8291958ee57243f4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "033f7d9526127a4539e3",
+        "0d56f9be2a587344836a",
+        "136940711570f4019730",
+        "18ae890ccda1cc8ccc3f",
+        "345b5d39fcc88646887d",
+        "4bdec70f10ed52d8d5a9",
+        "55d37ef0a9ca133370b6",
+        "5b54ed8a5a3a1088987c",
+        "62ad66a706c8baa3a33e",
+        "68f73e6d3e426619f202",
+        "6d20fea3ddfb3d61b40f",
+        "7495323a1c77a779f110",
+        "7614a5443de59b6131de",
+        "8d372e0ab21b705ac95c",
+        "8d6fd87afc2759879f24",
+        "9f0b6cd89d794f7e91aa",
+        "a5722a62d6160814477a",
+        "bce77e726bc95211f80f",
+        "c8c7ddec63651d89cda2",
+        "d4d3821696d3a4f85797",
+        "d92700d587217a3c9354"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "9b98ff3a300f808bf7fc",
+        "cdcd0145074b6c55e425",
+        "f6a3850af91a35ca04a3"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "22d345519a389a5712be",
+        "5776ca39a9c75c8d0ba0",
+        "80cef1340447c832c994",
+        "ef1573af8dca17689c83",
+        "f71010f96d011ea849cb"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "449cd9a88f7453c8a972"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f6a3850af91a35ca04a3",
+      "9b98ff3a300f808bf7fc",
+      "cdcd0145074b6c55e425"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SAMEIET PERSAUNET REKKEHUS, HUS 2"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 58649,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "993368938",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.936442Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "993368938",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "ESEK",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "f1bb39fdeb4af5d04856cc9836d291d2708bba2902304cd770ec42c0ca6c523d",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:32.718165Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/993368938",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2593.0,
+              "assets": 127369.0,
+              "currency": "NOK",
+              "debt": 462.0,
+              "equity": 126907.0,
+              "operating_result": -3934.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 2593.0,
+              "record_id": 5357105,
+              "revenue": 290714.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 20730.0,
+              "assets": 94518.0,
+              "currency": "NOK",
+              "debt": -53120.0,
+              "equity": 147637.0,
+              "operating_result": 13895.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 20730.0,
+              "record_id": 5877363,
+              "revenue": 333454.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 13282.0,
+              "assets": 180385.0,
+              "currency": "NOK",
+              "debt": 19466.0,
+              "equity": 160920.0,
+              "operating_result": 5427.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 13282.0,
+              "record_id": 6926114,
+              "revenue": 310044.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:35.073001Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/993368938",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "149c158452953c051cf561589109515356b8e8b5002888d0d9795c3ce03f26b7",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:36.225373Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=993368938&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Kyavegen 4"
+                ],
+                "kommune": "TRONDHEIM",
+                "kommunenummer": "5001",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "7045",
+                "poststed": "TRONDHEIM"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter i borettslag og boligsameier",
+                "kode": "97.001"
+              },
+              "name": "SAMEIET PERSAUNET REKKEHUS, HUS 2",
+              "organisation_number": "923648577"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "993368938",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eierseksjonssameie",
+          "antallAnsatte": "",
+          "epostadresse": "post@bonitas.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kyavegen 4",
+          "forretningsadresse.kommune": "TRONDHEIM",
+          "forretningsadresse.kommunenummer": "5001",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7045",
+          "forretningsadresse.poststed": "TRONDHEIM",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.bonitas.no",
+          "institusjonellSektorkode.beskrivelse": "",
+          "institusjonellSektorkode.kode": "",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Aktiviteter i borettslag og boligsameier",
+          "naeringskode1.kode": "97.001",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SAMEIET PERSAUNET REKKEHUS, HUS 2",
+          "organisasjonsform.beskrivelse": "Eierseksjonssameie",
+          "organisasjonsform.kode": "ESEK",
+          "organisasjonsnummer": "993368938",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "c/o Bonitas Eiendomsforvaltning AS\nKjøpmannsgata 52",
+          "postadresse.kommune": "TRONDHEIM",
+          "postadresse.kommunenummer": "5001",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "7010",
+          "postadresse.poststed": "TRONDHEIM",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2008-12-03",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "false",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2006-10-30",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "5d59e586299c08e5430eb46fb75624eb05815a55cafc0107bbe7af957082e624",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:33.905883Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/993368938/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Forretningsfører",
+              "group_code": "FFØR",
+              "inactive": false,
+              "last_changed": "2016-04-15",
+              "name": [
+                "BONITAS EIENDOMSFORVALTNING AS"
+              ],
+              "organisation_number": "987579773",
+              "role": "Forretningsfører",
+              "role_code": "FFØR"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-18",
+              "name": "Morten Olaussen Rosvoldaunet",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-18",
+              "name": "Eivind Coward",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-05-18",
+              "name": "Anne Marit Ringvold",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2008-12-03",
+              "name": [
+                "BONITAS EIENDOMSFORVALTNING AS"
+              ],
+              "organisation_number": "987579773",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "97.001",
+    "industry_label": "Aktiviteter i borettslag og boligsameier",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "ESEK",
+    "liquidating": false,
+    "municipality": "TRONDHEIM",
+    "municipality_number": "5001",
+    "name": "SAMEIET PERSAUNET REKKEHUS, HUS 2",
+    "organisation_number": "993368938",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1187,
+        1171,
+        1156,
+        3547,
+        2625,
+        1202,
+        1250,
+        47,
+        62,
+        46,
+        15016,
+        62,
+        31,
+        46,
+        30014
+      ],
+      "requests": 16
+    },
+    "website": "www.bonitas.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:30Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SAMEIET PERSAUNET REKKEHUS, HUS 2 (ESEK, org.nr 993368938)",
+    "what_it_does": "SAMEIET PERSAUNET REKKEHUS, HUS 2 is classified under NACE code 97.001 (unspecified).",
+    "business_model": "Operates as a registered ESEK entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SAMEIET PERSAUNET REKKEHUS, HUS 2 reported revenue of 310,044 NOK and an operating result of 5,427 NOK. Net result was 13,282 NOK, with total assets of 180,385 NOK and equity of 160,920 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 1.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Morten Olaussen Rosvoldaunet. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SAMEIET PERSAUNET REKKEHUS, HUS 2 is classified under NACE code 97.001 (unspecified).",
+        "claim_ids": [
+          "cdcd0145074b6c55e425",
+          "f6a3850af91a35ca04a3"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered ESEK entity within the commercial sector.",
+        "claim_ids": [
+          "9b98ff3a300f808bf7fc",
+          "cdcd0145074b6c55e425"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SAMEIET PERSAUNET REKKEHUS, HUS 2 reported revenue of 310,044 NOK and an operating result of 5,427 NOK.",
+        "claim_ids": [
+          "d92700d587217a3c9354",
+          "136940711570f4019730"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 13,282 NOK, with total assets of 180,385 NOK and equity of 160,920 NOK.",
+        "claim_ids": [
+          "8d6fd87afc2759879f24",
+          "4bdec70f10ed52d8d5a9",
+          "8d372e0ab21b705ac95c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "d92700d587217a3c9354",
+          "55d37ef0a9ca133370b6"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 1.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "136940711570f4019730",
+          "d92700d587217a3c9354"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Morten Olaussen Rosvoldaunet.",
+        "claim_ids": [
+          "f71010f96d011ea849cb"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "22d345519a389a5712be",
+          "5776ca39a9c75c8d0ba0",
+          "80cef1340447c832c994",
+          "ef1573af8dca17689c83",
+          "f71010f96d011ea849cb"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f6a3850af91a35ca04a3"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "449cd9a88f7453c8a972"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f6a3850af91a35ca04a3"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f6a3850af91a35ca04a3"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f6a3850af91a35ca04a3"
+        ]
+      }
+    ]
+  }
+}

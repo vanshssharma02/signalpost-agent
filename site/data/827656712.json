@@ -1,0 +1,1433 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "6c42bddcca6f9532dde4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12913.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a6d59dd2203fd62d0a09",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12285.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ba1df8ca8623b3b56ba7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16053.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "35f197cc5200de4971f1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 336286.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f035586f53349a8c941",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 228704.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec1e5190538b645e0e35",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 341029.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b2a6686abcf878daf9a8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 166706.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c153282441de522de8c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 258235.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c5ff6fefdbf4f1b940ac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 250694.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7461062f526fe0d1ff6b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 90335.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "953a115f27d862b679ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 78050.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bb42af5d20dfea5d4f81",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 61998.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19dc331fd954bf5d676c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15475.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f7620f3d6f2dcbe3767b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16671.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe91999034dd3225f11e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20465.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f7ce312cdb317018077",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16671.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0ef324a74fffea9f3b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15776.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b3011e0cf6ae62f75101",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20465.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9c88aafe27660886892a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 911143.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ae8b4a9a5049142e3d57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 935999.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e378a4de97189a884833",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-827656712-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 928224.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0667f7bb3b354405d267",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-827656712"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "86.230"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8770f07ca464ffe5887",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-827656712"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "9106cb9b92ca66316b59",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-827656712"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "TANNPLEIER RUTH-ANNE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "09cdde9dc442a8dbdcd6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-827656712-2eed11b7cf44"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ECIT INTUNOR AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "885c9fbcb0bb98eae18d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-827656712-8c5e06316711"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ruth Anne Braseth Seljeås",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a391199620960f81dc65",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-827656712-ebaee4e9d3fd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Arne Seljeås",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c50149f9d0986214a52d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-827656712-2eb87d62e39e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ruth Anne Braseth Seljeås",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0b13267e8139039584e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-827656712-927682699"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Vika 6"
+          ],
+          "kommune": "FAUSKE",
+          "kommunenummer": "1841",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8211",
+          "poststed": "FAUSKE"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Tannlegetjenester",
+          "kode": "86.230"
+        },
+        "name": "TANNPLEIER RUTH-ANNE AS",
+        "organisation_number": "927682699"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 911143.0, operating_result: 16671.0, profit_before_tax: 16671.0, annual_result: 12913.0, assets: 228704.0, equity: 61998.0, debt: 166706.0",
+      "content_sha256": "4904ef552da680287de21b9a1e151b0ba0e67e1dae740fdfd69a1cb67d34fade",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "http_status": 200,
+      "id": "ev-fin-827656712-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.029629Z",
+      "snapshot_ref": "49/4904ef552da680287de21b9a1e151b0ba0e67e1dae740fdfd69a1cb67d34fade.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 935999.0, operating_result: 20465.0, profit_before_tax: 20465.0, annual_result: 16053.0, assets: 336286.0, equity: 78050.0, debt: 258235.0",
+      "content_sha256": "11806a2687b52ad94c2261ae8c792ad2b829a14703c5c7b07f1df07a22578633",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "http_status": 200,
+      "id": "ev-fin-827656712-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.029629Z",
+      "snapshot_ref": "11/11806a2687b52ad94c2261ae8c792ad2b829a14703c5c7b07f1df07a22578633.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 928224.0, operating_result: 15475.0, profit_before_tax: 15776.0, annual_result: 12285.0, assets: 341029.0, equity: 90335.0, debt: 250694.0",
+      "content_sha256": "565cf28e5b220c0a67fca744bec4c4e2480714ba1e23efd7f61fde6d8f45743b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "http_status": 200,
+      "id": "ev-fin-827656712-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.029629Z",
+      "snapshot_ref": "56/565cf28e5b220c0a67fca744bec4c4e2480714ba1e23efd7f61fde6d8f45743b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 927682699: TANNPLEIER RUTH-ANNE AS",
+      "content_sha256": "ab7c869c11014c00de376ae4c3ebd412d25e9d26abdae592e1daa6a7948a864c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=827656712&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-827656712-927682699",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:27.623249Z",
+      "snapshot_ref": "ab/ab7c869c11014c00de376ae4c3ebd412d25e9d26abdae592e1daa6a7948a864c.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=827656712&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 827656712 TANNPLEIER RUTH-ANNE AS",
+      "content_sha256": "4066a5a53d04785a16c4c9a8f76b5d0f2a7f341d4ed20a53fe76fc07298d6a7b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-827656712",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "40/4066a5a53d04785a16c4c9a8f76b5d0f2a7f341d4ed20a53fe76fc07298d6a7b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Ruth Anne Braseth Seljeås",
+      "content_sha256": "4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "http_status": 200,
+      "id": "ev-role-827656712-2eb87d62e39e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.181322Z",
+      "snapshot_ref": "4f/4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ECIT INTUNOR AS",
+      "content_sha256": "4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "http_status": 200,
+      "id": "ev-role-827656712-2eed11b7cf44",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.181322Z",
+      "snapshot_ref": "4f/4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Ruth Anne Braseth Seljeås",
+      "content_sha256": "4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "http_status": 200,
+      "id": "ev-role-827656712-8c5e06316711",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.181322Z",
+      "snapshot_ref": "4f/4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Arne Seljeås",
+      "content_sha256": "4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "http_status": 200,
+      "id": "ev-role-827656712-ebaee4e9d3fd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.181322Z",
+      "snapshot_ref": "4f/4f28ec26b8ece61fcb9c05b7d11ef014921ce6fa9b154ddb54355a40338b9af2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "19dc331fd954bf5d676c",
+        "35f197cc5200de4971f1",
+        "6c42bddcca6f9532dde4",
+        "6f7ce312cdb317018077",
+        "7461062f526fe0d1ff6b",
+        "7f035586f53349a8c941",
+        "953a115f27d862b679ef",
+        "9c88aafe27660886892a",
+        "a0ef324a74fffea9f3b7",
+        "a6d59dd2203fd62d0a09",
+        "ae8b4a9a5049142e3d57",
+        "b2a6686abcf878daf9a8",
+        "b3011e0cf6ae62f75101",
+        "ba1df8ca8623b3b56ba7",
+        "bb42af5d20dfea5d4f81",
+        "c153282441de522de8c8",
+        "c5ff6fefdbf4f1b940ac",
+        "e378a4de97189a884833",
+        "ec1e5190538b645e0e35",
+        "f7620f3d6f2dcbe3767b",
+        "fe91999034dd3225f11e"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0667f7bb3b354405d267",
+        "9106cb9b92ca66316b59",
+        "c8770f07ca464ffe5887"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "09cdde9dc442a8dbdcd6",
+        "885c9fbcb0bb98eae18d",
+        "a391199620960f81dc65",
+        "c50149f9d0986214a52d"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a0b13267e8139039584e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "9106cb9b92ca66316b59",
+      "c8770f07ca464ffe5887",
+      "0667f7bb3b354405d267"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "TANNPLEIER RUTH-ANNE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 14,
+    "runtime_ms": 16118,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "827656712",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:48.815108Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "827656712",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "bb1c058d3b15d6e311ae08be301788d07a2418ad26171d91ac784d5cccef43c7",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:24.029629Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/827656712",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 12913.0,
+              "assets": 228704.0,
+              "currency": "NOK",
+              "debt": 166706.0,
+              "equity": 61998.0,
+              "operating_result": 16671.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 16671.0,
+              "record_id": 4571259,
+              "revenue": 911143.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 16053.0,
+              "assets": 336286.0,
+              "currency": "NOK",
+              "debt": 258235.0,
+              "equity": 78050.0,
+              "operating_result": 20465.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 20465.0,
+              "record_id": 5559793,
+              "revenue": 935999.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 12285.0,
+              "assets": 341029.0,
+              "currency": "NOK",
+              "debt": 250694.0,
+              "equity": 90335.0,
+              "operating_result": 15475.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 15776.0,
+              "record_id": 6344499,
+              "revenue": 928224.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:26.404806Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/827656712",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "4ef3d980c78dc8366399956b0d4654b8826340232da3d1224fcce36226e438ba",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:27.623249Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=827656712&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Vika 6"
+                ],
+                "kommune": "FAUSKE",
+                "kommunenummer": "1841",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8211",
+                "poststed": "FAUSKE"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Tannlegetjenester",
+                "kode": "86.230"
+              },
+              "name": "TANNPLEIER RUTH-ANNE AS",
+              "organisation_number": "927682699"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "827656712",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Utføre tannpleieroppgaver på klinikk hvor arbeidsavtale er signert med Colosseum tannlege AS.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Vika 6",
+          "forretningsadresse.kommune": "FAUSKE",
+          "forretningsadresse.kommunenummer": "1841",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8211",
+          "forretningsadresse.poststed": "FAUSKE",
+          "fravalgRevisjonBeslutningsDato": "2021-08-05",
+          "fravalgRevisjonDato": "2021-09-04",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "300",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-09-04",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Tannlegetjenester",
+          "naeringskode1.kode": "86.230",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "TANNPLEIER RUTH-ANNE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "827656712",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2021-11-15",
+          "registreringsdatoForetaksregisteret": "2021-09-04",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2021-11-10",
+          "registreringsdatoenhetsregisteret": "2021-09-04",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-08-05",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-08-05",
+          "vedtektsfestetFormaal": "Drift tannpleierpraksis."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "3070c133fe2900130043a140c96ceb53e94fe1d19dba2bbdd3baf8ef2162d9f7",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:25.181322Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/827656712/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2021-09-04",
+              "name": "Ruth Anne Braseth Seljeås",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-12-03",
+              "name": "Ruth Anne Braseth Seljeås",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-12-03",
+              "name": "Arne Seljeås",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-10-29",
+              "name": [
+                "ECIT INTUNOR AS"
+              ],
+              "organisation_number": "981085892",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "86.230",
+    "industry_label": "Tannlegetjenester",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "FAUSKE",
+    "municipality_number": "1841",
+    "name": "TANNPLEIER RUTH-ANNE AS",
+    "organisation_number": "827656712",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1156,
+        1218,
+        1217,
+        47,
+        31,
+        46,
+        2782,
+        1764,
+        1671,
+        46,
+        46,
+        47,
+        4860
+      ],
+      "requests": 14
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:39Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "TANNPLEIER RUTH-ANNE AS (AS, org.nr 827656712)",
+    "what_it_does": "TANNPLEIER RUTH-ANNE AS is classified under NACE code 86.230 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, TANNPLEIER RUTH-ANNE AS reported revenue of 928,224 NOK and an operating result of 15,475 NOK. Net result was 12,285 NOK, with total assets of 341,029 NOK and equity of 90,335 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 1.7% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Ruth Anne Braseth Seljeås. Daily operations are led by general manager Ruth Anne Braseth Seljeås. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "TANNPLEIER RUTH-ANNE AS is classified under NACE code 86.230 (unspecified).",
+        "claim_ids": [
+          "0667f7bb3b354405d267",
+          "9106cb9b92ca66316b59"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c8770f07ca464ffe5887",
+          "0667f7bb3b354405d267"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, TANNPLEIER RUTH-ANNE AS reported revenue of 928,224 NOK and an operating result of 15,475 NOK.",
+        "claim_ids": [
+          "e378a4de97189a884833",
+          "19dc331fd954bf5d676c"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 12,285 NOK, with total assets of 341,029 NOK and equity of 90,335 NOK.",
+        "claim_ids": [
+          "a6d59dd2203fd62d0a09",
+          "ec1e5190538b645e0e35",
+          "7461062f526fe0d1ff6b"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "e378a4de97189a884833",
+          "ae8b4a9a5049142e3d57"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 1.7% (derived: operating result / revenue).",
+        "claim_ids": [
+          "19dc331fd954bf5d676c",
+          "e378a4de97189a884833"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Ruth Anne Braseth Seljeås.",
+        "claim_ids": [
+          "885c9fbcb0bb98eae18d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Ruth Anne Braseth Seljeås.",
+        "claim_ids": [
+          "c50149f9d0986214a52d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "09cdde9dc442a8dbdcd6",
+          "885c9fbcb0bb98eae18d",
+          "a391199620960f81dc65",
+          "c50149f9d0986214a52d"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "9106cb9b92ca66316b59"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "a0b13267e8139039584e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "9106cb9b92ca66316b59"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "9106cb9b92ca66316b59"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "9106cb9b92ca66316b59"
+        ]
+      }
+    ]
+  }
+}

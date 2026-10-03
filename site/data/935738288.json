@@ -1,0 +1,892 @@
+{
+  "availability": "not_applicable",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "185746b1f6fc056b2f36",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -37144.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3c954cffd66044372c53",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37100.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "266fe281c5ba810b2663",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44244.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de68c508cd2a99abc25f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7144.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "08a54b7fd185214c623b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -37144.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0930d6b7e9eafa01fdc9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -37144.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9619957b62273db88c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-935738288-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21cf67f90c24f8a946b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935738288"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "74.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e762ade4f894268dc2cc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935738288"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a527c7bc316db0856742",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-935738288"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "STUDIO FLUE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "16ed6de4d1ad17c11db5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-935738288-b60b83e28d03"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Mirwais Moquim",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b2b333496c0a80777729",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-935738288-936144438"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Jens Bjelkes gate 35A"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0561",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Fotografvirksomhet",
+          "kode": "74.200"
+        },
+        "name": "STUDIO FLUE AS",
+        "organisation_number": "936144438"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 10500.0, operating_result: -37144.0, profit_before_tax: -37144.0, annual_result: -37144.0, assets: 37100.0, equity: -7144.0, debt: 44244.0",
+      "content_sha256": "0eeae11be0294a8db257205e5561d28bfe3ff7bddf415aa4ca372313a0181216",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935738288",
+      "http_status": 200,
+      "id": "ev-fin-935738288-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-06-13",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:09.951525Z",
+      "snapshot_ref": "0e/0eeae11be0294a8db257205e5561d28bfe3ff7bddf415aa4ca372313a0181216.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935738288",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 936144438: STUDIO FLUE AS",
+      "content_sha256": "35db08a8f27f1c3f4ae8cf15ddfbe21e8c7168125d480ad2dd9f097d2d96e734",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935738288&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-935738288-936144438",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:13.615805Z",
+      "snapshot_ref": "35/35db08a8f27f1c3f4ae8cf15ddfbe21e8c7168125d480ad2dd9f097d2d96e734.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935738288&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 935738288 STUDIO FLUE AS",
+      "content_sha256": "3546545e1885781f832228068ad2140d705f81d52b93ae3925d61158d2b607dc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-935738288",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "35/3546545e1885781f832228068ad2140d705f81d52b93ae3925d61158d2b607dc.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Mirwais Moquim",
+      "content_sha256": "89a644875c43e3150c27e13918d4769ad2a4577b9f692711d4e555edddfcd300",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935738288/roller",
+      "http_status": 200,
+      "id": "ev-role-935738288-b60b83e28d03",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:11.175937Z",
+      "snapshot_ref": "89/89a644875c43e3150c27e13918d4769ad2a4577b9f692711d4e555edddfcd300.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935738288/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "08a54b7fd185214c623b",
+        "0930d6b7e9eafa01fdc9",
+        "185746b1f6fc056b2f36",
+        "266fe281c5ba810b2663",
+        "3c954cffd66044372c53",
+        "de68c508cd2a99abc25f",
+        "e9619957b62273db88c2"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "21cf67f90c24f8a946b3",
+        "a527c7bc316db0856742",
+        "e762ade4f894268dc2cc"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "16ed6de4d1ad17c11db5"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "b2b333496c0a80777729"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "a527c7bc316db0856742",
+      "e762ade4f894268dc2cc",
+      "21cf67f90c24f8a946b3"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": true
+    },
+    "legal_name": "STUDIO FLUE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 11,
+    "runtime_ms": 9121,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "935738288",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.884083Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "935738288",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "4961590ccce3bfdae80523d49340d0a7f6ea0b09f31f9bbf00103b97c42b49d9",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:09.951525Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/935738288",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -37144.0,
+              "assets": 37100.0,
+              "currency": "NOK",
+              "debt": 44244.0,
+              "equity": -7144.0,
+              "operating_result": -37144.0,
+              "period": {
+                "fraDato": "2025-06-13",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -37144.0,
+              "record_id": 7191325,
+              "revenue": 10500.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:12.374064Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/935738288",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "971559762f0b8588af3ec79af4c44a589ba3a9851becc3a1aa05c8913a36517d",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:13.615805Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=935738288&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Jens Bjelkes gate 35A"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0561",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Fotografvirksomhet",
+                "kode": "74.200"
+              },
+              "name": "STUDIO FLUE AS",
+              "organisation_number": "936144438"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "935738288",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Fotograf.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Jens Bjelkes gate 35A",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0561",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2025-06-13",
+          "fravalgRevisjonDato": "2025-06-24",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-06-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Fotografvirksomhet",
+          "naeringskode1.kode": "74.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "STUDIO FLUE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "935738288",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-06-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-06-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2025-06-13",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "true",
+          "underAvviklingDato": "2026-08-25",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-06-13",
+          "vedtektsfestetFormaal": "Selge varer og tjenester innen fotografi - og annet som naturlig sammenfaller med dette - samt deltakelse i andre selskaper, investeringer og nærliggende virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "de84e636f42a6a33116c5c63bf07c5c5bb72b8060e85157593617f252ec0adda",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:11.175937Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/935738288/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-06-24",
+              "name": "Mirwais Moquim",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "74.200",
+    "industry_label": "Fotografvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": true,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "STUDIO FLUE AS",
+    "organisation_number": "935738288",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1218,
+        1202,
+        1250,
+        141,
+        47,
+        1671,
+        766,
+        891,
+        46,
+        718
+      ],
+      "requests": 11
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:17Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "not_applicable",
+  "status": "not_applicable",
+  "status_reason": "entity_deleted_or_in_insolvency_process",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "STUDIO FLUE AS (AS, org.nr 935738288)",
+    "what_it_does": "STUDIO FLUE AS is classified under NACE code 74.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, STUDIO FLUE AS reported revenue of 10,500 NOK and an operating result of -37,144 NOK. Net result was -37,144 NOK, with total assets of 37,100 NOK and equity of -7,144 NOK. The company was loss-making in 2025. Operating margin was -353.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Mirwais Moquim. The entity has 1 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "STUDIO FLUE AS is classified under NACE code 74.200 (unspecified).",
+        "claim_ids": [
+          "21cf67f90c24f8a946b3",
+          "a527c7bc316db0856742"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "e762ade4f894268dc2cc",
+          "21cf67f90c24f8a946b3"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, STUDIO FLUE AS reported revenue of 10,500 NOK and an operating result of -37,144 NOK.",
+        "claim_ids": [
+          "e9619957b62273db88c2",
+          "08a54b7fd185214c623b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -37,144 NOK, with total assets of 37,100 NOK and equity of -7,144 NOK.",
+        "claim_ids": [
+          "185746b1f6fc056b2f36",
+          "3c954cffd66044372c53",
+          "de68c508cd2a99abc25f"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "185746b1f6fc056b2f36"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was -353.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "08a54b7fd185214c623b",
+          "e9619957b62273db88c2"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Mirwais Moquim.",
+        "claim_ids": [
+          "16ed6de4d1ad17c11db5"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 1 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "16ed6de4d1ad17c11db5"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "a527c7bc316db0856742"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "b2b333496c0a80777729"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "a527c7bc316db0856742"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "a527c7bc316db0856742"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "a527c7bc316db0856742"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1191 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "517d7e8e6e2da60c07de",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 281162.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d9cfdfc32c1f5ab10ee5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79160.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0878aed83ff4cd2851ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 708592.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "246d0dd8d8754cdaff90",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 360622.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a06682af6c15c5c74a2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 678592.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef50e6a6099270def226",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 257246.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b293522e114795657e67",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 103376.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4ce5f53ccca2957341c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc5437c810018c97447e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 353170.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "defebbea34e2128dc157",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 96876.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "622f0547c42fee6f7d75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 99856.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9445579507ee42b0f130",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 360584.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "37e5a43ce8aa4ecfcda0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2096589.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6bf0911bc5fb48668f68",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-933556549-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 894962.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "016f46528d6684a3b440",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-933556549"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "69.202"
+    },
+    {
+      "availability": "available",
+      "claim_id": "270d2996607e41567d7e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-933556549"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "04dbd3c80b9dceae09df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-933556549"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "PORSGRUNN REGNSKAP AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "04e5af097c443b1b113e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-933556549-4d2ebd6140be"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jan Olav Kallåk Thalberg",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "52273bdd9379414c69fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-933556549-a5b193f36830"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jan Olav Kallåk Thalberg",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "820b6d10c23ede079035",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-933556549-921f3e6225e5"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REVISJONSFIRMAET SCHUMACHER & HAMMER AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "09ef17a174320f3564a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-933556549-933590305"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Bryggevegen 2"
+          ],
+          "kommune": "PORSGRUNN",
+          "kommunenummer": "4001",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3941",
+          "poststed": "PORSGRUNN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Regnskapsføring og bokføring",
+          "kode": "69.202"
+        },
+        "name": "PORSGRUNN REGNSKAP AS",
+        "organisation_number": "933590305"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2024: revenue: 894962.0, operating_result: 96876.0, profit_before_tax: 99856.0, annual_result: 79160.0, assets: 360622.0, equity: 103376.0, debt: 257246.0",
+      "content_sha256": "583ed158d8bca3a840a66ac9707347be9bef5d64104b2af63d89aa9f4d9d4f4d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933556549",
+      "http_status": 200,
+      "id": "ev-fin-933556549-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:09.865266Z",
+      "snapshot_ref": "58/583ed158d8bca3a840a66ac9707347be9bef5d64104b2af63d89aa9f4d9d4f4d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933556549",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2096589.0, operating_result: 353170.0, profit_before_tax: 360584.0, annual_result: 281162.0, assets: 708592.0, equity: 30000.0, debt: 678592.0",
+      "content_sha256": "5e51cc23ff648995d22206f8606a9a70560e64a6d3c3ac394198d39ca1d1f90d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933556549",
+      "http_status": 200,
+      "id": "ev-fin-933556549-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:09.865266Z",
+      "snapshot_ref": "5e/5e51cc23ff648995d22206f8606a9a70560e64a6d3c3ac394198d39ca1d1f90d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933556549",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 933590305: PORSGRUNN REGNSKAP AS",
+      "content_sha256": "11566c7f2012a0be1b4817ca9a53b2ecd227b72e1d8653aac10b8ada208db924",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=933556549&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-933556549-933590305",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:13.495168Z",
+      "snapshot_ref": "11/11566c7f2012a0be1b4817ca9a53b2ecd227b72e1d8653aac10b8ada208db924.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=933556549&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 933556549 PORSGRUNN REGNSKAP AS",
+      "content_sha256": "990f59afb1e7a8f63728c3f7f6ad2c3c631cd12654851c8660836080f49819c0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-933556549",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "99/990f59afb1e7a8f63728c3f7f6ad2c3c631cd12654851c8660836080f49819c0.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jan Olav Kallåk Thalberg",
+      "content_sha256": "47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "http_status": 200,
+      "id": "ev-role-933556549-4d2ebd6140be",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.074053Z",
+      "snapshot_ref": "47/47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: REVISJONSFIRMAET SCHUMACHER & HAMMER AS",
+      "content_sha256": "47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "http_status": 200,
+      "id": "ev-role-933556549-921f3e6225e5",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.074053Z",
+      "snapshot_ref": "47/47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Jan Olav Kallåk Thalberg",
+      "content_sha256": "47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "http_status": 200,
+      "id": "ev-role-933556549-a5b193f36830",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.074053Z",
+      "snapshot_ref": "47/47841fc0e8d1263f805d30e1e8c9ef327bee9663bb8236ef0c170736f7b1a550.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0878aed83ff4cd2851ce",
+        "246d0dd8d8754cdaff90",
+        "37e5a43ce8aa4ecfcda0",
+        "4a06682af6c15c5c74a2",
+        "517d7e8e6e2da60c07de",
+        "622f0547c42fee6f7d75",
+        "6bf0911bc5fb48668f68",
+        "9445579507ee42b0f130",
+        "b293522e114795657e67",
+        "cc5437c810018c97447e",
+        "d4ce5f53ccca2957341c",
+        "d9cfdfc32c1f5ab10ee5",
+        "defebbea34e2128dc157",
+        "ef50e6a6099270def226"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "016f46528d6684a3b440",
+        "04dbd3c80b9dceae09df",
+        "270d2996607e41567d7e"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04e5af097c443b1b113e",
+        "52273bdd9379414c69fb",
+        "820b6d10c23ede079035"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "09ef17a174320f3564a0"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "04dbd3c80b9dceae09df",
+      "270d2996607e41567d7e",
+      "016f46528d6684a3b440"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "PORSGRUNN REGNSKAP AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 41228,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "933556549",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:56.803098Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "933556549",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "fdabe790674a1eadf0872e649a992732baae0ce6fa900bd4e4995de49050c56b",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:09.865266Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/933556549",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 79160.0,
+              "assets": 360622.0,
+              "currency": "NOK",
+              "debt": 257246.0,
+              "equity": 103376.0,
+              "operating_result": 96876.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 99856.0,
+              "record_id": 5532991,
+              "revenue": 894962.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 281162.0,
+              "assets": 708592.0,
+              "currency": "NOK",
+              "debt": 678592.0,
+              "equity": 30000.0,
+              "operating_result": 353170.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 360584.0,
+              "record_id": 6472123,
+              "revenue": 2096589.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:12.237507Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/933556549",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "e22a7d89edba9ead4fcb6c4218b633d498453ea3f6b76b5fbc6dafdde5d6e5c6",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:13.495168Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=933556549&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Bryggevegen 2"
+                ],
+                "kommune": "PORSGRUNN",
+                "kommunenummer": "4001",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3941",
+                "poststed": "PORSGRUNN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Regnskapsføring og bokføring",
+                "kode": "69.202"
+              },
+              "name": "PORSGRUNN REGNSKAP AS",
+              "organisation_number": "933590305"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "933556549",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Regnskapsføring.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Bryggevegen 2",
+          "forretningsadresse.kommune": "PORSGRUNN",
+          "forretningsadresse.kommunenummer": "4001",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3941",
+          "forretningsadresse.poststed": "PORSGRUNN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2024-06-05",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Regnskapsføring og bokføring",
+          "naeringskode1.kode": "69.202",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "PORSGRUNN REGNSKAP AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "933556549",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Rosevegen 14",
+          "postadresse.kommune": "PORSGRUNN",
+          "postadresse.kommunenummer": "4001",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "3940",
+          "postadresse.poststed": "PORSGRUNN",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-07-14",
+          "registreringsdatoForetaksregisteret": "2024-06-05",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2024-06-18",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-06-18",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2025-07-10",
+          "registreringsdatoenhetsregisteret": "2024-06-05",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2024-05-15",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-05-15",
+          "vedtektsfestetFormaal": "Salg av regnskapstjenester og økonomisk rådgivning og annet som står i naturlig tilknytning til dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "21bad8dec89ec0c724ccd96e3e1112893f4ca2f8df36fa6c13f19676ddc84df9",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:11.074053Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/933556549/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2024-06-05",
+              "name": "Jan Olav Kallåk Thalberg",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-06-05",
+              "name": "Jan Olav Kallåk Thalberg",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2024-06-05",
+              "name": [
+                "REVISJONSFIRMAET SCHUMACHER &",
+                "HAMMER AS"
+              ],
+              "organisation_number": "988520292",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "69.202",
+    "industry_label": "Regnskapsføring og bokføring",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "PORSGRUNN",
+    "municipality_number": "4001",
+    "name": "PORSGRUNN REGNSKAP AS",
+    "organisation_number": "933556549",
+    "run_metrics": {
+      "latencies_ms": [
+        1217,
+        1203,
+        1156,
+        1264,
+        15078,
+        15062,
+        266,
+        2514,
+        31,
+        3437
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:49Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "PORSGRUNN REGNSKAP AS (AS, org.nr 933556549)",
+    "what_it_does": "PORSGRUNN REGNSKAP AS is classified under NACE code 69.202 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, PORSGRUNN REGNSKAP AS reported revenue of 2,096,589 NOK and an operating result of 353,170 NOK. Net result was 281,162 NOK, with total assets of 708,592 NOK and equity of 30,000 NOK. Revenue grew by +134.3% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 16.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Jan Olav Kallåk Thalberg. Daily operations are led by general manager Jan Olav Kallåk Thalberg. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "PORSGRUNN REGNSKAP AS is classified under NACE code 69.202 (unspecified).",
+        "claim_ids": [
+          "016f46528d6684a3b440",
+          "04dbd3c80b9dceae09df"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "270d2996607e41567d7e",
+          "016f46528d6684a3b440"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, PORSGRUNN REGNSKAP AS reported revenue of 2,096,589 NOK and an operating result of 353,170 NOK.",
+        "claim_ids": [
+          "37e5a43ce8aa4ecfcda0",
+          "cc5437c810018c97447e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 281,162 NOK, with total assets of 708,592 NOK and equity of 30,000 NOK.",
+        "claim_ids": [
+          "517d7e8e6e2da60c07de",
+          "0878aed83ff4cd2851ce",
+          "d4ce5f53ccca2957341c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +134.3% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "37e5a43ce8aa4ecfcda0",
+          "6bf0911bc5fb48668f68"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 16.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "cc5437c810018c97447e",
+          "37e5a43ce8aa4ecfcda0"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Jan Olav Kallåk Thalberg.",
+        "claim_ids": [
+          "04e5af097c443b1b113e"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Jan Olav Kallåk Thalberg.",
+        "claim_ids": [
+          "52273bdd9379414c69fb"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "04e5af097c443b1b113e",
+          "52273bdd9379414c69fb",
+          "820b6d10c23ede079035"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "04dbd3c80b9dceae09df"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "09ef17a174320f3564a0"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "04dbd3c80b9dceae09df"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "04dbd3c80b9dceae09df"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "04dbd3c80b9dceae09df"
+        ]
+      }
+    ]
+  }
+}

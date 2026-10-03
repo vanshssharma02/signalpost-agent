@@ -1,0 +1,1164 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "99641151c60c8846834e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1798.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d920a78cc0617ed100ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "df143a1f6de37e7d6be5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -11973.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "07012ecf73fe512ee4a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 244418.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e30d62d9a099d777eca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 298592.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd8209ba7e5aacd7a1f5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 374324.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "33247027bbcd5fe19821",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 282362.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68d13a73ef438654f984",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 349988.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8703b1a35ea09430f06b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 226390.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "014200cb614091b4df6f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18028.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7c872675b06b38dfdfac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 24336.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bca348b434af05a507e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16230.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "50248a7862547d895392",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e5a1da60785033518e80",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5583.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb1656d98a71c505e69b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -116.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "324cc614526b8c2d67c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "49c5eb9ec3b84a05e36c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -11973.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "52879bbf78699903d803",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930561282-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1798.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d1b459b3ae6abcda033",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930561282"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "00.000"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b602e083ace640e7a599",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930561282"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "34c88b30b2150c996331",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930561282"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "CUELEBRE AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "495bc430f101b48388c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-930561282-4c6e40594a2b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Daniel Rodriguez Fernandez",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "eecee65bb8b0a63e59ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-930561282-c8eb5fed49a4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:28Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:28Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Daniel Rodriguez Fernandez",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -5583.0, profit_before_tax: -11973.0, annual_result: -11973.0, assets: 244418.0, equity: 18028.0, debt: 226390.0",
+      "content_sha256": "0a29080f24869a41be848accc07e174809084c5cc0e5217f034651f64cdd5e62",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "http_status": 200,
+      "id": "ev-fin-930561282-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.157332Z",
+      "snapshot_ref": "0a/0a29080f24869a41be848accc07e174809084c5cc0e5217f034651f64cdd5e62.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: 0.0, profit_before_tax: -1798.0, annual_result: -1798.0, assets: 298592.0, equity: 16230.0, debt: 282362.0",
+      "content_sha256": "315c4cad73e450e37855a1b8f71093519b069130cb5291afc41ed3ede72ede03",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "http_status": 200,
+      "id": "ev-fin-930561282-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.157332Z",
+      "snapshot_ref": "31/315c4cad73e450e37855a1b8f71093519b069130cb5291afc41ed3ede72ede03.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -116.0, profit_before_tax: 8106.0, annual_result: 8106.0, assets: 374324.0, equity: 24336.0, debt: 349988.0",
+      "content_sha256": "bc3159991800a956541d941078fafa010b9b93c04047abdd5a32645b1227209f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "http_status": 200,
+      "id": "ev-fin-930561282-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:24.157332Z",
+      "snapshot_ref": "bc/bc3159991800a956541d941078fafa010b9b93c04047abdd5a32645b1227209f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 930561282 CUELEBRE AS",
+      "content_sha256": "bf1068e8abf2aa6b1aee59f126a983d2be9374faf0e13446b00bb33c68553f64",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-930561282",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "bf/bf1068e8abf2aa6b1aee59f126a983d2be9374faf0e13446b00bb33c68553f64.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Daniel Rodriguez Fernandez",
+      "content_sha256": "f70e94c4572e150c4bd671bf34d95c4c0a462c42d5dd6eedfbcf1d2bea379873",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930561282/roller",
+      "http_status": 200,
+      "id": "ev-role-930561282-4c6e40594a2b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.365124Z",
+      "snapshot_ref": "f7/f70e94c4572e150c4bd671bf34d95c4c0a462c42d5dd6eedfbcf1d2bea379873.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930561282/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Daniel Rodriguez Fernandez",
+      "content_sha256": "f70e94c4572e150c4bd671bf34d95c4c0a462c42d5dd6eedfbcf1d2bea379873",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930561282/roller",
+      "http_status": 200,
+      "id": "ev-role-930561282-c8eb5fed49a4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:25.365124Z",
+      "snapshot_ref": "f7/f70e94c4572e150c4bd671bf34d95c4c0a462c42d5dd6eedfbcf1d2bea379873.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930561282/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "014200cb614091b4df6f",
+        "07012ecf73fe512ee4a9",
+        "0e30d62d9a099d777eca",
+        "324cc614526b8c2d67c9",
+        "33247027bbcd5fe19821",
+        "49c5eb9ec3b84a05e36c",
+        "50248a7862547d895392",
+        "52879bbf78699903d803",
+        "68d13a73ef438654f984",
+        "7c872675b06b38dfdfac",
+        "8703b1a35ea09430f06b",
+        "99641151c60c8846834e",
+        "bca348b434af05a507e5",
+        "cd8209ba7e5aacd7a1f5",
+        "d920a78cc0617ed100ed",
+        "df143a1f6de37e7d6be5",
+        "e5a1da60785033518e80",
+        "fb1656d98a71c505e69b"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "34c88b30b2150c996331",
+        "6d1b459b3ae6abcda033",
+        "b602e083ace640e7a599"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "495bc430f101b48388c6",
+        "eecee65bb8b0a63e59ce"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "34c88b30b2150c996331",
+      "b602e083ace640e7a599",
+      "6d1b459b3ae6abcda033"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "CUELEBRE AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 5934,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "930561282",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:55.566125Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "930561282",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "5bbbcb75c16d6978a7c1503e9ef92353c3655197211601149fd6618bdc4501dc",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:24.157332Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930561282",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -11973.0,
+              "assets": 244418.0,
+              "currency": "NOK",
+              "debt": 226390.0,
+              "equity": 18028.0,
+              "operating_result": -5583.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -11973.0,
+              "record_id": 4864003,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -1798.0,
+              "assets": 298592.0,
+              "currency": "NOK",
+              "debt": 282362.0,
+              "equity": 16230.0,
+              "operating_result": 0.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -1798.0,
+              "record_id": 5663089,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 8106.0,
+              "assets": 374324.0,
+              "currency": "NOK",
+              "debt": 349988.0,
+              "equity": 24336.0,
+              "operating_result": -116.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 8106.0,
+              "record_id": 6740792,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:26.594849Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/930561282",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "4e48875b6db68d4b8228005f6b1b11a5a6d3b6c7a877a7c02b2c035c2d16713d",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:27.789953Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=930561282&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "930561282",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøpe og eie aksjer.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Solstrandvegen 63",
+          "forretningsadresse.kommune": "HARAM",
+          "forretningsadresse.kommunenummer": "1580",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6264",
+          "forretningsadresse.poststed": "TENNFJORD",
+          "fravalgRevisjonBeslutningsDato": "2022-12-06",
+          "fravalgRevisjonDato": "2023-01-02",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2023-01-02",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Uoppgitt",
+          "naeringskode1.kode": "00.000",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "CUELEBRE AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "930561282",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2023-01-02",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2023-01-02",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-12-06",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-12-06",
+          "vedtektsfestetFormaal": "Kjøpe og eie aksjer."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "a963b0d0a21d8e4092c906835d88168ba770f3e010b13c7dbd5ad401c5bef24b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:25.365124Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930561282/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2023-01-02",
+              "name": "Daniel Rodriguez Fernandez",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-01-02",
+              "name": "Daniel Rodriguez Fernandez",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "00.000",
+    "industry_label": "Uoppgitt",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HARAM",
+    "municipality_number": "1580",
+    "name": "CUELEBRE AS",
+    "organisation_number": "930561282",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1217,
+        1219,
+        1202,
+        31,
+        1078
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:28Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "CUELEBRE AS (AS, org.nr 930561282)",
+    "what_it_does": "CUELEBRE AS is classified under NACE code 00.000 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 8,106 NOK, with total assets of 374,324 NOK and equity of 24,336 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Daniel Rodriguez Fernandez. Daily operations are led by general manager Daniel Rodriguez Fernandez. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "CUELEBRE AS is classified under NACE code 00.000 (unspecified).",
+        "claim_ids": [
+          "6d1b459b3ae6abcda033",
+          "34c88b30b2150c996331"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "b602e083ace640e7a599",
+          "6d1b459b3ae6abcda033"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 8,106 NOK, with total assets of 374,324 NOK and equity of 24,336 NOK.",
+        "claim_ids": [
+          "d920a78cc0617ed100ed",
+          "cd8209ba7e5aacd7a1f5",
+          "7c872675b06b38dfdfac"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Daniel Rodriguez Fernandez.",
+        "claim_ids": [
+          "495bc430f101b48388c6"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Daniel Rodriguez Fernandez.",
+        "claim_ids": [
+          "eecee65bb8b0a63e59ce"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "495bc430f101b48388c6",
+          "eecee65bb8b0a63e59ce"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "34c88b30b2150c996331"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "34c88b30b2150c996331"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "34c88b30b2150c996331"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "34c88b30b2150c996331"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "34c88b30b2150c996331"
+        ]
+      }
+    ]
+  }
+}

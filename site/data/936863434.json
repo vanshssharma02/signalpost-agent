@@ -1,0 +1,933 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "ce897816aa751eb0fcc1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "91b0283452b69de8e69c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19583457163d79be9ee7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3c5637a11d6a83d77f57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d38672bb2cb29b9256b3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9088ff9c863f5487d22",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f23d5f5411f838c146ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-936863434-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "438f179a4cdafb6bf6db",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-936863434"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "41.000"
+    },
+    {
+      "availability": "available",
+      "claim_id": "87407f57ff0478f0cf16",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-936863434"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "58943a58ce3b3bae70ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-936863434"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "PRIME BYGG & DRIFT PRO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab8b6a77d917984d1ae1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-936863434-5dc325aa3cc2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hosam Khalil Haj-Hasan",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fbd5597f7cf10d7dbda2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-936863434-0820f9f94bd3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hosam Khalil Haj-Hasan",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "712f7eeef119d0d96cf8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-936863434-837161762"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:58Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:58Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Gaupevegen 13"
+          ],
+          "kommune": "HAUGESUND",
+          "kommunenummer": "1106",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5517",
+          "poststed": "HAUGESUND"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Oppføring av bygninger",
+          "kode": "41.000"
+        },
+        "name": "PRIME BYGG & DRIFT PRO AS",
+        "organisation_number": "837161762"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: 0.0, profit_before_tax: 0.0, annual_result: 0.0, assets: 30000.0, equity: 30000.0, debt: 0.0",
+      "content_sha256": "6f0c6f01d693fd67921b406884bdc3ed392bf6657d792a517633926ae72d5100",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936863434",
+      "http_status": 200,
+      "id": "ev-fin-936863434-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-12-03",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:49.688530Z",
+      "snapshot_ref": "6f/6f0c6f01d693fd67921b406884bdc3ed392bf6657d792a517633926ae72d5100.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936863434",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 837161762: PRIME BYGG & DRIFT PRO AS",
+      "content_sha256": "fc156a69aed62a29a50d04ffda46191df74f9868678dca1d49c2f6a92633a525",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=936863434&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-936863434-837161762",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:53.244966Z",
+      "snapshot_ref": "fc/fc156a69aed62a29a50d04ffda46191df74f9868678dca1d49c2f6a92633a525.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=936863434&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 936863434 PRIME BYGG & DRIFT PRO AS",
+      "content_sha256": "83eaf600839852b95b61053a9e13076aedaa9c431af5e4b49e61b2e72b858292",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-936863434",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "83/83eaf600839852b95b61053a9e13076aedaa9c431af5e4b49e61b2e72b858292.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Hosam Khalil Haj-Hasan",
+      "content_sha256": "e97e4f36e2579ac66cde9f237103dc77f5e7132df58f8e1507b2f7fce7daa932",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936863434/roller",
+      "http_status": 200,
+      "id": "ev-role-936863434-0820f9f94bd3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:50.869248Z",
+      "snapshot_ref": "e9/e97e4f36e2579ac66cde9f237103dc77f5e7132df58f8e1507b2f7fce7daa932.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936863434/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Hosam Khalil Haj-Hasan",
+      "content_sha256": "e97e4f36e2579ac66cde9f237103dc77f5e7132df58f8e1507b2f7fce7daa932",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936863434/roller",
+      "http_status": 200,
+      "id": "ev-role-936863434-5dc325aa3cc2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:50.869248Z",
+      "snapshot_ref": "e9/e97e4f36e2579ac66cde9f237103dc77f5e7132df58f8e1507b2f7fce7daa932.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936863434/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "19583457163d79be9ee7",
+        "3c5637a11d6a83d77f57",
+        "91b0283452b69de8e69c",
+        "c9088ff9c863f5487d22",
+        "ce897816aa751eb0fcc1",
+        "d38672bb2cb29b9256b3",
+        "f23d5f5411f838c146ae"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "438f179a4cdafb6bf6db",
+        "58943a58ce3b3bae70ae",
+        "87407f57ff0478f0cf16"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "ab8b6a77d917984d1ae1",
+        "fbd5597f7cf10d7dbda2"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "712f7eeef119d0d96cf8"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "58943a58ce3b3bae70ae",
+      "87407f57ff0478f0cf16",
+      "438f179a4cdafb6bf6db"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "PRIME BYGG & DRIFT PRO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 10465,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "936863434",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:58.394198Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "936863434",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "32a9992b3981194af961a893fa5c272969baa71603dd7b601590a5a2ef9acc47",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:49.688530Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/936863434",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 30000.0,
+              "operating_result": 0.0,
+              "period": {
+                "fraDato": "2025-12-03",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 6831752,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:52.082857Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/936863434",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "c105ad0174a84d1d7acc3483c87270a6794f989caa05a1a55fdad57a2dbbb109",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:53.244966Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=936863434&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Gaupevegen 13"
+                ],
+                "kommune": "HAUGESUND",
+                "kommunenummer": "1106",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5517",
+                "poststed": "HAUGESUND"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Oppføring av bygninger",
+                "kode": "41.000"
+              },
+              "name": "PRIME BYGG & DRIFT PRO AS",
+              "organisation_number": "837161762"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "936863434",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Tømrerarbeid, byggarbeid og rehabilitering av boliger, betongarbeid, flislegging, maling, rørleggerarbeid (enkle arbeider), vedlikehold og vaktmestertjenester, plenklipping og hagearbeid, renhold, rydding. Bortkjøring av avfall, flytte- og transporttjenester, oppmåling og befaring, prosjektledelse og byggdrift, samt produsere og montere aluminium og glass, og annet som naturlig hører sammen med dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Gaupevegen 13",
+          "forretningsadresse.kommune": "HAUGESUND",
+          "forretningsadresse.kommunenummer": "1106",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5517",
+          "forretningsadresse.poststed": "HAUGESUND",
+          "fravalgRevisjonBeslutningsDato": "2025-12-03",
+          "fravalgRevisjonDato": "2025-12-20",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-12-20",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Oppføring av bygninger",
+          "naeringskode1.kode": "41.000",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "PRIME BYGG & DRIFT PRO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "936863434",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2025-12-20",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2025-12-20",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2025-12-03",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-12-03",
+          "vedtektsfestetFormaal": "Byggearbeid, oppussing, maling, plenklipping, vedlikehold, rørleggerarbeid, produksjon, montering, aluminium."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "5372c95612bad3cbee05a722bb4f1d7d448ac7ef7203d276b22a2b263d0c8fc8",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:50.869248Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/936863434/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2025-12-20",
+              "name": "Hosam Khalil Haj-Hasan",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-12-20",
+              "name": "Hosam Khalil Haj-Hasan",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "41.000",
+    "industry_label": "Oppføring av bygninger",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HAUGESUND",
+    "municipality_number": "1106",
+    "name": "PRIME BYGG & DRIFT PRO AS",
+    "organisation_number": "936863434",
+    "run_metrics": {
+      "latencies_ms": [
+        1188,
+        1186,
+        1203,
+        1171,
+        32,
+        46,
+        4516,
+        62,
+        139,
+        922
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:58Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "PRIME BYGG & DRIFT PRO AS (AS, org.nr 936863434)",
+    "what_it_does": "PRIME BYGG & DRIFT PRO AS is classified under NACE code 41.000 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, PRIME BYGG & DRIFT PRO AS reported revenue of 0 NOK and an operating result of 0 NOK. Net result was 0 NOK, with total assets of 30,000 NOK and equity of 30,000 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Hosam Khalil Haj-Hasan. Daily operations are led by general manager Hosam Khalil Haj-Hasan. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "PRIME BYGG & DRIFT PRO AS is classified under NACE code 41.000 (unspecified).",
+        "claim_ids": [
+          "438f179a4cdafb6bf6db",
+          "58943a58ce3b3bae70ae"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "87407f57ff0478f0cf16",
+          "438f179a4cdafb6bf6db"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, PRIME BYGG & DRIFT PRO AS reported revenue of 0 NOK and an operating result of 0 NOK.",
+        "claim_ids": [
+          "f23d5f5411f838c146ae",
+          "d38672bb2cb29b9256b3"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 0 NOK, with total assets of 30,000 NOK and equity of 30,000 NOK.",
+        "claim_ids": [
+          "ce897816aa751eb0fcc1",
+          "91b0283452b69de8e69c",
+          "3c5637a11d6a83d77f57"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Hosam Khalil Haj-Hasan.",
+        "claim_ids": [
+          "ab8b6a77d917984d1ae1"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Hosam Khalil Haj-Hasan.",
+        "claim_ids": [
+          "fbd5597f7cf10d7dbda2"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "ab8b6a77d917984d1ae1",
+          "fbd5597f7cf10d7dbda2"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "58943a58ce3b3bae70ae"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "712f7eeef119d0d96cf8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "58943a58ce3b3bae70ae"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "58943a58ce3b3bae70ae"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "58943a58ce3b3bae70ae"
+        ]
+      }
+    ]
+  }
+}

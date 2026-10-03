@@ -1,0 +1,929 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "7c208cd3c104875b961b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1692914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5985b10ff6dbd9b154c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1966234.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9cb5ead7d1fd6be339cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 243320.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "76921150244b2463b594",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1722914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "250de91ce8991d21c92e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -21266.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e9a024d8c146bd2a0d1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1696408.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ea8dc43008e9448a3846",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-934427882-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "101721bbd5099beca2f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934427882"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "00.000"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e1e0a8ad2f8d1935cff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934427882"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "43a5c63d6809b1e71d65",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-934427882"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "REISE HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "42d5ec656374c6ae2cc2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934427882-dba0c5ae1225"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Gaute Kverneland",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "979203a30a0fb6bd95ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-934427882-0f24e76870c9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Gaute Kverneland",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "948eed2d86ba95289ca9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-934427882-934429621"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:03Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Reise 20"
+          ],
+          "kommune": "LILLESAND",
+          "kommunenummer": "4215",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "4790",
+          "poststed": "LILLESAND"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Uoppgitt",
+          "kode": "00.000"
+        },
+        "name": "REISE HOLDING AS",
+        "organisation_number": "934429621"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: -21266.0, profit_before_tax: 1696408.0, annual_result: 1692914.0, assets: 1966234.0, equity: 1722914.0, debt: 243320.0",
+      "content_sha256": "de9e086dccb794b22c33453f00cd8a99a3d4d6e674ec84e9321034351082aad9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934427882",
+      "http_status": 200,
+      "id": "ev-fin-934427882-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-10-25",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:57.938245Z",
+      "snapshot_ref": "de/de9e086dccb794b22c33453f00cd8a99a3d4d6e674ec84e9321034351082aad9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934427882",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 934429621: REISE HOLDING AS",
+      "content_sha256": "7ebf14086b15d3c22339bbd5c4625011e934d7ae792db4e6eaaa01978a6bd44b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934427882&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-934427882-934429621",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.548029Z",
+      "snapshot_ref": "7e/7ebf14086b15d3c22339bbd5c4625011e934d7ae792db4e6eaaa01978a6bd44b.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934427882&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 934427882 REISE HOLDING AS",
+      "content_sha256": "ad5e73ccaf8a957ce357a94e9dd69fd0b69a76062d9f835ddf42abd6ae4194f2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-934427882",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "ad/ad5e73ccaf8a957ce357a94e9dd69fd0b69a76062d9f835ddf42abd6ae4194f2.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Gaute Kverneland",
+      "content_sha256": "f1f189150ea8485dbe42a6288a5971e2bb5c01db18d66977fd9355095be449ed",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934427882/roller",
+      "http_status": 200,
+      "id": "ev-role-934427882-0f24e76870c9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.116157Z",
+      "snapshot_ref": "f1/f1f189150ea8485dbe42a6288a5971e2bb5c01db18d66977fd9355095be449ed.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934427882/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Gaute Kverneland",
+      "content_sha256": "f1f189150ea8485dbe42a6288a5971e2bb5c01db18d66977fd9355095be449ed",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934427882/roller",
+      "http_status": 200,
+      "id": "ev-role-934427882-dba0c5ae1225",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.116157Z",
+      "snapshot_ref": "f1/f1f189150ea8485dbe42a6288a5971e2bb5c01db18d66977fd9355095be449ed.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934427882/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "250de91ce8991d21c92e",
+        "5985b10ff6dbd9b154c9",
+        "76921150244b2463b594",
+        "7c208cd3c104875b961b",
+        "9cb5ead7d1fd6be339cd",
+        "9e9a024d8c146bd2a0d1",
+        "ea8dc43008e9448a3846"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "101721bbd5099beca2f0",
+        "43a5c63d6809b1e71d65",
+        "6e1e0a8ad2f8d1935cff"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "42d5ec656374c6ae2cc2",
+        "979203a30a0fb6bd95ee"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "948eed2d86ba95289ca9"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "43a5c63d6809b1e71d65",
+      "6e1e0a8ad2f8d1935cff",
+      "101721bbd5099beca2f0"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "REISE HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 7216,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "934427882",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:57.261774Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "934427882",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "13bac876ef923813837d5fb0d02487f756f72c3b5a4c9905e8d7c6b9609f1009",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:57.938245Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/934427882",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1692914.0,
+              "assets": 1966234.0,
+              "currency": "NOK",
+              "debt": 243320.0,
+              "equity": 1722914.0,
+              "operating_result": -21266.0,
+              "period": {
+                "fraDato": "2024-10-25",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1696408.0,
+              "record_id": 6626095,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:00.309020Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/934427882",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "68683e7ce02540dea948fd67a57dd07ff9fa18c1feefe84a9fa04589a3f38e3e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:01.548029Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=934427882&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Reise 20"
+                ],
+                "kommune": "LILLESAND",
+                "kommunenummer": "4215",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "4790",
+                "poststed": "LILLESAND"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Uoppgitt",
+                "kode": "00.000"
+              },
+              "name": "REISE HOLDING AS",
+              "organisation_number": "934429621"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "934427882",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Holdingselskap.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Reise 20",
+          "forretningsadresse.kommune": "LILLESAND",
+          "forretningsadresse.kommunenummer": "4215",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "4790",
+          "forretningsadresse.poststed": "LILLESAND",
+          "fravalgRevisjonBeslutningsDato": "2024-10-25",
+          "fravalgRevisjonDato": "2024-11-07",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2024-11-07",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Uoppgitt",
+          "naeringskode1.kode": "00.000",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "REISE HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "934427882",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2024-11-07",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2024-11-07",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2024-10-25",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-10-25",
+          "vedtektsfestetFormaal": "Være et investeringsselskap herunder investering i aksjer, andeler i selskap etter selskapsloven og utenlandske selskaper, obligasjoner, fast eiendom og annet som står naturlig i forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "6ec1ffa13c924922b93fbd75826f801d5de86772cd6cc4ff2069d4863a80e115",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:59.116157Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/934427882/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2024-11-07",
+              "name": "Gaute Kverneland",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2024-11-07",
+              "name": "Gaute Kverneland",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "00.000",
+    "industry_label": "Uoppgitt",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "LILLESAND",
+    "municipality_number": "4215",
+    "name": "REISE HOLDING AS",
+    "organisation_number": "934427882",
+    "run_metrics": {
+      "latencies_ms": [
+        1735,
+        1186,
+        1188,
+        1233,
+        797,
+        1077
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:03Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "REISE HOLDING AS (AS, org.nr 934427882)",
+    "what_it_does": "REISE HOLDING AS is classified under NACE code 00.000 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, REISE HOLDING AS reported revenue of 0 NOK and an operating result of -21,266 NOK. Net result was 1,692,914 NOK, with total assets of 1,966,234 NOK and equity of 1,722,914 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Gaute Kverneland. Daily operations are led by general manager Gaute Kverneland. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "REISE HOLDING AS is classified under NACE code 00.000 (unspecified).",
+        "claim_ids": [
+          "101721bbd5099beca2f0",
+          "43a5c63d6809b1e71d65"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "6e1e0a8ad2f8d1935cff",
+          "101721bbd5099beca2f0"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, REISE HOLDING AS reported revenue of 0 NOK and an operating result of -21,266 NOK.",
+        "claim_ids": [
+          "ea8dc43008e9448a3846",
+          "250de91ce8991d21c92e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 1,692,914 NOK, with total assets of 1,966,234 NOK and equity of 1,722,914 NOK.",
+        "claim_ids": [
+          "7c208cd3c104875b961b",
+          "5985b10ff6dbd9b154c9",
+          "76921150244b2463b594"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Gaute Kverneland.",
+        "claim_ids": [
+          "42d5ec656374c6ae2cc2"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Gaute Kverneland.",
+        "claim_ids": [
+          "979203a30a0fb6bd95ee"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "42d5ec656374c6ae2cc2",
+          "979203a30a0fb6bd95ee"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "43a5c63d6809b1e71d65"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "948eed2d86ba95289ca9"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "43a5c63d6809b1e71d65"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "43a5c63d6809b1e71d65"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "43a5c63d6809b1e71d65"
+        ]
+      }
+    ]
+  }
+}

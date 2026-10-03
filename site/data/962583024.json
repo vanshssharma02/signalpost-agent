@@ -1,0 +1,1379 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "8346312cae5b68f0067e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2132914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "90d1b3800ff58d24c33e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1416535.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2a1b536106386fb6bb7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1908178.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82ed844b42510f52172f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4981.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b7f9e30c5c4b4718aea7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20809.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c0c0870a70e25cb3b20d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6611.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2abcbbd4c606736bc8f3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 258597.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "34fd9aad852907fc83b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 412494.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c34b89cfc0ed4845bc52",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 80904.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e475777d3578d228a34",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -60095.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70cac7b3cb65924a8556",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -405884.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "997804b8c87c683dc2c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -253616.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0b1dc42a49bcdb19e84c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1419025.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "59bf35ae02fe45d2d11d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2133676.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b6b66358a40989f12c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1910314.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "472b96b60a56a3d75177",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1908178.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4d3f1afe020b2b60876c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1416535.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b85773b85761bf0afdf5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2132914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21dcb27674a69f8e331a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2418350.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "883933cdaacac2279bc6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1699500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b81e7be2d6becf019c2f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-962583024-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2224600.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f97352251de6ac50e338",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-962583024"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Øye Revisjon"
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd399d4fe014b3879cd8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-962583024"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "69.201"
+    },
+    {
+      "availability": "available",
+      "claim_id": "64a558bc2a4e59664ed9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-962583024"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ENK"
+    },
+    {
+      "availability": "available",
+      "claim_id": "485930fcf3a4e2b8d1cc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-962583024"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ØYE REVISJON"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3c76a24af13603c8e8ac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-962583024-011439540e64"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REVISORGRUPPEN DRAMMEN AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9df15d70e83b875abc8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-962583024-b5a9cbc60bd7"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Randi Øye",
+        "role": "Innehaver",
+        "role_code": "INNH"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5421ab0088993a6f092f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-962583024-973435183"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "c/o O Øye",
+            "Randi Øye",
+            "Teiterudbakken"
+          ],
+          "kommune": "VESTRE TOTEN",
+          "kommunenummer": "3443",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2843",
+          "poststed": "EINA"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Revisjon",
+          "kode": "69.201"
+        },
+        "name": "ØYE REVISJON",
+        "organisation_number": "973435183"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fcdce28d541407bcc7fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-962583024"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:30Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:30Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://www.oyerevisjon.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 1699500.0, operating_result: 1419025.0, profit_before_tax: 1416535.0, annual_result: 1416535.0, assets: 6611.0, equity: -405884.0, debt: 412494.0",
+      "content_sha256": "3405222f5c4e16991aff507e904edf091c622416d52b2bae743400fe95847a50",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "http_status": 200,
+      "id": "ev-fin-962583024-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.335985Z",
+      "snapshot_ref": "34/3405222f5c4e16991aff507e904edf091c622416d52b2bae743400fe95847a50.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 2224600.0, operating_result: 1910314.0, profit_before_tax: 1908178.0, annual_result: 1908178.0, assets: 4981.0, equity: -253616.0, debt: 258597.0",
+      "content_sha256": "09e29eee1695b43673d4c2cecfa4e1b71bfa9d875d5e8056e337a69354587ad2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "http_status": 200,
+      "id": "ev-fin-962583024-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.335985Z",
+      "snapshot_ref": "09/09e29eee1695b43673d4c2cecfa4e1b71bfa9d875d5e8056e337a69354587ad2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2418350.0, operating_result: 2133676.0, profit_before_tax: 2132914.0, annual_result: 2132914.0, assets: 20809.0, equity: -60095.0, debt: 80904.0",
+      "content_sha256": "de9ee08a23158fd6ce3a9d25631da08f146b2123b75170b8302a62901fb4387a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "http_status": 200,
+      "id": "ev-fin-962583024-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:26.335985Z",
+      "snapshot_ref": "de/de9ee08a23158fd6ce3a9d25631da08f146b2123b75170b8302a62901fb4387a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 973435183: ØYE REVISJON",
+      "content_sha256": "9373c14d468f821ab89136d513fad21d3a84d25a5c1ccae5fcc3f26a061bfe3f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=962583024&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-962583024-973435183",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:29.881299Z",
+      "snapshot_ref": "93/9373c14d468f821ab89136d513fad21d3a84d25a5c1ccae5fcc3f26a061bfe3f.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=962583024&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 962583024 ØYE REVISJON",
+      "content_sha256": "bff85d5a2196558337363e663a89e5cc5e2cbeeab74b7d8ae2e2b6b0c3683f1c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-962583024",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "bf/bff85d5a2196558337363e663a89e5cc5e2cbeeab74b7d8ae2e2b6b0c3683f1c.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: REVISORGRUPPEN DRAMMEN AS",
+      "content_sha256": "909c8bc932fdd1812a1fa2d163aa0a5de15985cd7026ef3fd890c9dc4445da90",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962583024/roller",
+      "http_status": 200,
+      "id": "ev-role-962583024-011439540e64",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.535769Z",
+      "snapshot_ref": "90/909c8bc932fdd1812a1fa2d163aa0a5de15985cd7026ef3fd890c9dc4445da90.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962583024/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role INNH: Randi Øye",
+      "content_sha256": "909c8bc932fdd1812a1fa2d163aa0a5de15985cd7026ef3fd890c9dc4445da90",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962583024/roller",
+      "http_status": 200,
+      "id": "ev-role-962583024-b5a9cbc60bd7",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:27.535769Z",
+      "snapshot_ref": "90/909c8bc932fdd1812a1fa2d163aa0a5de15985cd7026ef3fd890c9dc4445da90.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962583024/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "omegn. Jeg er registrert i Norge med organisasjonsnummer NO 962583024 MVA. Jeg er medlem av Den norske Revisorforening. For å kun",
+      "content_sha256": "0b93acbe0f91cc083b09d622b4ffef26265213d8eb992a638f01b703be78a125",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://www.oyerevisjon.no/",
+      "http_status": 200,
+      "id": "ev-web-962583024",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:30Z",
+      "snapshot_ref": "0b/0b93acbe0f91cc083b09d622b4ffef26265213d8eb992a638f01b703be78a125.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.oyerevisjon.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0b1dc42a49bcdb19e84c",
+        "21dcb27674a69f8e331a",
+        "2abcbbd4c606736bc8f3",
+        "34fd9aad852907fc83b5",
+        "472b96b60a56a3d75177",
+        "4d3f1afe020b2b60876c",
+        "59bf35ae02fe45d2d11d",
+        "6e475777d3578d228a34",
+        "70cac7b3cb65924a8556",
+        "7b6b66358a40989f12c7",
+        "82ed844b42510f52172f",
+        "8346312cae5b68f0067e",
+        "883933cdaacac2279bc6",
+        "90d1b3800ff58d24c33e",
+        "997804b8c87c683dc2c2",
+        "b7f9e30c5c4b4718aea7",
+        "b81e7be2d6becf019c2f",
+        "b85773b85761bf0afdf5",
+        "c0c0870a70e25cb3b20d",
+        "c2a1b536106386fb6bb7",
+        "c34b89cfc0ed4845bc52"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f97352251de6ac50e338"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "485930fcf3a4e2b8d1cc",
+        "64a558bc2a4e59664ed9",
+        "cd399d4fe014b3879cd8"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3c76a24af13603c8e8ac",
+        "e9df15d70e83b875abc8"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "5421ab0088993a6f092f"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "fcdce28d541407bcc7fa"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "485930fcf3a4e2b8d1cc",
+      "64a558bc2a4e59664ed9",
+      "cd399d4fe014b3879cd8"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ØYE REVISJON"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 5248,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "962583024",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.556516Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "962583024",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "ENK",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "6e88013cab1d3d564052d101b849858f1a4ba359f728ed7b317a9825a9895426",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:26.335985Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/962583024",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1416535.0,
+              "assets": 6611.0,
+              "currency": "NOK",
+              "debt": 412494.0,
+              "equity": -405884.0,
+              "operating_result": 1419025.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1416535.0,
+              "record_id": 5388961,
+              "revenue": 1699500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1908178.0,
+              "assets": 4981.0,
+              "currency": "NOK",
+              "debt": 258597.0,
+              "equity": -253616.0,
+              "operating_result": 1910314.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1908178.0,
+              "record_id": 6244037,
+              "revenue": 2224600.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2132914.0,
+              "assets": 20809.0,
+              "currency": "NOK",
+              "debt": 80904.0,
+              "equity": -60095.0,
+              "operating_result": 2133676.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 2132914.0,
+              "record_id": 7187973,
+              "revenue": 2418350.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:28.693440Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/962583024",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "10d806a703f70140132c75bfab8d66a69b6e351dfb8cc2cdd28955c75c3bf92e",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:29.881299Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=962583024&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "c/o O Øye",
+                  "Randi Øye",
+                  "Teiterudbakken"
+                ],
+                "kommune": "VESTRE TOTEN",
+                "kommunenummer": "3443",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2843",
+                "poststed": "EINA"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Revisjon",
+                "kode": "69.201"
+              },
+              "name": "ØYE REVISJON",
+              "organisation_number": "973435183"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "962583024",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Statsautorisert revisor og statsautorisert regnskapsfører.",
+          "antallAnsatte": "",
+          "epostadresse": "randi.oye@oyerevisjon.dk",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o O Øye\nRandi Øye\nTeiterudbakken",
+          "forretningsadresse.kommune": "VESTRE TOTEN",
+          "forretningsadresse.kommunenummer": "3443",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2843",
+          "forretningsadresse.poststed": "EINA",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.oyerevisjon.no",
+          "institusjonellSektorkode.beskrivelse": "Personlig næringsdrivende",
+          "institusjonellSektorkode.kode": "8200",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "",
+          "kapital.type": "",
+          "kapital.valuta": "",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "47974423",
+          "naeringskode1.beskrivelse": "Revisjon",
+          "naeringskode1.kode": "69.201",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ØYE REVISJON",
+          "organisasjonsform.beskrivelse": "Enkeltpersonforetak",
+          "organisasjonsform.kode": "ENK",
+          "organisasjonsnummer": "962583024",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Sørupvej 46",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "Danmark",
+          "postadresse.landkode": "DK",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "DK-4684 Holmegaard",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2021-07-05",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2001-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2001-09-11",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "1995-02-20",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "3fd87396c31c16fe375e37e9eda884380d8aece9cc942fc98f980a334475d056",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:27.535769Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/962583024/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Innehaver",
+              "group_code": "INNH",
+              "inactive": false,
+              "last_changed": "1996-03-19",
+              "name": "Randi Øye",
+              "organisation_number": null,
+              "role": "Innehaver",
+              "role_code": "INNH"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2022-12-07",
+              "name": [
+                "REVISORGRUPPEN DRAMMEN AS"
+              ],
+              "organisation_number": "987199458",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:30Z",
+        "source_url": "https://www.oyerevisjon.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Øye Revisjon",
+          "claim_span": "omegn. Jeg er registrert i Norge med organisasjonsnummer NO 962583024 MVA. Jeg er medlem av Den norske Revisorforening. For å kun",
+          "final_url": "https://www.oyerevisjon.no/",
+          "homepage": "https://www.oyerevisjon.no/",
+          "page_html": "<!DOCTYPE html> <html lang=\"no\" data-currency=\"EUR\" data-lang=\"no\" data-countrycode=\"nb_NO\" data-rHash=\"b4568df26077653eeadf29596708c94b\" dir=\"auto\" data-cookiebot=\"true\"> <head> <meta charset=\"UTF-8\"/> <script>window.addEventListener(\"CookiebotOnDialogInit\",function(){if (Cookiebot.getDomainUrlParam(\"autoAcceptCookies\") === \"true\")Cookiebot.setOutOfRegion();});</script><script async fetchpriority=\"high\" id=\"Cookiebot\" src=\"https://consent.cookiebot.com/uc.js\" data-cbid=\"5b94dcec-3020-4d5f-bcdf-26d534274faf\" data-blockingmode=\"auto\" data-culture=\"nb\" type=\"text/javascript\"></script><script type='text/plain' data-cookieconsent='statistics'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5QP7TF');</script><title>Forside | Øye revisjon</title><meta name=\"keywords\" content=\"Øye Revisjon\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:title\" content=\"Forside | Øye revisjon\"><meta property=\"og:url\" content=\"https://www.oyerevisjon.no/\"><meta property=\"og:image\" content=\"https://www.oyerevisjon.no/uploads/awglYfAT/1467189975911.Scale.w-350.h-362_475.jpg\"><link rel='canonical' href='https://www.oyerevisjon.no'/><!-- Cookiebot: Google consent mode v2 defaults --> <script type='text/javascript' data-cookieconsent='ignore'> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('consent', 'default', { 'ad_storage': 'denied', 'analytics_storage': 'denied', 'ad_user_data': 'denied', 'ad_personalization': 'denied', 'functionality_storage': 'denied', 'personalization_storage': 'denied', 'security_storage': 'granted', 'wait_for_update': 500, }); gtag(\"set\", \"ads_data_redaction\", true); gtag(\"set\", \"url_passthrough\", false); </script><!-- Mono global site tag (gtag.js) - Google Analytics --> <script async type='text/plain' data-cookieconsent='statistics' src='https://www.googletagmanager.com/gtag/js?id=G-Q7EYQCTVBM'></script> <script type='text/plain' data-cookieconsent='statistics'> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q7EYQCTVBM', { 'anonymize_ip': true, 'send_page_view': false, 'custom_map': {'dimension1': 'monoSiteId', 'dimension2': 'monoRendering'} }); gtag('event', 'monoAction', { 'monoSiteId': '1149375', 'monoRendering': 'website'}); gtag('event', 'page_view', { 'monoSiteId': '1149375', 'monoRendering': 'website'}); var _mtr = _mtr || []; _mtr.push(['addTracker', function (action) { gtag('event', action, { 'send_to': 'G-Q7EYQCTVBM', 'event_label': 'monoAction', 'monoSiteId': '1149375', 'monoRendering': 'website' }); }]); _mtr.push(['addRawTracker', function() { gtag.apply(gtag,arguments); }]); </script><script type='text/plain' data-cookieconsent='statistics'> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','_mga'); _mga('create', 'UA-145334261-1', 'auto', 'custGa0'); _mga('custGa0.set', 'anonymizeIp', true); _mga('custGa0.send', 'pageview'); var _mtr = _mtr || []; _mga(function() { _mtr.push(['addTracker', function (action) { _mga('custGa0.send', 'event', 'monoAction', action); }]); _mtr.push(['addRawTracker', function() { _mga('custGa0.'.concat(arguments.shift()),arguments); }]); }); </script><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel='shortcut icon' type='image/x-icon' href='/uploads/mvx4uMyc/favicon.ico'/><link rel=\"preload\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/external-libs.css?1789042426380\" as=\"style\" fetchpriority=\"high\"><link rel=\"stylesheet\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/external-libs.css?1789042426380\"><style>article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,video{display:inline-block}audio:not([controls]){display:none;height:0}[hidden]{display:none}html{font-size:100%;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}html,button,input,select,textarea{font-family:inherit}body{margin:0}a:focus{outline-width:thin}a:active,a:hover{outline:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:0.83em;margin:1.67em 0}h6{font-size:0.67em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}mark{background:#ff0;color:#000}p,pre{margin:1em 0}code,kbd,pre,samp{font-family:monospace, serif;_font-family:'courier new', monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:'';content:none}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}[type=\"submit\"]{background-color:transparent}button,select{text-transform:none}button,html input[type=\"button\"],input[type=\"reset\"],input[type=\"submit\"]{-webkit-appearance:button;cursor:pointer;*overflow:visible}button[disabled],html input[disabled]{cursor:default}input[type=\"checkbox\"],input[type=\"radio\"]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type=\"search\"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=\"search\"]::-webkit-search-cancel-button,input[type=\"search\"]::-webkit-search-decoration{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}*,:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}@font-face{font-family:'FontAwesome';src:url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-brands-400.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-regular-400.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-solid-900.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-v4compatibility.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-brands-400.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-regular-400.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-solid-900.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-v4compatibility.ttf\") format(\"truetype\");font-weight:normal;font-style:normal;font-display:swap}@font-face{font-family:'FontAwesome';src:url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-brands-400.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-regular-400.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-solid-900.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-v4compatibility.woff2\") format(\"woff2\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-brands-400.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-regular-400.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-solid-900.ttf\") format(\"truetype\"),url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/fonts/fa-v4compatibility.ttf\") format(\"truetype\");font-weight:normal;font-style:normal;font-display:swap}header[data-underheaderrow]{position:absolute;left:0;right:0;z-index:5}header.headerFixed{position:fixed;top:0;z-index:5}header#shrunkImage{max-width:100%}header#shrunkImage>div.row{padding-top:8px;padding-bottom:8px}header.shrinking img,header.shrinking>div.row{transition:all 0.3s ease}.row{position:relative;width:100%}.row[data-attr-hide]{display:none}.rowGroup{width:100%;white-space:nowrap;overflow:hidden;display:-ms-flexbox;display:-webkit-flex;display:flex}.rowGroup.rowGroupFixed{width:1170px;margin:0 auto}.rowGroup.rowGroupFixed .row .container-fixed{width:100%}.rowGroup .row{vertical-align:top;white-space:normal;min-width:100%;min-height:100%}.rowGroup .row:last-child{margin-right:0}.no-flexbox .rowGroup .row{display:inline-block}.container{display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-flex-direction:row;-moz-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:wrap;-moz-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}.no-flexbox .container{display:block}.no-flexbox .container:before,.no-flexbox .container:after{display:table;content:\" \"}.no-flexbox .container:after{clear:both}.container-fluid{width:100%}.container-fixed{width:100%}@media only screen and (min-width: 1200px){.container-fixed{max-width:1170px;margin:0 auto}.rowGroup.fullScreenRow .row{min-height:100vh;display:flex}.rowGroup.fullScreenRow.verticalAlignRowTop .row{align-items:flex-start}.rowGroup.fullScreenRow.verticalAlignRowCenter .row{align-items:center}.rowGroup.fullScreenRow.verticalAlignRowBottom .row{align-items:flex-end}.rowGroup .row{height:auto}.row.fullScreenRow{min-height:100vh;display:flex}.row.fullScreenRow.verticalAlignRowTop{align-items:flex-start !important}.row.fullScreenRow.verticalAlignRowCenter{align-items:center !important}.row.fullScreenRow.verticalAlignRowBottom{align-items:flex-end !important}}.container-fixed .container{width:100%}body .designRow{padding:0;margin:0;background-color:transparent}body .designRow>.container>.col{padding:0;margin:0}body.engagementPreviewBody{background-color:#EAEAEA}body.engagementPreviewBody .designRow{display:none}.col{position:relative;padding-left:15px;padding-right:15px}.no-flexbox .col{float:left;display:block}.col:after{content:\"\";visibility:hidden;display:block;height:0;clear:both}.col.flexCol{display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-moz-flex-direction:column;-ms-flex-direction:column;flex-direction:column}[data-hideheader] header{margin-top:-99999px;position:absolute}[data-hidefooter] footer{margin-top:-99999px;position:absolute}.col-sm-12{width:100%}.col-sm-11{width:91.66667%}.col-sm-10{width:83.33333%}.col-sm-9{width:75%}.col-sm-8{width:66.66667%}.col-sm-7{width:58.33333%}.col-sm-6{width:50%}.col-sm-5{width:41.66667%}.col-sm-4{width:33.33333%}.col-sm-3{width:25%}.col-sm-2{width:16.66667%}.col-sm-1{width:8.33333%}@media only screen and (min-width: 768px){.col-md-12{width:100%}.col-md-11{width:91.66667%}.col-md-10{width:83.33333%}.col-md-9{width:75%}.col-md-8{width:66.66667%}.col-md-7{width:58.33333%}.col-md-6{width:50%}.col-md-5{width:41.66667%}.col-md-4{width:33.33333%}.col-md-3{width:25%}.col-md-2{width:16.66667%}.col-md-1{width:8.33333%}}@media only screen and (min-width: 1200px){.col-lg-12{width:100%}.col-lg-11{width:91.66667%}.col-lg-10{width:83.33333%}.col-lg-9{width:75%}.col-lg-8{width:66.66667%}.col-lg-7{width:58.33333%}.col-lg-6{width:50%}.col-lg-5{width:41.66667%}.col-lg-4{width:33.33333%}.col-lg-3{width:25%}.col-lg-2{width:16.66667%}.col-lg-1{width:8.33333%}}.clear:after,.clear:before{display:table;content:'';flex-basis:0;order:1}.clear:after{clear:both}.lt-ie8 .clear{zoom:1}.hide-overflow{overflow:hidden}.hide-visibility{opacity:0;visibility:hidden}.hidden{display:none !important}.hiddenBG{background-image:none !important}@media only screen and (min-width: 0px) and (max-width: 767px){.hidden-sm{display:none !important}}@media only screen and (min-width: 768px) and (max-width: 1199px){.hidden-md{display:none !important}}@media only screen and (min-width: 1200px){.hidden-lg{display:none !important}}.text-left{text-align:left}.text-center{text-align:center}.text-right{text-align:right}.margin-bottom{margin-bottom:20px}.no-lat-padding{padding-left:0px;padding-right:0px}.no-left-padding{padding-left:0px}.no-right-padding{padding-right:0px}nav .closeBtn{color:#FFF}nav a{display:block}nav a:focus,nav a:focus+.dropIco{position:relative;z-index:1}nav .dropIco{border:none;background:transparent;top:0}nav .dropIco:hover{cursor:pointer}nav .navIcon{vertical-align:middle}@media only screen and (min-width: 768px){nav:before{color:#FFF;font-size:40px;line-height:1em}[data-enablefocusindication] nav:not(.opened-menu) ul li.hasChildren{display:inline-flex}[data-enablefocusindication] nav:not(.opened-menu) ul li.hasChildren ul[id^=\"navUl\"]{overflow:visible}[data-enablefocusindication] nav:not(.opened-menu) ul li.hasChildren ul li.hasChildren{display:block}[data-enablefocusindication] nav:not(.opened-menu) ul li a.dropIco{margin:0 !important;padding:0 !important}nav ul{margin:0;padding:0;position:relative}[data-enablefocusindication] nav ul:not(.navContainer) li.showChildren a.dropIco{position:absolute;top:50%;left:calc(100% - $caretSize)}[data-enablefocusindication] nav ul:not(.navContainer) li.showChildren>ul{opacity:1;transition:0.5s ease-in-out;max-height:1500px}[data-enablefocusindication] nav ul li a.dropIco{background-color:transparent !important;position:absolute;display:inline-block;min-width:10px;height:100%}[data-enablefocusindication] nav ul li a.dropIco:after{display:none}[data-enablefocusindication] nav ul li.hasChildren>ul>li.hasChildren a.dropIco{position:absolute;display:inline-block;top:calc(50% - 5px);right:10px;left:unset;width:10px;height:10px}[data-enablefocusindication] nav ul li.hasChildren>ul>li.hasChildren a.dropIco:after{content:\"\";font-family:\"FontAwesome\"}nav ul li{list-style:none;display:inline-block;text-align:left;position:relative}nav ul li a{display:inline-block}nav ul li a:after{content:\"\";font-family:\"FontAwesome\";font-size:0.8em;line-height:0.8em;width:10px}nav ul li a:only-child:after{display:none}nav ul li a.dropIco{display:none}nav ul li:hover>ul,nav ul li.hover>ul{display:block;opacity:1;visibility:visible}nav ul>li:focus{z-index:999}nav ul .closeBtn{display:none}nav>ul ul{display:block;opacity:0;visibility:hidden;position:absolute;left:auto;top:100%;margin-top:0;z-index:5;width:auto}nav>ul ul.left{right:100%;left:unset}nav>ul ul.firstSubmenuLeft{right:0}footer nav>ul ul{top:auto;bottom:100%}nav>ul ul .naviLeft li{text-align:end}nav>ul ul li{float:none;display:block;margin-left:0;min-width:220px;position:relative}nav>ul ul li a:after{content:\"\";position:absolute;right:10px;top:50%;-webkit-transform:translate(0, -50%);-moz-transform:translate(0, -50%);-o-transform:translate(0, -50%);-ms-transform:translate(0, -50%);transform:translate(0, -50%)}nav>ul ul li a.naviLeft+.dropIco{left:10px !important}nav>ul ul li a.naviLeft:after{content:\"\";position:absolute;left:10px;right:unset;top:50%;-webkit-transform:translate(0, -50%);-moz-transform:translate(0, -50%);-o-transform:translate(0, -50%);-ms-transform:translate(0, -50%);transform:translate(0, -50%)}nav>ul ul a{white-space:normal;display:block}nav>ul ul ul{left:100%;top:0px}}@media (min-width: 768px) and (max-width: 1199px){nav[data-settings*=\"verticalNav-md=true\"]:before{cursor:pointer;content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-md=true\"] ul{margin:0;padding:0;visibility:visible}nav[data-settings*=\"verticalNav-md=true\"] ul li{text-align:left !important;position:relative;display:block;width:100%}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{height:unset}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren a.dropIco{position:absolute;display:inline-block;margin-top:0 !important;margin-bottom:0 !important;right:0;height:unset}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren a.dropIco:before{content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren a.dropIco:after{content:'' !important;display:block;position:absolute;margin:0;width:40px;height:40px;top:50%;left:50%;background:transparent;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);z-index:2}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren.showChildren>.dropIco:before{content:\"\"}nav[data-settings*=\"verticalNav-md=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{right:1em;top:0 !important;left:unset !important}nav[data-settings*=\"verticalNav-md=true\"] ul a{text-decoration:none;display:block;line-height:1}nav[data-settings*=\"verticalNav-md=true\"] ul a:after{display:none}nav[data-settings*=\"verticalNav-md=true\"] ul a.dropIco[aria-expanded=true] ~ ul{overflow:visible}nav[data-settings*=\"verticalNav-md=true\"] ul a:focus,nav[data-settings*=\"verticalNav-md=true\"] ul a:focus ~ .dropIco{z-index:6}nav[data-settings*=\"verticalNav-md=true\"]>ul{position:fixed;top:0;right:100%;width:20%;height:100%;z-index:99999;background:rgba(0,0,0,0.9);padding-top:50px;overflow-y:scroll}nav[data-settings*=\"verticalNav-md=true\"]>ul ul{max-height:0;margin-left:10px;transition:0.5s cubic-bezier(0, 1, 0.5, 1);overflow:hidden;display:block;position:relative;top:auto;left:auto;right:unset}nav[data-settings*=\"verticalNav-md=true\"]>ul .hasChildren.showChildren>ul{opacity:1;transition:0.5s ease-in-out;max-height:1500px}nav[data-settings*=\"verticalNav-md=true\"]>ul .closeBtn{position:absolute;top:10px;right:10px;font-size:2em;display:inline;width:auto;padding:0.2em}nav[data-settings*=\"verticalNav-md=true\"]>ul .closeBtn:before{content:\"×\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-md=true\"][data-settings*=\"direction=right\"]>ul{right:auto;left:100%}nav[data-settings*=\"verticalNav-md=true\"]>ul{width:50%}}@media (min-width: 1200px){nav[data-settings*=\"verticalNav-lg=true\"]:before{cursor:pointer;content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-lg=true\"] ul{margin:0;padding:0;visibility:visible}nav[data-settings*=\"verticalNav-lg=true\"] ul li{text-align:left !important;position:relative;display:block;width:100%}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{height:unset}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren a.dropIco{position:absolute;display:inline-block;margin-top:0 !important;margin-bottom:0 !important;right:0;height:unset}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren a.dropIco:before{content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren a.dropIco:after{content:'' !important;display:block;position:absolute;margin:0;width:40px;height:40px;top:50%;left:50%;background:transparent;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);z-index:2}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren.showChildren>.dropIco:before{content:\"\"}nav[data-settings*=\"verticalNav-lg=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{right:1em;top:0 !important;left:unset !important}nav[data-settings*=\"verticalNav-lg=true\"] ul a{text-decoration:none;display:block;line-height:1}nav[data-settings*=\"verticalNav-lg=true\"] ul a:after{display:none}nav[data-settings*=\"verticalNav-lg=true\"] ul a.dropIco[aria-expanded=true] ~ ul{overflow:visible}nav[data-settings*=\"verticalNav-lg=true\"] ul a:focus,nav[data-settings*=\"verticalNav-lg=true\"] ul a:focus ~ .dropIco{z-index:6}nav[data-settings*=\"verticalNav-lg=true\"]>ul{position:fixed;top:0;right:100%;width:20%;height:100%;z-index:99999;background:rgba(0,0,0,0.9);padding-top:50px;overflow-y:scroll}nav[data-settings*=\"verticalNav-lg=true\"]>ul ul{max-height:0;margin-left:10px;transition:0.5s cubic-bezier(0, 1, 0.5, 1);overflow:hidden;display:block;position:relative;top:auto;left:auto;right:unset}nav[data-settings*=\"verticalNav-lg=true\"]>ul .hasChildren.showChildren>ul{opacity:1;transition:0.5s ease-in-out;max-height:1500px}nav[data-settings*=\"verticalNav-lg=true\"]>ul .closeBtn{position:absolute;top:10px;right:10px;font-size:2em;display:inline;width:auto;padding:0.2em}nav[data-settings*=\"verticalNav-lg=true\"]>ul .closeBtn:before{content:\"×\";font-family:\"FontAwesome\"}nav[data-settings*=\"verticalNav-lg=true\"][data-settings*=\"direction=right\"]>ul{right:auto;left:100%}}nav[data-settings*=\"vertical=true\"]:before{cursor:pointer;content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"vertical=true\"] ul{margin:0;padding:0;visibility:visible}nav[data-settings*=\"vertical=true\"] ul li{text-align:left !important;position:relative;display:block;width:100%}nav[data-settings*=\"vertical=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{height:unset}nav[data-settings*=\"vertical=true\"] ul li.hasChildren a.dropIco{position:absolute;display:inline-block;margin-top:0 !important;margin-bottom:0 !important;right:0;height:unset}nav[data-settings*=\"vertical=true\"] ul li.hasChildren a.dropIco:before{content:\"\";font-family:\"FontAwesome\"}nav[data-settings*=\"vertical=true\"] ul li.hasChildren a.dropIco:after{content:'' !important;display:block;position:absolute;margin:0;width:40px;height:40px;top:50%;left:50%;background:transparent;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-o-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);z-index:2}nav[data-settings*=\"vertical=true\"] ul li.hasChildren.showChildren>.dropIco:before{content:\"\"}nav[data-settings*=\"vertical=true\"] ul li.hasChildren>ul>li.hasChildren a.dropIco{right:1em;top:0 !important;left:unset !important}nav[data-settings*=\"vertical=true\"] ul a{text-decoration:none;display:block;line-height:1}nav[data-settings*=\"vertical=true\"] ul a:after{display:none}nav[data-settings*=\"vertical=true\"] ul a.dropIco[aria-expanded=true] ~ ul{overflow:visible}nav[data-settings*=\"vertical=true\"] ul a:focus,nav[data-settings*=\"vertical=true\"] ul a:focus ~ .dropIco{z-index:6}nav[data-settings*=\"vertical=true\"]>ul{position:fixed;top:0;right:100%;width:20%;height:100%;z-index:99999;background:rgba(0,0,0,0.9);padding-top:50px;overflow-y:scroll}nav[data-settings*=\"vertical=true\"]>ul ul{max-height:0;margin-left:10px;transition:0.5s cubic-bezier(0, 1, 0.5, 1);overflow:hidden;display:block;position:relative;top:auto;left:auto;right:unset}nav[data-settings*=\"vertical=true\"]>ul .hasChildren.showChildren>ul{opacity:1;transition:0.5s ease-in-out;max-height:1500px}nav[data-settings*=\"vertical=true\"]>ul .closeBtn{position:absolute;top:10px;right:10px;font-size:2em;display:inline;width:auto;padding:0.2em}nav[data-settings*=\"vertical=true\"]>ul .closeBtn:before{content:\"×\";font-family:\"FontAwesome\"}nav[data-settings*=\"vertical=true\"][data-settings*=\"direction=right\"]>ul{right:auto;left:100%}@media only screen and (max-width: 767px){nav:not(.horizontal-menu--mobile):before,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile):before{content:\"\";cursor:pointer;font-family:\"FontAwesome\";padding:10px;line-height:1em}nav:not(.horizontal-menu--mobile) ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul{margin:0;padding:0}nav:not(.horizontal-menu--mobile) ul li,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li{text-align:left !important;position:relative}nav:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco{position:absolute;right:1em;padding-left:15px;padding-right:15px;margin-top:0 !important;margin-bottom:0 !important}nav:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco:before,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco:before{content:\"\";font-family:\"FontAwesome\"}nav:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco:after,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li.hasChildren .dropIco:after{display:none}nav:not(.horizontal-menu--mobile) ul li.hasChildren.showChildren>.dropIco:before,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li.hasChildren.showChildren>.dropIco:before{content:\"\"}nav:not(.horizontal-menu--mobile) ul li.active>a,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul li.active>a{font-weight:600}nav:not(.horizontal-menu--mobile) ul a,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul a{text-decoration:none;line-height:1}nav:not(.horizontal-menu--mobile) ul a.dropIco[aria-expanded=true] ~ ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul a.dropIco[aria-expanded=true] ~ ul{overflow:visible}nav:not(.horizontal-menu--mobile) ul a:focus,nav:not(.horizontal-menu--mobile) ul a:focus ~ .dropIco,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul a:focus,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile) ul a:focus ~ .dropIco{z-index:6}nav:not(.horizontal-menu--mobile)>ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul{position:fixed;right:100%;top:0;width:100%;height:100%;z-index:99999;background:rgba(0,0,0,0.9);padding:50px 0 0 20px;overflow-y:scroll}nav:not(.horizontal-menu--mobile)>ul ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul ul{max-height:0;margin-left:10px;transition:0.5s cubic-bezier(0, 1, 0.5, 1);overflow:hidden}nav:not(.horizontal-menu--mobile)>ul ul li a,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul ul li a{line-height:1}nav:not(.horizontal-menu--mobile)>ul .hasChildren.showChildren>ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul .hasChildren.showChildren>ul{opacity:1;transition:0.5s ease-in-out;max-height:1500px}nav:not(.horizontal-menu--mobile)>ul .closeBtn,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul .closeBtn{position:absolute;top:19px;right:21px;font-size:2em;display:inline;z-index:1;padding:0.2em}nav:not(.horizontal-menu--mobile)>ul .closeBtn:before,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)>ul .closeBtn:before{content:\"×\";font-family:\"FontAwesome\"}nav:not(.horizontal-menu--mobile)[data-settings*=\"direction=right\"]>ul,nav[data-settings*=\"vertical=true\"]:not(.horizontal-menu--mobile)[data-settings*=\"direction=right\"]>ul{left:100%;right:auto}}.locale ul{margin:0;padding:0;display:inline-block;white-space:nowrap;position:relative;z-index:2}.locale ul a{text-decoration:none}.locale ul li{display:none;list-style:none;position:absolute;width:100%}.locale ul li a:before{content:\"\";font-family:\"FontAwesome\";font-size:0.8em;margin-right:5px;display:none;vertical-align:bottom}.locale ul li.active{display:block;position:static}.locale ul li.active a:before{display:inline-block}.locale ul li.active:only-child a:before{display:none}.locale ul:hover{z-index:11}.locale ul:hover li{display:block}.locale .locale_touch li:not(.active){display:block}body.noScroll{overflow:hidden;position:fixed}body.safariNoScroll{overflow:hidden}.form input[type=\"checkbox\"]+label{display:inline-block;margin-left:10px;cursor:pointer}.form input[type=\"checkbox\"]+label:before{display:inline-block;vertical-align:middle;left:0;width:1.8em;height:1.8em;font-family:'FontAwesome';font-size:0.8em;text-align:center;line-height:1.7em;margin-right:0.5em;content:'';color:#333;background:#FFF;border:1px solid #ccc;letter-spacing:normal;font-style:normal}.form input[type=\"checkbox\"]:focus+label:before{-webkit-box-shadow:box-shadow(0 0 1px 0.01em #3b99fc);-moz-box-shadow:box-shadow(0 0 1px 0.01em #3b99fc);box-shadow:box-shadow(0 0 1px 0.01em #3b99fc)}.form input[type=\"checkbox\"]:checked+label:before{content:'\\f00c'}.image{max-width:100%;height:auto}.row.brandfooter .col{display:block}.row.brandfooter .brandLogoContainer{text-align:right}.row.brandfooter .brandLogoContainer .footerlogo{vertical-align:middle}.row.brandfooter .brandLogoContainer .brandText{display:inline-block;vertical-align:middle}.row.brandfooter .brandTextAlternativeContainer{display:flex;align-items:center;padding-top:6px}.row.brandfooter .brandTextAlternativeContainer a{color:inherit !important}.row.brandfooter .brandTextContainer{width:inherit}.row.brandfooter .brandTextContainer .footerText{color:black}.row.brandfooter .logoOpacity{opacity:66%;width:100px}@media only screen and (max-width: 768px){.row.brandfooter .brandLogoContainer,.row.brandfooter .brandTextContainer{text-align:center}}.row.brandfooter.noPadding{height:40px;display:table;padding:0}.row.brandfooter.noPadding img,.row.brandfooter.noPadding span{display:table-cell;vertical-align:middle}.row.brandfooter.noPadding img.brandingText,.row.brandfooter.noPadding span.brandingText{padding-left:5px}.row.brandfooter .brandedInnerRow{padding:0}.row.brandfooter .brandedTopColumn{margin-bottom:25px}.row.brandheader{z-index:1;box-shadow:0px 0px 5px rgba(0,0,0,0.1)}.row.brandheader .col{display:block;padding-bottom:0}.row.brandheader.noPadding{height:56px;display:flex;justify-content:center;align-items:center;padding:0}.row.brandheader.noPadding .wrapper{display:flex;justify-content:center;align-items:center}.row.brandheader.noPadding .wrapper .brandingLogo{margin-right:24px;padding-right:24px;border-right:1px solid #ECEDEE}.row.brandheader.noPadding .wrapper .brandingLogo img{height:32px}.row.brandheader.noPadding .wrapper .brandingLink{font-size:13px}@media only screen and (max-width: 375px){.row.brandheader .col{display:flex;justify-content:center;align-items:center;padding-bottom:0}.row.brandheader.noPadding{height:100px}.row.brandheader.noPadding .wrapper{flex-wrap:wrap;padding:0 10px 7px 10px}.row.brandheader.noPadding .wrapper .brandingLogo{border-right:none;margin-right:0;padding-right:5px;padding-left:5px}}@media only screen and (min-width: 376px) and (max-width: 426px){.row.brandheader .col{display:flex;justify-content:center;align-items:center;padding-bottom:0}.row.brandheader.noPadding{height:88px}.row.brandheader.noPadding .wrapper{flex-wrap:wrap;padding:0 30px 7px 30px}.row.brandheader.noPadding .wrapper .brandingLogo{border-right:none;margin-right:0;padding-right:5px;padding-left:5px}}@media only screen and (min-width: 427px) and (max-width: 1024px){.row.brandheader .col{display:flex;justify-content:center;align-items:center;padding-bottom:0}.row.brandheader.noPadding .wrapper{flex-wrap:wrap}}.infobar-wrapper{position:fixed;top:0;left:0;display:block;z-index:20;width:100vw;padding:32px;background:rgba(27,27,27,0.95);font-size:13px}.infobar-wrapper .infobar{font-family:'Roboto';width:100vw;text-align:left;display:flex;flex-direction:column;justify-content:center;height:100%}.infobar-wrapper .infobar a{color:#fff}.infobar-wrapper .infobar p{color:#fff;text-align:left;line-height:18px}.infobar-wrapper .infobar .cookie-row{width:calc(100% - 64px);padding:0}.infobar-wrapper .infobar .cookie-row.cookie-row-text{overflow:auto}.infobar-wrapper .infobar h1.cookie-headline,.infobar-wrapper .infobar h4.cookie-headline{color:#fff;font-size:18px;font-weight:500;margin-bottom:8px}.infobar-wrapper .infobar h1.cookie-headline.push-top,.infobar-wrapper .infobar h4.cookie-headline.push-top{margin-top:24px}.infobar-wrapper .infobar p.cookie-description{text-align:left;line-height:1.36;font-size:14px;font-weight:300;max-width:1040px;width:100%;margin-bottom:16px}.infobar-wrapper .infobar p.cookie-readmore{font-size:14px;text-align:left;padding-bottom:12px}.infobar-wrapper .infobar .cookie-checkboxes{width:50%;min-height:47px;padding:16px 0;float:left}.infobar-wrapper .infobar .cookie-checkboxes label{color:#fff;font-size:16px;font-weight:300;margin-right:16px}.infobar-wrapper .infobar .cookie-checkboxes label input{margin-right:8px}.infobar-wrapper .infobar .cookie-buttons{font-weight:500;width:50%;min-height:47px;float:left;text-align:right}.infobar-wrapper .infobar .cookie-buttons a{cursor:pointer}.infobar-wrapper[data-settings*=\"bottom\"]{bottom:0;top:inherit}@media only screen and (max-width: 1199px){.infobar-wrapper .infobar{width:100%}}.infobar-wrapper .infobar-close{position:absolute;top:15px;right:20px;font-size:25px;color:#FFF}.infobar-wrapper a#revoke-consent{font-size:13px;padding:13px 24px;border:1px solid #fff;background:#fff;color:#181818;-webkit-border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;border-radius:3px}.infobar-wrapper a#infobar-acceptCookiesBtn{display:inline-block;font-size:13px;padding:13px 24px;border:1px solid #fff;background:#fff;color:#181818;-webkit-border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;border-radius:3px}.infobar-wrapper a#infobar-acceptSelectedCookiesBtn{display:inline-block;font-size:13px;padding:13px 24px;border:1px solid #fff;margin-right:16px;-webkit-border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;border-radius:3px}.infobar-wrapper a#infobar-donottrack{font-size:13px;padding:13px 24px;border:1px solid #fff;background:#fff;color:#181818;margin-left:18px;float:right;-webkit-border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;border-radius:3px}@media only screen and (max-width: 992px){.infobar-wrapper{height:100%;overflow:scroll}.infobar-wrapper .infobar .cookie-row{width:100%}.infobar-wrapper .infobar .cookie-checkboxes{float:none;width:100%}.infobar-wrapper .infobar .cookie-checkboxes label{display:block}.infobar-wrapper .infobar .cookie-checkboxes label:first-of-type{margin-bottom:16px}.infobar-wrapper .infobar .cookie-buttons{float:none;width:100%;text-align:left}}.optout-button{position:fixed;bottom:0px;left:2%;z-index:5;width:100px;height:50px;background-color:rgba(163,163,163,0.4);color:white}.rowGroup .row.normalizeSize,.imagelist .slide.normalizeSize,.gallery .slide.normalizeSize,.catalog .slide.normalizeSize,.blog .slide.normalizeSize{opacity:0;padding-left:0;padding-right:0;min-width:0;max-width:0;max-height:0;border:0}@media only screen and (max-width: 768px){.rowGroup .row.normalizeSize,.imagelist .slide.normalizeSize,.gallery .slide.normalizeSize,.catalog .slide.normalizeSize,.blog .slide.normalizeSize{padding-left:0;padding-right:0;min-width:0;max-width:0;border:0}}.osmap .osmap-container,.osmap .map-container{z-index:0}.singleProduct .shopQuantity{float:left;display:inline-block;padding:5px 0}.singleProduct .shopQuantity .description{margin-right:5px}.singleProduct .shopQuantity .decreaseQuantity,.singleProduct .shopQuantity .increaseQuantity{cursor:pointer;width:20px;padding:0 10px;-moz-user-select:-moz-none;-khtml-user-select:none;-webkit-user-select:none;user-select:none}.singleProduct .shopQuantity .decreaseQuantity.outOfStock,.singleProduct .shopQuantity .increaseQuantity.outOfStock{color:#333333;cursor:auto}.singleProduct .shopQuantity .quantity{width:40px;display:inline-block;text-align:center}.cart .prodDetails>span{overflow:visible}.cart .prodDetails .prodQuant,.cart .prodDetails .prodQuantity,.cart .prodDetails .prodPrice{display:inline-block}.cart .prodDetails .prodQuant{padding-right:10px}.cart .prodDetails input.prodQuantity{width:20px;text-align:center;border-radius:3px}.cart .prodDetails .prodPrice{float:right;line-height:2.2em}.cart .prodRemove{padding-top:1em}.checkout .products .product-row .qty{width:auto} </style><!--[if IE 8]><link rel=\"stylesheet\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/grids.css?1789042426380\"><!endif]--><style>.h-captcha{display:table;margin-bottom:10px}.hcaptcha-badge{background-color:#fafafa;z-index:2;width:280px;border-radius:4px;border:1px solid #b2bdcc;position:fixed;bottom:70px}.hcaptcha-badge.hide{visibility:hidden}.hcaptcha-badge.bottomleft{left:-210px;display:flex;flex-direction:row-reverse}.hcaptcha-badge.bottomleft .hcaptcha-badge-logo-wrapper{padding:5px 10px 0px 10px;display:flex;align-items:center;flex-direction:column}.hcaptcha-badge.bottomleft .hcaptcha-badge-logo-wrapper .hcaptcha-badge-logo{width:50px;height:50px;background-image:url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/img/hcaptcha-badge.svg\");background-size:cover}.hcaptcha-badge.bottomleft .hcaptcha-badge-logo-wrapper .hcaptcha-badge-text{font-size:10px;font-weight:600}.hcaptcha-badge.bottomleft .hcaptcha-badge-legal{display:block;margin:auto;line-height:18px;font-size:10px;min-width:200px}.hcaptcha-badge.bottomleft:hover{left:2px;cursor:pointer}.hcaptcha-badge.bottomright{right:-210px;display:flex}.hcaptcha-badge.bottomright .hcaptcha-badge-logo-wrapper{padding:5px 10px 0px 10px;display:flex;align-items:center;flex-direction:column}.hcaptcha-badge.bottomright .hcaptcha-badge-logo-wrapper .hcaptcha-badge-logo{width:50px;height:50px;background-image:url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/img/hcaptcha-badge.svg\");background-size:cover}.hcaptcha-badge.bottomright .hcaptcha-badge-logo-wrapper .hcaptcha-badge-text{font-size:10px;font-weight:600}.hcaptcha-badge.bottomright .hcaptcha-badge-legal{display:block;margin:auto;line-height:18px;font-size:10px;min-width:200px}.hcaptcha-badge.bottomright:hover{right:2px;cursor:pointer}.hcaptcha-badge:after{content:'';display:block;width:65px;height:73.6px;background-image:url(\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/img/hcaptcha-badge-tool.png\");background-size:cover} </style><!--[if IE 8]><link rel=\"stylesheet\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/hcaptcha.css?1789042426380\"><![endif]--><style id='style_site'>.module { margin-top:0px; margin-right:0px; margin-bottom:40px; margin-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;} .headline { font-family:Neuton; font-weight:400; color:#092f50; font-size:45px; line-height:1.2em; text-transform:uppercase; margin-bottom:20px;} nav { text-align:right;} .nav {} nav> ul li a { font-size:16px;} nav> ul li> a { color:rgb(10,10,10);} nav> ul li.active> a { font-weight:500; color:#a32327; text-decoration:none;} nav> ul> li> ul {} nav> ul> li.active> ul li {} nav> ul> li.active> ul li:hover a {} nav> ul> li> ul li { padding:0px;} nav> ul> li> ul li a { background-color:rgb(255, 255, 255); border-left-width:1px; border-top-width:1px; border-bottom-width:1px; border-right-width:1px; border-color:rgb(227, 227, 227); padding-left:10px; padding-right:10px;} nav> ul> li> ul a:hover { color:rgb(51, 50, 50); text-decoration:none;} nav> ul> li> ul li a:hover { background-color:rgb(246, 246, 248);} nav:before { color:rgb(0, 0, 0);} nav> ul> li> ul a { color:rgb(51, 50, 50); font-size:14px;} nav> ul> li> ul li:last-child {} nav> ul li a { padding-left:15px; padding-top:10px; padding-bottom:10px; padding-right:15px;} nav> ul> li> ul li.active a { background-color:rgb(234, 234, 234);} nav> ul li> a:hover { color:#a32327; text-decoration:none;} .subtitle { font-family:Neuton; font-weight:400; color:#092f50; font-size:35px; line-height:1.2em; text-transform:uppercase; margin-bottom:20px;} .preamble { color:#092f50; font-size:19px; line-height:1.4em; margin-bottom:15px;} .preamble a { font-weight:500; color:rgb(0, 0, 0);} .preamble a:hover { text-decoration:underline;} .bodytext { color:#092f50; font-size:17px; line-height:1.5em; margin-bottom:20px;} .bodytext a { text-transform:none; font-weight:500; color:rgb(0, 0, 0);} .bodytext a:hover { text-decoration:underline;} .smalltext { font-size:14px; line-height:1.50; letter-spacing:0em; margin-bottom:5px;} .smalltext a {} .smalltext a:hover {} .lightsmalltext { color:rgb(246, 246, 248); font-size:12px; line-height:1.6em; margin-bottom:5px;} .lightsmalltext a { font-weight:700;} .lightsmalltext a:hover {} body { -webkit-font-smoothing:initial; font-family:Jost; font-weight:300; font-size:15px; line-height:1.5em;} body a { color:rgb(68, 58, 223); text-decoration:none;} body a:hover { text-decoration:underline;} .button { background-color:#446892; color:rgb(255,255,255); text-decoration:none; font-size:16px; line-height:1.5em; border-top-left-radius:35px; border-top-right-radius:35px; border-bottom-left-radius:35px; border-bottom-right-radius:35px; margin-top:15px; margin-bottom:0px; margin-right:auto; padding-left:30px; padding-top:18px; padding-bottom:19px; padding-right:30px;} .button:hover { background-color:#34557a; text-decoration:none;} .form { margin-bottom:40px;} .form label { padding-bottom:0px; margin-bottom:10px; line-height:1.2em;} .form input[type=checkbox]+span,.form input[type=radio]+span { margin-left:10px; margin-right:20px; margin-bottom:20px; line-height:1.6em; font-size:12px;} .form input[type=text],.form textarea,.form select { border-radius:3px; border-width:1px; border-color:rgb(204, 204, 204); color:rgb(69, 69, 69); font-size:12px; padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px; margin-top:0px; margin-right:0px; margin-bottom:20px; margin-left:0px;} .form input[type=submit] { margin-top:30px;} .text {} .image {} .search .searchicon { color:rgb(246, 246, 246); width:16px; height:16px; font-size:16px; margin-bottom:0px;} .map { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;} .gallery {} .row { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:60px; padding-right:30px; padding-bottom:60px; padding-left:30px;} .col { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:15px;} .custom1 {} .custom2 {} .custom4 {} .custom5 {} .custom3 {} .smallsubtitle { font-family:Neuton; font-weight:400; color:#092f50; font-size:26px; line-height:1.2em; margin-bottom:15px;} .darkspottext {} .darkspottext a {} .darksmallspottext {} .spottext { font-size:95px; line-height:1.10;} .footertext { font-size:14px; line-height:1.50; margin-bottom:0px; color:rgb(255, 255, 255);} .footertext a { color:rgb(255, 255, 255); font-weight:800;} .footertext a:hover {} .companyname { font-family:Neuton; font-weight:400; color:rgb(246, 246, 248); font-size:18px; letter-spacing:0.1em; line-height:1.2em; margin-bottom:10px;} .smallspottext { font-size:64px; line-height:1.20;} .lightheadline { color:rgb(246, 246, 248); font-size:54px; line-height:1.2em; margin-bottom:20px; font-style:normal; text-transform:uppercase; text-align:center2; text-shadow:1px 1px 3px rgba(0, 0, 0, 0.8);} .lightpreamble { color:rgb(246, 246, 248); font-size:24px; line-height:1.4em; margin-bottom:5px; text-shadow:1px 1px 3px rgba(0, 0, 0, 0.8);} .lightbodytext { color:rgb(246, 246, 248);} .lightbodytext a { color:rgb(246, 246, 248);} .lightbodytext a:hover { text-decoration:underline;} .locale { text-align:right;} .locale ul li a { transition:all 0.25s ease-in 0s; color:rgb(255, 255, 255);} .locale ul li { background-color:rgb(69, 69, 69); padding-top:5px; padding-right:15px; padding-bottom:5px; padding-left:15px;} .button2 { font-size:21px; border-width:2px; line-height:1em; margin-bottom:40px; border-radius:3px; color:rgb(255, 255, 255); border-color:rgb(255, 255, 255); display:table; margin-left:auto; margin-right:auto; padding-top:20px; padding-right:30px; padding-bottom:20px; padding-left:30px;} .button2:hover { border-color:rgba(255, 255, 255, 0.498039);} .divider { width:31%; border-top-width:3px; border-color:#a32327; display:table; margin-bottom:0px; margin-right:auto; padding-top:20px; padding-bottom:20px;} .socialmedia { text-align:right; font-size:19px;} .socialmedia li { margin-left:10px; margin-bottom:10px;} .socialmedia li a { color:rgb(255, 255, 255); width:30px; height:30px;} .socialmedia li a:hover { color:rgba(255, 255, 255, 0.8);} .paymenticons li { margin-left:5px; margin-bottom:5px; padding-bottom:40px;} .linklist { margin-bottom:0px; margin-top:0px; padding-left:0px;} .linklist a { margin-bottom:1px; background-color:rgb(242, 242, 242); padding-top:10px; padding-right:10px; padding-bottom:10px; padding-left:10px;} .breadcrumb li a { margin-bottom:10px; margin-left:10px; margin-right:10px;} .scrollIcon { width:35px; height:35px;} .scrollIcon span:before { color:rgb(255, 255, 255);} .arrow { width:35px; height:35px; color:rgb(255, 255, 255); background-color:rgb(3, 3, 3); font-size:31px; border-top-left-radius:3px; border-top-right-radius:3px; border-bottom-right-radius:3px; border-bottom-left-radius:3px;} .arrow:hover { background-color:rgb(102, 102, 102);} .arrow.arrowBefore { left:0px; right:0px;} .arrow.arrowAfter { left:auto; right:0px;} ul.dots { bottom:0px;} .dots li { height:17px; width:17px; border-color:rgb(255, 255, 255); border-top-width:1px; border-right-width:1px; border-bottom-width:1px; border-left-width:1px; border-top-left-radius:100px; border-top-right-radius:100px; border-bottom-right-radius:100px; border-bottom-left-radius:100px; background-color:rgb(3, 3, 3);} .dots li:hover { background-color:rgb(102, 102, 102);} .dots li.active { background-color:rgb(255, 255, 255);} @media only screen and (max-width:1199px) {.module { margin-top:0px; margin-right:0px; margin-bottom:40px; margin-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;} nav> ul li> a { border-bottom-width:0px; margin-bottom:15px; padding-top:20px; padding-bottom:5px; font-weight:400; font-size:18px;} nav> ul .closeBtn { position:absolute; top:19px; right:21px; font-size:2em; display:inline; color:rgb(10, 10, 10);} nav> ul li:hover> a { color:rgb(10, 10, 10);} nav> ul li.active> a { font-weight:600; text-decoration:none;} nav> ul> li> ul a:hover { color:rgb(0, 159, 195);} nav> ul> li> ul li a { background-color:rgba(241, 241, 241, 0); border-color:rgba(255, 255, 255, 0); margin-left:20px; margin-bottom:20px; padding-top:5px; padding-right:18px;} nav:before { color:rgb(51, 50, 50); font-size:26px;} nav.opened-menu> ul { background-color:rgb(246, 246, 246); padding-left:20px; padding-top:40px; padding-right:20px; padding-bottom:40px;} nav> ul li a { padding-left:0px; padding-top:0px; padding-bottom:0px; padding-right:0px;} nav.opened-menu> ul { background-color:rgb(255, 255, 255);} nav> ul li> a:hover { color:#a32327; text-decoration:none;} .col { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:15px;} .row { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:60px; padding-right:30px; padding-bottom:60px; padding-left:30px;} .button { margin-bottom:0px; padding-left:30px; padding-top:18px; padding-bottom:19px; padding-right:30px;} .custom4 {} .custom4 a {} .custom4 a:hover {} .custom1 {} .custom1 a {} .custom1 a:hover {} .custom3 {} .custom3 a {} .custom3 a:hover {} body {} body a {} body a:hover {} .text {} .headline { font-size:43px;} .subtitle { margin-bottom:20px;} .subtitle a {} .subtitle a:hover {} .preamble {} .preamble a {} .preamble a:hover {} .bodytext {} .bodytext a {} .bodytext a:hover {} .smallsubtitle {} .smallsubtitle a {} .smallsubtitle a:hover {} .smalltext {} .smalltext a {} .smalltext a:hover {} .spottext {} .spottext a {} .spottext a:hover {} .smallspottext {} .smallspottext a {} .smallspottext a:hover {} .companyname {} .companyname a {} .companyname a:hover {} .footertext {} .footertext a {} .footertext a:hover {} }@media only screen and (max-width:767px) {.module { margin-top:0px; margin-right:0px; margin-bottom:20px; margin-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px;} nav {} nav> ul li a { font-size:16px;} nav> ul li> a:hover {} nav> ul li.active> a {} nav> ul li:hover a {} nav> ul> li> ul li.active> a {} nav:before {} nav> ul> li> ul a { font-size:14px;} .headline { font-size:30px;} .subtitle { font-size:23px;} .preamble { font-size:17px;} .smalltext {} .smalltext a {} .smalltext a:hover {} .darksmallspottext { font-size:20px;} .text {} .col { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:0px; padding-right:15px; padding-bottom:20px; padding-left:15px;} .row { margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; padding-top:40px; padding-right:0px; padding-bottom:40px; padding-left:0px;} .form {} .form label {} .form input[type=checkbox]+span,.form input[type=radio]+span { margin-right:10px; margin-bottom:10px;} .form input[type=submit] {} .form input[type=submit]:hover {} .form input[type=text],.form textarea,.form select {} .form .thankYou {} .gallery { margin-bottom:20px;} .map {} .image { margin-bottom:20px;} .button { margin-bottom:0px; padding-left:25px; padding-top:15px; padding-bottom:16px; padding-right:25px;} .custom1 {} .custom1 a {} .custom1 a:hover {} .custom2 {} .custom2 a {} .custom2 a:hover {} .custom3 {} .custom3 a {} .custom3 a:hover {} .custom4 {} .custom4 a {} .custom4 a:hover {} .custom5 {} .custom5 a {} .custom5 a:hover {} .spottext { font-size:64px; line-height:1.10;} .spottext a {} .spottext a:hover {} body {} body a {} body a:hover {} .locale {} .locale ul li a {} .locale ul li a:hover {} .locale ul li.active a {} .locale ul li {} .locale ul li:hover {} .locale ul li.active {} .smallsubtitle { font-size:20px;} .smallspottext { font-size:48px; line-height:1.20;} .smallspottext a {} .smallspottext a:hover {} .companyname { font-size:17px;} .footertext { font-size:12px; line-height:1.50;} .button2 { margin-bottom:20px;} .button2:hover {} .socialmedia { text-align:center; font-size:22px;} .socialmedia li a { width:45px; height:45px;} .socialmedia li a:hover {} .socialmedia li { margin-left:5px; margin-right:5px;} .socialmedia li:hover {} .lightsmalltext { font-size:10px;} .arrow { width:25px; height:25px; color:rgb(255, 255, 255); font-size:20px; border-top-left-radius:3px; border-top-right-radius:3px; border-bottom-right-radius:3px; border-bottom-left-radius:3px;} .dots li { height:12px; width:12px;} }#r5001 { padding-left:0px; padding-right:0px;} #r5001> .container {} #r1205 { background-color:rgb(255, 255, 255); border-bottom-width:1px; border-color:rgb(227, 227, 227); padding-top:20px; padding-bottom:20px;} #m3939 { max-width:100%; margin-bottom:0px; margin-left:auto; margin-right:0;} #m5056 { margin-bottom:0px;} #r5002 { background-position:50% 0%; background-repeat:repeat-y;} #r5002> .container {} #r3739 { background-color:#092f50; padding-top:50px; padding-bottom:50px;} #m6747 { margin-bottom:10px;} #m8997 { margin-bottom:10px;} #r8565 { background-color:#092f50; padding-top:20px; padding-bottom:20px;} #m8727 { margin-top:5px; margin-bottom:0px;} #p5000 #r2166 { background-color:#fff; padding-top:120px; padding-bottom:120px;} #p5000 #c8314 { padding-right:30px;} #p5000 #m7708 { margin-bottom:-20px;} #p5000 #m3169 { padding-left:150px;} #p5000 #m8128 { margin-bottom:0px;} #p5000 #m4771 { margin-bottom:32px;} #p5000 #c9060 { margin-left:0px; margin-right:0px;} #p5000 #m2233 { max-width:71%; margin-left:auto; margin-right:auto;} @media only screen and (max-width:1199px) {#c8382 { padding-bottom:0px;} #c7900 { padding-bottom:0px;} #r5002 { margin-bottom:0px; margin-top:0px;} #c6860 { padding-bottom:0px;} #c8492 { padding-bottom:0px;} #p5000 #r2166 { padding-top:105px; padding-bottom:105px;} #p5000 #c8314 { padding-right:15px;} #p5000 #m3169 { padding-left:100px;} #p5000 #m2233 { max-width:100%;} }@media only screen and (max-width:767px) {#r3739 { margin-left:0px; margin-right:0px; padding-bottom:30px;} #p5000 #r2166 { padding-top:75px; padding-bottom:75px;} #p5000 #c8314 { margin-left:0px; margin-right:0px; padding-right:16px;} #p5000 #m3169 { padding-left:50px;} }</style><link rel=\"preload\" as=\"style\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/cookiebotVideoPlaceholder.css?1789042426380\"><link rel=\"stylesheet\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/cookiebotVideoPlaceholder.css?1789042426380\"><style>.fluid-width-video-wrapper{height:100%}.cookiebot-placeholder-container{display:inline-block;text-align:center;max-width:80%}.cookiebot-placeholder{font-size:16px;background-color:#E5E6E8;color:#1A1A1B;text-decoration:none;width:100%;padding:20px;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center;flex-direction:column}.mono-video-wrapper{aspect-ratio:16/9}.cookieconsent-optin-marketing.mono-video-wrapper{display:block !important}.cookie-placeholder-text{font-size:16px;line-height:20px;word-break:break-word;hyphens:auto}.cookie-placeholder-icon{font-size:60px !important;margin-bottom:10px;margin-top:-7px;color:#262628}.cookie-placeholder-button{font-size:16px;color:#FFFFFF;cursor:pointer;background-color:#262628;display:block;text-align:center;padding:5px;margin-top:10px;width:100%;word-break:break-word}.cookie-fit-content{height:100%;min-height:140px}.cookie-facebook-page{width:340px;min-width:180px}.cookie-facebook-post{width:350px;min-width:350px}.cookie-facebook-video{width:220px;min-width:220px}.cookie-facebook-comment{width:220px;min-width:220px}.cookie-facebook-small{width:min-content;min-width:450px;height:min-content}.cookie-facebook-small .cookiebot-placeholder{aspect-ratio:unset} </style><!--[if IE 8]><link rel=\"stylesheet\" href=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/css/cookiebotVideoPlaceholder.css?1789042426380\"><![endif]--><!--[if lt IE 9]><script src=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/js/html5shiv.js\"></script><script src=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/js/respond.js\"></script><![endif]--><script>if ('serviceWorker' in navigator){ navigator.serviceWorker.getRegistrations().then(function(registrations){ for(var i=0;i<registrations.length;i++){ registrations[i].unregister(); } }); if(window.caches){ caches.keys().then(function(names){ for(var i=0;i<names.length;i++){ caches.delete(names[i]); } }); } }</script><link rel=\"preconnect\" href=\"https://site-assets.cdnmns.com/\" crossorigin><link rel=\"preconnect\" href=\"https://fonts.prod.extra-cdn.com\" crossorigin><style id='globalCSS'> /* Personvern */ #p9999 #m9998.button { font-size: 16px; display: table; margin-left: 0; } /* Mobile menu */ @media only screen and (max-width: 1199px) nav.opened-menu> ul { background-color: rgb(246, 246, 246); padding-left: 20px; padding-top: 40px; padding-right: 20px; padding-bottom: 40px; } #m2651 table { border-color: rgb(0, 0, 0); border-collapse: collapse; border-style: solid; border-width: 0px; } #m2651 tr { border-width: 0px; border-color: rgb(0, 0, 0); } #m2651 td { border-width: 0px; border-color: rgb(0, 0, 0); } </style> <script>window.ASSETSURL='https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07';</script></head> <body id=\"p5000\" data-dateformat='d/m/Y' data-deferCSS data-req=\"quicklink\"> <noscript><iframe data-cookieconsent=\"statistics\" data-cookieblock-src=\"https://www.googletagmanager.com/ns.html?id=GTM-5QP7TF\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript> <div id=\"r5001\" class=\"row designRow\"> <div class=\"container container-fluid\"><div class=\"col col-sm-12\"> <header data-req=\"headerfixed\" data-settings=\"headerfixed-lg,headerfixed-md,headerfixed-sm,headerminify-lg,headerminify-md,headerminify-sm\"><div id=\"r1205\" class=\"row \"> <div class=\"container container-fixed colsStack\"><div id=\"c8382\" class=\"col col-lg-4 col-md-5 col-sm-8 flexCol\"><div id=\"m4532\" class=\"module autospacer\"></div> <div class=\"flexWrap\"> <a href=\"/?p=5000\"  title=\"Gå til hovedsiden\" class=\"imageModuleWrap\" id=\"w_m3939\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\"> <img id=\"m3939\" class=\"module image\" src=\"/uploads/ieLAUfpj/481x0_445x0/header.1467273227991.1467273227000.png\" alt=\"Logo, Øye Revisjon\" data-author=\"Øye Revisjon\" width=\"1200\" height=\"218\" data-req=\"\" data-settings=\"enablehover=false,showelement=none,hovertransition=slowFadeIn\" fetchpriority=\"high\"/> </a> </div> <div id=\"m8352\" class=\"module autospacer\"></div> </div> <div id=\"c7900\" class=\"col col-lg-8 col-md-7 col-sm-4 flexCol\"><div id=\"m4341\" class=\"module autospacer\"></div> <div class=\"flexWrap\"> <nav id=\"m5056\" class=\"module nav\" data-settings=\"verticalNav-md=true,push=false,activeParent=false,verticalNav-lg=false,direction=right\" tabindex=\"-1\"> <ul class=\"navContainer\"><li class=\" active\"> <a href=\"/\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Forside</a> </li><li class=\"\"> <a href=\"/mine-tjenester\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Mine tjenester</a> </li><li class=\"\"> <a href=\"/nyttige-linker\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Nyttige linker</a> </li><li class=\"\"> <a href=\"/nyheter\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Nyheter</a> </li><li class=\"\"> <a href=\"/kontakt\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Kontakt</a> </li><li class=\" hidden-lg hidden-md hidden-sm\"> <a href=\"/personvern\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Personvern</a> </li><li class=\" hidden-lg hidden-md hidden-sm\"> <a href=\"/personvernerklaering\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Personvernerklæring</a> </li></ul> </nav></div> <div id=\"m4686\" class=\"module autospacer\"></div> </div> </div> </div> </header><div id=\"r5002\" role=\"main\" class=\"row designRow\"> <div class=\"container container-fluid\"><div class=\"col col-sm-12\"><div id=\"r2166\" class=\"row \"> <div class=\"container container-fixed colsStack\"><div id=\"c8314\" class=\"col col-sm-12 col-lg-6 duration-1200 delay-200 col-md-8 flexCol\" data-animate=\"fadeIn\"><div id=\"m7087\" class=\"module autospacer\"></div> <div class=\"flexWrap\"> <div id=\"m7708\" class=\"module text\"><h1 class=\"headline\">Erfaring&nbsp;</h1></div> <div id=\"m3169\" class=\"module text\"><h1 class=\"headline\">gir trygghet</h1></div> <div id=\"m8128\" class=\"module text\"><p class=\"bodytext\">Velkommen til min hjemmeside:</p><p class=\"bodytext\">Øye Revisjon eies og drives av Randi Øye som er Statsautorisert revisor - Autorisert regnskapsfører - Sertifisert Digital Revisor</p><p class=\"bodytext\">Jeg er den eneste ansatte i selskapet, så du vil alltid få direkte kontakt med meg.</p><p class=\"bodytext\">Jeg driver et veletablert revisjonsfirma med en solid og variert klientportefølje når det gjelder størrelse og bransje.</p></div> <div id=\"m4771\" class=\"module text\"><p class=\"bodytext\">Jeg driver min praksis fra en bondegård midt på Sjælland - 65 km syd for København. Dette har jeg gjort de siste 21 år og det har fungert godt for mine kunder som hovedsakelig befinner seg i Oslo og omegn.</p><p class=\"bodytext\">Jeg er registrert i Norge med organisasjonsnummer NO 962583024 MVA. Jeg er medlem av Den norske Revisorforening.</p><p class=\"bodytext\">For å kunne tilby mine kunder effektiv revisjon og gi faglige råd, følger jeg Den norske Revisorforenings kursabonnement ReKomp - kompetanseutvikling, som gir meg full fleksibilitet til å holde meg oppdatert med endringer og nye krav innen de enkelte bransjer, herunder. nye regler innen revisjon - regnskap og skatt.</p></div> </div> <div id=\"m5951\" class=\"module autospacer\"></div> </div> <div id=\"c9060\" class=\"col col-lg-6 col-md-4 col-sm-12 flexCol\"><div id=\"m4736\" class=\"module autospacer\"></div> <div class=\"flexWrap\"> <div class=\"imageModuleWrap\" id=\"w_m2233\"> <img id=\"m2233\" class=\"module image\" src=\"/uploads/e50DTwwG/737x0_395x0/1467189975911.Scale.w-350.h-362.jpg\" alt=\"hund-dataLiten.jpg\" data-author=\"\" width=\"1160\" height=\"1200\" data-req=\"\" data-settings=\"enablehover=false,showelement=none,hovertransition=slowFadeIn\" fetchpriority=\"high\"/> </div></div> <div id=\"m3687\" class=\"module autospacer\"></div> </div> </div> </div> </div> </div> </div> <footer><div id=\"r3739\" class=\"row \"> <div class=\"container container-fixed\"><div class=\"col col-sm-12 col-md-5 col-lg-5\"><div id=\"m6747\" class=\"module text\"><h3 class=\"companyname\">Øye Revisjon</h3><p class=\"footertext\"><span class=\"iconfont \"></span>&nbsp; &nbsp;Sørupvej 46</p><p class=\"footertext\">&nbsp; &nbsp; &nbsp;4684&nbsp;Holmegaard,</p><p class=\"footertext\">&nbsp; &nbsp; &nbsp;Danmark</p></div> </div> <div class=\"col col-md-4 col-sm-12 col-lg-2\"><div id=\"m8997\" class=\"module text\"><h3 class=\"companyname\">Kontakt oss</h3><p class=\"footertext\"><span class=\"iconfont \"></span> &nbsp;<a data-global=\"phone\"  href=\"tel:+4747974423\" data-track-event=\"click\" data-track-action=\"phone_link\"><span class=\"monoglobalWrap\">+4747974423</span></a></p><p class=\"footertext\"><span class=\"iconfont \"></span>&nbsp;&nbsp;<a href=\"mailto:randi.oye@oyerevisjon.dk\" target=\"_blank\" rel=\"noopener\" data-track-event=\"click\" data-track-action=\"email_link\">randi.oye@oyerevisjon.dk</a></p></div> </div> </div> </div> <div id=\"r8565\" class=\"row \"> <div class=\"container container-fixed colsStack\"><div id=\"c6860\" class=\"col col-sm-12 col-md-5 col-lg-5\"><div id=\"m5730\" class=\"module text\"><p class=\"lightsmalltext\">Utviklet av <a href=\"https://hjemmesidehuset.no/\" target=\"_blank\" rel=\"noopener\" data-track-event=\"click\" data-track-action=\"link_clicked\">Hjemmesidehuset</a>.</p></div> </div> <div id=\"c8492\" class=\"col col-md-6 col-lg-6 col-sm-12\"><div id=\"m8727\" class=\"module text\"><p class=\"lightsmalltext\" style=\"text-align: left;\"><a class=\"lightsmalltext\" href=\"/personvern\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Personvern</a> - <span style=\"color: #ffffff;\"><a style=\"color: #ffffff;\" href=\"/personvernerklaering\" data-track-event=\"click\" data-track-action=\"internal_link_clicked\">Personvernerklæring</a></span></p></div> </div> </div> </div> </footer> </div> </div> </div> <script async data-cookieconsent=\"ignore\" nomodule src=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/js/loader-polyfills.js?1789042426380\"></script><script async data-cookieconsent=\"ignore\" src=\"https://site-assets.cdnmns.com/c65cb95437a3f5901bc340ca8f495d07/js/loader.js?1789042426380\"></script><script type='application/ld+json'>{\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\",\"@id\":\"https://www.oyerevisjon.no/#global_business\",\"name\":\"\\u00d8ye Revisjon\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"S\\u00f8rupvej 46\",\"addressLocality\":\"Holmegaard\",\"addressRegion\":\"\",\"postalCode\":\"4684\",\"addressCountry\":\"DK\"},\"email\":\"randi.oye@oyerevisjon.dk\",\"telephone\":\"+4747974423\",\"url\":\"https://www.oyerevisjon.no\",\"image\":\"https://www.oyerevisjon.no/uploads/awglYfAT/1467189975911.Scale.w-350.h-362_475.jpg\",\"logo\":\"https://www.oyerevisjon.no/uploads/ieLAUfpj/header.1467273227991.1467273227000.png\"}</script><script data-allow='necessary'>var cb=function(){var l=document.createElement('link'); l.rel='stylesheet'; var h=document.getElementById('style_site'); h.parentNode.insertBefore(l, h); l.href='/assets/user-style.css?1779972077';};var raf=window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;if (typeof raf !=='undefined'){raf(cb);}else{if(window.addEventListener){window.addEventListener('load', cb);}else{window.attachEvent('onload', cb);}}</script> </body> </html>",
+          "page_text": "Forside | Øye revisjon Forside Mine tjenester Nyttige linker Nyheter Kontakt Personvern Personvernerklæring Erfaring gir trygghet Velkommen til min hjemmeside: Øye Revisjon eies og drives av Randi Øye som er Statsautorisert revisor - Autorisert regnskapsfører - Sertifisert Digital Revisor Jeg er den eneste ansatte i selskapet, så du vil alltid få direkte kontakt med meg. Jeg driver et veletablert revisjonsfirma med en solid og variert klientportefølje når det gjelder størrelse og bransje. Jeg driver min praksis fra en bondegård midt på Sjælland - 65 km syd for København. Dette har jeg gjort de siste 21 år og det har fungert godt for mine kunder som hovedsakelig befinner seg i Oslo og omegn. Jeg er registrert i Norge med organisasjonsnummer NO 962583024 MVA. Jeg er medlem av Den norske Revisorforening. For å kunne tilby mine kunder effektiv revisjon og gi faglige råd, følger jeg Den norske Revisorforenings kursabonnement ReKomp - kompetanseutvikling, som gir meg full fleksibilitet til å holde meg oppdatert med endringer og nye krav innen de enkelte bransjer, herunder. nye regler innen revisjon - regnskap og skatt. Øye Revisjon  Sørupvej 46 4684 Holmegaard, Danmark Kontakt oss  +4747974423  randi.oye@oyerevisjon.dk Utviklet av Hjemmesidehuset . Personvern - Personvernerklæring",
+          "proof_level": "p1_exact",
+          "registrable_domain": "oyerevisjon.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "69.201",
+    "industry_label": "Revisjon",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "ENK",
+    "liquidating": false,
+    "municipality": "VESTRE TOTEN",
+    "municipality_number": "3443",
+    "name": "ØYE REVISJON",
+    "organisation_number": "962583024",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1187,
+        1171,
+        1187,
+        516
+      ],
+      "requests": 5
+    },
+    "website": "www.oyerevisjon.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:30Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ØYE REVISJON (ENK, org.nr 962583024)",
+    "what_it_does": "ØYE REVISJON is classified under NACE code 69.201 (unspecified). The company operates its verified website at https://www.oyerevisjon.no/. It operates publicly under the brand name 'Øye Revisjon', according to its website.",
+    "business_model": "Operates as a registered ENK entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, ØYE REVISJON reported revenue of 2,418,350 NOK and an operating result of 2,133,676 NOK. Net result was 2,132,914 NOK, with total assets of 20,809 NOK and equity of -60,095 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 88.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ØYE REVISJON is classified under NACE code 69.201 (unspecified).",
+        "claim_ids": [
+          "cd399d4fe014b3879cd8",
+          "485930fcf3a4e2b8d1cc"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://www.oyerevisjon.no/.",
+        "claim_ids": [
+          "fcdce28d541407bcc7fa"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Øye Revisjon', according to its website.",
+        "claim_ids": [
+          "f97352251de6ac50e338"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered ENK entity within the commercial sector.",
+        "claim_ids": [
+          "64a558bc2a4e59664ed9",
+          "cd399d4fe014b3879cd8"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, ØYE REVISJON reported revenue of 2,418,350 NOK and an operating result of 2,133,676 NOK.",
+        "claim_ids": [
+          "21dcb27674a69f8e331a",
+          "59bf35ae02fe45d2d11d"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 2,132,914 NOK, with total assets of 20,809 NOK and equity of -60,095 NOK.",
+        "claim_ids": [
+          "8346312cae5b68f0067e",
+          "b7f9e30c5c4b4718aea7",
+          "6e475777d3578d228a34"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "21dcb27674a69f8e331a",
+          "b81e7be2d6becf019c2f"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 88.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "59bf35ae02fe45d2d11d",
+          "21dcb27674a69f8e331a"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "3c76a24af13603c8e8ac",
+          "e9df15d70e83b875abc8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "485930fcf3a4e2b8d1cc"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "5421ab0088993a6f092f"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "485930fcf3a4e2b8d1cc"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "485930fcf3a4e2b8d1cc"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "485930fcf3a4e2b8d1cc"
+        ]
+      }
+    ]
+  }
+}

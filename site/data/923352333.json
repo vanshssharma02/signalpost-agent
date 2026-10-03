@@ -1,0 +1,1512 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "33c94f8a4d6b4bf55349",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "56de5af1e91ff751fbfc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 318.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2c4cdff481b1e65e321",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20343.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f46356b23443a0d37fe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1851486.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "555319f6ef9d681465df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 368364.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6efcb9b86f136b899900",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1916635.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "01f5239621f6a873deb2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1397110.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d54c793ef968bbd660c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1300000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e3be098f97c21b49fc1b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15683.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9fd280dd96cd5ce78a9c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 519525.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e40237502e826cfab657",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 352681.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ff5915cd90480a1d6230",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 551486.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b27e2e3daa0e5bc59cfe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c4787da3490575e997b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9422.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f8402415c6874ec6ca9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 39880.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2fe4af308b8d96df062a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 31961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "37799549c871553e2190",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9422.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b6f6f3fca7acf3ce475b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 36292.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6447f12d66a544c68ef9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 104583.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "83bc0ce6194e1bbd72d3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c3a691c1cd4572620b40",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923352333-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2121000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d47126d31b77b65b8dee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-923352333"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Xource Group AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "133f13d5efb7c4e98356",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-prof-923352333-linkedin-cace13"
+      ],
+      "family": "company_profiles",
+      "field": "company_profile",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "verified_site_outbound",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/company/xource-as"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3e7eb7e0430f538b7cad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-prof-923352333-facebook-beaa58"
+      ],
+      "family": "company_profiles",
+      "field": "company_profile",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "verified_site_outbound",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "platform": "facebook",
+        "url": "https://facebook.com/xource.as"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9e242533dceb551b8b7e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-career-923352333-370d28cc"
+      ],
+      "family": "hiring",
+      "field": "careers_page",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "html_site_careers",
+      "published_at": "2026-10-03T20:47:46Z",
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "published_at": "2026-10-03T20:47:46Z",
+        "title": "Jobb hos oss",
+        "url": "https://www.xource.no/karriere.html"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "65c518a2de795b6c387a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923352333"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "70.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "25b12466fe4c40f83854",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923352333"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a0048cbfa299ce5cabe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923352333"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "XOURCE GROUP AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "65aee5c9e079cb80fc8f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923352333-b11bef695794"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Waleed Aftab",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9090399225483c452e22",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923352333-dd5170682fc9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Waleed Aftab",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "37aa8792ff018121add3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-923352333-923370692"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Rovenveien 125"
+          ],
+          "kommune": "LILLESTRØM",
+          "kommunenummer": "3205",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "1900",
+          "poststed": "FETSUND"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "kode": "70.200"
+        },
+        "name": "XOURCE GROUP AS",
+        "organisation_number": "923370692"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "50424b47463be735f6c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-923352333"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:46Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:46Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://www.xource.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "karriere.html",
+      "content_sha256": "85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://www.xource.no/karriere.html",
+      "http_status": 200,
+      "id": "ev-career-923352333-370d28cc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:46Z",
+      "snapshot_ref": "85/85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.xource.no/karriere.html",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2023: revenue: 104583.0, operating_result: 39880.0, profit_before_tax: 36292.0, annual_result: 20343.0, assets: 1916635.0, equity: 519525.0, debt: 1397110.0",
+      "content_sha256": "d940d5606ad1309b00aa08369a4f9d9dd19582ab48d85029bd25456a1a30862c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "http_status": 200,
+      "id": "ev-fin-923352333-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.619093Z",
+      "snapshot_ref": "d9/d940d5606ad1309b00aa08369a4f9d9dd19582ab48d85029bd25456a1a30862c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 2121000.0, operating_result: 31961.0, profit_before_tax: 31961.0, annual_result: 31961.0, assets: 1851486.0, equity: 551486.0, debt: 1300000.0",
+      "content_sha256": "79ac35f6c8589cd4bb6c615002359bc7bc60c772945b36a1138507aeb9eb9b5b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "http_status": 200,
+      "id": "ev-fin-923352333-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.619093Z",
+      "snapshot_ref": "79/79ac35f6c8589cd4bb6c615002359bc7bc60c772945b36a1138507aeb9eb9b5b.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 16000.0, operating_result: 9422.0, profit_before_tax: 9422.0, annual_result: 318.0, assets: 368364.0, equity: 352681.0, debt: 15683.0",
+      "content_sha256": "bdb4b6e4575defbdc38ce2a5777987d9cadfffb45b6701818afd0c7339d62183",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "http_status": 200,
+      "id": "ev-fin-923352333-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.619093Z",
+      "snapshot_ref": "bd/bdb4b6e4575defbdc38ce2a5777987d9cadfffb45b6701818afd0c7339d62183.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 923370692: XOURCE GROUP AS",
+      "content_sha256": "d1994cdc086f4953bc169f9d0dfeddb9a61e2fe3f03374f9d9f298db5a1a28ff",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923352333&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-923352333-923370692",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:41.237778Z",
+      "snapshot_ref": "d1/d1994cdc086f4953bc169f9d0dfeddb9a61e2fe3f03374f9d9f298db5a1a28ff.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923352333&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "http://facebook.com/xource.as",
+      "content_sha256": "85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://facebook.com/xource.as",
+      "http_status": 200,
+      "id": "ev-prof-923352333-facebook-beaa58",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:46Z",
+      "snapshot_ref": "85/85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95.gz",
+      "source_class": "company_owned",
+      "source_url": "https://facebook.com/xource.as",
+      "span_locator": null
+    },
+    {
+      "claim_span": "http://linkedin.com/company/xource-as",
+      "content_sha256": "85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://linkedin.com/company/xource-as",
+      "http_status": 200,
+      "id": "ev-prof-923352333-linkedin-cace13",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:46Z",
+      "snapshot_ref": "85/85d07b3c23820428489962308d0504a8315b96ba5cc44c748587feb47b139a95.gz",
+      "source_class": "company_owned",
+      "source_url": "https://linkedin.com/company/xource-as",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 923352333 XOURCE GROUP AS",
+      "content_sha256": "4ac9afacb36b3eeb78cfec91417e15f2ce7c5e8a49d224f473fdd8b7a94969a3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-923352333",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "4a/4ac9afacb36b3eeb78cfec91417e15f2ce7c5e8a49d224f473fdd8b7a94969a3.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Waleed Aftab",
+      "content_sha256": "01a3dc45b1e6d7adbc0eb6eae9aef4b0113f823d6541a6bf982321b39cb596e2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller",
+      "http_status": 200,
+      "id": "ev-role-923352333-b11bef695794",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:38.843182Z",
+      "snapshot_ref": "01/01a3dc45b1e6d7adbc0eb6eae9aef4b0113f823d6541a6bf982321b39cb596e2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Waleed Aftab",
+      "content_sha256": "01a3dc45b1e6d7adbc0eb6eae9aef4b0113f823d6541a6bf982321b39cb596e2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller",
+      "http_status": 200,
+      "id": "ev-role-923352333-dd5170682fc9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:38.843182Z",
+      "snapshot_ref": "01/01a3dc45b1e6d7adbc0eb6eae9aef4b0113f823d6541a6bf982321b39cb596e2.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": ".no © Xource Group AS. Alle rettigheter reservert. Org.nr.: 923 352 333 . × Takk! Din forespørsel er mottatt! Du hører fra oss snar",
+      "content_sha256": "3c1ef4c1d9a4adc731593fd3d73505d072b4967c5fe1c7fc2f56045750ac3570",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://www.xource.no/",
+      "http_status": 200,
+      "id": "ev-web-923352333",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:44Z",
+      "snapshot_ref": "3c/3c1ef4c1d9a4adc731593fd3d73505d072b4967c5fe1c7fc2f56045750ac3570.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.xource.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "01f5239621f6a873deb2",
+        "2fe4af308b8d96df062a",
+        "33c94f8a4d6b4bf55349",
+        "37799549c871553e2190",
+        "3f46356b23443a0d37fe",
+        "555319f6ef9d681465df",
+        "56de5af1e91ff751fbfc",
+        "6447f12d66a544c68ef9",
+        "6efcb9b86f136b899900",
+        "83bc0ce6194e1bbd72d3",
+        "9fd280dd96cd5ce78a9c",
+        "b27e2e3daa0e5bc59cfe",
+        "b6f6f3fca7acf3ce475b",
+        "c3a691c1cd4572620b40",
+        "c4787da3490575e997b5",
+        "d2c4cdff481b1e65e321",
+        "d54c793ef968bbd660c2",
+        "e3be098f97c21b49fc1b",
+        "e40237502e826cfab657",
+        "f8402415c6874ec6ca9a",
+        "ff5915cd90480a1d6230"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "d47126d31b77b65b8dee"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "133f13d5efb7c4e98356",
+        "3e7eb7e0430f538b7cad"
+      ],
+      "reason": "verified"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "9e242533dceb551b8b7e"
+      ],
+      "reason": "verified"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "25b12466fe4c40f83854",
+        "65c518a2de795b6c387a",
+        "9a0048cbfa299ce5cabe"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "65aee5c9e079cb80fc8f",
+        "9090399225483c452e22"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "37aa8792ff018121add3"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "50424b47463be735f6c9"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "9a0048cbfa299ce5cabe",
+      "25b12466fe4c40f83854",
+      "65c518a2de795b6c387a"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "XOURCE GROUP AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 7778,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "923352333",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:52.793293Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "923352333",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "d9e1ae01ae7de647699a7f533c891bd6ab6ff4ebdeb217946d3a98ad1c0872fa",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:37.619093Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923352333",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 20343.0,
+              "assets": 1916635.0,
+              "currency": "NOK",
+              "debt": 1397110.0,
+              "equity": 519525.0,
+              "operating_result": 39880.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 36292.0,
+              "record_id": 5446367,
+              "revenue": 104583.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 31961.0,
+              "assets": 1851486.0,
+              "currency": "NOK",
+              "debt": 1300000.0,
+              "equity": 551486.0,
+              "operating_result": 31961.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 31961.0,
+              "record_id": 6304283,
+              "revenue": 2121000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 318.0,
+              "assets": 368364.0,
+              "currency": "NOK",
+              "debt": 15683.0,
+              "equity": 352681.0,
+              "operating_result": 9422.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 9422.0,
+              "record_id": 7195325,
+              "revenue": 16000.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:40.081978Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/923352333",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "37a5abf1c25496abef37849ab2a0cf8f648d3f836c3ff8e8e3ec425efa5dde84",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:41.237778Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923352333&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Rovenveien 125"
+                ],
+                "kommune": "LILLESTRØM",
+                "kommunenummer": "3205",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "1900",
+                "poststed": "FETSUND"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+                "kode": "70.200"
+              },
+              "name": "XOURCE GROUP AS",
+              "organisation_number": "923370692"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "923352333",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Rådgivning og konsultasjon, samt levering av effektiv, interaktiv og sikker kommunikasjon gjennom fleksibel teknologi innenfor web-tjenester. Selskapet skal også kunne foreta investeringer i aksjer og andre midler samt hva hermed står i forbindelse, herunder inkluderes det også deltagelse eller på annen måte å gjøre seg interessert i andre foretagender.",
+          "antallAnsatte": "",
+          "epostadresse": "post@xource.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Rovenveien 125",
+          "forretningsadresse.kommune": "LILLESTRØM",
+          "forretningsadresse.kommunenummer": "3205",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1900",
+          "forretningsadresse.poststed": "FETSUND",
+          "fravalgRevisjonBeslutningsDato": "2019-08-20",
+          "fravalgRevisjonDato": "2019-09-06",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.xource.no",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2019-09-06",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "989 94 225",
+          "naeringskode1.beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "naeringskode1.kode": "70.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "XOURCE GROUP AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "923352333",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 1730 Vika",
+          "postadresse.kommune": "OSLO",
+          "postadresse.kommunenummer": "0301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "0121",
+          "postadresse.poststed": "OSLO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2019-09-06",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2019-09-06",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-08-20",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-05-25",
+          "vedtektsfestetFormaal": "Rådgivning og konsultasjon, samt skreddersy smarte, fremtidsrettede og innovative bransjeløsninger til privat- og bedriftsmarkedet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "dbad2e56cf3586baa95a7e1b4b00922465ea45d6dbbedacd648c48b638ddc363",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:38.843182Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923352333/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2019-09-06",
+              "name": "Waleed Aftab",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-09-06",
+              "name": "Waleed Aftab",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "site_careers": [
+        {
+          "claim_span": "karriere.html",
+          "expires_at": null,
+          "is_ats_link": false,
+          "is_job_posting": false,
+          "published_at": null,
+          "title": "Jobb hos oss",
+          "url": "https://www.xource.no/karriere.html"
+        }
+      ],
+      "site_profiles": [
+        {
+          "claim_span": "http://facebook.com/xource.as",
+          "platform": "facebook",
+          "url": "https://facebook.com/xource.as"
+        },
+        {
+          "claim_span": "http://linkedin.com/company/xource-as",
+          "platform": "linkedin",
+          "url": "https://linkedin.com/company/xource-as"
+        }
+      ],
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:44Z",
+        "source_url": "https://www.xource.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Xource Group AS",
+          "claim_span": ".no © Xource Group AS. Alle rettigheter reservert. Org.nr.: 923 352 333 . × Takk! Din forespørsel er mottatt! Du hører fra oss snar",
+          "final_url": "https://www.xource.no/",
+          "homepage": "https://www.xource.no/",
+          "page_html": "<!DOCTYPE html>\n<html lang=\"en\">\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <meta name=\"description\" content=\"Xource AS er et helnorskt selskap som ble etablert i 2018. Vi tilbyr ulike bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Kontakt oss i dag, så tar vi sammen en gjennomgang av dine behov og våre løsninger. Vi skreddersyr fremtidsrettede løsninger til din bedrift!\">\n        <meta name=\"keywords\" content=\"direktesalg,rådgivning,branding,web-tjenester,investeringer,kvalitetssikring\">\n        <meta name=\"author\" content=\"Xource AS\">\n        \n        <link rel=\"icon\" href=\"img/fav-icon.png\" type=\"image/x-icon\" />\n        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->\n        <title>Xource Group AS - Ditt mål er vårt mål!</title>\n  \n        <!-- Icon css link -->\n        <link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">\n        \n        <!-- Bootstrap -->\n        <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n        \n        <!-- Rev slider css -->\n        <link href=\"vendors/revolution/css/settings.css\" rel=\"stylesheet\">\n        <link href=\"vendors/revolution/css/layers.css\" rel=\"stylesheet\">\n        <link href=\"vendors/revolution/css/navigation.css\" rel=\"stylesheet\">\n        <link href=\"vendors/animate-css/animate.css\" rel=\"stylesheet\">\n        <link href=\"vendors/owl-carousel/assets/owl.carousel.min.css\" rel=\"stylesheet\">\n        \n        <!-- Extra plugin css -->\n        <link href=\"vendors/stroke-icon/style.css\" rel=\"stylesheet\">\n        \n        <link href=\"css/style.css\" rel=\"stylesheet\">\n        <link href=\"css/responsive.css\" rel=\"stylesheet\">\n\n        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n        <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n        <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n        <![endif]-->\n    </head>\n    <body>\n       \n       \n        <!--================ HEADER START =================-->\n        <header class=\"main_header_area\">\n            <div class=\"header_top\">\n                <div class=\"container\">\n                    <div class=\"header_top_inner\">\n                        <div class=\"pull-left\">\n                            <a href=\"#\"><i class=\"fa fa-phone\"></i>+47 989 94 225</a>\n                            <a href=\"#\"><i class=\"fa fa-envelope-o\"></i>post@xource.no</a>\n                            <a href=\"#\"><i class=\"icon icon-Timer\"></i>Man-Fre: 09:00 - 16:00</a>\n                        </div>\n                        <div class=\"pull-right\">\n                            <ul class=\"header_social\">\n                                <li><a href=\"http://facebook.com/xource.as\"><i class=\"fa fa-facebook\"></i></a></li>\n                                <li><a href=\"http://linkedin.com/company/xource-as\"><i class=\"fa fa-linkedin\"></i></a></li>\n                            </ul>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"header_menu\">\n                <nav class=\"navbar navbar-default\">\n                    <div class=\"container\">\n                        <!-- Brand and toggle get grouped for better mobile display -->\n                        <div class=\"navbar-header\">\n                            <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\" aria-expanded=\"false\">\n                                <span class=\"sr-only\">Bytt navigering</span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                            </button>\n                            <a class=\"\" href=\"index.html\"><img src=\"img/logo.svg\" alt=\"Example\" width=\"250\" height=\"80\"> </a>\n                        </div>\n\n                        <!-- Collect the nav links, forms, and other content for toggling -->\n                        <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                            <ul class=\"nav navbar-nav\">\n                                <li class=\"dropdown submenu active\">\n                                    <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Hjem</a>\n                                    <ul class=\"dropdown-menu\">\n                                    </ul>\n                                </li>\n                                <li><a href=\"om-oss.html\">Om Xource</a></li>\n                                <li><a href=\"tjenester.html\">Tjenester</a></li>\n                                <li><a href=\"karriere.html\">Jobb hos oss</a></li>\n                                <li><a href=\"kontakt-oss.html\">Kontakt oss</a></li>\n\n\n                            </ul>\n                            <ul class=\"nav navbar-nav navbar-right\">\n                                <li class=\"search_dropdown\">\n                                    <a href=\"#\"><i class=\"icon icon-Search\"></i></a>\n                                    <ul class=\"search\">\n                                        <li>\n                                            <form action=\"#\" method=\"get\" class=\"search-form\">\n                                                <div class=\"input-group\">\n                                                    <input type=\"search\" class=\"form-control\" placeholder=\"Søk etter\">\n                                                    <span class=\"input-group-addon\">\n                                                        <button type=\"submit\"><i class=\"icon icon-Search\"></i></button>\n                                                    </span>\n                                                </div>\n                                            </form>\n                                        </li>\n                                    </ul>\n                                </li>\n                            </ul>\n                        </div><!-- /.navbar-collapse -->\n                    </div><!-- /.container-fluid -->\n                </nav>\n            </div>\n        </header>\n        <!--================ HEADER SLUTT =================-->\n        \n        <!--================ SLIDESHOW START =================-->\n        <section class=\"main_slider_area\">\n            <div id=\"main_slider\" class=\"rev_slider\" data-version=\"5.3.1.6\">\n                <ul>\n                    <li data-index=\"rs-1587\" data-transition=\"fade\" data-delay=\"7000\" data-slotamount=\"default\" data-hideafterloop=\"0\" data-hideslideonmobile=\"off\"  data-easein=\"default\" data-easeout=\"default\" data-masterspeed=\"1000\"  data-thumb=\"img/slide/slider-9.jpg\"  data-rotate=\"0\"  data-saveperformance=\"off\"  data-title=\"Creative\" data-param1=\"01\" data-param2=\"\" data-param3=\"\" data-param4=\"\" data-param5=\"\" data-param6=\"\" data-param7=\"\" data-param8=\"\" data-param9=\"\" data-param10=\"\" data-description=\"\">\n                    <!-- HOVEDBILDE -->\n                    <img src=\"img/slide/slider-9.jpg\"  alt=\"\" data-bgposition=\"center center\" data-bgfit=\"cover\" data-bgrepeat=\"no-repeat\" data-bgparallax=\"5\" class=\"rev-slidebg\" data-no-retina>\n\n                        <!-- LAYER NR. 1 -->\n                        <div class=\"slider_text_box\">\n                            <div class=\"tp-caption tp-resizeme first_text\" \n                            id=\"slide-1586-layer-1\" \n                            data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                            data-y=\"['top','top','top','top']\" data-voffset=\"['290','290','290','220','130']\" \n                            data-fontsize=\"['55','55','55','40','30']\"\n                            data-lineheight=\"['59','59','59','50','40']\"\n                            data-width=\"['550','550','550','400']\"\n                            data-height=\"none\"\n                            data-whitespace=\"normal\"\n                            data-type=\"text\" \n                            data-responsive_offset=\"on\" \n                            data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\"\n                            data-textAlign=\"['left','left','left','left']\">Norges ledende kompetansehus ✨</div>\n                            \n                            <div class=\"tp-caption tp-resizeme secand_text\" \n                                id=\"slide-1587-layer-2\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['435','435','435','340','225']\"  \n                                data-fontsize=\"['18','18','18','18','16']\"\n                                data-lineheight=\"['26','26','26','26']\"\n                                data-width=\"['550','550','550','550','300']\"\n                                data-height=\"none\"\n                                data-whitespace=\"normal\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\"\n                                data-transform_idle=\"o:1;\"\n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\"><b>XOURCE GROUP AS</b> tilbyr ulike bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Kontakt oss i dag så hjelper vi deg også!\n                            </div>\n                            <div class=\"tp-caption tp-resizeme slider_button\" \n                                id=\"slide-1587-layer-3\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['525','525','525','425','330']\" \n                                data-fontsize=\"['14','14','14','14']\"\n                                data-lineheight=\"['46','46','46','46']\"\n                                data-width=\"none\"\n                                data-height=\"none\"\n                                data-whitespace=\"nowrap\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\" \n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\">\n                                <a class=\"main_btn\" href=tjenester.html>Våre tjenester</a>\n                                <a class=\"main_b_btn\" href=\"kontakt-oss.html\">Kontakt oss</a>\n                            </div>\n                        </div>\n                    </li>\n                    <li data-index=\"rs-1588\" data-transition=\"fade\" data-delay=\"7000\" data-slotamount=\"default\" data-hideafterloop=\"0\" data-hideslideonmobile=\"off\"  data-easein=\"default\" data-easeout=\"default\" data-masterspeed=\"300\"  data-thumb=\"img/slide/slider-11.jpg\"  data-rotate=\"0\"  data-saveperformance=\"off\"  data-title=\"Creative\" data-param1=\"01\" data-param2=\"\" data-param3=\"\" data-param4=\"\" data-param5=\"\" data-param6=\"\" data-param7=\"\" data-param8=\"\" data-param9=\"\" data-param10=\"\" data-description=\"\">\n                    <!-- HOVEDBILDE -->\n                    <img src=\"img/slide/slider-11.jpg\"  alt=\"\" data-bgposition=\"center center\" data-bgfit=\"cover\" data-bgrepeat=\"no-repeat\" data-bgparallax=\"5\" class=\"rev-slidebg\" data-no-retina>\n                    <!-- LAYERS -->\n                        <!-- LAYERS -->\n\n                        <!-- LAYER NR. 2 -->\n                        <div class=\"slider_text_box\">\n                            <div class=\"tp-caption tp-resizeme first_text\" \n                            id=\"slide-1586-layer-1\" \n                            data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                            data-y=\"['top','top','top','top']\" data-voffset=\"['290','290','290','220','130']\" \n                            data-fontsize=\"['55','55','55','40','30']\"\n                            data-lineheight=\"['59','59','59','50','40']\"\n                            data-width=\"['550','550','550','400']\"\n                            data-height=\"none\"\n                            data-whitespace=\"normal\"\n                            data-type=\"text\" \n                            data-responsive_offset=\"on\" \n                            data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\"\n                            data-textAlign=\"['left','left','left','left']\">Påtide å oppdatere seg på nett? 🤓💻📲</div>\n                            \n                            <div class=\"tp-caption tp-resizeme secand_text\" \n                                id=\"slide-1587-layer-2\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['435','435','435','340','225']\"  \n                                data-fontsize=\"['18','18','18','18','16']\"\n                                data-lineheight=\"['26','26','26','26']\"\n                                data-width=\"['550','550','550','550','300']\"\n                                data-height=\"none\"\n                                data-whitespace=\"normal\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\"\n                                data-transform_idle=\"o:1;\"\n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\">Hjemmesiden din er den som samler alle dine digitale tråder og er bedriftens ansikt utad. Vi bistår med å synliggjøre din bedrift på nett!\n                            </div>\n                            \n                            <div class=\"tp-caption tp-resizeme slider_button\" \n                                id=\"slide-1587-layer-3\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['525','525','525','425','330']\" \n                                data-fontsize=\"['14','14','14','14']\"\n                                data-lineheight=\"['46','46','46','46']\"\n                                data-width=\"none\"\n                                data-height=\"none\"\n                                data-whitespace=\"nowrap\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\" \n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\">\n                                <a class=\"main_btn\" href=\"web-tjenester.html\">Les mer</a>\n                                <a class=\"main_b_btn\" href=\"kontakt-oss.html\">Kontakt oss</a>\n                            </div>\n                        </div>\n                    </li>\n                    <li data-index=\"rs-1589\" data-transition=\"fade\" data-delay=\"7000\" data-slotamount=\"default\" data-hideafterloop=\"0\" data-hideslideonmobile=\"off\"  data-easein=\"default\" data-easeout=\"default\" data-masterspeed=\"300\"  data-thumb=\"img/slide/slider-8.jpg\"  data-rotate=\"0\"  data-saveperformance=\"off\"  data-title=\"Creative\" data-param1=\"01\" data-param2=\"\" data-param3=\"\" data-param4=\"\" data-param5=\"\" data-param6=\"\" data-param7=\"\" data-param8=\"\" data-param9=\"\" data-param10=\"\" data-description=\"\">\n                    <!-- HOVEDBILDE -->\n                    <img src=\"img/slide/slider-8.jpg\"  alt=\"\" data-bgposition=\"center center\" data-bgfit=\"cover\" data-bgrepeat=\"no-repeat\" data-bgparallax=\"5\" class=\"rev-slidebg\" data-no-retina>\n                        <!-- LAYER NR. 3 -->\n                        <div class=\"slider_text_box\">\n                            <div class=\"tp-caption tp-resizeme first_text\" \n                            id=\"slide-1586-layer-1\" \n                            data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                            data-y=\"['top','top','top','top']\" data-voffset=\"['290','290','290','220','130']\" \n                            data-fontsize=\"['55','55','55','40','30']\"\n                            data-lineheight=\"['59','59','59','50','40']\"\n                            data-width=\"['550','550','550','400']\"\n                            data-height=\"none\"\n                            data-whitespace=\"normal\"\n                            data-type=\"text\" \n                            data-responsive_offset=\"on\" \n                            data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500 ,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\"\n                            data-textAlign=\"['left','left','left','left']\">Få stålkontroll på økonomien 😎💸💰</div>\n                            \n                            <div class=\"tp-caption tp-resizeme secand_text\" \n                                id=\"slide-1587-layer-2\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['435','435','435','340','225']\"  \n                                data-fontsize=\"['18','18','18','18','16']\"\n                                data-lineheight=\"['26','26','26','26']\"\n                                data-width=\"['550','550','550','550','300']\"\n                                data-height=\"none\"\n                                data-whitespace=\"normal\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\"\n                                data-transform_idle=\"o:1;\"\n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\">Vi er flinke til å se helhetsbilde og gir deg økonomisk rådgivning til å skape målbar lønnsomhet. Dette gir deg full kontroll over økonomien.\n                            </div>\n                            \n                            <div class=\"tp-caption tp-resizeme slider_button\" \n                                id=\"slide-1587-layer-3\" \n                                data-x=\"['left','left','left','15','0']\" data-hoffset=\"['0','0','0','0']\" \n                                data-y=\"['top','top','top','top']\" data-voffset=\"['525','525','525','425','330']\" \n                                data-fontsize=\"['14','14','14','14']\"\n                                data-lineheight=\"['46','46','46','46']\"\n                                data-width=\"none\"\n                                data-height=\"none\"\n                                data-whitespace=\"nowrap\"\n                                data-type=\"text\" \n                                data-responsive_offset=\"on\" \n                                data-frames=\"[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]\">\n                                <a class=\"main_btn\" href=\"radgivning.html\">Les mer</a>\n                                <a class=\"main_b_btn\" href=\"kontakt-oss.html\">Kontakt oss</a>\n                            </div>\n                        </div>\n                    </li>\n                </ul>\n            </div>\n        </section>\n        <!--================ SLIDESHOW SLUTT =================-->\n        \n        <!--================ INNLEDNING START =================-->\n        <section class=\"business_box_area\">\n            <div class=\"container\">\n                <div class=\"sec_middle_title\">\n                    <h2><span>Xource Group AS</span> er et ledende kompetansehus rettet mot både privat- og bedriftsmarkedet</h2>\n                    <p>Siden 2018 har Xource Group AS levert smarte, innovative og fremtidsrettede bransjeløsninger til våre kunder. Ta kontakt med oss i dag for en felles gjennomgang av dine behov og våre løsninger. Vi skreddersyr løsninger til deg og din bedrift! </p>\n                </div>\n                <div class=\"row\">\n                    <div class=\"col-sm-4\">\n                        <div class=\"business_box_item\">\n                            <div class=\"business_image\">\n                                <img src=\"img/business/web-tjenester.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"business_text\">\n                                <a href=\"web-tjenester.html\"><h4>Web-tjenester</h4></a>\n                                <h5>- Følg generasjonen; etabler deg på nett i dag</h5>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-sm-4\">\n                        <div class=\"business_box_item\">\n                            <div class=\"business_image\">\n                                <img src=\"img/business/branding.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"business_text\">\n                                <a href=\"branding.html\"><h4>Branding</h4></a>\n                                <h5>- Få din bedrift både mer synlig og digitalisert</h5>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-sm-4\">\n                        <div class=\"business_box_item\">\n                            <div class=\"business_image\">\n                                <img src=\"img/business/radgivning.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"business_text\">\n                                <a href=\"radgivning.html\"><h4>Bedriftsrådgivning</h4></a>\n                                <h5>- Oppnå stålkontroll på bedriftens økonomi</h5>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <!--================ INNLEDNING SLUTT =================-->\n        \n        <!--================ VÅRE TJENESTER START =================-->\n        <section class=\"our_service_area\">\n            <div class=\"container\">\n                <div class=\"section_title\">\n                    <h2>Våre tjenester</h2>\n                </div>\n                <div class=\"row service_inner\">\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/web-tjenester.png\" alt=\"\">\n                                    <img src=\"img/icon/web-tjenester-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"web-tjenester.html\"><h4>Web-tjenester</h4></a>\n                                    <p>For hver dag som går blir verden mer digitalisert. Heng deg på; Vi hjelper deg og din bedrift også!</p>\n                                    <a class=\"more_link\" href=\"web-tjenester.html\">Les mer</a>\n                                    \n                                    \n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/service-icon4.png\" alt=\"\">\n                                    <img src=\"img/icon/service-icon4-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"branding.html\"><h4>Branding</h4></a>\n                                    <p>Bygg merkevare, og bli sett i dag. Xource Group AS synliggjør deg og ditt merkevare i handelsmarkedet.</p>\n                                    <a class=\"more_link\" href=\"branding.html\">Les mer</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/service-icon2.png\" alt=\"\">\n                                    <img src=\"img/icon/service-icon2-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"radgivning.html\"><h4>Bedriftsrådgivning</h4></a>\n                                    <p>Få vekk usikkerheten, løs behovet og oppnå fremragende resultater med profesjonell rådgivning.</p>\n                                    <a class=\"more_link\" href=\"radgivning.html\">Les mer</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/service-icon1.png\" alt=\"\">\n                                    <img src=\"img/icon/service-icon1-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"direktesalg.html\"><h4>Direktesalg</h4></a>\n                                    <p>Vår selger møter kunden ansikt til ansikt, presenterer produktet, og overtaler kunden til å signere.</p>\n                                    <a class=\"more_link\" href=\"direktesalg.html\">Les mer</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/service-icon6.png\" alt=\"\">\n                                    <img src=\"img/icon/service-icon6-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"investeringer.html\"><h4>Investeringer</h4></a>\n                                    <p>i Xource Group AS hjelper vi deg til økt avkastning med lønnsomme og fremtidsrettede investeringer.</p>\n                                    <a class=\"more_link\" href=\"investeringer.html\">Les mer</a>\n                                </div>\n                            </div>\n                        </div>\n                                            </div>\n                    <div class=\"col-md-4 col-sm-6\">\n                        <div class=\"service_item\">\n                            <div class=\"media\">\n                                <div class=\"media-left\">\n                                    <img src=\"img/icon/service-icon5.png\" alt=\"\">\n                                    <img src=\"img/icon/service-icon5-h.png\" alt=\"\">\n                                </div>\n                                <div class=\"media-body\">\n                                    <a href=\"kvalitetssikring.html\"><h4>Kvalitetssikring</h4></a>\n                                    <p>Et salg opprettholdes ikke alltid nødvendigvis lenge. Med vår kvalitetssikring forblir kunden.</p>\n                                    <a class=\"more_link\" href=\"kvalitetssikring.html\">Les mer</a>\n                                </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <!--================ VÅRE TJENESTER SLUTT =================-->\n        \n        <!--================ KONSULTASJON START =================-->\n        <section class=\"helpline_area\">\n            <div class=\"container\">\n                <div class=\"helpline_inner\">\n                    <div class=\"media\">\n                        <div class=\"media-left\">\n                            <img src=\"img/help-icon.png\" alt=\"\">\n                        </div>\n                        <div class=\"media-body\">\n                            <h6>Be om en uforpliktende konsultasjon</h6>\n                            <h4>La oss sammen se på dine behov</h4>\n                            <p>Kontakt oss i dag, så tar vi sammen en gjennomgang av dine behov og våre løsninger. Vi skreddersyr fremtidsrettede løsninger til din bedrift!</p>\n                            <div class=\"contact_d\">\n                                <a href=\"tel:+47 989 94 225\">+47 989 94 225</a>\n                                <a href=\"mailto:post@xource.no\">post@xource.no</a>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <!--================ KONSULTASJON SLUTT =================-->\n        \n        <!--================ OM OSS START =================-->\n        <section class=\"our_company_area\">\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-6\">\n                        <div class=\"company_item\">\n                            <div class=\"section_title\">\n                                <h2>Xource Group AS</h2>\n                            </div>\n                            <div class=\"row company_image\">\n                                <div class=\"col-xs-6\">\n                                    <div class=\"company_img\">\n                                        <img src=\"img/company/company-1.jpg\" alt=\"\">\n                                    </div>\n                                </div>\n                                <div class=\"col-xs-6\">\n                                    <div class=\"company_img\">\n                                        <img src=\"img/company/company-2.jpg\" alt=\"\">\n                                    </div>\n                                </div>\n                            </div>\n                            <h6>XOURCE GROUP AS ER ET LEDENDE KOMPETANSEHUS</h6>\n                            <p>Xource Group AS bedriver tjenesteyting tilknyttet ulike bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Med et stort øye for kvalitet, bundet sammen med yrkesstolthet, skreddersyr vi innovative løsninger til deg og din bedrift. Kontakt oss i dag for en uforpliktende konsultasjon.<br><br>  <a class=\"more_link\" href=\"om-oss.html\">Les mer </a></p>\n                        </div>\n                    </div>\n                    <div class=\"col-md-6\">\n                        <div class=\"company_collaps_inner\">\n                            <div class=\"section_title\">\n                                <h2>Vanlige spørsmål</h2>\n                            </div>\n                            <div class=\"panel-group company_collaps\" id=\"accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n                                <div class=\"panel panel-default\">\n                                    <div class=\"panel-heading\" role=\"tab\" id=\"company1\">\n                                        <h4 class=\"panel-title\">\n                                            <a role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#company_c1\" aria-expanded=\"true\" aria-controls=\"company_c1\">\n                                            <i class=\"fa fa-plus\" aria-hidden=\"true\"></i><i class=\"fa fa-minus\" aria-hidden=\"true\"></i>Hvorfor Xource Group AS?\n                                            </a>\n                                        </h4>\n                                    </div>\n                                    <div id=\"company_c1\" class=\"panel-collapse collapse in\" role=\"tabpanel\" aria-labelledby=\"company1\">\n                                        <div class=\"panel-body\">\n                                        Xource Group AS har lang erfaring innen bransjen, og har spesialisert oss i det vi er best på. Med en kundeportefølje bestående av kun fornøyde kunder kan du være sikker på at vi har et stort øye for kvalitet. Vi elsker jobben vår, og leder tjenesten for din virksomhet til en bedre fremtid!\n                                    </div>\n                                </div>\n                                <div class=\"panel panel-default\">\n                                    <div class=\"panel-heading\" role=\"tab\" id=\"company2\">\n                                        <h4 class=\"panel-title\">\n                                            <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#company_c2\" aria-expanded=\"false\" aria-controls=\"company_c2\">\n                                            <i class=\"fa fa-plus\" aria-hidden=\"true\"></i><i class=\"fa fa-minus\" aria-hidden=\"true\"></i>Hva slags tjenester tilbyr dere?\n                                            </a>\n                                        </h4>\n                                    </div>\n                                    <div id=\"company_c2\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"company2\">\n                                        <div class=\"panel-body\">\n                                        Xource Group AS har spesialisert seg på å skreddersy web-tjenester og alt som naturligvis faller inn under dette. Samtidig har vi lang erfaring med oppsøkende direktesalg og kvalitetssikring av innhentede kunder. Med en gående drift på flere år har vi opparbeidet oss stor forståelse for ulike  driftsutfordringer. I dag kan vi gi bedriftsrådgivning. <br><br>En oversikt over tjenestene vi tilbyr finner du <a class=\"more_link\" href=\"tjenester.html\">her</a>.\n                                        </div>\n                                    </div>\n                                </div>\n                                <div class=\"panel panel-default\">\n                                    <div class=\"panel-heading\" role=\"tab\" id=\"company3\">\n                                        <h4 class=\"panel-title\">\n                                            <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#company_c3\" aria-expanded=\"false\" aria-controls=\"company_c3\">\n                                            <i class=\"fa fa-plus\" aria-hidden=\"true\"></i><i class=\"fa fa-minus\" aria-hidden=\"true\"></i>Hva går fornøydhetsgarantien deres ut på?\n                                            </a>\n                                        </h4>\n                                    </div>\n                                    <div id=\"company_c3\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"company3\">\n                                        <div class=\"panel-body\">\n                                            Vår fornøydhetsgaranti sikrer deg og din bedrift et positivt utslag da dere velger tjenester fra oss i Xource Group AS. Er du ikke fornøyd, ønsker vi alltid å finne en god løsning sammen. Alt fra å iverksette endringer på våre tjenester kostnadsfritt, til å refundere deg penger  kan bli aktuelt. <br><br> Vi er rett og slett ikke fornøyd før du er!\n                                        </div>\n                                    </div>\n                                </div>\n                                <div class=\"panel panel-default\">\n                                    <div class=\"panel-heading\" role=\"tab\" id=\"company4\">\n                                        <h4 class=\"panel-title\">\n                                            <a class=\"collapsed\" role=\"button\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#company_c4\" aria-expanded=\"false\" aria-controls=\"company_c4\">\n                                            <i class=\"fa fa-plus\" aria-hidden=\"true\"></i><i class=\"fa fa-minus\" aria-hidden=\"true\"></i>Hvor holder dere til?\n                                            </a>\n                                        </h4>\n                                    </div>\n                                    <div id=\"company_c4\" class=\"panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"company4\">\n                                        <div class=\"panel-body\">\n                                            Xource Group AS holder til på Økern i Oslo. Med både en sentral beliggenhet samt et kjent knutepunkt er vi veldig tilgjengelige. Vi besøker gjerne også bedriften din, og ser på deres behov og våre løsninger over en god kopp kaffe!\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <!--================ OM OSS SLUTT =================-->\n        \n        <!--================ KONTAKT OSS START =================-->\n        <section class=\"contact_area\">\n            <div class=\"contact_left_side\">\n                <div class=\"contact_inner\">\n                    <div class=\"section_w_title\">\n                        <h2>Be om en gratis konsultasjon</h2>\n                    </div>\n                    <div class=\"row\">\n                        <form class=\"request_contact\" action=\"contact_process.php\" method=\"post\" id=\"contactForm\" novalidate=\"novalidate\">\n                            <div class=\"form-group col-md-6\">\n                                <input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" placeholder=\"Navn\">\n                            </div>\n                            <div class=\"form-group col-md-6\">\n                                <input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\" placeholder=\"E-post\">\n                            </div>\n                            <div class=\"form-group col-md-6\">\n                                <input type=\"text\" class=\"form-control\" id=\"number\" name=\"number\" placeholder=\"Mobilnummer\">\n                            </div>\n                            <div class=\"form-group col-md-6\">\n                                <input type=\"text\" class=\"form-control\" id=\"subject\" name=\"subject\" placeholder=\"Emne\">\n                            </div>\n                            <div class=\"form-group col-md-12\">\n                                <textarea class=\"form-control\" name=\"message\" id=\"message\" rows=\"1\" placeholder=\"Melding\"></textarea>\n                            </div>\n                            <div class=\"form-group col-md-12\">\n                                <button type=\"submit\" value=\"submit\" class=\"btn submit_btn form-control\">Send inn</button>\n                            </div>\n                        </form>\n                    </div>\n                </div>\n            </div>\n            <div class=\"contact_right_side\">\n                <div class=\"contact_r_image\">\n                    <img src=\"img/contact-right.jpg\" alt=\"\">\n                </div>\n            </div>\n        </section>\n        <!--================ KONTAKT OSS SLUTT =================-->\n        \n        <!--================ FOOTER START =================-->\n        <footer class=\"footer_area\">\n            <div class=\"footer_widget\">\n                <div class=\"container\">\n                    <div class=\"row\">\n                        <div class=\"col-md-3 col-xs-6\">\n                            <aside class=\"f_widget about_widget\">\n                                <img src=\"img/logo.svg\" alt=\"Example\" width=\"200\" height=\"50\"> </a>\n                                \n                                <p>Siden 2018 har Xource Group AS levert bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Kontakt oss i dag; Vi skreddersyr løsninger til deg og din bedrift!</p>\n                                <a class=\"f_r_link\" href=\"om-oss.html\">Les mer <i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i></a>\n                                <ul class=\"f_social\">\n                                    <li><a href=\"http://facebook.com/xource.as\"><i class=\"fa fa-facebook-square\"></i></a></li>\n                                    <li><a href=\"http://linkedin.com/company/xource-as\"><i class=\"fa fa-linkedin-square\"></i></a></li>\n                                </ul>\n                            </aside>\n                        </div>\n                        <div class=\"col-md-3 col-xs-6\">\n                            <aside class=\"f_widget link_widget\">\n                                <div class=\"f_title\">\n                                    <h3>Xource Group AS</h3>\n                                </div>\n                                <ul>\n                                    <li><a href=\"om-oss.html\">-  Om oss</a></li>\n                                    <li><a href=\"vare-partnere.html\">-  Våre partnere</a></li>\n                                    <li><a href=\"karriere.html\">-  Ledige stillinger</a></li>\n                                    <li><a href=\"kontakt-oss.html\">-  Kontakt oss</a></li>\n                                </ul>\n                            </aside>\n                        </div>\n                        <div class=\"col-md-3 col-xs-6\">\n                            <aside class=\"f_widget link_widget\">\n                                <div class=\"f_title\">\n                                    <h3>Våre tjenester</h3>\n                                </div>\n                                <ul>\n                                    <li><a href=\"web-tjenester.html\">-  Web-tjenester</a></li>\n                                    <li><a href=\"branding.html\">-  Branding</a></li>\n                                    <li><a href=\"radgivning.html\">-  Bedriftsrådgivning</a></li>\n                                    <li><a href=\"direktesalg.html\">-  Direktesalg</a></li>\n                                    <li><a href=\"investeringer.html\">-  Investeringer</a></li>\n                                    <li><a href=\"kvalitetssikring.html\">-  Kvalitetssikring</a></li>\n                                </ul>\n                            </aside>\n                        </div>\n                        <div class=\"col-md-3 col-xs-6\">\n                            <aside class=\"f_widget contact_widget\">\n                                <div class=\"f_title\">\n                                    <h3>Kontakt oss</h3>\n                                </div>\n                                <div class=\"contact_inner\">\n                                    <div class=\"media\">\n                                        <div class=\"media-left\">\n                                            <i class=\"fa fa-map-marker\" aria-hidden=\"true\"></i>\n                                        </div>\n                                        <div class=\"media-body\">\n                                            <h4>Xource Group AS</h4>\n                                            <p>Postboks 1730 Vika, <br>0121 Oslo</p>\n                                        </div>\n                                    </div>\n                                    <div class=\"media\">\n                                        <div class=\"media-left\">\n                                            <i class=\"fa fa-phone\" aria-hidden=\"true\"></i>\n                                        </div>\n                                        <div class=\"media-body\">\n                                            <a href=\"tel:+47 989 94 225\">+47 989 94 225</a>\n                                        </div>\n                                    </div>\n                                    <div class=\"media\">\n                                        <div class=\"media-left\">\n                                            <i class=\"fa fa-envelope-o\" aria-hidden=\"true\"></i>\n                                        </div>\n                                        <div class=\"media-body\">\n                                            <a href=\"mailto:post@xource.no\">post@xource.no</a>\n                                        </div>\n                                    </div>\n                                </div>\n                            </aside>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"footer_copyright\">\n                <div class=\"container\">\n                    <div class=\"footer_copyright_inner\">\n                        <div class=\"pull-left\">\n                            <p>  © <script>document.write(new Date().getFullYear());</script> Xource Group AS. Alle rettigheter reservert. </p>\n                        </div>\n                        <div class=\"pull-right\">\n                            <h4>Org.nr.: <a href=\"\">923 352 333</a>.</h4>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </footer>\n        <!--================ FOOTER SLUTT =================-->  \n       \n        \n        \n        <!--================Contact Success and Error message Area =================-->\n        <div id=\"success\" class=\"modal modal-message fade\" role=\"dialog\">\n            <div class=\"modal-dialog\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-header\">\n                        <span class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></span>\n                        <h2 class=\"modal-title\">Takk!</h2>\n                        <p class=\"modal-subtitle\">Din forespørsel er mottatt! Du hører fra oss snart. </p>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <!-- Modals error -->\n\n        <div id=\"error\" class=\"modal modal-message fade\" role=\"dialog\">\n            <div class=\"modal-dialog\">\n                <div class=\"modal-content\">\n                    <div class=\"modal-header\">\n                        <span class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><span aria-hidden=\"true\">&times;</span></span>\n                        <h2 class=\"modal-title\">Ops!</h2>\n                        <p class=\"modal-subtitle\"> Noe gikk feil...prøv igjen! </p>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <!--================End Contact Success and Error message Area =================-->\n        \n        \n        \n        \n        \n        \n        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n        <script src=\"js/jquery-2.2.4.js\"></script>\n        <!-- Include all compiled plugins (below), or include individual files as needed -->\n        <script src=\"js/bootstrap.min.js\"></script>\n        <!-- Rev slider js -->\n        <script src=\"vendors/revolution/js/jquery.themepunch.tools.min.js\"></script>\n        <script src=\"vendors/revolution/js/jquery.themepunch.revolution.min.js\"></script>\n        <script src=\"vendors/revolution/js/extensions/revolution.extension.video.min.js\"></script>\n        <script src=\"vendors/revolution/js/extensions/revolution.extension.slideanims.min.js\"></script>\n        <script src=\"vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js\"></script>\n        <script src=\"vendors/revolution/js/extensions/revolution.extension.navigation.min.js\"></script>\n        \n        <script src=\"vendors/owl-carousel/owl.carousel.min.js\"></script>\n        <script src=\"vendors/isotope/imagesloaded.pkgd.min.js\"></script>\n        <script src=\"vendors/isotope/isotope.pkgd.min.js\"></script>\n        <script src=\"vendors/magnific-popup/jquery.magnific-popup.min.js\"></script>\n        \n        <!-- contact js -->\n        <script src=\"js/jquery.form.js\"></script>\n        <script src=\"js/jquery.validate.min.js\"></script>\n        <script src=\"js/contact.js\"></script>\n        \n        <script src=\"js/theme.js\"></script>\n    </body>\n</html>",
+          "page_text": "Xource Group AS - Ditt mål er vårt mål! +47 989 94 225 post@xource.no Man-Fre: 09:00 - 16:00 Bytt navigering Hjem Om Xource Tjenester Jobb hos oss Kontakt oss Norges ledende kompetansehus ✨ XOURCE GROUP AS tilbyr ulike bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Kontakt oss i dag så hjelper vi deg også! Våre tjenester Kontakt oss Påtide å oppdatere seg på nett? 🤓💻📲 Hjemmesiden din er den som samler alle dine digitale tråder og er bedriftens ansikt utad. Vi bistår med å synliggjøre din bedrift på nett! Les mer Kontakt oss Få stålkontroll på økonomien 😎💸💰 Vi er flinke til å se helhetsbilde og gir deg økonomisk rådgivning til å skape målbar lønnsomhet. Dette gir deg full kontroll over økonomien. Les mer Kontakt oss Xource Group AS er et ledende kompetansehus rettet mot både privat- og bedriftsmarkedet Siden 2018 har Xource Group AS levert smarte, innovative og fremtidsrettede bransjeløsninger til våre kunder. Ta kontakt med oss i dag for en felles gjennomgang av dine behov og våre løsninger. Vi skreddersyr løsninger til deg og din bedrift! Web-tjenester - Følg generasjonen; etabler deg på nett i dag Branding - Få din bedrift både mer synlig og digitalisert Bedriftsrådgivning - Oppnå stålkontroll på bedriftens økonomi Våre tjenester Web-tjenester For hver dag som går blir verden mer digitalisert. Heng deg på; Vi hjelper deg og din bedrift også! Les mer Branding Bygg merkevare, og bli sett i dag. Xource Group AS synliggjør deg og ditt merkevare i handelsmarkedet. Les mer Bedriftsrådgivning Få vekk usikkerheten, løs behovet og oppnå fremragende resultater med profesjonell rådgivning. Les mer Direktesalg Vår selger møter kunden ansikt til ansikt, presenterer produktet, og overtaler kunden til å signere. Les mer Investeringer i Xource Group AS hjelper vi deg til økt avkastning med lønnsomme og fremtidsrettede investeringer. Les mer Kvalitetssikring Et salg opprettholdes ikke alltid nødvendigvis lenge. Med vår kvalitetssikring forblir kunden. Les mer Be om en uforpliktende konsultasjon La oss sammen se på dine behov Kontakt oss i dag, så tar vi sammen en gjennomgang av dine behov og våre løsninger. Vi skreddersyr fremtidsrettede løsninger til din bedrift! +47 989 94 225 post@xource.no Xource Group AS XOURCE GROUP AS ER ET LEDENDE KOMPETANSEHUS Xource Group AS bedriver tjenesteyting tilknyttet ulike bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Med et stort øye for kvalitet, bundet sammen med yrkesstolthet, skreddersyr vi innovative løsninger til deg og din bedrift. Kontakt oss i dag for en uforpliktende konsultasjon. Les mer Vanlige spørsmål Hvorfor Xource Group AS? Xource Group AS har lang erfaring innen bransjen, og har spesialisert oss i det vi er best på. Med en kundeportefølje bestående av kun fornøyde kunder kan du være sikker på at vi har et stort øye for kvalitet. Vi elsker jobben vår, og leder tjenesten for din virksomhet til en bedre fremtid! Hva slags tjenester tilbyr dere? Xource Group AS har spesialisert seg på å skreddersy web-tjenester og alt som naturligvis faller inn under dette. Samtidig har vi lang erfaring med oppsøkende direktesalg og kvalitetssikring av innhentede kunder. Med en gående drift på flere år har vi opparbeidet oss stor forståelse for ulike  driftsutfordringer. I dag kan vi gi bedriftsrådgivning. En oversikt over tjenestene vi tilbyr finner du her . Hva går fornøydhetsgarantien deres ut på? Vår fornøydhetsgaranti sikrer deg og din bedrift et positivt utslag da dere velger tjenester fra oss i Xource Group AS. Er du ikke fornøyd, ønsker vi alltid å finne en god løsning sammen. Alt fra å iverksette endringer på våre tjenester kostnadsfritt, til å refundere deg penger  kan bli aktuelt. Vi er rett og slett ikke fornøyd før du er! Hvor holder dere til? Xource Group AS holder til på Økern i Oslo. Med både en sentral beliggenhet samt et kjent knutepunkt er vi veldig tilgjengelige. Vi besøker gjerne også bedriften din, og ser på deres behov og våre løsninger over en god kopp kaffe! Be om en gratis konsultasjon Send inn Siden 2018 har Xource Group AS levert bransjeløsninger rettet mot både privat- og bedriftsmarkedet. Kontakt oss i dag; Vi skreddersyr løsninger til deg og din bedrift! Les mer Xource Group AS -  Om oss -  Våre partnere -  Ledige stillinger -  Kontakt oss Våre tjenester -  Web-tjenester -  Branding -  Bedriftsrådgivning -  Direktesalg -  Investeringer -  Kvalitetssikring Kontakt oss Xource Group AS Postboks 1730 Vika, 0121 Oslo +47 989 94 225 post@xource.no © Xource Group AS. Alle rettigheter reservert. Org.nr.: 923 352 333 . × Takk! Din forespørsel er mottatt! Du hører fra oss snart. × Ops! Noe gikk feil...prøv igjen!",
+          "proof_level": "p1_exact",
+          "registrable_domain": "xource.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "70.200",
+    "industry_label": "Bedriftsrådgivning og annen administrativ rådgivning",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "LILLESTRØM",
+    "municipality_number": "3205",
+    "name": "XOURCE GROUP AS",
+    "organisation_number": "923352333",
+    "run_metrics": {
+      "latencies_ms": [
+        1186,
+        1219,
+        1233,
+        1156,
+        2984
+      ],
+      "requests": 5
+    },
+    "website": "www.xource.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:46Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "XOURCE GROUP AS (AS, org.nr 923352333)",
+    "what_it_does": "XOURCE GROUP AS is classified under NACE code 70.200 (unspecified). The company operates its verified website at https://www.xource.no/. It operates publicly under the brand name 'Xource Group AS', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, XOURCE GROUP AS reported revenue of 16,000 NOK and an operating result of 9,422 NOK. Net result was 318 NOK, with total assets of 368,364 NOK and equity of 352,681 NOK. Revenue contracted by -99.2% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 58.9% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Waleed Aftab. Daily operations are led by general manager Waleed Aftab. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "Maintains a verified careers portal at https://www.xource.no/karriere.html.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "XOURCE GROUP AS is classified under NACE code 70.200 (unspecified).",
+        "claim_ids": [
+          "65c518a2de795b6c387a",
+          "9a0048cbfa299ce5cabe"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://www.xource.no/.",
+        "claim_ids": [
+          "50424b47463be735f6c9"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Xource Group AS', according to its website.",
+        "claim_ids": [
+          "d47126d31b77b65b8dee"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "25b12466fe4c40f83854",
+          "65c518a2de795b6c387a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, XOURCE GROUP AS reported revenue of 16,000 NOK and an operating result of 9,422 NOK.",
+        "claim_ids": [
+          "83bc0ce6194e1bbd72d3",
+          "c4787da3490575e997b5"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 318 NOK, with total assets of 368,364 NOK and equity of 352,681 NOK.",
+        "claim_ids": [
+          "56de5af1e91ff751fbfc",
+          "555319f6ef9d681465df",
+          "e40237502e826cfab657"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue contracted by -99.2% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "83bc0ce6194e1bbd72d3",
+          "c3a691c1cd4572620b40"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 58.9% (derived: operating result / revenue).",
+        "claim_ids": [
+          "c4787da3490575e997b5",
+          "83bc0ce6194e1bbd72d3"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Waleed Aftab.",
+        "claim_ids": [
+          "9090399225483c452e22"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Waleed Aftab.",
+        "claim_ids": [
+          "65aee5c9e079cb80fc8f"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "65aee5c9e079cb80fc8f",
+          "9090399225483c452e22"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "9a0048cbfa299ce5cabe"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "37aa8792ff018121add3"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "Maintains a verified careers portal at https://www.xource.no/karriere.html.",
+        "claim_ids": [
+          "9e242533dceb551b8b7e"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "9a0048cbfa299ce5cabe"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "9a0048cbfa299ce5cabe"
+        ]
+      }
+    ]
+  }
+}

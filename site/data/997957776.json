@@ -1,0 +1,1372 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "d0ebb5c1d305909ed401",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7356796.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d67e92be2e49151cea06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4355173.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc22b7d97b8a3bc5157e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3051962.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "32f63d86136f14d56e44",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22184744.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "49363db4d2a4c1fa2453",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10018737.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "57004b09dbcc625130af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20375220.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "291325d2743004007359",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 28117429.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68bc3ce9d89c0de7f15f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 21538278.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "91f4b1ccc13c624b6f86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29359866.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d8c039dd517c2e50b3d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -11519541.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "44c051cc72c74e74c3fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -8984646.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b1f9fad61363708c524",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5932685.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b01fd7b759eb1f670d4f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1424302.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0c4ddda7ffb7a70f268",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2028445.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fd45650f722d3a7145c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2681589.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "73586e06e8d6696f0a5a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7486661.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b0ec543ed45122b32d03",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2000413.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c64b51b8fd3ff29e059e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3051962.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f0aed5aae4d88680e0a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 818000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1882f33700882fff656",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12626500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0fa0db0994fe05028d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-997957776-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -925823.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a491d6a433435bb44194",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997957776"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "70.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "957f5eb48e5924f1d739",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997957776"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe26d3ebe45d0477cce6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-997957776"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SIDDIQI INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3132c48f845395a560f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997957776-2a10e4de3989"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kaleemullah M Siddiqi",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "45b3f713821a65113e1d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997957776-ec425cca312b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rehan Siddiqi",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef12b2b85f4c054eefb7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-997957776-640dc32e3760"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rehan Siddiqi",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5d3a3881f004385bf29d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-997957776-928404722"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Rødovre vei 17A"
+          ],
+          "kommune": "LØRENSKOG",
+          "kommunenummer": "3222",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "1474",
+          "poststed": "LØRENSKOG"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "kode": "70.200"
+        },
+        "name": "SIDDIQI INVEST AS",
+        "organisation_number": "928404722"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 12626500.0, operating_result: -2028445.0, profit_before_tax: -7486661.0, annual_result: -7356796.0, assets: 22184744.0, equity: -5932685.0, debt: 28117429.0",
+      "content_sha256": "ba7e3e3eafced5c794b5d2899d5ea4de3d20ee7114b4f29f05e0bf91aab76962",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "http_status": 200,
+      "id": "ev-fin-997957776-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:54.233152Z",
+      "snapshot_ref": "ba/ba7e3e3eafced5c794b5d2899d5ea4de3d20ee7114b4f29f05e0bf91aab76962.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 818000.0, operating_result: -2681589.0, profit_before_tax: -3051962.0, annual_result: -3051962.0, assets: 20375220.0, equity: -8984646.0, debt: 29359866.0",
+      "content_sha256": "3453bfd82c4942deca0681d8e73fff747111f0bfc97cba96d36edf8c8afaeab3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "http_status": 200,
+      "id": "ev-fin-997957776-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:54.233152Z",
+      "snapshot_ref": "34/3453bfd82c4942deca0681d8e73fff747111f0bfc97cba96d36edf8c8afaeab3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: -925823.0, operating_result: -1424302.0, profit_before_tax: -2000413.0, annual_result: -4355173.0, assets: 10018737.0, equity: -11519541.0, debt: 21538278.0",
+      "content_sha256": "2eb97c86928645b2b82a91a228f7e3a5a29feccdcbb5e088805922516f9824f9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "http_status": 200,
+      "id": "ev-fin-997957776-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:54.233152Z",
+      "snapshot_ref": "2e/2eb97c86928645b2b82a91a228f7e3a5a29feccdcbb5e088805922516f9824f9.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 928404722: SIDDIQI INVEST AS",
+      "content_sha256": "f3ea10803ccc2c6824cb6ce3d251af1ab747acf521206d448a8335ecd83eb08a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997957776&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-997957776-928404722",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:57.786388Z",
+      "snapshot_ref": "f3/f3ea10803ccc2c6824cb6ce3d251af1ab747acf521206d448a8335ecd83eb08a.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997957776&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 997957776 SIDDIQI INVEST AS",
+      "content_sha256": "47b033f21580abf6d34307a3110436155090f635dd5bef6690a3715d16b1b3c1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-997957776",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "47/47b033f21580abf6d34307a3110436155090f635dd5bef6690a3715d16b1b3c1.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kaleemullah M Siddiqi",
+      "content_sha256": "b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "http_status": 200,
+      "id": "ev-role-997957776-2a10e4de3989",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.426320Z",
+      "snapshot_ref": "b0/b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Rehan Siddiqi",
+      "content_sha256": "b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "http_status": 200,
+      "id": "ev-role-997957776-640dc32e3760",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.426320Z",
+      "snapshot_ref": "b0/b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Rehan Siddiqi",
+      "content_sha256": "b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "http_status": 200,
+      "id": "ev-role-997957776-ec425cca312b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.426320Z",
+      "snapshot_ref": "b0/b02b5919ad286aaf48a1ba32dde8dae259da58543cedca76519cd12cedd2459e.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0d8c039dd517c2e50b3d",
+        "291325d2743004007359",
+        "32f63d86136f14d56e44",
+        "44c051cc72c74e74c3fa",
+        "49363db4d2a4c1fa2453",
+        "57004b09dbcc625130af",
+        "68bc3ce9d89c0de7f15f",
+        "73586e06e8d6696f0a5a",
+        "7b1f9fad61363708c524",
+        "91f4b1ccc13c624b6f86",
+        "9f0aed5aae4d88680e0a",
+        "b01fd7b759eb1f670d4f",
+        "b0ec543ed45122b32d03",
+        "c1882f33700882fff656",
+        "c64b51b8fd3ff29e059e",
+        "d0ebb5c1d305909ed401",
+        "d67e92be2e49151cea06",
+        "dc22b7d97b8a3bc5157e",
+        "f0c4ddda7ffb7a70f268",
+        "f0fa0db0994fe05028d8",
+        "fd45650f722d3a7145c8"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "957f5eb48e5924f1d739",
+        "a491d6a433435bb44194",
+        "fe26d3ebe45d0477cce6"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3132c48f845395a560f6",
+        "45b3f713821a65113e1d",
+        "ef12b2b85f4c054eefb7"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "5d3a3881f004385bf29d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "fe26d3ebe45d0477cce6",
+      "957f5eb48e5924f1d739",
+      "a491d6a433435bb44194"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SIDDIQI INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 7622,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "997957776",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:04.107620Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "997957776",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "b8c42ff1a1f60c3124a22e05dc5250d40907e6d45c085656659cd510e6d21049",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:54.233152Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/997957776",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -7356796.0,
+              "assets": 22184744.0,
+              "currency": "NOK",
+              "debt": 28117429.0,
+              "equity": -5932685.0,
+              "operating_result": -2028445.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -7486661.0,
+              "record_id": 5487769,
+              "revenue": 12626500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -3051962.0,
+              "assets": 20375220.0,
+              "currency": "NOK",
+              "debt": 29359866.0,
+              "equity": -8984646.0,
+              "operating_result": -2681589.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -3051962.0,
+              "record_id": 6339801,
+              "revenue": 818000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -4355173.0,
+              "assets": 10018737.0,
+              "currency": "NOK",
+              "debt": 21538278.0,
+              "equity": -11519541.0,
+              "operating_result": -1424302.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -2000413.0,
+              "record_id": 6829022,
+              "revenue": -925823.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:56.602650Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/997957776",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "1b3a395dadb4853699cc1336349d077088db2e8cee80056206915f596acffaf5",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:57.786388Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=997957776&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Rødovre vei 17A"
+                ],
+                "kommune": "LØRENSKOG",
+                "kommunenummer": "3222",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "1474",
+                "poststed": "LØRENSKOG"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+                "kode": "70.200"
+              },
+              "name": "SIDDIQI INVEST AS",
+              "organisation_number": "928404722"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "997957776",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Investeringsvirksomhet og konsulentvirksomhet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Rødovre vei 17A",
+          "forretningsadresse.kommune": "LØRENSKOG",
+          "forretningsadresse.kommunenummer": "3222",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "1474",
+          "forretningsadresse.poststed": "LØRENSKOG",
+          "fravalgRevisjonBeslutningsDato": "2025-12-31",
+          "fravalgRevisjonDato": "2026-02-03",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "11170",
+          "kapital.belop": "1117000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2017-02-06",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning",
+          "naeringskode1.kode": "70.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SIDDIQI INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "997957776",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2012-02-11",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2012-02-11",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2012-01-02",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2023-03-22",
+          "vedtektsfestetFormaal": "Drive virksomhet innenfor utvikling og investering i andre selskaper og alt som står i forbindelse med de forannevnte virksomheter, samt salg av konsulent- og rådgivningstjenester, kjøp og salg av eiendommer, utleie, bygg- og entreprenørvirksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "1f38e5a83845666d37c4693944b8eb4d628e2555b2e90248af4aefedfb7a3507",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:55.426320Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/997957776/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2019-09-27",
+              "name": "Rehan Siddiqi",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-03-21",
+              "name": "Rehan Siddiqi",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-03-21",
+              "name": "Kaleemullah M Siddiqi",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "70.200",
+    "industry_label": "Bedriftsrådgivning og annen administrativ rådgivning",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "LØRENSKOG",
+    "municipality_number": "3222",
+    "name": "SIDDIQI INVEST AS",
+    "organisation_number": "997957776",
+    "run_metrics": {
+      "latencies_ms": [
+        2062,
+        1187,
+        1187,
+        1172,
+        1046,
+        968
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:59Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SIDDIQI INVEST AS (AS, org.nr 997957776)",
+    "what_it_does": "SIDDIQI INVEST AS is classified under NACE code 70.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SIDDIQI INVEST AS reported revenue of -925,823 NOK and an operating result of -1,424,302 NOK. Net result was -4,355,173 NOK, with total assets of 10,018,737 NOK and equity of -11,519,541 NOK. The company was loss-making in 2025. Revenue contracted by -213.2% year-over-year from 2024 (derived: YoY revenue change).",
+    "leadership_and_structure": "The board of directors is chaired by Rehan Siddiqi. Daily operations are led by general manager Rehan Siddiqi. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SIDDIQI INVEST AS is classified under NACE code 70.200 (unspecified).",
+        "claim_ids": [
+          "a491d6a433435bb44194",
+          "fe26d3ebe45d0477cce6"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "957f5eb48e5924f1d739",
+          "a491d6a433435bb44194"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SIDDIQI INVEST AS reported revenue of -925,823 NOK and an operating result of -1,424,302 NOK.",
+        "claim_ids": [
+          "f0fa0db0994fe05028d8",
+          "b01fd7b759eb1f670d4f"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -4,355,173 NOK, with total assets of 10,018,737 NOK and equity of -11,519,541 NOK.",
+        "claim_ids": [
+          "d67e92be2e49151cea06",
+          "49363db4d2a4c1fa2453",
+          "0d8c039dd517c2e50b3d"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "d67e92be2e49151cea06"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue contracted by -213.2% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "f0fa0db0994fe05028d8",
+          "9f0aed5aae4d88680e0a"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Rehan Siddiqi.",
+        "claim_ids": [
+          "ef12b2b85f4c054eefb7"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Rehan Siddiqi.",
+        "claim_ids": [
+          "45b3f713821a65113e1d"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "3132c48f845395a560f6",
+          "45b3f713821a65113e1d",
+          "ef12b2b85f4c054eefb7"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "fe26d3ebe45d0477cce6"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "5d3a3881f004385bf29d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "fe26d3ebe45d0477cce6"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "fe26d3ebe45d0477cce6"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "fe26d3ebe45d0477cce6"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1319 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "1a991806c3ec8a06d160",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 819.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1c51a937838f3bdb4b47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -36045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4b19492812c6ab7b8e87",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "836baf89694195157e9b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 74378.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "85a55b06d0d66600680a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 73328.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cbd9ca290a15632825a7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 74378.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b752c138e42ce8394cba",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79373.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec145e6300d39ad98d31",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79604.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f13ccf94ac314d7e4c36",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 79608.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0a021b2e511f4ad7cdb3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5226.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3fd8af9b327f88de4102",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5230.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fd4a82138138ba0b7914",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -6045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21b025ffb0d9476a6c2f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "92695cc6fb9ec091d6cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1050.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f60c98aa5359800a9232",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -36045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "19a1c278673fbb231a53",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1050.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "780846c3b15bc3f4d9a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -36045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b4fa9f9d697f596bb94c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a5fc7f4035563b3f51fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "df08fc111646cdb41dab",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-915441815-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aed645666b65e9a5c6c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915441815"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "33.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b540967924267e1dc48",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915441815"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b11e401275b6e1abf510",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-915441815"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "KYSTSERVICE HELGELAND AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "26a2745365c2e4db66f8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915441815-64db82351b99"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Vegard Morskogen Forfang",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4e9f6132625429e31f2e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915441815-6a92d3c9d533"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Dag Ivar Forfang",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7ebae4e47e94b1eb254c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915441815-1509d4954151"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Tomine Flæsen Dalen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "80c392877734fd1904ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-915441815-0617855a9a6b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:20Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:20Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Vegard Morskogen Forfang",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 0.0, operating_result: -36045.0, profit_before_tax: -36045.0, annual_result: -36045.0, assets: 73328.0, equity: -6045.0, debt: 79373.0",
+      "content_sha256": "f3f93a8a5ab126155de08a82b3ccd60228b4905725f952088974b61b2018c4b4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "http_status": 200,
+      "id": "ev-fin-915441815-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:01.147910Z",
+      "snapshot_ref": "f3/f3f93a8a5ab126155de08a82b3ccd60228b4905725f952088974b61b2018c4b4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 0.0, operating_result: 1050.0, profit_before_tax: 1050.0, annual_result: 819.0, assets: 74378.0, equity: -5226.0, debt: 79604.0",
+      "content_sha256": "e30bddfcfdf403f664a5f3cfbb9979f3adfe4ea0364659a35ed0c5c41bcdc2dd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "http_status": 200,
+      "id": "ev-fin-915441815-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:01.147910Z",
+      "snapshot_ref": "e3/e30bddfcfdf403f664a5f3cfbb9979f3adfe4ea0364659a35ed0c5c41bcdc2dd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: -4.0, profit_before_tax: -4.0, annual_result: -4.0, assets: 74378.0, equity: -5230.0, debt: 79608.0",
+      "content_sha256": "57992f14de7876a6ff4976369c6ec24d8139d254639ed4c58386036d6b2f07f3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "http_status": 200,
+      "id": "ev-fin-915441815-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:01.147910Z",
+      "snapshot_ref": "57/57992f14de7876a6ff4976369c6ec24d8139d254639ed4c58386036d6b2f07f3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 915441815 KYSTSERVICE HELGELAND AS",
+      "content_sha256": "18bf4c3d10fb3eba78ae0cced667885da1fa4bfd407ba95e3a500eefb721547b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-915441815",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "18/18bf4c3d10fb3eba78ae0cced667885da1fa4bfd407ba95e3a500eefb721547b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Vegard Morskogen Forfang",
+      "content_sha256": "a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "http_status": 200,
+      "id": "ev-role-915441815-0617855a9a6b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:02.998822Z",
+      "snapshot_ref": "a1/a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Tomine Flæsen Dalen",
+      "content_sha256": "a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "http_status": 200,
+      "id": "ev-role-915441815-1509d4954151",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:02.998822Z",
+      "snapshot_ref": "a1/a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Vegard Morskogen Forfang",
+      "content_sha256": "a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "http_status": 200,
+      "id": "ev-role-915441815-64db82351b99",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:02.998822Z",
+      "snapshot_ref": "a1/a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Dag Ivar Forfang",
+      "content_sha256": "a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "http_status": 200,
+      "id": "ev-role-915441815-6a92d3c9d533",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:02.998822Z",
+      "snapshot_ref": "a1/a1eb93ad4a1f1687f26228f8552bae1c37f631b6e17a564f4795834fa733943a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0a021b2e511f4ad7cdb3",
+        "19a1c278673fbb231a53",
+        "1a991806c3ec8a06d160",
+        "1c51a937838f3bdb4b47",
+        "21b025ffb0d9476a6c2f",
+        "3fd8af9b327f88de4102",
+        "4b19492812c6ab7b8e87",
+        "780846c3b15bc3f4d9a9",
+        "836baf89694195157e9b",
+        "85a55b06d0d66600680a",
+        "92695cc6fb9ec091d6cd",
+        "a5fc7f4035563b3f51fa",
+        "b4fa9f9d697f596bb94c",
+        "b752c138e42ce8394cba",
+        "cbd9ca290a15632825a7",
+        "df08fc111646cdb41dab",
+        "ec145e6300d39ad98d31",
+        "f13ccf94ac314d7e4c36",
+        "f60c98aa5359800a9232",
+        "fd4a82138138ba0b7914"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "7b540967924267e1dc48",
+        "aed645666b65e9a5c6c9",
+        "b11e401275b6e1abf510"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "26a2745365c2e4db66f8",
+        "4e9f6132625429e31f2e",
+        "7ebae4e47e94b1eb254c",
+        "80c392877734fd1904ed"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "b11e401275b6e1abf510",
+      "7b540967924267e1dc48",
+      "aed645666b65e9a5c6c9"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "KYSTSERVICE HELGELAND AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 10,
+    "runtime_ms": 20777,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "915441815",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:50.510122Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "915441815",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "a849df45bf7a4430507d5e97737d5e64cafa7e3cdfa2b2b64c1cf3554e2f7d98",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:01.147910Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/915441815",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -36045.0,
+              "assets": 73328.0,
+              "currency": "NOK",
+              "debt": 79373.0,
+              "equity": -6045.0,
+              "operating_result": -36045.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -36045.0,
+              "record_id": 4995223,
+              "revenue": 0.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 819.0,
+              "assets": 74378.0,
+              "currency": "NOK",
+              "debt": 79604.0,
+              "equity": -5226.0,
+              "operating_result": 1050.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1050.0,
+              "record_id": 6249017,
+              "revenue": 0.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -4.0,
+              "assets": 74378.0,
+              "currency": "NOK",
+              "debt": 79608.0,
+              "equity": -5230.0,
+              "operating_result": -4.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -4.0,
+              "record_id": 6767378,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:04.172355Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/915441815",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "0d4142bf98b2ef68371bb450fd67d504ccbd5864e1ada564be065f0fbfd62c3c",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:05.402298Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=915441815&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "915441815",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Mekanisk bistand, ved service, reparasjon og vedlikehold til lands og på sjø.",
+          "antallAnsatte": "",
+          "epostadresse": "forfang84@hotmail.com",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Torolv Kveldulvsons gate 75",
+          "forretningsadresse.kommune": "ALSTAHAUG",
+          "forretningsadresse.kommunenummer": "1820",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8800",
+          "forretningsadresse.poststed": "SANDNESSJØEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2015-06-09",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2015-06-09",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "450 81 586",
+          "naeringskode1.beskrivelse": "Reparasjon og vedlikehold av maskiner",
+          "naeringskode1.kode": "33.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "KYSTSERVICE HELGELAND AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "915441815",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2015-06-09",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2015-06-09",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2015-05-28",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2015-05-28",
+          "vedtektsfestetFormaal": "Mekanisk bistand, ved service, reparasjon og vedlikehold til lands og på sjø."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "5e47f2ada37bbc70eb01af756b0404d040bf0e82d43d4c1e23026a0993be0eb9",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:02.998822Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/915441815/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2015-06-09",
+              "name": "Vegard Morskogen Forfang",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2015-06-09",
+              "name": "Vegard Morskogen Forfang",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2015-06-09",
+              "name": "Tomine Flæsen Dalen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2015-06-09",
+              "name": "Dag Ivar Forfang",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "33.120",
+    "industry_label": "Reparasjon og vedlikehold av maskiner",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ALSTAHAUG",
+    "municipality_number": "1820",
+    "name": "KYSTSERVICE HELGELAND AS",
+    "organisation_number": "915441815",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1842,
+        1172,
+        1235,
+        46,
+        31,
+        15062,
+        31,
+        62,
+        78
+      ],
+      "requests": 10
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:20Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "KYSTSERVICE HELGELAND AS (AS, org.nr 915441815)",
+    "what_it_does": "KYSTSERVICE HELGELAND AS is classified under NACE code 33.120 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -4 NOK, with total assets of 74,378 NOK and equity of -5,230 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Vegard Morskogen Forfang. Daily operations are led by general manager Vegard Morskogen Forfang. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "KYSTSERVICE HELGELAND AS is classified under NACE code 33.120 (unspecified).",
+        "claim_ids": [
+          "aed645666b65e9a5c6c9",
+          "b11e401275b6e1abf510"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "7b540967924267e1dc48",
+          "aed645666b65e9a5c6c9"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -4 NOK, with total assets of 74,378 NOK and equity of -5,230 NOK.",
+        "claim_ids": [
+          "4b19492812c6ab7b8e87",
+          "836baf89694195157e9b",
+          "3fd8af9b327f88de4102"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "4b19492812c6ab7b8e87"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Vegard Morskogen Forfang.",
+        "claim_ids": [
+          "26a2745365c2e4db66f8"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Vegard Morskogen Forfang.",
+        "claim_ids": [
+          "80c392877734fd1904ed"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "26a2745365c2e4db66f8",
+          "4e9f6132625429e31f2e",
+          "7ebae4e47e94b1eb254c",
+          "80c392877734fd1904ed"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "b11e401275b6e1abf510"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "b11e401275b6e1abf510"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "b11e401275b6e1abf510"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "b11e401275b6e1abf510"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "b11e401275b6e1abf510"
+        ]
+      }
+    ]
+  }
+}

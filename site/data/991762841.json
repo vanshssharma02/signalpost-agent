@@ -1,0 +1,1433 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0a0536caeaa20870c17f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 311570.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4e9ebce9a2d7f59dcd15",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 163892.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d6cf1ddfc19cdd0e73e8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 298458.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5e8fbb2469abd3f1c124",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1809803.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8d4c56402aeca2765cea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1806028.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb9f24051e0f6f300afa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1324924.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "05b9fffd5892e6ff5aa8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 782093.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5d2967099bf9d42aa570",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 461106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c31ce494952b21dab74f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 466748.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4ff1054c3aef07dd1266",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1339280.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9854ec462b5b03e503f8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1027709.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3353c0b537cac9b77a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 863818.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "629ded71f29783a068af",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 172703.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a68085517f966c37af75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 361659.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e7e47115ce7a42354b8a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 373300.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "16c1e1b6ec3f9842026d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 381863.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aab12ada92bb0c008488",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 210468.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dd2f4437fc6b44633773",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 399268.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "38605fa71fe5fc429b76",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2145892.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7a041614acfba7d51f3c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2747105.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7ee442b6144e8eae81c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-991762841-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2514784.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "51026dc452dede524c09",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-991762841"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "86.960"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c909149e57b53835fb1b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-991762841"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f5fc79396ab670fed3d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-991762841"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NAPRAPATSENTERET I NORD AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4edd805bed07acb8f5a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-991762841-2a520b2d9db4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Marianne Antonsen Gamst",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6f62358528295893f8be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-991762841-21d375da63f1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Sindre Hol Gamst",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "83e9bc49673c4b0a0822",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-991762841-4bde68d9416b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Marianne Antonsen Gamst",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8693a919bcbd29073ecd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-991762841-d1c045f99776"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Roar Antonsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc9b2b648e021b9182c0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-991762841-991843825"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Dronningens gate 43"
+          ],
+          "kommune": "NARVIK",
+          "kommunenummer": "1806",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8514",
+          "poststed": "NARVIK"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+          "kode": "86.960"
+        },
+        "name": "NAPRAPATSENTERET I NORD AS",
+        "organisation_number": "991843825"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 2145892.0, operating_result: 373300.0, profit_before_tax: 381863.0, annual_result: 298458.0, assets: 1324924.0, equity: 863818.0, debt: 461106.0",
+      "content_sha256": "0054c2d1c5cd7995ec2cc178f2b4132237ace81f0530147b7606fd25ca2f5ee4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "http_status": 200,
+      "id": "ev-fin-991762841-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.620104Z",
+      "snapshot_ref": "00/0054c2d1c5cd7995ec2cc178f2b4132237ace81f0530147b7606fd25ca2f5ee4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 2514784.0, operating_result: 172703.0, profit_before_tax: 210468.0, annual_result: 163892.0, assets: 1809803.0, equity: 1027709.0, debt: 782093.0",
+      "content_sha256": "218b7b0116abad8a99d1f16a42c18d676ab2031bdf3a0c4ab7dba8bdc46057e5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "http_status": 200,
+      "id": "ev-fin-991762841-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.620104Z",
+      "snapshot_ref": "21/218b7b0116abad8a99d1f16a42c18d676ab2031bdf3a0c4ab7dba8bdc46057e5.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2747105.0, operating_result: 361659.0, profit_before_tax: 399268.0, annual_result: 311570.0, assets: 1806028.0, equity: 1339280.0, debt: 466748.0",
+      "content_sha256": "96f7d2f6628a5710f917ac8382c6036204786c7d5fd6b4e7defa85506ae31583",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "http_status": 200,
+      "id": "ev-fin-991762841-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.620104Z",
+      "snapshot_ref": "96/96f7d2f6628a5710f917ac8382c6036204786c7d5fd6b4e7defa85506ae31583.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 991843825: NAPRAPATSENTERET I NORD AS",
+      "content_sha256": "3df94d3f764943a066c0d334d13b3736ea14a9d2abfff69708217078f1ec1b81",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=991762841&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-991762841-991843825",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:41.222855Z",
+      "snapshot_ref": "3d/3df94d3f764943a066c0d334d13b3736ea14a9d2abfff69708217078f1ec1b81.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=991762841&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 991762841 NAPRAPATSENTERET I NORD AS",
+      "content_sha256": "5982923e9d34b551091defddbdd18882143b5f08bf780ca5b6bea3d9d96475a6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-991762841",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "59/5982923e9d34b551091defddbdd18882143b5f08bf780ca5b6bea3d9d96475a6.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Sindre Hol Gamst",
+      "content_sha256": "861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "http_status": 200,
+      "id": "ev-role-991762841-21d375da63f1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.798835Z",
+      "snapshot_ref": "86/861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Marianne Antonsen Gamst",
+      "content_sha256": "861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "http_status": 200,
+      "id": "ev-role-991762841-2a520b2d9db4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.798835Z",
+      "snapshot_ref": "86/861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Marianne Antonsen Gamst",
+      "content_sha256": "861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "http_status": 200,
+      "id": "ev-role-991762841-4bde68d9416b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.798835Z",
+      "snapshot_ref": "86/861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Roar Antonsen",
+      "content_sha256": "861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "http_status": 200,
+      "id": "ev-role-991762841-d1c045f99776",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.798835Z",
+      "snapshot_ref": "86/861baed2a07096de66146dc79e7389825c97ebcd54af584ac0a45f919f2861d9.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "05b9fffd5892e6ff5aa8",
+        "0a0536caeaa20870c17f",
+        "16c1e1b6ec3f9842026d",
+        "38605fa71fe5fc429b76",
+        "4e9ebce9a2d7f59dcd15",
+        "4ff1054c3aef07dd1266",
+        "5d2967099bf9d42aa570",
+        "5e8fbb2469abd3f1c124",
+        "629ded71f29783a068af",
+        "7a041614acfba7d51f3c",
+        "7ee442b6144e8eae81c6",
+        "8d4c56402aeca2765cea",
+        "9854ec462b5b03e503f8",
+        "a68085517f966c37af75",
+        "aab12ada92bb0c008488",
+        "c31ce494952b21dab74f",
+        "d6cf1ddfc19cdd0e73e8",
+        "dd2f4437fc6b44633773",
+        "e7e47115ce7a42354b8a",
+        "f3353c0b537cac9b77a0",
+        "fb9f24051e0f6f300afa"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3f5fc79396ab670fed3d",
+        "51026dc452dede524c09",
+        "c909149e57b53835fb1b"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4edd805bed07acb8f5a0",
+        "6f62358528295893f8be",
+        "83e9bc49673c4b0a0822",
+        "8693a919bcbd29073ecd"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "dc9b2b648e021b9182c0"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "3f5fc79396ab670fed3d",
+      "c909149e57b53835fb1b",
+      "51026dc452dede524c09"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NAPRAPATSENTERET I NORD AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 18198,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "991762841",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.612357Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "991762841",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "a69f25547f2dc214430e0f4b8c768b92f9a254ad3974baf4d827496ae03d0e07",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:37.620104Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/991762841",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 298458.0,
+              "assets": 1324924.0,
+              "currency": "NOK",
+              "debt": 461106.0,
+              "equity": 863818.0,
+              "operating_result": 373300.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 381863.0,
+              "record_id": 4679635,
+              "revenue": 2145892.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 163892.0,
+              "assets": 1809803.0,
+              "currency": "NOK",
+              "debt": 782093.0,
+              "equity": 1027709.0,
+              "operating_result": 172703.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 210468.0,
+              "record_id": 5582565,
+              "revenue": 2514784.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 311570.0,
+              "assets": 1806028.0,
+              "currency": "NOK",
+              "debt": 466748.0,
+              "equity": 1339280.0,
+              "operating_result": 361659.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 399268.0,
+              "record_id": 6610465,
+              "revenue": 2747105.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:40.018097Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/991762841",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "15e635098df2abafcf83ed5e4b891b78072d20702ef48609c14effd1e824b15a",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:41.222855Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=991762841&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Dronningens gate 43"
+                ],
+                "kommune": "NARVIK",
+                "kommunenummer": "1806",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8514",
+                "poststed": "NARVIK"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+                "kode": "86.960"
+              },
+              "name": "NAPRAPATSENTERET I NORD AS",
+              "organisation_number": "991843825"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "991762841",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Helsetjenester, herunder eierskap i andre foretak med tilsvarende virksomhet, samt annet som står i naturlig forbindelse med dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Dronningens gate 43",
+          "forretningsadresse.kommune": "NARVIK",
+          "forretningsadresse.kommunenummer": "1806",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8514",
+          "forretningsadresse.poststed": "NARVIK",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2013-10-30",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2007-10-15",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "95442510",
+          "naeringskode1.beskrivelse": "Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+          "naeringskode1.kode": "86.960",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NAPRAPATSENTERET I NORD AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "991762841",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Augestadveien 28B",
+          "postadresse.kommune": "NORDRE FOLLO",
+          "postadresse.kommunenummer": "3207",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "1413",
+          "postadresse.poststed": "TÅRNÅSEN",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+          "registreringsdatoForetaksregisteret": "2007-10-15",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2017-07-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-11-29",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-07-10",
+          "registreringsdatoenhetsregisteret": "2007-10-15",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2007-09-17",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2007-09-17",
+          "vedtektsfestetFormaal": "Helsetjenester, herunder eierskap i andre foretak med tilsvarende virksomhet, samt annet som står i naturlig forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "78158f576e1e5cf2240c15011d80ebe1defcd27a5f460e94dc5093b5b748254f",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.798835Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/991762841/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2013-11-09",
+              "name": "Marianne Antonsen Gamst",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2007-10-15",
+              "name": "Sindre Hol Gamst",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2007-10-15",
+              "name": "Marianne Antonsen Gamst",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2007-10-15",
+              "name": "Roar Antonsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "86.960",
+    "industry_label": "Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NARVIK",
+    "municipality_number": "1806",
+    "name": "NAPRAPATSENTERET I NORD AS",
+    "organisation_number": "991762841",
+    "run_metrics": {
+      "latencies_ms": [
+        1186,
+        1172,
+        1218,
+        1203,
+        77,
+        31,
+        62,
+        5078,
+        1266,
+        1202,
+        1157,
+        31,
+        125,
+        15,
+        3859,
+        516
+      ],
+      "requests": 16
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:54Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NAPRAPATSENTERET I NORD AS (AS, org.nr 991762841)",
+    "what_it_does": "NAPRAPATSENTERET I NORD AS is classified under NACE code 86.960 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, NAPRAPATSENTERET I NORD AS reported revenue of 2,747,105 NOK and an operating result of 361,659 NOK. Net result was 311,570 NOK, with total assets of 1,806,028 NOK and equity of 1,339,280 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 13.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Sindre Hol Gamst. Daily operations are led by general manager Marianne Antonsen Gamst. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NAPRAPATSENTERET I NORD AS is classified under NACE code 86.960 (unspecified).",
+        "claim_ids": [
+          "51026dc452dede524c09",
+          "3f5fc79396ab670fed3d"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c909149e57b53835fb1b",
+          "51026dc452dede524c09"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, NAPRAPATSENTERET I NORD AS reported revenue of 2,747,105 NOK and an operating result of 361,659 NOK.",
+        "claim_ids": [
+          "7a041614acfba7d51f3c",
+          "a68085517f966c37af75"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 311,570 NOK, with total assets of 1,806,028 NOK and equity of 1,339,280 NOK.",
+        "claim_ids": [
+          "0a0536caeaa20870c17f",
+          "8d4c56402aeca2765cea",
+          "4ff1054c3aef07dd1266"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "7a041614acfba7d51f3c",
+          "7ee442b6144e8eae81c6"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 13.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "a68085517f966c37af75",
+          "7a041614acfba7d51f3c"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Sindre Hol Gamst.",
+        "claim_ids": [
+          "6f62358528295893f8be"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Marianne Antonsen Gamst.",
+        "claim_ids": [
+          "83e9bc49673c4b0a0822"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "4edd805bed07acb8f5a0",
+          "6f62358528295893f8be",
+          "83e9bc49673c4b0a0822",
+          "8693a919bcbd29073ecd"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "3f5fc79396ab670fed3d"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "dc9b2b648e021b9182c0"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "3f5fc79396ab670fed3d"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "3f5fc79396ab670fed3d"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "3f5fc79396ab670fed3d"
+        ]
+      }
+    ]
+  }
+}

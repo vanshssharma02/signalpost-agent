@@ -1,0 +1,1497 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "306abefabe92163c9d99",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 248326.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b142831929c4c8bf5aed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 212782.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa988f73efaeb2906ea2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4932.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "143fa3db2505b5b78a91",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2231344.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "660a2124e7d399969052",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1512871.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec9ba8cc2a8ff5f9cd67",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1881174.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eb114069ef00d235f818",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 521552.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fa20fa0e9f195556e0e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 148317.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fbecfc8a6a6ba0f7e0a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 623396.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "08f603b1531807d00148",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1607948.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8b91a23c260e89c659d7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1364554.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e25e28c2b01de3e58182",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1359622.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3fe1d37ba354deb0e30b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 235083.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "776891b9fed3f60df654",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 267024.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7cac4d188a6540e78ac0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -45919.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1c1f51f2d907d03b6b00",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 269869.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0f7445c5c5c20fa6ba0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -4932.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ff2d2cf781e657ebc329",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 307831.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "56e89d032c8220d11198",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 439980.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5d3146c7793dc9e478c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 609272.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c6c429cd5cdb05a31bb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-941316182-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 503601.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e72f63a5f5553ee797fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-941316182"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "22.260"
+    },
+    {
+      "availability": "available",
+      "claim_id": "939f76989d3ff3d832b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-941316182"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2762d36d7bff902c8e12",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-941316182"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "OMA PLAST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "b44e0e13307487491396",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-941316182"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 5
+    },
+    {
+      "availability": "available",
+      "claim_id": "353039cdff27e2dbc513",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-941316182-08dd6247678e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "TOTEN REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8bb88cf9360dda3031bc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-941316182-042cdd0c9626"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stig David Markestad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8fdc76c2e0a61ff9dc49",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-941316182-b1883a495226"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Olav Markestad",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8afa23ed537b499e7b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-941316182-46eeba6ad039"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Olav Markestad",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fd2a3ed5161b1d5b5231",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-941316182-2d814640512f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Arnhild Markestad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "42508b55340a193c4a8b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-941316182-972077496"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "BØRSVOLD"
+          ],
+          "kommune": "VESTRE TOTEN",
+          "kommunenummer": "3443",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2846",
+          "poststed": "BØVERBRU"
+        },
+        "employees": 5,
+        "industry": {
+          "beskrivelse": "Produksjon av plastprodukter ellers",
+          "kode": "22.260"
+        },
+        "name": "OMA PLAST AS",
+        "organisation_number": "972077496"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 439980.0, operating_result: 235083.0, profit_before_tax: 269869.0, annual_result: 212782.0, assets: 1512871.0, equity: 1364554.0, debt: 148317.0",
+      "content_sha256": "923e01760e06b02096185af15c5a2bcde2982fa89d8b4c423c3a0bbd864170da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "http_status": 200,
+      "id": "ev-fin-941316182-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.196774Z",
+      "snapshot_ref": "92/923e01760e06b02096185af15c5a2bcde2982fa89d8b4c423c3a0bbd864170da.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 503601.0, operating_result: -45919.0, profit_before_tax: -4932.0, annual_result: -4932.0, assets: 1881174.0, equity: 1359622.0, debt: 521552.0",
+      "content_sha256": "0a2a7585889db348fd48982c1751dcb94a0631330cbb12441d277c1911d57019",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "http_status": 200,
+      "id": "ev-fin-941316182-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.196774Z",
+      "snapshot_ref": "0a/0a2a7585889db348fd48982c1751dcb94a0631330cbb12441d277c1911d57019.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 609272.0, operating_result: 267024.0, profit_before_tax: 307831.0, annual_result: 248326.0, assets: 2231344.0, equity: 1607948.0, debt: 623396.0",
+      "content_sha256": "2a8910ac2d97cfa6d7e5e5ca53ec21c3bca201472714fd93d101da6168aa3fac",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "http_status": 200,
+      "id": "ev-fin-941316182-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.196774Z",
+      "snapshot_ref": "2a/2a8910ac2d97cfa6d7e5e5ca53ec21c3bca201472714fd93d101da6168aa3fac.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 972077496: OMA PLAST AS",
+      "content_sha256": "13e87ba2fad85e87884a0eff93dc51df14ed5acbaeac3edea5b0ba4370e9789e",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=941316182&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-941316182-972077496",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:40.736383Z",
+      "snapshot_ref": "13/13e87ba2fad85e87884a0eff93dc51df14ed5acbaeac3edea5b0ba4370e9789e.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=941316182&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 941316182 OMA PLAST AS",
+      "content_sha256": "51c345562303151e243a11e621607cc46b3975f6d620700c99834f21a1394982",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-941316182",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "51/51c345562303151e243a11e621607cc46b3975f6d620700c99834f21a1394982.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Stig David Markestad",
+      "content_sha256": "0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "http_status": 200,
+      "id": "ev-role-941316182-042cdd0c9626",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.375676Z",
+      "snapshot_ref": "0a/0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: TOTEN REGNSKAP AS",
+      "content_sha256": "0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "http_status": 200,
+      "id": "ev-role-941316182-08dd6247678e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.375676Z",
+      "snapshot_ref": "0a/0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Arnhild Markestad",
+      "content_sha256": "0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "http_status": 200,
+      "id": "ev-role-941316182-2d814640512f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.375676Z",
+      "snapshot_ref": "0a/0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Olav Markestad",
+      "content_sha256": "0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "http_status": 200,
+      "id": "ev-role-941316182-46eeba6ad039",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.375676Z",
+      "snapshot_ref": "0a/0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Olav Markestad",
+      "content_sha256": "0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "http_status": 200,
+      "id": "ev-role-941316182-b1883a495226",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.375676Z",
+      "snapshot_ref": "0a/0abe9abf52c716d002607fa9acd3f5a2151e304366ce281be0481cfd9a22c8da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "08f603b1531807d00148",
+        "143fa3db2505b5b78a91",
+        "1c1f51f2d907d03b6b00",
+        "306abefabe92163c9d99",
+        "3fe1d37ba354deb0e30b",
+        "56e89d032c8220d11198",
+        "5d3146c7793dc9e478c7",
+        "660a2124e7d399969052",
+        "776891b9fed3f60df654",
+        "7cac4d188a6540e78ac0",
+        "8b91a23c260e89c659d7",
+        "8c6c429cd5cdb05a31bb",
+        "b142831929c4c8bf5aed",
+        "e25e28c2b01de3e58182",
+        "eb114069ef00d235f818",
+        "ec9ba8cc2a8ff5f9cd67",
+        "f0f7445c5c5c20fa6ba0",
+        "fa20fa0e9f195556e0e5",
+        "fa988f73efaeb2906ea2",
+        "fbecfc8a6a6ba0f7e0a9",
+        "ff2d2cf781e657ebc329"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2762d36d7bff902c8e12",
+        "939f76989d3ff3d832b8",
+        "b44e0e13307487491396",
+        "e72f63a5f5553ee797fb"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "353039cdff27e2dbc513",
+        "8bb88cf9360dda3031bc",
+        "8fdc76c2e0a61ff9dc49",
+        "d8afa23ed537b499e7b4",
+        "fd2a3ed5161b1d5b5231"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "42508b55340a193c4a8b"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "2762d36d7bff902c8e12",
+      "939f76989d3ff3d832b8",
+      "b44e0e13307487491396",
+      "e72f63a5f5553ee797fb"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "OMA PLAST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 9042,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "941316182",
+  "profile": {
+    "bankrupt": false,
+    "employees": 5,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.278192Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "941316182",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "113350a62572e75ad58426155bcfc4932da2ffd60dd0e49e64934835a424c249",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:37.196774Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/941316182",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 212782.0,
+              "assets": 1512871.0,
+              "currency": "NOK",
+              "debt": 148317.0,
+              "equity": 1364554.0,
+              "operating_result": 235083.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 269869.0,
+              "record_id": 5298767,
+              "revenue": 439980.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -4932.0,
+              "assets": 1881174.0,
+              "currency": "NOK",
+              "debt": 521552.0,
+              "equity": 1359622.0,
+              "operating_result": -45919.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -4932.0,
+              "record_id": 6194849,
+              "revenue": 503601.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 248326.0,
+              "assets": 2231344.0,
+              "currency": "NOK",
+              "debt": 623396.0,
+              "equity": 1607948.0,
+              "operating_result": 267024.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 307831.0,
+              "record_id": 7090300,
+              "revenue": 609272.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:39.549337Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/941316182",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "16999af4fc2c9994c4b971b0e2305173aae7f50f4fc26940ceeaf22f448118d9",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:40.736383Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=941316182&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "BØRSVOLD"
+                ],
+                "kommune": "VESTRE TOTEN",
+                "kommunenummer": "3443",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2846",
+                "poststed": "BØVERBRU"
+              },
+              "employees": 5,
+              "industry": {
+                "beskrivelse": "Produksjon av plastprodukter ellers",
+                "kode": "22.260"
+              },
+              "name": "OMA PLAST AS",
+              "organisation_number": "972077496"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "941316182",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Produksjon og salg samt investering i fast eien- dom, herunder deltagelse i andre selskaper, og alt hva hermed står i forbindelse.",
+          "antallAnsatte": "5",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Børsvold",
+          "forretningsadresse.kommune": "VESTRE TOTEN",
+          "forretningsadresse.kommunenummer": "3443",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2846",
+          "forretningsadresse.poststed": "BØVERBRU",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2011-09-19",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "1000000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2014-12-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Produksjon av plastprodukter ellers",
+          "naeringskode1.kode": "22.260",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "OMA PLAST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "941316182",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+          "registreringsdatoForetaksregisteret": "1990-02-08",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1986-11-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "1995-02-19",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1986-12-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2014-12-01",
+          "vedtektsfestetFormaal": "Produksjon og salg samt investering i fast eien- dom, herunder deltagelse i andre selskaper, og alt hva hermed står i forbindelse."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "acd7faa8cee8cf8a6ef100f2b02bb7ccee7ce78b80852f649c461afe76d01e38",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.375676Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/941316182/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "1990-02-08",
+              "name": "Olav Markestad",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Olav Markestad",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Stig David Markestad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-02-10",
+              "name": "Arnhild Markestad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2004-08-14",
+              "name": [
+                "TOTEN REGNSKAP AS"
+              ],
+              "organisation_number": "952331043",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "22.260",
+    "industry_label": "Produksjon av plastprodukter ellers",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "VESTRE TOTEN",
+    "municipality_number": "3443",
+    "name": "OMA PLAST AS",
+    "organisation_number": "941316182",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1171,
+        1172,
+        1187,
+        47,
+        46,
+        4187,
+        14
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:45Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "OMA PLAST AS (AS, org.nr 941316182)",
+    "what_it_does": "OMA PLAST AS is classified under NACE code 22.260 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, OMA PLAST AS reported revenue of 609,272 NOK and an operating result of 267,024 NOK. Net result was 248,326 NOK, with total assets of 2,231,344 NOK and equity of 1,607,948 NOK. Revenue grew by +21.0% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 43.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Olav Markestad. Daily operations are led by general manager Olav Markestad. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "OMA PLAST AS is classified under NACE code 22.260 (unspecified).",
+        "claim_ids": [
+          "e72f63a5f5553ee797fb",
+          "2762d36d7bff902c8e12"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "939f76989d3ff3d832b8",
+          "e72f63a5f5553ee797fb"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, OMA PLAST AS reported revenue of 609,272 NOK and an operating result of 267,024 NOK.",
+        "claim_ids": [
+          "5d3146c7793dc9e478c7",
+          "776891b9fed3f60df654"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 248,326 NOK, with total assets of 2,231,344 NOK and equity of 1,607,948 NOK.",
+        "claim_ids": [
+          "306abefabe92163c9d99",
+          "143fa3db2505b5b78a91",
+          "08f603b1531807d00148"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +21.0% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "5d3146c7793dc9e478c7",
+          "8c6c429cd5cdb05a31bb"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 43.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "776891b9fed3f60df654",
+          "5d3146c7793dc9e478c7"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Olav Markestad.",
+        "claim_ids": [
+          "d8afa23ed537b499e7b4"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Olav Markestad.",
+        "claim_ids": [
+          "8fdc76c2e0a61ff9dc49"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "353039cdff27e2dbc513",
+          "8bb88cf9360dda3031bc",
+          "8fdc76c2e0a61ff9dc49",
+          "d8afa23ed537b499e7b4",
+          "fd2a3ed5161b1d5b5231"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "2762d36d7bff902c8e12"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "42508b55340a193c4a8b"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "2762d36d7bff902c8e12"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "2762d36d7bff902c8e12"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "2762d36d7bff902c8e12"
+        ]
+      }
+    ]
+  }
+}

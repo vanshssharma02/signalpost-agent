@@ -1,0 +1,1833 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0032d091b892a4f5d0c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7167602.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21fcc4230afb26617507",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12996818.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "870802fe695896bed46e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15756686.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ccb223d1e9cc4cf17f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 392191174.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db0bf40179647eb4a9c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 396244518.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e976fea312f9e48c7e06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 404496611.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "68d68903c3efb4d93ece",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 279156560.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a99680720fa28b2a783e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 292177603.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e9d03e545b49bdf5fb5e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 302884245.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "601309b617a6dc55246b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 125340051.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b3fabca0a48aeaf1c405",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 89306929.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f64b9ba7c2cf8c3bcf82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 104066915.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "05b2cb96c0aee223addf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 22948078.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "259215572460030befd7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 15448872.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4b2c3c52117e638bc4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 26752762.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "42edecb4e7ec431f000a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9208532.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7fa5838eef49be768dc8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 16667454.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8003ee9d8e22a96e5d69",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20192360.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b58079b3bab42dda5f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 89457689.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d05bb745fe06ee3bba75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 83624527.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db81d7a177d7b78561ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-966731508-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 87598605.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c38f65addc27f43cfc3a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-966731508"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Everket"
+    },
+    {
+      "availability": "available",
+      "claim_id": "84056a1a4ac96c32a543",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-966731508"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "35.140"
+    },
+    {
+      "availability": "available",
+      "claim_id": "781345c91747c5554c03",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-966731508"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "90a2c3196b246c8162e4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-966731508"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "EVERKET AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "936ca13a11e4dfedd789",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-966731508"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 23
+    },
+    {
+      "availability": "available",
+      "claim_id": "144d125e758e77efb73b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-8a3a5cdf86f9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jarand Felland",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "15c6e021372e8ab81e4e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-8b139595233d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øyvind Lie",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "191449cf11754f4e9a49",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-d0e452f30e95"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Stine Nyheim Folseraas",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "24ad3163e121a5a2a4d5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-2ba26a43e820"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Trond Stangeby",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "2faeaf175d2252b4a188",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-7e84bb679b4b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "AIDER AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3146ca578141bf2fd79b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-c32af36a4a98"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ann-Christin Gjerdseth Andersen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e186a822082bf2437b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-f2be445ffd5a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Thor Erik Haugen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "82999f5681588ffb653c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-40c45ec7abef"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ingar Tollum Andersen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f19e69d93856ddb41177",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-61c54af1af60"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Pål Jørgen Skjæggestad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f7de000e5c4a52410357",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-966731508-b1558a2a45e1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE BOREALIS AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2b3472a158d3614c0be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-966731508-971746408"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Lienveien 39"
+          ],
+          "kommune": "NOTODDEN",
+          "kommunenummer": "4005",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3678",
+          "poststed": "NOTODDEN"
+        },
+        "employees": 23,
+        "industry": {
+          "beskrivelse": "Distribusjon av elektrisitet",
+          "kode": "35.140"
+        },
+        "name": "EVERKET AS",
+        "organisation_number": "971746408"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6429df83d572b63bebc3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-966731508"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:47:45Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:47:45Z",
+      "method": "registry_homepage",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://everket-notodden.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 83624527.0, operating_result: 22948078.0, profit_before_tax: 16667454.0, annual_result: 12996818.0, assets: 392191174.0, equity: 89306929.0, debt: 302884245.0",
+      "content_sha256": "fbcd043203008872aa3a67baea3bcef66c310424451febdf012afd8548930158",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "http_status": 200,
+      "id": "ev-fin-966731508-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.840069Z",
+      "snapshot_ref": "fb/fbcd043203008872aa3a67baea3bcef66c310424451febdf012afd8548930158.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 87598605.0, operating_result: 15448872.0, profit_before_tax: 9208532.0, annual_result: 7167602.0, assets: 396244518.0, equity: 104066915.0, debt: 292177603.0",
+      "content_sha256": "3dd91bb0a2a5a6d325e1ac8451cb9fff402d3275a04626b6fac9cbae37a7e597",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "http_status": 200,
+      "id": "ev-fin-966731508-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.840069Z",
+      "snapshot_ref": "3d/3dd91bb0a2a5a6d325e1ac8451cb9fff402d3275a04626b6fac9cbae37a7e597.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 89457689.0, operating_result: 26752762.0, profit_before_tax: 20192360.0, annual_result: 15756686.0, assets: 404496611.0, equity: 125340051.0, debt: 279156560.0",
+      "content_sha256": "ceddb0efcdb5d7e6d74ccd605df56ccce55048097d765647494d22c779187444",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "http_status": 200,
+      "id": "ev-fin-966731508-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:37.840069Z",
+      "snapshot_ref": "ce/ceddb0efcdb5d7e6d74ccd605df56ccce55048097d765647494d22c779187444.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 971746408: EVERKET AS",
+      "content_sha256": "c9245a11ab090d6ca4f11649dfdb0eb5008d69430356adec02a070342dd89396",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=966731508&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-966731508-971746408",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:41.377855Z",
+      "snapshot_ref": "c9/c9245a11ab090d6ca4f11649dfdb0eb5008d69430356adec02a070342dd89396.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=966731508&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 966731508 EVERKET AS",
+      "content_sha256": "a423efea58b9aa4f83ef97cf8c86fc49e5eefba2df2af6bb03c95aece1c3c0a3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-966731508",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "a4/a423efea58b9aa4f83ef97cf8c86fc49e5eefba2df2af6bb03c95aece1c3c0a3.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Trond Stangeby",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-2ba26a43e820",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Ingar Tollum Andersen",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-40c45ec7abef",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Pål Jørgen Skjæggestad",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-61c54af1af60",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: AIDER AS",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-7e84bb679b4b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jarand Felland",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-8a3a5cdf86f9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Øyvind Lie",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-8b139595233d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE BOREALIS AS",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-b1558a2a45e1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ann-Christin Gjerdseth Andersen",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-c32af36a4a98",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Stine Nyheim Folseraas",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-d0e452f30e95",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Thor Erik Haugen",
+      "content_sha256": "6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "http_status": 200,
+      "id": "ev-role-966731508-f2be445ffd5a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:39.052561Z",
+      "snapshot_ref": "6c/6c042db1b8d87009fe038c9992ce40a558dca9f7da05295564bfc01ac14e366d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "15:00 Telefon: Hverdager 08:00 – 15:00 Organisasjonsnummer: 966731508 Personvernerklæring Cookies-innstillinger Les mer Les mer L",
+      "content_sha256": "c78df9353d5da338f44b8c9b1011ecbe1ddc090c3bcab4fa83e5e17b756abca6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://everket-notodden.no/",
+      "http_status": 200,
+      "id": "ev-web-966731508",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:45Z",
+      "snapshot_ref": "c7/c78df9353d5da338f44b8c9b1011ecbe1ddc090c3bcab4fa83e5e17b756abca6.gz",
+      "source_class": "company_owned",
+      "source_url": "https://www.everket-notodden.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0032d091b892a4f5d0c6",
+        "05b2cb96c0aee223addf",
+        "21fcc4230afb26617507",
+        "259215572460030befd7",
+        "2ccb223d1e9cc4cf17f0",
+        "42edecb4e7ec431f000a",
+        "601309b617a6dc55246b",
+        "68d68903c3efb4d93ece",
+        "7b58079b3bab42dda5f4",
+        "7fa5838eef49be768dc8",
+        "8003ee9d8e22a96e5d69",
+        "870802fe695896bed46e",
+        "a99680720fa28b2a783e",
+        "b3fabca0a48aeaf1c405",
+        "d05bb745fe06ee3bba75",
+        "d4b2c3c52117e638bc4b",
+        "db0bf40179647eb4a9c3",
+        "db81d7a177d7b78561ef",
+        "e976fea312f9e48c7e06",
+        "e9d03e545b49bdf5fb5e",
+        "f64b9ba7c2cf8c3bcf82"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "c38f65addc27f43cfc3a"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "781345c91747c5554c03",
+        "84056a1a4ac96c32a543",
+        "90a2c3196b246c8162e4",
+        "936ca13a11e4dfedd789"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "144d125e758e77efb73b",
+        "15c6e021372e8ab81e4e",
+        "191449cf11754f4e9a49",
+        "24ad3163e121a5a2a4d5",
+        "2faeaf175d2252b4a188",
+        "3146ca578141bf2fd79b",
+        "6e186a822082bf2437b1",
+        "82999f5681588ffb653c",
+        "f19e69d93856ddb41177",
+        "f7de000e5c4a52410357"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "e2b3472a158d3614c0be"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6429df83d572b63bebc3"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "90a2c3196b246c8162e4",
+      "781345c91747c5554c03",
+      "936ca13a11e4dfedd789",
+      "84056a1a4ac96c32a543"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "EVERKET AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 8700,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "966731508",
+  "profile": {
+    "bankrupt": false,
+    "employees": 23,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.612395Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "966731508",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "c4ee0c0007b78bdeeea051abd67e0780edf1f7a73a071cfd87f51e0e95b46762",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:37.840069Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/966731508",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 12996818.0,
+              "assets": 392191174.0,
+              "currency": "NOK",
+              "debt": 302884245.0,
+              "equity": 89306929.0,
+              "operating_result": 22948078.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 16667454.0,
+              "record_id": 5077699,
+              "revenue": 83624527.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 7167602.0,
+              "assets": 396244518.0,
+              "currency": "NOK",
+              "debt": 292177603.0,
+              "equity": 104066915.0,
+              "operating_result": 15448872.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 9208532.0,
+              "record_id": 6242797,
+              "revenue": 87598605.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 15756686.0,
+              "assets": 404496611.0,
+              "currency": "NOK",
+              "debt": 279156560.0,
+              "equity": 125340051.0,
+              "operating_result": 26752762.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 20192360.0,
+              "record_id": 7024536,
+              "revenue": 89457689.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "f47804a2f6e1670b0cc44cd5f11af3c2d3978334cef944c3915024090e2e8aa8",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:40.232995Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/966731508",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2001-05-07",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SERVICEPARTNER NOTODDEN AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "983185843",
+              "parentNavn": "EVERKET AS",
+              "parentOrganisasjonsnummer": "966731508"
+            }
+          ],
+          "navn": "EVERKET AS",
+          "organisasjonsform": {
+            "beskrivelse": "Aksjeselskap",
+            "kode": "AS"
+          },
+          "organisasjonsnummer": "966731508"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "f2243fc1e7bc82ab124ef7ecb3b0f8bebbcb9c227c26a99295bdbc33b48e5c9b",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:41.377855Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=966731508&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Lienveien 39"
+                ],
+                "kommune": "NOTODDEN",
+                "kommunenummer": "4005",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3678",
+                "poststed": "NOTODDEN"
+              },
+              "employees": 23,
+              "industry": {
+                "beskrivelse": "Distribusjon av elektrisitet",
+                "kode": "35.140"
+              },
+              "name": "EVERKET AS",
+              "organisation_number": "971746408"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "966731508",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Bygge og drive nett for distribusjon av energi i selskapets konsesjonsområde.",
+          "antallAnsatte": "23",
+          "epostadresse": "post@everket-notodden.no",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Lienveien 39",
+          "forretningsadresse.kommune": "NOTODDEN",
+          "forretningsadresse.kommunenummer": "4005",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3678",
+          "forretningsadresse.poststed": "NOTODDEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "www.everket-notodden.no",
+          "institusjonellSektorkode.beskrivelse": "Kommunalt eide aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "1520",
+          "kapital.antallAksjer": "3740",
+          "kapital.belop": "29250540.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-07-23",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Distribusjon av elektrisitet",
+          "naeringskode1.kode": "35.140",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "EVERKET AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "966731508",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+          "registreringsdatoForetaksregisteret": "1993-06-16",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1993-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-03-12",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "1995-03-12",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1993-01-04",
+          "telefon": "35 02 50 50",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-06-25",
+          "vedtektsfestetFormaal": "Bygge og drive nett for transport av energi i Notodden samt på forretningsmessig basis yte tjenester som er naturlig for bedriften. Dette innebærer bl.a.: - sørge for sikker og rasjonell energiforsyning til brukerne av energi i selskapets konsesjonsområde - Overføre og distribuere energi med tilfredsstillende kvalitet og kostnadsriktige tariffer - Medvirke til rasjonell utnyttelse av energi."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "091676e88c2a57a4b1ee63097c4cd66da7101efc22e24cf1b275e748c09d37e2",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:39.052561Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/966731508/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-02-05",
+              "name": "Ingar Tollum Andersen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Trond Stangeby",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Stine Nyheim Folseraas",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Ann-Christin Gjerdseth Andersen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Pål Jørgen Skjæggestad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Jarand Felland",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Thor Erik Haugen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-09-16",
+              "name": "Øyvind Lie",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-07-23",
+              "name": [
+                "CEDRA NORGE BOREALIS AS"
+              ],
+              "organisation_number": "936295800",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-04-08",
+              "name": [
+                "AIDER AS"
+              ],
+              "organisation_number": "922633452",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:47:45Z",
+        "source_url": "https://www.everket-notodden.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Everket",
+          "claim_span": "15:00 Telefon: Hverdager 08:00 – 15:00 Organisasjonsnummer: 966731508 Personvernerklæring Cookies-innstillinger Les mer Les mer L",
+          "final_url": "https://everket-notodden.no/",
+          "homepage": "https://www.everket-notodden.no/",
+          "page_html": "\n\n\n\n<!DOCTYPE html>\n<!--\n    ____  _____  _________       ______\n   / __ \\/   \\ \\/ /_  __/ |     / / __ \\\n  / / / / /| |\\  / / /  | | /| / / / / /\n / /_/ / ___ |/ / / /   | |/ |/ / /_/ /\n/_____/_/  |_/_/ /_/    |__/|__/\\____/\n\n\n    Made by: https://daytwo.no\n    Year: 2026\n--><html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"nb\">\n    <head>\n                    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n            <meta charset=\"utf-8\">\n            <meta name=\"author\" content=\"https://daytwo.no\">\n            <meta name=\"viewport\" content=\"width=device-width, user-scalable=yes, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, viewport-fit=cover shrink-to-fit=no\">\n                \n            <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\n            <link href=\"https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lexend+Deca&display=swap\" rel=\"stylesheet\">\n\n            \n<meta name=\"theme-color\" content=\"#00854b\">\n<meta name=\"description\" content=\"Everket Notodden kombinerer industriell arv med moderne kulturtilbud. Et levende møtepunkt for konserter, festivaler, teater og lokale initiativer – et sted der opplevelser skapes og ideer får liv.\">\n<meta name=\"keywords\" content=\"Everket ,Everket Notodden tilbyr konserter, kulturarrangementer og lokale opplevelser i en inspirerende industriarv, med et pulserende miljø for både unge og voksne.\">\n\n<title>Velkommen til Everket | Everket</title>\n\n<link rel=\"icon\" href=\"https://everket-notodden.no/uploads/Profile/Everket-Favicon2.png\">\n\n            \n\n            <script type=\"text/javascript\">\n                window.CraftToken = {\"csrfTokenName\":\"EVERKET__CSRF_TOKEN\",\"csrfTokenValue\":\"eAifeIG5dmdA1tk4ZoaQyoQDqF9xFd7UuIjh2OOEyVKZYW_XczhVIwJjylXvykc9LqKvQQzw9abuRPwrJHvr5_bJi6KRz5A--CA-5jFSOBQ=\"};\n            </script>\n\n                        \n            \n<meta property=\"og:title\" content=\"Velkommen til Everket\" />\n<meta property=\"og:site_name\" content=\"Everket\" />\n<meta property=\"og:url\" content=\"https://everket-notodden.no/\" />\n<meta property=\"og:type\" content=\"website\" />\n    <meta property=\"og:image\" content=\"https://everket-notodden.no/uploads/everket_gruppebilde_2026.jpg\" />\n            \n\n\n    <!-- Google Analytics -->\n    <script>\n        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\n        ga('create', 'UA-250030609-1', 'auto');\n        ga('send', 'pageview');\n    </script>\n    <script async src='https://www.google-analytics.com/analytics.js'></script>\n    <!-- End Google Analytics -->\n        \n        <script>\n    // Define dataLayer and the gtag function.\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n            let object = {\n            'ad_storage': 'denied', //advertising\n            'ad_user_data': 'denied', //advertising\n            'ad_personalization': 'denied', //personalization\n            'personalization_storage': 'denied', //personalization\n            'analytics_storage': 'denied', //analytics\n            'functionality_storage': 'granted', //functional\n            'security_storage': 'granted' //functional\n        }\n        gtag('consent', 'default', object);\n\n        let data = {\n            'event': 'd2_cookiemng_consent_update',\n            'ad_storage': 'denied', //advertising\n            'ad_user_data': 'denied', //advertising\n            'ad_personalization': 'denied', //personalization\n            'personalization_storage': 'denied', //personalization\n            'analytics_storage': 'denied', //analytics\n            'functionality_storage': 'granted', //functional\n            'security_storage': 'granted' //functional\n        }\n\n        dataLayer.push(data);\n        \n        let cm_updateConsent = (granted,denied) => {\n                let consent_list = {};\n        granted.forEach((prop)=>{\n            switch (prop){\n                case 'functional':\n                    consent_list['functionality_storage'] = 'granted'    \n                    consent_list['security_storage'] = 'granted'\n                    break;\n                case 'analytics':\n                    consent_list['analytics_storage'] = 'granted'\n                    break;\n                case 'advertising':\n                    consent_list['ad_storage'] = 'granted'\n                    consent_list['ad_user_data'] = 'granted'\n                    break;\n                case 'personalization':\n                    consent_list['personalization_storage'] = 'granted'\n                    consent_list['ad_personalization'] = 'granted'\n                    break;\n            }\n        });\n        denied.forEach((prop)=>{\n            switch (prop){\n                case 'functional':\n                    consent_list['functionality_storage'] = 'denied'    \n                    consent_list['security_storage'] = 'denied'\n                    break;\n                case 'analytics':\n                    consent_list['analytics_storage'] = 'denied'\n                    break;\n                case 'advertising':\n                    consent_list['ad_storage'] = 'denied'\n                    consent_list['ad_user_data'] = 'denied'\n                    break;\n                case 'personalization':\n                    consent_list['personalization_storage'] = 'denied'\n                    consent_list['ad_personalization'] = 'denied'\n                    break;\n            }\n        });\n        let object = {};\n        let data = {\n            'event': 'd2_cookiemng_consent_update',\n        }\n        for (const [key, value] of Object.entries(consent_list)) {\n            object[key] = value;\n            data[key] = value;\n        }\n        gtag('consent', 'update', object);\n\n        dataLayer.push(data);\n    }\n</script>\n\n    <link href=\"/assets/build/css/main.css?v=1785761067\" rel=\"stylesheet\">\n<link href=\"https://everket-notodden.no/cpresources/fef8a2c6/css/cookiemng.css?v=1785761202\" rel=\"stylesheet\">\n<script src=\"/assets/build/js/head.js?v=1785761067\"></script></head>\n    <body class=\"home\">\n                    <div id=\"fb-root\"></div>\n            <script async defer crossorigin=\"anonymous\" src=\"https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0\" nonce=\"stOksvr4\"></script>\n                \n        \n                                    <div id=\"page\">\n                <style>\n    :root {\n        --brand-color: #00854b;\n        --brand-dark-color: #00854b;\n        --brand-text-color: #fafffd;\n    }\n\n    .brand-bg {\n        background-color: #00854b;\n    }\n\n    .brand-dark-bg {\n        background-color: #00854b;\n    }\n\n    .brand-text {\n        color: #fafffd;\n    }\n</style>\n\n\n\n\n<header id=\"header\" class=\"site-header with-alerts js-alerts-header\">\n\n\t<a aria-label=\"Hopp til hovedinnhold\" href=\"#main\" class=\"skip-to-main-content-link\">Hopp til hovedinnhold</a>\n\t    <div class=\"site-alerts\">\n                                                                                            \n                            <div class=\"alert green\">\n                    <div class=\"_wr\">\n                        <div class=\"inner-alert\">\n                                                        <div class=\"super-inner-alert with-btn\">\n                                <p>Avbruddskart</p>\n                                                                    <div class=\"bot-cta\">\n                                        <a aria-label=\"Gå til https://everket-notodden.no/driftsmeldinger-og-feil\" href=\"https://everket-notodden.no/driftsmeldinger-og-feil\" target=\"_blank\">\n\n                                                                                        Les mer\n                                        </a>\n                                    </div>\n                                                            </div>\n                                                    </div>\n                    </div>\n                </div>\n                                                                                                        \n                        </div>\n\t<div class=\"_wr\">\n\t\t<div class=\"inner\">\n\t\t\t<div class=\"site-logo\">\n\t\t\t\t\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/\" href=\"https://everket-notodden.no/\" class=\"site-mobile-logo\">\n\t\t\t\t\t\t<img src=\"https://everket-notodden.no/uploads/Profile/everket_logo_horisontal_gronn_rgb-1.png\"  style=\"max-height: 50px\"  alt=\"Everket hjemmeside. Logo\">\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/\" href=\"https://everket-notodden.no/\" class=\"site-desktop-logo\">\n\t\t\t\t\t<img src=\"https://everket-notodden.no/uploads/Profile/everket_logo_horisontal_gronn_rgb-1.png\"  style=\"max-height: 80px\"  alt=\"Everket hjemmeside. Logo\">\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"search-button\">\n\t\t\t\t\t<a aria-label=\"Søk\" href=\"javascript:;\" class=\"js-search-button\">\n\t\t\t\t\t\t<span>Søk</span>\n\t\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"21\" viewbox=\"0 0 24 21\">\n\t\t\t\t\t\t\t<g transform=\"translate(.5 .5)\" stroke=\"#00854b\" stroke-width=\"2\" fill=\"none\" fill-rule=\"evenodd\"><circle cx=\"8\" cy=\"8\" r=\"7\"/><path d=\"M13 12l9.095 6.858\"/></g>\n\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t<i></i>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\n\t\t\t                                                <a aria-label=https://netti.nettalliansen.no/logge-inn?origin=everket-notodden.no href=https://netti.nettalliansen.no/logge-inn?origin=everket-notodden.no id=\"header-second-cta\" class=\"header-btn  \" target=\"_blank\">Netti+\n                    <svg stroke=\"currentColor\" fill=\"none\" stroke-width=\"1.5\" viewbox=\"0 0 24 24\" aria-hidden=\"true\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25\"></path>\n                    </svg>\n                </a>\n            \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a aria-label=https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString= href=https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString= class=\"header-btn  \">Min side\n\t\t\t\t\t<svg stroke=\"currentColor\" fill=\"none\" stroke-width=\"1.5\" viewbox=\"0 0 24 24\" aria-hidden=\"true\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25\"></path>\n\t\t\t\t\t</svg>\n\t\t\t\t</a>\n\t\t\t\n\t\t\t\n\n\t\t\t<button class=\"menu-button js-menu-toggle\" aria-label=\"Klikk for å åpne nettstednavigering\">\n\t\t\t\t<span></span>\n\t\t\t\t<span></span>\n\t\t\t\t<span></span>\n\t\t\t</button>\n\t\t\t\n<nav class=\"site-nav js-site-nav js-open-nav-item\">\n\t<div class=\"inner-nav\">\n\t\t\t\t\t<div class=\"search-bar-wrapper\">\n\t\t\t\t<form action=\"https://everket-notodden.no/søk\">\n\t\t\t\t\t<label aria-label=\"Søk Everket\">\n\t\t\t\t\t\t<input id=\"search-input-main\" type=\"search\" value=\"\" name=\"q\" placeholder=\"Søk...\" aria-label=\"Søk Everket\" title=\"Søk...\"/>\n\t\t\t\t\t\t<button type=\"submit\" title=\"Send inn søk\">\n\t\t\t\t\t\t\t<span class=\"sr-only\">Send inn søk</span>\n\t\t\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"21\" viewbox=\"0 0 24 21\">\n\t\t\t\t\t\t\t\t<g transform=\"translate(.5 .5)\" stroke=\"#00854b\" stroke-width=\"2\" fill=\"none\" fill-rule=\"evenodd\"><circle cx=\"8\" cy=\"8\" r=\"7\"/><path d=\"M13 12l9.095 6.858\"/></g>\n\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t</label>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t\n\t\t\t\t\n\t\t<div class=\"_wr\">\n\t\t\t<ul class=\"js-main-menu menu\">\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/kunde-og-nettleie\" href=\"https://everket-notodden.no/kunde-og-nettleie\" class=\"\" >\n\t\t\t\t\t\tKunde og nettleie\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"submenu-trigger js-sub-trigger\"></div>\n\t\t\t\t\t<ul class=\"submenu\">\n\t\t\t\t\t\t<li class=\"top-part\">\n\t\t\t\t\t\t\t<span class=\"top-part-title\">\n\t\t\t\t\t\t\t\t<a href=\"https://everket-notodden.no/kunde-og-nettleie\" aria-label=\"Gå tilbake\">Kunde og nettleie</a>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"submenu-back js-sub-back\">Tilbake</span>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/nettleiepriser\" href=\"https://everket-notodden.no/nettleiepriser\" class=\"\" >\n\t\t\t\t\t\tNettleiepriser\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/priser-og-tjenester\" href=\"https://everket-notodden.no/priser-og-tjenester\" class=\"\" >\n\t\t\t\t\t\tØvrige priser og tjenester\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/om-nettleie\" href=\"https://everket-notodden.no/om-nettleie\" class=\"\" >\n\t\t\t\t\t\tOm nettleie\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/vilkar-for-nettleie-og-tilknytning\" href=\"https://everket-notodden.no/vilkar-for-nettleie-og-tilknytning\" class=\"\" >\n\t\t\t\t\t\tVilkår for nettleie og tilknytning\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/norgespris\" href=\"https://everket-notodden.no/norgespris\" class=\"\" >\n\t\t\t\t\t\tNorgespris\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/faktura-og-betaling\" href=\"https://everket-notodden.no/faktura-og-betaling\" class=\"\" >\n\t\t\t\t\t\tFaktura og betaling\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/valg-av-stromleverandor\" href=\"https://everket-notodden.no/valg-av-stromleverandor\" class=\"\" >\n\t\t\t\t\t\tValg av strømleverandør\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/plusskundeordningen\" href=\"https://everket-notodden.no/plusskundeordningen\" class=\"\" >\n\t\t\t\t\t\tPlusskundeordningen\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/kompensasjon-for-stromavbrudd\" href=\"https://everket-notodden.no/kompensasjon-for-stromavbrudd\" class=\"\" >\n\t\t\t\t\t\tKompensasjon for strømavbrudd\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/ams-maler-han-port\" href=\"https://everket-notodden.no/ams-maler-han-port\" class=\"\" >\n\t\t\t\t\t\tAMS måler / HAN-port\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/noytralitet\" href=\"https://everket-notodden.no/noytralitet\" class=\"\" >\n\t\t\t\t\t\tNøytralitet\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/statlige-avgifter\" href=\"https://everket-notodden.no/statlige-avgifter\" class=\"\" >\n\t\t\t\t\t\tStatlige avgifter\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/solceller\" href=\"https://everket-notodden.no/solceller\" class=\"\" >\n\t\t\t\t\t\tSolceller\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/tilko-tilknytning-av-storre-uttakskunder\" href=\"https://everket-notodden.no/tilko-tilknytning-av-storre-uttakskunder\" class=\"\" >\n\t\t\t\t\t\tTilko - Tilknytning av større uttakskunder\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/bygge-og-grave\" href=\"https://everket-notodden.no/bygge-og-grave\" class=\"\" >\n\t\t\t\t\t\tGraving og bygging\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"submenu-trigger js-sub-trigger\"></div>\n\t\t\t\t\t<ul class=\"submenu\">\n\t\t\t\t\t\t<li class=\"top-part\">\n\t\t\t\t\t\t\t<span class=\"top-part-title\">\n\t\t\t\t\t\t\t\t<a href=\"https://everket-notodden.no/bygge-og-grave\" aria-label=\"Gå tilbake\">Graving og bygging</a>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"submenu-back js-sub-back\">Tilbake</span>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/trefelling-og-skogrydding\" href=\"https://everket-notodden.no/trefelling-og-skogrydding\" class=\"\" >\n\t\t\t\t\t\tTrefelling og skogrydding\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/anleggsbidrag\" href=\"https://everket-notodden.no/anleggsbidrag\" class=\"\" >\n\t\t\t\t\t\tAnleggsbidrag\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/byggestrom\" href=\"https://everket-notodden.no/byggestrom\" class=\"\" >\n\t\t\t\t\t\tByggestrøm\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/oppsigelse-av-byggestrom\" href=\"https://everket-notodden.no/oppsigelse-av-byggestrom\" class=\"\" >\n\t\t\t\t\t\tOppsigelse av byggestrøm\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/gravemelding-og-kabelpavisning\" href=\"https://everket-notodden.no/gravemelding-og-kabelpavisning\" class=\"\" >\n\t\t\t\t\t\tGravemelding og kabelpåvisning\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/for-installatorer\" href=\"https://everket-notodden.no/for-installatorer\" class=\"\" >\n\t\t\t\t\t\tFor installatører\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/aktiviteter-naer-hoyspenningslinjer-og-kabler\" href=\"https://everket-notodden.no/aktiviteter-naer-hoyspenningslinjer-og-kabler\" class=\"\" >\n\t\t\t\t\t\tAktiviteter nær høyspenningslinjer og kabler\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/elsikkerhet\" href=\"https://everket-notodden.no/elsikkerhet\" class=\"\" >\n\t\t\t\t\t\tElsikkerhet\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"submenu-trigger js-sub-trigger\"></div>\n\t\t\t\t\t<ul class=\"submenu\">\n\t\t\t\t\t\t<li class=\"top-part\">\n\t\t\t\t\t\t\t<span class=\"top-part-title\">\n\t\t\t\t\t\t\t\t<a href=\"https://everket-notodden.no/elsikkerhet\" aria-label=\"Gå tilbake\">Elsikkerhet</a>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"submenu-back js-sub-back\">Tilbake</span>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/det-lokale-eltilsyn\" href=\"https://everket-notodden.no/det-lokale-eltilsyn\" class=\"\" >\n\t\t\t\t\t\tDet Lokale Eltilsyn\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://www.elsikkerhetsportalen.no/nettalliansen/\" href=\"https://www.elsikkerhetsportalen.no/nettalliansen/\" class=\"arrow-link-external\"  target=\"_blank\" >\n\t\t\t\t\t\tElsikkerhetsportalen\n\t\t\t\t\t\t\t\t\t\t\t\t\t<svg stroke=\"currentColor\" fill=\"none\" stroke-width=\"1.5\" viewbox=\"0 0 24 24\" aria-hidden=\"true\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.5 19.5l15-15m0 0H8.25m11.25 0v11.25\"></path>\n\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/hva-kontrollerer-vi-ved-et-boligtilsyn\" href=\"https://everket-notodden.no/hva-kontrollerer-vi-ved-et-boligtilsyn\" class=\"\" >\n\t\t\t\t\t\tHva kontrollerer vi ved et boligtilsyn?\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/jordfeil\" href=\"https://everket-notodden.no/jordfeil\" class=\"\" >\n\t\t\t\t\t\tJordfeil\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/brann\" href=\"https://everket-notodden.no/brann\" class=\"\" >\n\t\t\t\t\t\tBrann\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/gode-rad-om-elektrisk-anlegg\" href=\"https://everket-notodden.no/gode-rad-om-elektrisk-anlegg\" class=\"\" >\n\t\t\t\t\t\tGode råd om elektrisk anlegg\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/boligkjop\" href=\"https://everket-notodden.no/boligkjop\" class=\"\" >\n\t\t\t\t\t\tBoligkjøp\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/tilsyn-med-virksomheter\" href=\"https://everket-notodden.no/tilsyn-med-virksomheter\" class=\"\" >\n\t\t\t\t\t\tTilsyn med virksomheter\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/driftsmeldinger\" href=\"https://everket-notodden.no/driftsmeldinger\" class=\"\" >\n\t\t\t\t\t\tDriftsmeldinger og feil\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/om-oss\" href=\"https://everket-notodden.no/om-oss\" class=\"\" >\n\t\t\t\t\t\tOm oss\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"submenu-trigger js-sub-trigger\"></div>\n\t\t\t\t\t<ul class=\"submenu\">\n\t\t\t\t\t\t<li class=\"top-part\">\n\t\t\t\t\t\t\t<span class=\"top-part-title\">\n\t\t\t\t\t\t\t\t<a href=\"https://everket-notodden.no/om-oss\" aria-label=\"Gå tilbake\">Om oss</a>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t<span class=\"submenu-back js-sub-back\">Tilbake</span>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\"\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/kontakt\" href=\"https://everket-notodden.no/kontakt\" class=\"\" >\n\t\t\t\t\t\tKontakt oss\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t<li class=\" hidden\">\n\t\t\t\t\t<a aria-label=\"https://everket-notodden.no/tilgjengelighet\" href=\"https://everket-notodden.no/tilgjengelighet\" class=\"\" >\n\t\t\t\t\t\tTilgjengelighet\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li class=\"quicklinks\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"link\">\n\t\t\t\t\t\t\t\t\t<a aria-label=\"Gå til Nettleie\" href=\"https://everket-notodden.no/om-nettleie\">\n\t\t\t\t\t\t\t\t\t\tNettleie\n\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</ul>\n\t\t</div>\n\t</div>\n</nav>\n\t\t\t\n    <div id=\"js-modal-search\" class=\"full_screen modal search-modal js-open-nav-item\" role=\"search\">\n        <div class=\"modal-inner\">\n            <div class=\"_wr\">\n                <div class=\"in\">\n                    <div class=\"search-form\">\n                        <h2>Leter du etter noe spesielt?</h2>\n                        <form action=\"https://everket-notodden.no/søk\">\n                            <label aria-label=\"Søk Everket\">\n                                <input id=\"search-input-main\" type=\"search\" value=\"\" name=\"q\" placeholder=\"Søk...\" aria-label=\"Søk Everket\" title=\"Søk...\" />\n                                <button type=\"submit\" title=\"Send inn søk\">\n                                    <span class=\"sr-only\">Send inn søk</span>\n                                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"21\" viewBox=\"0 0 24 21\"><g transform=\"translate(.5 .5)\" stroke=\"#00854b\" stroke-width=\"2\" fill=\"none\" fill-rule=\"evenodd\"><circle cx=\"8\" cy=\"8\" r=\"7\"/><path d=\"M13 12l9.095 6.858\"/></g></svg>\n                                </button>\n                            </label>\n                        </form>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\t\t</div>\n\t</div>\n</header>\n\n\n                <div id=\"content\" class=\"site-content\">\n                    <main id=\"main\" role=\"main\">\n                        \n    <div class=\"page-wrapper\">\n        \n\n<section class=\"home-header\">\n            <div class=\"_wr\">\n            <div class=\"_w\">\n                <div class=\"inner\">\n                    <div class=\"left _m5\">\n                        <div class=\"left-inner\">\n                            <h1 class=\"title\">Velkommen til Everket</h1>\n                                                            <p class=\"desc\">Everket AS er et aksjeselskap 100 prosent eiet av Notodden kommune via morselskapet Notodden Energi Holding. Vi er den lokale netteier av det elektriske kraftnettet i Notodden kommune.<br />\n<br />\nVi ble etablert i 1954 som Notodden elektrisitetsverk og skiftet så navn til Notodden Energi Nett. Med krav fra NVE om selskapsmessig skille for den monopolbaserte nettvirksomheten har vi fra 2020 endret navn til Everket AS.</p>\n                                                    </div>\n                    </div>\n                    <div class=\"right _m6 ofs_m_1\">\n                        <div class=\"inner-right\">\n                            <div class=\"head-img\" style=\"            \n                                                    \n        background-image: url(&#039;https://everket-notodden.no/uploads/everket_gruppebilde_2026.jpg&#039;); background-position: 50% 61.51%\n    \" role=\"img\" aria-label=\"Everket gruppebilde 2026\"></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n        <div class=\"pages-inner-content\">\n            \n\n<div class=\"_wr\">\n    <div class=\"_w\">\n        <div class=\"page-content _12\">\n\n            \n            \n            \n            \n            \n            \n            \n\n            \n                            \n\n\n\n<section id=\"module-0\" class=\"module top-lvl-list number-4\">\n    <div class=\"wrapper\">\n        <div class=\"_w\">\n            <div class=\"inner title-container\">\n                <h2>Hurtigmeny</h2>\n            </div>\n        </div>\n        <div class=\"_w\">\n                                                                            \n                                    \n                    <div class=\"inner\">\n                        <div class=\"block\">\n                            <div class=\"top\">\n                                <div class=\"top-inner\">\n                                                                        <div class=\"top-lvl-title\">\n                                                                                    <a aria-label=\"Gå til Kunde og nettleie\" href=\"https://everket-notodden.no/kunde-og-nettleie\">\n                                                <h3>Kunde og nettleie</h3>\n                                            </a>\n                                                                            </div>\n                                </div>\n                                                                    <div class=\"mid\">\n                                        <div class=\"mid-inner\">\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til Norgespris\" href=\"https://everket-notodden.no/norgespris\">Norgespris</a>\n                                                </div>\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til Om nettleie\" href=\"https://everket-notodden.no/om-nettleie\">Om nettleie</a>\n                                                </div>\n                                                                                    </div>\n                                    </div>\n                                                            </div>\n                        </div>\n                    </div>\n                                                                                            \n                                    \n                    <div class=\"inner\">\n                        <div class=\"block\">\n                            <div class=\"top\">\n                                <div class=\"top-inner\">\n                                                                        <div class=\"top-lvl-title\">\n                                                                                    <a aria-label=\"Gå til Graving og bygging\" href=\"https://everket-notodden.no/bygge-og-grave\">\n                                                <h3>Graving og bygging</h3>\n                                            </a>\n                                                                            </div>\n                                </div>\n                                                                    <div class=\"mid\">\n                                        <div class=\"mid-inner\">\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til Byggestrøm\" href=\"https://everket-notodden.no/byggestrom\">Byggestrøm</a>\n                                                </div>\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til For installatører\" href=\"https://everket-notodden.no/for-installatorer\">For installatører</a>\n                                                </div>\n                                                                                    </div>\n                                    </div>\n                                                            </div>\n                        </div>\n                    </div>\n                                                                                            \n                                    \n                    <div class=\"inner\">\n                        <div class=\"block\">\n                            <div class=\"top\">\n                                <div class=\"top-inner\">\n                                                                        <div class=\"top-lvl-title\">\n                                                                                    <a aria-label=\"Gå til Elsikkerhet\" href=\"https://everket-notodden.no/elsikkerhet\">\n                                                <h3>Elsikkerhet</h3>\n                                            </a>\n                                                                            </div>\n                                </div>\n                                                                    <div class=\"mid\">\n                                        <div class=\"mid-inner\">\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til Elsikkerhet\" href=\"https://everket-notodden.no/elsikkerhet\">Elsikkerhet</a>\n                                                </div>\n                                                                                            <div class=\"children-inner\">\n                                                    <a aria-label=\"Gå til Det Lokale Eltilsyn\" href=\"https://everket-notodden.no/det-lokale-eltilsyn\">Det Lokale Eltilsyn</a>\n                                                </div>\n                                                                                    </div>\n                                    </div>\n                                                            </div>\n                        </div>\n                    </div>\n                                                                                            \n                                    \n                    <div class=\"inner\">\n                        <div class=\"block\">\n                            <div class=\"top\">\n                                <div class=\"top-inner\">\n                                                                        <div class=\"top-lvl-title\">\n                                                                                    <a aria-label=\"Gå til Driftsmeldinger og feil\" href=\"https://everket-notodden.no/driftsmeldinger-og-feil\">\n                                                <h3>Driftsmeldinger og feil</h3>\n                                            </a>\n                                                                            </div>\n                                </div>\n                                                            </div>\n                        </div>\n                    </div>\n                                    </div>\n    </div>\n    <style>\n        #module-0 {\n            ;\n            ;\n        }\n    </style>\n</section>\n                            \n                                                \n\n\n    \n\n<section id=\"module-1\" class=\"module text-and-image switch\">\n    <div class=\"wrapper\">\n        <div class=\"_w\">\n            <div class=\"left _m6\">\n                <div class=\"inner-left  padding\">\n                    <div class=\"top without-sidebar\">\n                        <h2 class=\"title\">Norgespris</h2>\n                                                    <p class=\"content\">Norgespris innføres som en del av det norske kraftmarkedet. På denne siden finner du offentlig informasjon som skal veilede nettkundene om ordningen.<br />\nBestilling av Norgespris blir tilgjengelig her når løsningen åpner, senest 27. september 2025.</p>\n                                            </div>\n                                    </div>\n            </div>\n                            <div class=\"mid _m5\">\n                                                                                                                    \n                                                    <div class=\"bot-cta home-entry\">\n                                <a aria-label=\"Gå til https://everket-notodden.no/norgespris\" href=\"https://everket-notodden.no/norgespris\">\n                                                                        Les mer\n                                </a>\n                            </div>\n                                                            </div>\n                        <div class=\"right _m6\">\n                <div class=\"inner-right\">\n                    <div class=\"inner-image\">\n                        <div class=\"image\" role=\"img\" aria-label=\"Lampe med skjerm\" style=\"            \n        \n        background-image: url(&#039;https://everket-notodden.no/uploads/Norgespris/Lampe-med-skjerm.png&#039;);\n    \"></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <style>\n        #module-1 {\n            ;\n            ;\n        }\n    </style>\n</section>\n                                                        \n\n\n    \n\n<section id=\"module-2\" class=\"module text-and-image\">\n    <div class=\"wrapper\">\n        <div class=\"_w\">\n            <div class=\"left _m6\">\n                <div class=\"inner-left \">\n                    <div class=\"top without-sidebar\">\n                        <h2 class=\"title\">Min side</h2>\n                                                    <p class=\"content\">Logg inn på Min side og få oversikt over forbruket ditt og dine betalinger.</p>\n                                            </div>\n                                            <div class=\"bottom\">\n                                                            \n                                                                    <div class=\"left-list _12\">\n                                        <p>Følg med på forbruket ditt</p>\n                                    </div>\n                                                                                            \n                                                                    <div class=\"left-list _12\">\n                                        <p>Informasjon om målepunktet ditt</p>\n                                    </div>\n                                                                                            \n                                                                    <div class=\"left-list _12\">\n                                        <p>...og mer!</p>\n                                    </div>\n                                                                                    </div>\n                                    </div>\n            </div>\n                            <div class=\"mid _m5\">\n                                                                                                                    \n                                                    <div class=\"bot-cta home-entry arrow-link-external\">\n                                <a aria-label=\"Gå til https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\" href=\"https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\">\n                                                                        Logg inn på Min side\n                                </a>\n                            </div>\n                                                            </div>\n                        <div class=\"right _m6\">\n                <div class=\"inner-right\">\n                    <div class=\"inner-image\">\n                        <div class=\"image\" role=\"img\" aria-label=\"Kvinne i oker genser hopper i sofa. Foto\" style=\"            \n        \n        background-image: url(&#039;https://everket-notodden.no/uploads/Default/Kundeportal.png&#039;);\n    \"></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <style>\n        #module-2 {\n            padding-top: 250px;\n            ;\n        }\n    </style>\n</section>\n                                                \n                            \n\n    \n\n<section id=\"module-3\" class=\"module head-par-module\">\n    <div class=\"wrapper\">\n        <div class=\"_w\">\n            <div class=\"inner\">\n                                    <h2 class=\"title home-entry _m10\">Nyheter fra Everket</h2>\n                \n                            </div>\n        </div>\n    </div>\n\n    <style>\n        #module-3 {\n            ;\n            ;\n        }\n    </style>\n</section>\n                            \n            \n                                    \n                    \n\n\n\n    \n    \n\n\n    <section id=\"module-4\" class=\"module articles-module\">\n        <div class=\"wrapper\">\n                        <div class=\"top\">\n                <div class=\"_w\">\n                                            \n                                                    \n                            \n\n\n\n<div class=\"article-card _s6 _l4\">\n    <a aria-label=\"Gå til https://everket-notodden.no/artikkel/bli-med-på-elsikkerhetsdagen\" href=\"https://everket-notodden.no/artikkel/bli-med-på-elsikkerhetsdagen\" class=\"article-card-in\">\n                                <div class=\"img\" style=\"background-image: url(https://himmelbla.nettalliansen.no/uploads/People/Skjermbilde-2026-09-25-kl.-14.22.35.png)\" role=\"img\" aria-label=\"Bli med på Elsikkerhetsdagen\"></div>\n                <div class=\"content\">\n            <div class=\"tags\">\n                <span>25.09.2026</span>\n                                            </div>\n            <div class=\"art-title\">\n                <h2>Bli med på Elsikkerhetsdagen</h2>\n            </div>\n                            <div class=\"art-desc\">\n                    Bli med på Elsikkerhetsdagen 15. oktober, vinn 25 000 kroner og gjør hjemmet tryggere!\n                </div>\n                    </div>\n    </a>\n</div>                                                                                                \n                                                    \n                            \n\n\n\n<div class=\"article-card _s6 _l4\">\n    <a aria-label=\"Gå til https://everket-notodden.no/artikkel/norgespris\" href=\"https://everket-notodden.no/artikkel/norgespris\" class=\"article-card-in\">\n                                <div class=\"img\" style=\"background-image: url(https://himmelbla.nettalliansen.no/uploads/shared/Lampe-med-skjerm.png)\" role=\"img\" aria-label=\"Informasjon om Norgespris\"></div>\n                <div class=\"content\">\n            <div class=\"tags\">\n                <span>19.08.2025</span>\n                                            </div>\n            <div class=\"art-title\">\n                <h2>Informasjon om Norgespris</h2>\n            </div>\n                            <div class=\"art-desc\">\n                    Norgespris blir en viktig del av det nye kraftmarkedet. Enn så lenge henviser vi til offentlige kilder som gir oppdatert og god informasjon om ordningen.\n                </div>\n                    </div>\n    </a>\n</div>                                                                                                \n                                                    \n                            \n\n\n\n<div class=\"article-card _s6 _l4\">\n    <a aria-label=\"Gå til https://everket-notodden.no/artikkel/hvorfor-er-stromprisen-sa-hoy-2\" href=\"https://everket-notodden.no/artikkel/hvorfor-er-stromprisen-sa-hoy-2\" class=\"article-card-in\">\n                                <div class=\"img\" style=\"background-image: url(https://himmelbla.nettalliansen.no/uploads/Lynogtordenoverhus.jpg)\" role=\"img\" aria-label=\"Beskytt hjemmet for lynskader\"></div>\n                <div class=\"content\">\n            <div class=\"tags\">\n                <span>22.08.2024</span>\n                                            </div>\n            <div class=\"art-title\">\n                <h2>Beskytt hjemmet for lynskader</h2>\n            </div>\n                            <div class=\"art-desc\">\n                    Det kan bli store skader etter torden og lyn. Her er de viktigste rådene du bør følge!\n                </div>\n                    </div>\n    </a>\n</div>                                                                                        </div>\n            </div>\n                    </div>\n\n        <style>\n            #module-4 {\n            ;\n            ;\n            }\n        </style>\n    </section>\n\n                                                \n            \n            \n            \n            \n            \n            \n                    </div>\n            </div>\n</div>        </div>\n    </div>\n\n                    </main>\n                </div>\n                \n<footer id=\"footer\" class=\"site-footer\">\n    <div class=\"in\">\n        <div class=\"_wr\">\n                            <div class=\"top\">\n                    <div class=\"_w\">\n                                                    <div class=\"left _m6 _xl3\">\n                                <a aria-label=\"https://everket-notodden.no/\" href=\"https://everket-notodden.no/\">\n                                    <img class=\"footer-img\" src=\"https://everket-notodden.no/uploads/Profile/everket_logo_horisontal_gronn_rgb-1.png\" alt=\"Everket hjemmeside. Logo\" />\n                                </a>\n                                <style>\n                                                                        @media (min-width: 768px) {\n\n                                        .footer-img {max-height: 80px !important;}\n                                    }\n                                                                                                            @media (max-width: 767.98px) {\n\n                                        .footer-img {max-height: 130px !important;}\n                                    }\n                                                                    </style>\n                            </div>\n                                                                            <div class=\"right _m6 _xl9\">\n                                <div class=\"_w qls\">\n                                                                                                                                                            \n                                                                                    <div class=\"ql _xl4\">\n                                                <a aria-label=\"Gå til https://everket-notodden.no/tilgjengelighet\" href=\"https://everket-notodden.no/tilgjengelighet\">\n                                                    Tilgjengelighet\n                                                </a>\n                                            </div>\n                                                                                                                                                                                                    \n                                                                                    <div class=\"ql _xl4\">\n                                                <a aria-label=\"Gå til https://everket-notodden.no/driftsmeldinger\" href=\"https://everket-notodden.no/driftsmeldinger\">\n                                                    Driftsmeldinger\n                                                </a>\n                                            </div>\n                                                                                                                                                                                                    \n                                                                                    <div class=\"ql _xl4\">\n                                                <a aria-label=\"Gå til https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\" href=\"https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\" target=\"_blank\">\n                                                    Min side\n                                                </a>\n                                            </div>\n                                                                                                            </div>\n                            </div>\n                                            </div>\n                </div>\n                        <div class=\"bot\">\n                <div class=\"_w\">\n                    <div class=\"left _s6 _l3\">\n                                                    <div class=\"phone-info\">\n                                <div class=\"phone-box\">\n                                    <h2 class=\"footer-title\">Vakttelefon</h2>\n                                    <a aria-label=\"40 40 57 00\" href=\"tel:40 40 57 00\" target=\"_blank\">\n                                        40 40 57 00\n                                    </a>\n                                </div>\n                            </div>\n                                                <div class=\"contact-info\">\n                            <div class=\"contact-box\">\n                                <h2 class=\"footer-title\">\n                                    Kontaktinformasjon\n                                    <span class=\"line\"></span>\n                                </h2>\n                                                                    <div class=\"contact-data\">\n                                        <p><strong>Telefon: </strong>35 02 50 50 <strong><strong><br /></strong></strong></p>\n<p><strong>Vakttelefon utenom kontortid</strong>:<br />40 40 57 00 eller 40 40 57 01</p>\n<p><strong>E-post: </strong><a href=\"mailto:post@jev.no\"></a><a href=\"mailto:post@everket-notodden.no\">post@everket-notodden.no</a><br /><br /></p>\n<p><strong>Postadresse:</strong><br />Lienveien 39<br />3678 Notodden</p>\n<p><br /></p>\n<p><strong>Åpningstider</strong><br /><strong>Besøk:</strong> Hverdager 08:00 – 15:00</p>\n<p><strong>Telefon: </strong>Hverdager 08:00 – 15:00<br /><br /></p>\n<p><strong>Organisasjonsnummer: <br /></strong>966731508</p>\n                                    </div>\n                                                                                            </div>\n                        </div>\n                    </div>\n                    <div class=\"mid-left menu-wrapper _m6 _l3\">\n                                            </div>\n                    <div class=\"mid-right menu-wrapper _m6 _l3\">\n                                                    <div class=\"menu-footer\">\n                                <ul>\n                                                                            <li>\n                                            <a aria-label=\"Gå til Personvernerklæring\" href=\"https://everket-notodden.no/personvernerklaering\">\n                                                Personvernerklæring\n                                            </a>\n                                        </li>\n                                                                        <li>\n                                        <a href=\"javascript:cm_displaySettings();\">Cookies-innstillinger</a>\n                                    </li>\n                                </ul>\n                            </div>\n                                                \n                    </div>\n                    <div class=\"mob-only _\">\n                                                    <div class=\"_w qls\">\n                                                                                                                                            \n                                                                            <div class=\"ql _m6 _l4\">\n                                            <a aria-label=\"Gå til https://everket-notodden.no/tilgjengelighet\" href=\"https://everket-notodden.no/tilgjengelighet\">\n                                                <div class=\"inner-link\">\n                                                    <h2 class=\"footer-title\">Les mer</h2>\n                                                </div>\n                                            </a>\n                                        </div>\n                                                                                                                                                                                \n                                                                            <div class=\"ql _m6 _l4\">\n                                            <a aria-label=\"Gå til https://everket-notodden.no/driftsmeldinger\" href=\"https://everket-notodden.no/driftsmeldinger\">\n                                                <div class=\"inner-link\">\n                                                    <h2 class=\"footer-title\">Les mer</h2>\n                                                </div>\n                                            </a>\n                                        </div>\n                                                                                                                                                                                \n                                                                            <div class=\"ql _m6 _l4\">\n                                            <a aria-label=\"Gå til https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\" href=\"https://esmart24web.no/Everket/Touch/Login?ReturnURL=Home%2FIndex&amp;queryString=\" target=\"_blank\">\n                                                <div class=\"inner-link\">\n                                                    <h2 class=\"footer-title\">Les mer</h2>\n                                                </div>\n                                            </a>\n                                        </div>\n                                                                                                </div>\n                                            </div>\n                    <div class=\"right _s6 _l3\">\n                        <div class=\"info\">\n                                                            <h2 class=\"footer-title\">Everket Notodden AS er en del av:</h2>\n                                                                                        <a aria-label=\"Gå til https://nettalliansen.no/\" href=\"https://nettalliansen.no/\" target=\"_blank\">\n                                    <img src=\"https://everket-notodden.no/uploads/Profile/Logo_ColorBig.png\" alt=\"Nettalliansen Logo\" />\n                                </a>\n                                                    </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n    <a href=\"#page\" class=\"goBack js-goBack\" aria-label=\"Gå tilbake til toppen av siden.\">\n        <svg stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 20 20\" height=\"1em\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" d=\"M5.293 9.707a1 1 0 010-1.414l4-4a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L11 7.414V15a1 1 0 11-2 0V7.414L6.707 9.707a1 1 0 01-1.414 0z\" clip-rule=\"evenodd\"></path></svg>\n    </a>\n</footer>\n\n            </div>\n                \n        <script>\n            \n        </script>\n\n                                                    <script src=\"https://dscylil36p3a6.cloudfront.net/everket_notodden_no/chatbot-init.js\" defer></script>\n                    \n         \n    <div class=\"cm__blocked cm__active\" style=\"z-index:99999999\"></div>\n \n<div class=\"__cookiemng__ green cm__active  cm__rounded \" data-google-consent=\"1\" style=\"z-index:100000000\"  data-site-handle=\"default\">\n     <div class=\"cm__button cm__close\" data-cm-action=\"onClose\"></div>\n     <div class=\"cm__container cm__full cm__active\" data-cm-view=\"default\">\n          <div class=\"cm__content \">\n                <h3>Denne nettsiden benytter seg av tredjeparts cookies</h3>\n          </div>\n          <div class=\"cm__content \" style=\"\">\n                Vi bruker cookies og script som samler inn informasjon om deg.\n                                     <br/><a href=\"/personvernerklaering\" aria-label=\"Les mer om vår bruk av cookies i personvernerklæringen. in a new window\" target=\"_blank\" style=\"margin-top:0.25rem;color:inherit; text-decoration:underline; font-weight:bold;\">Les mer om vår bruk av cookies i personvernerklæringen.</a>\n                          </div>\n                    <div class=\"cm__content cm__inline-button\">\n                                     <div class=\"cm__button \" data-cm-action=\"onFunctional\" role=\"button\" tabindex=\"0\" aria-label=\"Bruk nødvendige\">Bruk nødvendige</div>\n                     <div class=\"cm__button cm__outline\" data-cm-action=\"onCustomize\" role=\"button\" tabindex=\"0\" aria-label=\"Tilpass\">Tilpass</div>\n                                                <div class=\"cm__button cm__outline\" data-cm-action=\"onAll\" role=\"button\" tabindex=\"0\" aria-label=\"Godta alle\">Godta alle</div>\n          </div>\n     </div>\n               <div class=\"cm__container cm__full\" data-cm-view=\"customize\">\n                <div class=\"cm__content\">\n                     <h3>Denne nettsiden benytter seg av tredjeparts cookies</h3>\n                </div>\n                <div class=\"cm__content\" style=\"text-align:center;\">\n                     Vi bruker cookies og script som samler inn informasjon om deg.\n                                             <br/><a href=\"/personvernerklaering\" aria-label=\"Les mer om vår bruk av cookies i personvernerklæringen. in a new window\" target=\"_blank\" style=\"margin-top:0.25rem;color:inherit; text-decoration:underline; font-weight:bold;\">Les mer om vår bruk av cookies i personvernerklæringen.</a>\n                                    </div>\n                <div class=\"cm__content\">\n                                               <div class=\"cm__checkbox\">\n                                <div class=\"cm__accordion\">\n                                     <div class=\"cm__acc-header\">\n                                          <input disabled type=\"checkbox\" id=\"cm_functionalCookies\" name=\"functionalCookies\" checked value=\"functional\">\n                                          <label for=\"cm_functionalCookies\">Nødvendig</label>\n                                     </div>\n                                     <div class=\"cm__button cm__acc-trigger\"></div>\n                                     <div class=\"cm__acc-panel\">\n                                          <p>Disse informasjonskapslene er nødvendige for å få nettstedet til å fungere og kan ikke slås av i systemene våre. De er vanligvis basert på dine valg for en tjeneste, som å angi personverninnstillinger, pålogging eller utfylling av skjemaer.</p>\n                                     </div>\n                                </div>\n                          </div>\n                                                                    <div class=\"cm__checkbox\">\n                                <div class=\"cm__accordion\">\n                                     <div class=\"cm__acc-header\">\n                                          <input type=\"checkbox\" id=\"cm_analyticsCookies\" name=\"analyticsCookies\"  value=\"analytics\">\n                                          <label for=\"cm_analyticsCookies\">Statistik</label>\n                                     </div>\n                                     <div class=\"cm__button cm__acc-trigger\"></div>\n                                     <div class=\"cm__acc-panel\">\n                                          <p>Vi analyserer og måler data for å forstå hvordan nettsiden vår brukes for å gjøre ulike ting. For eksempel optimalisere innhold på våre nettsider. All informasjon vi samler inn og rapporterer er anonym.</p>\n                                     </div>\n                                </div>\n                          </div>\n                                                                               </div>\n                <div class=\"cm__content cm__inline-button\">\n                     <div class=\"cm__button \" data-cm-action=\"onSave\">Lagre</div>\n                     <div class=\"cm__button \" data-cm-action=\"onFunctional\">Bruk nødvendige</div>\n                     <div class=\"cm__button cm__outline\" data-cm-action=\"onAll\">Godta alle</div>\n                </div>\n          </div>\n     </div>\n\n    <script src=\"/assets/src/js/vendor/script-head.js?v=1785761067\"></script>\n<script src=\"/assets/build/js/main.js?v=1785761067\"></script>\n<script src=\"https://everket-notodden.no/cpresources/fef8a2c6/js/cookiemng.js?v=1785761202\"></script>\n<script>let activeFlag = document.getElementById(\"active-flag\");\n\tlet languageSelector = document.getElementById(\"language-selector\");\n\n\tif(activeFlag != undefined && languageSelector != undefined){\n\t\tactiveFlag.addEventListener(\"click\", () =>{\n\t\t\tlanguageSelector.classList.toggle(\"visible\");\n\t\t})\n\t\n\t\tdocument.body.addEventListener(\"click\", (event) => {\n\t\t\tif (!languageSelector.contains(event.target) && event.target !== activeFlag) {\n\t\t\t\tlanguageSelector.classList.remove(\"visible\");\n\t\t\t}\n\t\t});\n\t};\nsetTimeout(() => {\n        const elements = document.querySelectorAll('*');\n\n        for (const el of elements) {\n            if (el.shadowRoot) {\n                const div = el.shadowRoot.querySelector('div[style*=\"height: 700px\"]');\n                if (div) {\n                    div.style.removeProperty('height');\n                    break;\n                }\n            }\n        }\n    }, 1000);\nvar translations_object = {\"Are you looking for something special?\":\"Leter du etter noe spesielt?\",\"Read more\":\"Les mer\",\"Search\":\"Søk\",\"Submit search\":\"Send inn søk\",\"search results\":\"søkeresultater\",\"search result\":\"søkeresultat\",\"Pages\":\"Innganger\",\"Article\":\"Artikkel\",\"No results for your criteria. Try again.\":\"Ingen resultater for kriteriene dine. Prøv igjen.\",\"Go back\":\"Tilbake\",\"Latest news\":\"Siste nytt\",\"City\":\"Sted\",\"Date\":\"Dato\",\"Time\":\"Tid\",\"Published by\":\"Publisert av\",\"mandatory information\":\"obligatorisk informasjon\",\"Category menu\":\"Kategorimeny\",\"Home page\":\"Min side\",\"To main page\":\"Til min side\",\"More info here\":\"Mer info her\",\"I accept\":\"Jeg aksepterer\",\"We use cookies and scripts that collect information about you.\":\"Vi bruker cookies og script som samler inn informasjon om deg.\",\"Contact Form Submission\":\"Kontakt skjema innsending\",\"Send\":\"Send inn\",\"Write here\":\"Skriv her\",\"Name\":\"Navn\",\"Email\":\"Epostadresse\",\"Your Message\":\"Din beskjed\",\"I accept terms\":\"Jeg godtar vilkår\",\"Read Terms here\":\"Les Vilkår her\",\"Choose files\":\"Velg filer\",\"Home\":\"Hjem\",\"No file selected\":\"Ingen fil valgt\",\"This field is required\":\"Dette feltet må fylles ut\",\"Invalid email\":\"Ugyldig e postadresse\",\"Invalid phone number\":\"Telefonnummer skal ha 8 siffer\",\"Invalid date format\":\"Dato må formateres som dd\\/mm\\/yyyy\",\"technicalErrorTooltip\":\"Hvis du opplever problemer med å få tilgang til en side eller hvis driftsmeldingskartet ikke viser korrekt informasjon på kartet, regnes dette som en teknisk feil på nettsiden.\",\"wrongInformationTooltip\":\"Hvis du oppdager feil informasjon på nettsiden, kan du markere dette ved å krysse av her.\",\"pageErrorsTooltip\":\"Dette feltet er ment for å rapportere eventuelle problemer eller feil som oppstår når du bruker skjermleser, tastaturnavigering eller andre hjelpemidler på nettsiden vår. Ved å krysse av dette alternativet, vennligst gi en detaljert beskrivelse av feilen. Dette vil hjelpe oss med å forbedre tilgjengeligheten og sikre en bedre opplevelse for alle brukere.\",\"Contact Information\":\"Kontaktinformasjon\",\"Phone\":\"Telefon\",\"E-mail\":\"E-Post\",\"Address\":\"Postadresse\",\"Organization Number\":\"Organisasjonsnummer\",\"Min side\":\"Min side\"};</script></body>\n</html>",
+          "page_text": "Velkommen til Everket | Everket Hopp til hovedinnhold Avbruddskart Les mer Søk Netti+ Min side Send inn søk Kunde og nettleie Kunde og nettleie Tilbake Nettleiepriser Øvrige priser og tjenester Om nettleie Vilkår for nettleie og tilknytning Norgespris Faktura og betaling Valg av strømleverandør Plusskundeordningen Kompensasjon for strømavbrudd AMS måler / HAN-port Nøytralitet Statlige avgifter Solceller Tilko - Tilknytning av større uttakskunder Graving og bygging Graving og bygging Tilbake Trefelling og skogrydding Anleggsbidrag Byggestrøm Oppsigelse av byggestrøm Gravemelding og kabelpåvisning For installatører Aktiviteter nær høyspenningslinjer og kabler Elsikkerhet Elsikkerhet Tilbake Det Lokale Eltilsyn Elsikkerhetsportalen Hva kontrollerer vi ved et boligtilsyn? Jordfeil Brann Gode råd om elektrisk anlegg Boligkjøp Tilsyn med virksomheter Driftsmeldinger og feil Om oss Om oss Tilbake Kontakt oss Tilgjengelighet Nettleie Leter du etter noe spesielt? Send inn søk Velkommen til Everket Everket AS er et aksjeselskap 100 prosent eiet av Notodden kommune via morselskapet Notodden Energi Holding. Vi er den lokale netteier av det elektriske kraftnettet i Notodden kommune. Vi ble etablert i 1954 som Notodden elektrisitetsverk og skiftet så navn til Notodden Energi Nett. Med krav fra NVE om selskapsmessig skille for den monopolbaserte nettvirksomheten har vi fra 2020 endret navn til Everket AS. Hurtigmeny Kunde og nettleie Norgespris Om nettleie Graving og bygging Byggestrøm For installatører Elsikkerhet Elsikkerhet Det Lokale Eltilsyn Driftsmeldinger og feil Norgespris Norgespris innføres som en del av det norske kraftmarkedet. På denne siden finner du offentlig informasjon som skal veilede nettkundene om ordningen. Bestilling av Norgespris blir tilgjengelig her når løsningen åpner, senest 27. september 2025. Les mer Min side Logg inn på Min side og få oversikt over forbruket ditt og dine betalinger. Følg med på forbruket ditt Informasjon om målepunktet ditt ...og mer! Logg inn på Min side Nyheter fra Everket 25.09.2026 Bli med på Elsikkerhetsdagen Bli med på Elsikkerhetsdagen 15. oktober, vinn 25 000 kroner og gjør hjemmet tryggere! 19.08.2025 Informasjon om Norgespris Norgespris blir en viktig del av det nye kraftmarkedet. Enn så lenge henviser vi til offentlige kilder som gir oppdatert og god informasjon om ordningen. 22.08.2024 Beskytt hjemmet for lynskader Det kan bli store skader etter torden og lyn. Her er de viktigste rådene du bør følge! Tilgjengelighet Driftsmeldinger Min side Vakttelefon 40 40 57 00 Kontaktinformasjon Telefon: 35 02 50 50 Vakttelefon utenom kontortid : 40 40 57 00 eller 40 40 57 01 E-post: post@everket-notodden.no Postadresse: Lienveien 39 3678 Notodden Åpningstider Besøk: Hverdager 08:00 – 15:00 Telefon: Hverdager 08:00 – 15:00 Organisasjonsnummer: 966731508 Personvernerklæring Cookies-innstillinger Les mer Les mer Les mer Everket Notodden AS er en del av: Denne nettsiden benytter seg av tredjeparts cookies Vi bruker cookies og script som samler inn informasjon om deg. Les mer om vår bruk av cookies i personvernerklæringen. Bruk nødvendige Tilpass Godta alle Denne nettsiden benytter seg av tredjeparts cookies Vi bruker cookies og script som samler inn informasjon om deg. Les mer om vår bruk av cookies i personvernerklæringen. Nødvendig Disse informasjonskapslene er nødvendige for å få nettstedet til å fungere og kan ikke slås av i systemene våre. De er vanligvis basert på dine valg for en tjeneste, som å angi personverninnstillinger, pålogging eller utfylling av skjemaer. Statistik Vi analyserer og måler data for å forstå hvordan nettsiden vår brukes for å gjøre ulike ting. For eksempel optimalisere innhold på våre nettsider. All informasjon vi samler inn og rapporterer er anonym. Lagre Bruk nødvendige Godta alle",
+          "proof_level": "p1_exact",
+          "registrable_domain": "everket-notodden.no",
+          "strategy": "registry_homepage"
+        }
+      }
+    },
+    "industry_code": "35.140",
+    "industry_label": "Distribusjon av elektrisitet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NOTODDEN",
+    "municipality_number": "4005",
+    "name": "EVERKET AS",
+    "organisation_number": "966731508",
+    "run_metrics": {
+      "latencies_ms": [
+        1187,
+        1218,
+        1171,
+        1139,
+        3985
+      ],
+      "requests": 5
+    },
+    "website": "www.everket-notodden.no"
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:45Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "EVERKET AS (AS, org.nr 966731508)",
+    "what_it_does": "EVERKET AS is classified under NACE code 35.140 (unspecified). The company operates its verified website at https://everket-notodden.no/. It operates publicly under the brand name 'Everket', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, EVERKET AS reported revenue of 89,457,689 NOK and an operating result of 26,752,762 NOK. Net result was 15,756,686 NOK, with total assets of 404,496,611 NOK and equity of 125,340,051 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 29.9% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Trond Stangeby. Daily operations are led by general manager Ingar Tollum Andersen. The entity has 10 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "EVERKET AS is classified under NACE code 35.140 (unspecified).",
+        "claim_ids": [
+          "84056a1a4ac96c32a543",
+          "90a2c3196b246c8162e4"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://everket-notodden.no/.",
+        "claim_ids": [
+          "6429df83d572b63bebc3"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Everket', according to its website.",
+        "claim_ids": [
+          "c38f65addc27f43cfc3a"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "781345c91747c5554c03",
+          "84056a1a4ac96c32a543"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, EVERKET AS reported revenue of 89,457,689 NOK and an operating result of 26,752,762 NOK.",
+        "claim_ids": [
+          "7b58079b3bab42dda5f4",
+          "d4b2c3c52117e638bc4b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was 15,756,686 NOK, with total assets of 404,496,611 NOK and equity of 125,340,051 NOK.",
+        "claim_ids": [
+          "870802fe695896bed46e",
+          "e976fea312f9e48c7e06",
+          "601309b617a6dc55246b"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "7b58079b3bab42dda5f4",
+          "db81d7a177d7b78561ef"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Operating margin was 29.9% (derived: operating result / revenue).",
+        "claim_ids": [
+          "d4b2c3c52117e638bc4b",
+          "7b58079b3bab42dda5f4"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The board of directors is chaired by Trond Stangeby.",
+        "claim_ids": [
+          "24ad3163e121a5a2a4d5"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "Daily operations are led by general manager Ingar Tollum Andersen.",
+        "claim_ids": [
+          "82999f5681588ffb653c"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity has 10 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "144d125e758e77efb73b",
+          "15c6e021372e8ab81e4e",
+          "191449cf11754f4e9a49",
+          "24ad3163e121a5a2a4d5",
+          "2faeaf175d2252b4a188",
+          "3146ca578141bf2fd79b"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "90a2c3196b246c8162e4"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "e2b3472a158d3614c0be"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "90a2c3196b246c8162e4"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "90a2c3196b246c8162e4"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "90a2c3196b246c8162e4"
+        ]
+      }
+    ]
+  }
+}

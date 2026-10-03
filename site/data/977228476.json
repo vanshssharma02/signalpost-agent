@@ -1,0 +1,1515 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "5dba9f8644837ddbccef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29683000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5e84dc48b46175f68e06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -19181000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "afe1b846563dbade90fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -146845000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7cedb64b563eeb96241b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1092168000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "95805e423c53716dcb5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 893337000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef34f285d8b961a18343",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1223411000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "75e9b9b61f0e0c801c6d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 973299000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b004c989017d436c86bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1058349000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2458f0b9a78df821b58",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1074859000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2905f6b49c614c4bfa96",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 148553000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "619380e0a59161c78d2c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -165012000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "787cae653998485eb18c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 118869000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "44e9106c35a1707e7c53",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 28328000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9209f3cdc8b3ec1bff15",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -645000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b289144adcf497064e4c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -158184000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "20c69a9c6b43d256ea36",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -19188000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ad26e1857fc69133fd8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 29683000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eae0419e3232a87a6c65",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -136545000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1fb17d969ff21ed70b9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 363768000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e629e46e0df850a58fce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 300231000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "eab8eded75b9f26fd0ed",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-977228476-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 550030000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b57c9810f75f2af2dab6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-977228476"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "50.203"
+    },
+    {
+      "availability": "available",
+      "claim_id": "422a723a1460e01bdd40",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-977228476"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7ce88ac89163fcc78486",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-977228476"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SOLSTAD SHIPPING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bfa67d6dbe612fbd32e2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-977228476"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 492
+    },
+    {
+      "availability": "available",
+      "claim_id": "291172c39a3cf60c3c71",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-977228476-6660e9c8767f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kjetil Ramstad",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6561c399e2f6b614d178",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-977228476-f559a0e48f27"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Peder Solstad",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ee1d11ed1206541a683",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-977228476-d0358ad9fcf3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ERNST & YOUNG AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "91d373164be4286bf6bb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-977228476-9e55ea0b802b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Peder Solstad",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "993309d9ce75aa4d0165",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-977228476-977242770"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:23Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:23Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nesavegen 39"
+          ],
+          "kommune": "KARMØY",
+          "kommunenummer": "1149",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "4280",
+          "poststed": "SKUDENESHAVN"
+        },
+        "employees": 492,
+        "industry": {
+          "beskrivelse": "Forsyning for offshore",
+          "kode": "50.203"
+        },
+        "name": "SOLSTAD SHIPPING AS",
+        "organisation_number": "977242770"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 550030000.0, operating_result: -158184000.0, profit_before_tax: -136545000.0, annual_result: -146845000.0, assets: 893337000.0, equity: -165012000.0, debt: 1058349000.0",
+      "content_sha256": "47098a9d2155fbc13a0798edc5ddcdd64d29dc6622ab3b77e717127e80103bb6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "http_status": 200,
+      "id": "ev-fin-977228476-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:15.055236Z",
+      "snapshot_ref": "47/47098a9d2155fbc13a0798edc5ddcdd64d29dc6622ab3b77e717127e80103bb6.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 300231000.0, operating_result: 28328000.0, profit_before_tax: -19188000.0, annual_result: -19181000.0, assets: 1092168000.0, equity: 118869000.0, debt: 973299000.0",
+      "content_sha256": "472ea15e76cc77148caf041686325952362669cbdb73479897b1ce7dc0f19ccd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "http_status": 200,
+      "id": "ev-fin-977228476-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:15.055236Z",
+      "snapshot_ref": "47/472ea15e76cc77148caf041686325952362669cbdb73479897b1ce7dc0f19ccd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 363768000.0, operating_result: -645000.0, profit_before_tax: 29683000.0, annual_result: 29683000.0, assets: 1223411000.0, equity: 148553000.0, debt: 1074859000.0",
+      "content_sha256": "1f7f57371168653850620bfacc51443fc98b5657aef9056e757350581fb20556",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "http_status": 200,
+      "id": "ev-fin-977228476-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:15.055236Z",
+      "snapshot_ref": "1f/1f7f57371168653850620bfacc51443fc98b5657aef9056e757350581fb20556.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 977242770: SOLSTAD SHIPPING AS",
+      "content_sha256": "382e45028791b11a352460ead90a7aa61696de9e295ceb0f58dd87147d6a9fba",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=977228476&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-977228476-977242770",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:18.687981Z",
+      "snapshot_ref": "38/382e45028791b11a352460ead90a7aa61696de9e295ceb0f58dd87147d6a9fba.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=977228476&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 977228476 SOLSTAD SHIPPING AS",
+      "content_sha256": "66e3ecfb9e2dacad5f93b2bac6e96b38b8b9cdef7f1bda7a5afcda19e6ee17dd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-977228476",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "66/66e3ecfb9e2dacad5f93b2bac6e96b38b8b9cdef7f1bda7a5afcda19e6ee17dd.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kjetil Ramstad",
+      "content_sha256": "9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "http_status": 200,
+      "id": "ev-role-977228476-6660e9c8767f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:16.255968Z",
+      "snapshot_ref": "9b/9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Lars Peder Solstad",
+      "content_sha256": "9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "http_status": 200,
+      "id": "ev-role-977228476-9e55ea0b802b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:16.255968Z",
+      "snapshot_ref": "9b/9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ERNST & YOUNG AS",
+      "content_sha256": "9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "http_status": 200,
+      "id": "ev-role-977228476-d0358ad9fcf3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:16.255968Z",
+      "snapshot_ref": "9b/9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Lars Peder Solstad",
+      "content_sha256": "9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "http_status": 200,
+      "id": "ev-role-977228476-f559a0e48f27",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:16.255968Z",
+      "snapshot_ref": "9b/9b891e43049228ce1db20e9bea2c0b6143f113e42b9df5590a790d504099ae91.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1fb17d969ff21ed70b9a",
+        "20c69a9c6b43d256ea36",
+        "2905f6b49c614c4bfa96",
+        "3ad26e1857fc69133fd8",
+        "44e9106c35a1707e7c53",
+        "5dba9f8644837ddbccef",
+        "5e84dc48b46175f68e06",
+        "619380e0a59161c78d2c",
+        "75e9b9b61f0e0c801c6d",
+        "787cae653998485eb18c",
+        "7cedb64b563eeb96241b",
+        "9209f3cdc8b3ec1bff15",
+        "95805e423c53716dcb5d",
+        "afe1b846563dbade90fd",
+        "b004c989017d436c86bf",
+        "b289144adcf497064e4c",
+        "e2458f0b9a78df821b58",
+        "e629e46e0df850a58fce",
+        "eab8eded75b9f26fd0ed",
+        "eae0419e3232a87a6c65",
+        "ef34f285d8b961a18343"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_group_structure_returned"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "422a723a1460e01bdd40",
+        "7ce88ac89163fcc78486",
+        "b57c9810f75f2af2dab6",
+        "bfa67d6dbe612fbd32e2"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "291172c39a3cf60c3c71",
+        "6561c399e2f6b614d178",
+        "6ee1d11ed1206541a683",
+        "91d373164be4286bf6bb"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "993309d9ce75aa4d0165"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "7ce88ac89163fcc78486",
+      "422a723a1460e01bdd40",
+      "bfa67d6dbe612fbd32e2",
+      "b57c9810f75f2af2dab6"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SOLSTAD SHIPPING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 9084,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "977228476",
+  "profile": {
+    "bankrupt": false,
+    "employees": 492,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:00.424822Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "977228476",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "87551efc5b585afe123c21e618becf47778db9317e292c1a8d31a95656e90479",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:15.055236Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/977228476",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -146845000.0,
+              "assets": 893337000.0,
+              "currency": "NOK",
+              "debt": 1058349000.0,
+              "equity": -165012000.0,
+              "operating_result": -158184000.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -136545000.0,
+              "record_id": 5421621,
+              "revenue": 550030000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -19181000.0,
+              "assets": 1092168000.0,
+              "currency": "NOK",
+              "debt": 973299000.0,
+              "equity": 118869000.0,
+              "operating_result": 28328000.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -19188000.0,
+              "record_id": 6053961,
+              "revenue": 300231000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 29683000.0,
+              "assets": 1223411000.0,
+              "currency": "NOK",
+              "debt": 1074859000.0,
+              "equity": 148553000.0,
+              "operating_result": -645000.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 29683000.0,
+              "record_id": 6733094,
+              "revenue": 363768000.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "d2113a2f0853f1fd724cdc17a92929884b33f0aae2fb94579b67fd0b94f08d1c",
+        "effective_at": null,
+        "field": "group",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:17.448878Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/977228476",
+        "status": "available",
+        "value": {
+          "children": [
+            {
+              "dato": "2026-03-03",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "NORMAND DRIFT AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "977281695",
+              "parentNavn": "SOLSTAD OFFSHORE ASA",
+              "parentOrganisasjonsnummer": "945883294"
+            },
+            {
+              "dato": "2026-03-03",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SOLSTAD SHIPPING AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "977228476",
+              "parentNavn": "SOLSTAD OFFSHORE ASA",
+              "parentOrganisasjonsnummer": "945883294"
+            },
+            {
+              "dato": "2026-03-03",
+              "grunnlag": "100%",
+              "knytningsform": {
+                "beskrivelse": "Konsern datter",
+                "kode": "KDAT"
+              },
+              "navn": "SOLSTAD REDERI AS",
+              "nivaa": 1,
+              "organisasjonsform": {
+                "beskrivelse": "Aksjeselskap",
+                "kode": "AS"
+              },
+              "organisasjonsnummer": "977228212",
+              "parentNavn": "SOLSTAD OFFSHORE ASA",
+              "parentOrganisasjonsnummer": "945883294"
+            }
+          ],
+          "navn": "SOLSTAD OFFSHORE ASA",
+          "organisasjonsform": {
+            "beskrivelse": "Allmennaksjeselskap",
+            "kode": "ASA"
+          },
+          "organisasjonsnummer": "945883294"
+        }
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "198cc72252f145fa551be5fca81ab88a6e7b00b312fda23334a98245b708567d",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:18.687981Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=977228476&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nesavegen 39"
+                ],
+                "kommune": "KARMØY",
+                "kommunenummer": "1149",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "4280",
+                "poststed": "SKUDENESHAVN"
+              },
+              "employees": 492,
+              "industry": {
+                "beskrivelse": "Forsyning for offshore",
+                "kode": "50.203"
+              },
+              "name": "SOLSTAD SHIPPING AS",
+              "organisation_number": "977242770"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "977228476",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Disponent for skipseiende foretak, herunder tjenesteytende virksomhet, handel og produksjon, herunder å eie og forvalte fast eiendom, aksjer, andeler og andre eiendeler.",
+          "antallAnsatte": "492",
+          "epostadresse": "firmapost@solstad.no",
+          "erIKonsern": "true",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nesavegen 39",
+          "forretningsadresse.kommune": "KARMØY",
+          "forretningsadresse.kommunenummer": "1149",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "4280",
+          "forretningsadresse.poststed": "SKUDENESHAVN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "Utleier av bygg eller anlegg",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester",
+          "hjelpeenhetskode.kode": "78.200",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "10000",
+          "kapital.belop": "10100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-01-23",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Forsyning for offshore",
+          "naeringskode1.kode": "50.203",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SOLSTAD SHIPPING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "977228476",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 13",
+          "postadresse.kommune": "KARMØY",
+          "postadresse.kommunenummer": "1149",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "4297",
+          "postadresse.poststed": "SKUDENESHAVN",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "1997-02-17",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2022-09-19",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1997-11-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2009-10-21",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "1997-02-10",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1997-02-05",
+          "telefon": "52 85 65 00",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-12-20",
+          "vedtektsfestetFormaal": "Være disponent for skipseiende foretak, med utøvelse av slik tjenesteytende virksomhet, handel og produksjon som dette innebærer, samt hva som hermed står i forbindelse, herunder å delta i andre foretak som driver tilsvarende virksomhet. I tillegg skal selskapet ha som formål å drive annen tjenesteytende virksomhet, handel og produksjon, herunder å eie og forvalte fast eiendom, aksjer, andeler og andre eiendeler."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "42c5624cf975092b8d97c6cb169d167269eccd8432c549b883acfeb3b7cab5c7",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:16.255968Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/977228476/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "1999-05-05",
+              "name": "Lars Peder Solstad",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-01-24",
+              "name": "Lars Peder Solstad",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2025-01-24",
+              "name": "Kjetil Ramstad",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2003-07-02",
+              "name": [
+                "ERNST & YOUNG AS"
+              ],
+              "organisation_number": "976389387",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "50.203",
+    "industry_label": "Forsyning for offshore",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "KARMØY",
+    "municipality_number": "1149",
+    "name": "SOLSTAD SHIPPING AS",
+    "organisation_number": "977228476",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1202,
+        1187,
+        1235,
+        2327,
+        391,
+        421,
+        328,
+        47,
+        31,
+        93,
+        14,
+        312,
+        77,
+        108,
+        93
+      ],
+      "requests": 16
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:23Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SOLSTAD SHIPPING AS (AS, org.nr 977228476)",
+    "what_it_does": "SOLSTAD SHIPPING AS is classified under NACE code 50.203 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SOLSTAD SHIPPING AS reported revenue of 363,768,000 NOK and an operating result of -645,000 NOK. Net result was 29,683,000 NOK, with total assets of 1,223,411,000 NOK and equity of 148,553,000 NOK. Revenue grew by +21.2% year-over-year from 2024 (derived: YoY revenue change). Operating margin was -0.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Lars Peder Solstad. Daily operations are led by general manager Lars Peder Solstad. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: no_group_structure_returned",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SOLSTAD SHIPPING AS is classified under NACE code 50.203 (unspecified).",
+        "claim_ids": [
+          "b57c9810f75f2af2dab6",
+          "7ce88ac89163fcc78486"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "422a723a1460e01bdd40",
+          "b57c9810f75f2af2dab6"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SOLSTAD SHIPPING AS reported revenue of 363,768,000 NOK and an operating result of -645,000 NOK.",
+        "claim_ids": [
+          "1fb17d969ff21ed70b9a",
+          "9209f3cdc8b3ec1bff15"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 29,683,000 NOK, with total assets of 1,223,411,000 NOK and equity of 148,553,000 NOK.",
+        "claim_ids": [
+          "5dba9f8644837ddbccef",
+          "ef34f285d8b961a18343",
+          "2905f6b49c614c4bfa96"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +21.2% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "1fb17d969ff21ed70b9a",
+          "e629e46e0df850a58fce"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was -0.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "9209f3cdc8b3ec1bff15",
+          "1fb17d969ff21ed70b9a"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Lars Peder Solstad.",
+        "claim_ids": [
+          "91d373164be4286bf6bb"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Lars Peder Solstad.",
+        "claim_ids": [
+          "6561c399e2f6b614d178"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "291172c39a3cf60c3c71",
+          "6561c399e2f6b614d178",
+          "6ee1d11ed1206541a683",
+          "91d373164be4286bf6bb"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "7ce88ac89163fcc78486"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "993309d9ce75aa4d0165"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "7ce88ac89163fcc78486"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "7ce88ac89163fcc78486"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "7ce88ac89163fcc78486"
+        ]
+      }
+    ]
+  }
+}

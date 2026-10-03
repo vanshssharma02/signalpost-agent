@@ -1,0 +1,1752 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0e99255ab11f12b1d494",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 336194.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2593cca8223dcd75ed5e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 367970.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f5affc4d5acd13386546",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -148623.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "56f48750b33ca1d20a30",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5005288.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ab9c7b45bc8acade1440",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4597881.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f4a4c18a2baa4cf5ef3e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4842690.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "20a1514d26a94cefac75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1091564.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "264733a46568de569635",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 832781.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82e03f8fa8f1058fb664",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1265160.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "321ffb5a356604e4748b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3765101.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "93f134e47df0a1cecd67",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3577530.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "99706b9b4172625e5077",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3913724.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1390e6625455b2941df3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 404509.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6a012944afbdd2b2c984",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 451130.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe337eed9063d1a2991b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -243189.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0a0667cd2112383a4ac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 438788.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aa934f3198b2059565fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 472413.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8557611ef3ef202cf45",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -190247.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "08fcd6280b48958d3213",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9543436.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "73dd1f39a0ea7c4e2100",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9787584.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d992d0318f97982eef5c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-990414653-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10228020.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "22ff9c9932677874789b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-990414653"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Haukaas Bilverksted"
+    },
+    {
+      "availability": "available",
+      "claim_id": "12529251dd231b8a99cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-prof-990414653-facebook-a67826"
+      ],
+      "family": "company_profiles",
+      "field": "company_profile",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "verified_site_outbound",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "platform": "facebook",
+        "url": "https://facebook.com/Haukaasbilverksted"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4b0cac6cea4a3e76ea25",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-prof-990414653-instagram-a8cad8"
+      ],
+      "family": "company_profiles",
+      "field": "company_profile",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "site_verified",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "verified_site_outbound",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": {
+        "platform": "instagram",
+        "url": "https://instagram.com/haukaasbilverksted"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9a4667400f062e2daa36",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990414653"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "95.310"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a417e2d984775a77157b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990414653"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e387f72e4154b74da3c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990414653"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "HAUKÅS BILVERKSTED AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c16b9a70178004bd5528",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-990414653"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 7
+    },
+    {
+      "availability": "available",
+      "claim_id": "31b2ebde2d43552476d9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-d6065113470e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ingrid Kinn",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5a3fa7c877e2abbae00e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-1312e46e5250"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øystein Kinn",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7661e5f9ae8f22c651c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-d615cb90560c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Øystein Kinn",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc02e75631b55d7f51c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-4467c86449e4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HAGLAND FINANS AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7dc3d9a8e5b28db3387",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-13549893d850"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kristian Kinn",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8982e911a6d5c500ab8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-6e570dc640f1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Solfrid Hjortland Kinn",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "df61814fa519be6b457e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-990414653-9514691bd1cb"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HAUGALAND REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "6cd10fec3fde5ce46cc6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-990414653-980480933"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Haukås"
+          ],
+          "kommune": "SVEIO",
+          "kommunenummer": "4612",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5550",
+          "poststed": "SVEIO"
+        },
+        "employees": 7,
+        "industry": {
+          "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+          "kode": "95.310"
+        },
+        "name": "HAUKÅS BILVERKSTED AS",
+        "organisation_number": "980480933"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b0323024ffcd7a16549e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-990414653"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:48:30Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:48:30Z",
+      "method": "domain_guess",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://haukaasbilverksted.no/"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 10228020.0, operating_result: 451130.0, profit_before_tax: 472413.0, annual_result: 367970.0, assets: 4842690.0, equity: 3577530.0, debt: 1265160.0",
+      "content_sha256": "87f19bfbbe1f9368dd297caaad4e5fc3cd731c9160fec927f5db7837d5a4d3b7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "http_status": 200,
+      "id": "ev-fin-990414653-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:10.038142Z",
+      "snapshot_ref": "87/87f19bfbbe1f9368dd297caaad4e5fc3cd731c9160fec927f5db7837d5a4d3b7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 9787584.0, operating_result: 404509.0, profit_before_tax: 438788.0, annual_result: 336194.0, assets: 5005288.0, equity: 3913724.0, debt: 1091564.0",
+      "content_sha256": "73e650526a31b0c24d147b24a9e4852b6bb53a3cdb2fd628d5af7afdfb7b12b7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "http_status": 200,
+      "id": "ev-fin-990414653-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:10.038142Z",
+      "snapshot_ref": "73/73e650526a31b0c24d147b24a9e4852b6bb53a3cdb2fd628d5af7afdfb7b12b7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 9543436.0, operating_result: -243189.0, profit_before_tax: -190247.0, annual_result: -148623.0, assets: 4597881.0, equity: 3765101.0, debt: 832781.0",
+      "content_sha256": "9493700b319427e9946eb022b6ff843df38eb9bcdee2185382f09b9a7d661db3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "http_status": 200,
+      "id": "ev-fin-990414653-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:10.038142Z",
+      "snapshot_ref": "94/9493700b319427e9946eb022b6ff843df38eb9bcdee2185382f09b9a7d661db3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 980480933: HAUKÅS BILVERKSTED AS",
+      "content_sha256": "709ad44383f56040ec3656bc5fd2d7d3d3f4322082cbbc089fb00a7b57bca1a6",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990414653&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-990414653-980480933",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:13.646035Z",
+      "snapshot_ref": "70/709ad44383f56040ec3656bc5fd2d7d3d3f4322082cbbc089fb00a7b57bca1a6.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990414653&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "https://www.facebook.com/Haukaasbilverksted/",
+      "content_sha256": "060a6ff405369a0cc9bec7bc5865efdcecdf027252861ced32a2bdd7df81af41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://facebook.com/Haukaasbilverksted",
+      "http_status": 200,
+      "id": "ev-prof-990414653-facebook-a67826",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:30Z",
+      "snapshot_ref": "06/060a6ff405369a0cc9bec7bc5865efdcecdf027252861ced32a2bdd7df81af41.gz",
+      "source_class": "company_owned",
+      "source_url": "https://facebook.com/Haukaasbilverksted",
+      "span_locator": null
+    },
+    {
+      "claim_span": "https://www.instagram.com/haukaasbilverksted/",
+      "content_sha256": "060a6ff405369a0cc9bec7bc5865efdcecdf027252861ced32a2bdd7df81af41",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://instagram.com/haukaasbilverksted",
+      "http_status": 200,
+      "id": "ev-prof-990414653-instagram-a8cad8",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:30Z",
+      "snapshot_ref": "06/060a6ff405369a0cc9bec7bc5865efdcecdf027252861ced32a2bdd7df81af41.gz",
+      "source_class": "company_owned",
+      "source_url": "https://instagram.com/haukaasbilverksted",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 990414653 HAUKÅS BILVERKSTED AS",
+      "content_sha256": "e9611a7d78fecff9d43d5f07385db657ba7d7f34a80fd094f142026d2e5ecebe",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-990414653",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "e9/e9611a7d78fecff9d43d5f07385db657ba7d7f34a80fd094f142026d2e5ecebe.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Øystein Kinn",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-1312e46e5250",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kristian Kinn",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-13549893d850",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: HAGLAND FINANS AS",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-4467c86449e4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Solfrid Hjortland Kinn",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-6e570dc640f1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: HAUGALAND REVISJON AS",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-9514691bd1cb",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ingrid Kinn",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-d6065113470e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Øystein Kinn",
+      "content_sha256": "f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "http_status": 200,
+      "id": "ev-role-990414653-d615cb90560c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:11.230307Z",
+      "snapshot_ref": "f7/f74cbbcf0fc110fd7a97acbabf3e500ff18ad58a6130bcefcbedc45c8a6d6fc1.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "opertyID\":\"NO:orgnr\",\"value\":\"990414653\"},\"memberOf\":{\"@type\":\"Organiz",
+      "content_sha256": "6cdc2cf39b1fb447dac5e15e4d31fd7b1801dd9c610effbd0e959e5868fd374b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://haukaasbilverksted.no/",
+      "http_status": 200,
+      "id": "ev-web-990414653",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:30Z",
+      "snapshot_ref": "6c/6cdc2cf39b1fb447dac5e15e4d31fd7b1801dd9c610effbd0e959e5868fd374b.gz",
+      "source_class": "company_owned",
+      "source_url": "https://haukaasbilverksted.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "08fcd6280b48958d3213",
+        "0e99255ab11f12b1d494",
+        "1390e6625455b2941df3",
+        "20a1514d26a94cefac75",
+        "2593cca8223dcd75ed5e",
+        "264733a46568de569635",
+        "321ffb5a356604e4748b",
+        "56f48750b33ca1d20a30",
+        "6a012944afbdd2b2c984",
+        "73dd1f39a0ea7c4e2100",
+        "82e03f8fa8f1058fb664",
+        "93f134e47df0a1cecd67",
+        "99706b9b4172625e5077",
+        "a0a0667cd2112383a4ac",
+        "aa934f3198b2059565fb",
+        "ab9c7b45bc8acade1440",
+        "d8557611ef3ef202cf45",
+        "d992d0318f97982eef5c",
+        "f4a4c18a2baa4cf5ef3e",
+        "f5affc4d5acd13386546",
+        "fe337eed9063d1a2991b"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "22ff9c9932677874789b"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "12529251dd231b8a99cb",
+        "4b0cac6cea4a3e76ea25"
+      ],
+      "reason": "verified"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "9a4667400f062e2daa36",
+        "a417e2d984775a77157b",
+        "c16b9a70178004bd5528",
+        "e387f72e4154b74da3c7"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "31b2ebde2d43552476d9",
+        "5a3fa7c877e2abbae00e",
+        "7661e5f9ae8f22c651c5",
+        "bc02e75631b55d7f51c2",
+        "c7dc3d9a8e5b28db3387",
+        "d8982e911a6d5c500ab8",
+        "df61814fa519be6b457e"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6cd10fec3fde5ce46cc6"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "b0323024ffcd7a16549e"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "e387f72e4154b74da3c7",
+      "a417e2d984775a77157b",
+      "c16b9a70178004bd5528",
+      "9a4667400f062e2daa36"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "HAUKÅS BILVERKSTED AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 21809,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "990414653",
+  "profile": {
+    "bankrupt": false,
+    "employees": 7,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.324153Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "990414653",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "f066f35145aeafed88921881ef8eb4c7089af691af96b6308cb4bb599e653f2c",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:10.038142Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/990414653",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 367970.0,
+              "assets": 4842690.0,
+              "currency": "NOK",
+              "debt": 1265160.0,
+              "equity": 3577530.0,
+              "operating_result": 451130.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 472413.0,
+              "record_id": 4823537,
+              "revenue": 10228020.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 336194.0,
+              "assets": 5005288.0,
+              "currency": "NOK",
+              "debt": 1091564.0,
+              "equity": 3913724.0,
+              "operating_result": 404509.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 438788.0,
+              "record_id": 5666081,
+              "revenue": 9787584.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -148623.0,
+              "assets": 4597881.0,
+              "currency": "NOK",
+              "debt": 832781.0,
+              "equity": 3765101.0,
+              "operating_result": -243189.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -190247.0,
+              "record_id": 6900252,
+              "revenue": 9543436.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:12.412599Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/990414653",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "75b60e12c5c93b824dd58812cac003f5227a70d3cc5c80c56bc7ae4f73111070",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:13.646035Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=990414653&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Haukås"
+                ],
+                "kommune": "SVEIO",
+                "kommunenummer": "4612",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5550",
+                "poststed": "SVEIO"
+              },
+              "employees": 7,
+              "industry": {
+                "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+                "kode": "95.310"
+              },
+              "name": "HAUKÅS BILVERKSTED AS",
+              "organisation_number": "980480933"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "990414653",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Drift av bilverksted.",
+          "antallAnsatte": "7",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Haukås",
+          "forretningsadresse.kommune": "SVEIO",
+          "forretningsadresse.kommunenummer": "4612",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5550",
+          "forretningsadresse.poststed": "SVEIO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "38",
+          "kapital.belop": "380000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2006-10-31",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+          "naeringskode1.kode": "95.310",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "HAUKÅS BILVERKSTED AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "990414653",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Tittelsnesvegen 595",
+          "postadresse.kommune": "SVEIO",
+          "postadresse.kommunenummer": "4612",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "5550",
+          "postadresse.poststed": "SVEIO",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2006-10-31",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2006-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2006-11-30",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2006-10-31",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2006-07-10",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2006-07-10",
+          "vedtektsfestetFormaal": "Drift av bilverksted, samt gjennom eierandel å delta i andre selskaper."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "af62c2bb63adb7267ba52a0fc136208b46d0e0d993330806edf4b8d027cf83b2",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:11.230307Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/990414653/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2006-10-31",
+              "name": "Øystein Kinn",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-03-24",
+              "name": "Øystein Kinn",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-03-24",
+              "name": "Solfrid Hjortland Kinn",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-03-24",
+              "name": "Ingrid Kinn",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-03-24",
+              "name": "Kristian Kinn",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2015-09-07",
+              "name": [
+                "HAUGALAND REVISJON AS"
+              ],
+              "organisation_number": "915663001",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2018-10-18",
+              "name": [
+                "HAGLAND FINANS AS"
+              ],
+              "organisation_number": "938036764",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "site_profiles": [
+        {
+          "claim_span": "https://www.facebook.com/Haukaasbilverksted/",
+          "platform": "facebook",
+          "url": "https://facebook.com/Haukaasbilverksted"
+        },
+        {
+          "claim_span": "https://www.instagram.com/haukaasbilverksted/",
+          "platform": "instagram",
+          "url": "https://instagram.com/haukaasbilverksted"
+        }
+      ],
+      "website": {
+        "retrieved_at": "2026-10-03T20:48:30Z",
+        "source_url": "https://haukaasbilverksted.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Haukaas Bilverksted",
+          "claim_span": "opertyID\":\"NO:orgnr\",\"value\":\"990414653\"},\"memberOf\":{\"@type\":\"Organiz",
+          "final_url": "https://haukaasbilverksted.no/",
+          "homepage": "https://haukaasbilverksted.no/",
+          "page_html": "<!DOCTYPE html>\n<html lang=\"nb\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    \n      \n      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n      })(window,document,'script','dataLayer','GTM-WWGDLNDR');</script>\n      \n    \n    <title>Haukaas Bilverksted  - Ditt bilverksted i Sveio</title>\n<meta name=\"description\" content=\"EU-kontroll, service og reparasjon av alle bilmerker inkl. elbil, AC-service, dekkhotell og automatgirservice. Offentlig godkjent bilverksted.\" />\n<meta property=\"og:description\" content=\"EU-kontroll, service og reparasjon av alle bilmerker inkl. elbil, AC-service, dekkhotell og automatgirservice. Offentlig godkjent bilverksted.\" />\n\n<meta property=\"og:image\" content=\"https://haukaasbilverksted.no/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2JyZW1zZWpvYmJfMi5qcGc/bremsejobb_2.jpg?w=1200&h=630&s=c7e2ac5f4db2f103f2c154ba66841bee\" />\n\n<meta property=\"og:type\" content=\"website\" />\n<link rel=\"canonical\" href=\"https://haukaasbilverksted.no/\" />\n\n    <script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://haukaasbilverksted.no/#WebSite\",\"name\":\"Haukås Bilverksted AS\",\"url\":\"https://haukaasbilverksted.no/\",\"inLanguage\":\"nb-NO\",\"publisher\":{\"@type\":\"AutoRepair\",\"@id\":\"https://haukaasbilverksted.no/#AutoRepair\",\"name\":\"Haukås Bilverksted AS\"}}</script>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"AutoRepair\",\"@id\":\"https://haukaasbilverksted.no/#AutoRepair\",\"name\":\"Haukås Bilverksted AS\",\"url\":\"https://haukaasbilverksted.no/\",\"description\":\"EU-kontroll, service og reparasjon av alle bilmerker inkl. elbil, AC-service, dekkhotell og automatgirservice. Offentlig godkjent bilverksted.\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://haukaasbilverksted.no/assets/logo-og-profil/haukas_logo-negativ-2.png\"},\"image\":\"https://haukaasbilverksted.no/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2JyZW1zZWpvYmJfMi5qcGc/bremsejobb_2.jpg?w=1200&h=675&s=7b401d978d7f23690a0d68b10c4a898c\",\"telephone\":\"+4753742551\",\"email\":\"post@haukaasbilverksted.no\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Tittelsnesvegen 595\",\"postalCode\":\"5550\",\"addressLocality\":\"Sveio\",\"addressCountry\":\"NO\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":59.568256,\"longitude\":5.419372},\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:30\",\"closes\":\"15:30\"}],\"sameAs\":[\"https://www.facebook.com/Haukaasbilverksted/\",\"https://www.instagram.com/haukaasbilverksted/\"],\"areaServed\":{\"@type\":\"City\",\"name\":\"Sveio\"},\"identifier\":{\"@type\":\"PropertyValue\",\"propertyID\":\"NO:orgnr\",\"value\":\"990414653\"},\"memberOf\":{\"@type\":\"Organization\",\"@id\":\"https://sjekkpunkt.no/#Organization\",\"name\":\"SjekkPunkt Norge AS\",\"url\":\"https://sjekkpunkt.no/\"},\"potentialAction\":{\"@type\":\"ReserveAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://haukaasbilverksted.no/bestilltime\"},\"result\":{\"@type\":\"Reservation\",\"name\":\"Timebestilling\"}}}</script>\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://haukaasbilverksted.no/#WebPage\",\"name\":\"Haukaas Bilverksted  - Ditt bilverksted i Sveio\",\"url\":\"https://haukaasbilverksted.no/\",\"description\":\"EU-kontroll, service og reparasjon av alle bilmerker inkl. elbil, AC-service, dekkhotell og automatgirservice. Offentlig godkjent bilverksted.\",\"inLanguage\":\"nb-NO\",\"isPartOf\":{\"@type\":\"WebSite\",\"@id\":\"https://haukaasbilverksted.no/#WebSite\"},\"publisher\":{\"@type\":\"AutoRepair\",\"@id\":\"https://haukaasbilverksted.no/#AutoRepair\",\"name\":\"Haukås Bilverksted AS\"}}</script>\n    <link rel=\"preload\" as=\"style\" href=\"https://haukaasbilverksted.no/build/assets/site-B9VUp9i4.css\" /><link rel=\"preload\" as=\"style\" href=\"https://haukaasbilverksted.no/build/assets/site-DA2BH0rH.css\" /><link rel=\"modulepreload\" as=\"script\" href=\"https://haukaasbilverksted.no/build/assets/site-C0bTqQP3.js\" /><link rel=\"stylesheet\" href=\"https://haukaasbilverksted.no/build/assets/site-B9VUp9i4.css\" /><link rel=\"stylesheet\" href=\"https://haukaasbilverksted.no/build/assets/site-DA2BH0rH.css\" /><script type=\"module\" src=\"https://haukaasbilverksted.no/build/assets/site-C0bTqQP3.js\"></script>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin />\n    <link href=\"https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap\" rel=\"stylesheet\" />\n    <link rel=\"icon\" href=\"/assets/logo-og-profil/haukas_favicon.svg\" type=\"image/svg+xml\" />\n    \n    \n    <style>\n      :root {\n        --font-family: \"Barlow\";\n        --border-radius: 1.5rem;\n        --button-border-radius: 0.875rem;\n        --inner-border-radius: 0.25rem;\n        --color-main: #6c0d0f;\n        --color-dark: color-mix(in srgb, black 90%, var(--color-main));\n        --color-accent: color-mix(in srgb, white 90%, var(--color-main));\n      }\n      @media (min-width: 1024px) {\n        .main-navigation__list-container { position: absolute; }\n      }\n    </style>\n  </head>\n  <body>\n    \n      \n      <noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WWGDLNDR\" height=\"0\" width=\"0\" style=\"display: none; visibility: hidden\"></iframe></noscript>\n      \n    \n    \n    <div class=\"site-header__placeholder\"></div>\n<div class=\"main-navigation__underlay\"></div>\n<header class=\"site-header\" data-color=\"main\">\n  <div class=\"container\">\n    <div class=\"site-header__inner\">\n      <div class=\"logo\">\n        <a class=\"logo__link\" href=\"/\">\n  <img class=\"logo__image\" src=\"/assets/logo-og-profil/haukas_logo-negativ-2.png\" alt=\"\">\n</a>\n        \n\n<div class=\"sjekkpunkt-brand\">\n  <a href=\"https://sjekkpunkt.no\" target=\"_blank\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"162\" height=\"48\" viewBox=\"0 0 162 48\" fill=\"none\"><path d=\"M60.6815 0.494629L63.3302 8.18303L65.825 0.494629H67.4207L64.1847 9.79319H62.4594L59.0898 0.494629H60.6855H60.6815Z\" fill=\"currentColor\"/><path d=\"M68.3145 0.000488281H69.9102V1.54888H68.3145V0.000488281ZM69.8616 2.93254V9.79321H68.3509V2.93254H69.8616Z\" fill=\"currentColor\"/><path d=\"M76.7631 2.77612C77.9578 2.77612 78.865 3.31559 79.3632 4.31216C79.6831 4.96281 79.837 5.74112 79.8249 6.68004H74.9932C75.0661 7.94016 75.7749 8.71023 76.8724 8.71023C77.7472 8.71023 78.3142 8.30255 78.6342 7.43776L79.9099 7.84544C79.4118 9.2044 78.3142 9.94977 76.836 9.94977C74.7664 9.94977 73.4785 8.57022 73.4785 6.39177C73.4785 4.21332 74.8474 2.77612 76.7631 2.77612ZM75.0135 5.70818H78.3102C78.2859 5.34579 78.217 5.08223 78.1077 4.84338C77.8728 4.30392 77.3746 4.0033 76.7469 4.0033C75.7911 4.0033 75.1512 4.6416 75.0094 5.70818H75.0135Z\" fill=\"currentColor\"/><path d=\"M86.1546 4.83098C86.1546 5.10689 86.1181 5.50222 86.0493 5.8399L84.6561 5.99639C84.7168 5.73283 84.7614 5.3375 84.7614 5.05747C84.7614 4.25445 84.4293 3.86736 83.8866 3.86736C83.0847 3.86736 82.5865 4.7445 82.5865 6.24759V9.79323H81.084V2.93256H82.5744V4.25445H82.5987C82.9753 3.32789 83.6274 2.80078 84.5022 2.80078C85.4823 2.80078 86.1546 3.45143 86.1546 4.83098Z\" fill=\"currentColor\"/><path d=\"M92.4447 2.77612C93.6395 2.77612 94.5467 3.31559 95.0448 4.31216C95.3648 4.96281 95.5187 5.74112 95.5065 6.68004H90.6749C90.7478 7.94016 91.4565 8.71023 92.5541 8.71023C93.4289 8.71023 93.9959 8.30255 94.3158 7.43776L95.5916 7.84544C95.0934 9.2044 93.9959 9.94977 92.5176 9.94977C90.4481 9.94977 89.1602 8.57022 89.1602 6.39177C89.1602 4.21332 90.5291 2.77612 92.4447 2.77612ZM90.6951 5.70818H93.9918C93.9675 5.34579 93.8987 5.08223 93.7893 4.84338C93.5544 4.30392 93.0563 4.0033 92.4285 4.0033C91.4727 4.0033 90.8328 4.6416 90.6911 5.70818H90.6951Z\" fill=\"currentColor\"/><path d=\"M100.69 9.74372C100.326 9.86314 99.9328 9.93726 99.3901 9.93726C97.9483 9.93726 97.3003 9.26602 97.3003 7.78764V4.08551H95.9395V2.93246H97.3205V1.56115L98.7988 0.922852V2.92834H100.69V4.0814H98.7988V7.55291C98.7988 8.40535 99.0701 8.69361 99.8963 8.69361C100.216 8.69361 100.463 8.6689 100.686 8.61125V9.7396L100.69 9.74372Z\" fill=\"currentColor\"/><path d=\"M64.5395 29.3499C61.5547 29.3499 59.5418 28.1227 59.0234 25.4954L61.1375 24.8818C61.4737 26.6567 62.7292 27.4886 64.6246 27.4886C66.3661 27.4886 67.3421 26.7391 67.3421 25.4089C67.3421 23.5847 65.147 23.9429 62.312 23.074C61.5749 22.8516 60.9877 22.5469 60.5503 22.1022C60.0157 21.5586 59.7119 20.772 59.7119 19.8002C59.7119 17.1728 61.7248 15.7109 64.4545 15.7109C67.1842 15.7109 68.7961 17.0575 69.4157 19.4254L67.3381 19.9031C66.9695 18.3012 65.9813 17.5682 64.3856 17.5682C62.9276 17.5682 61.8868 18.2682 61.8868 19.5778C61.8868 21.5545 64.4342 21.2127 66.9169 21.9992C67.6702 22.238 68.225 22.4934 68.6422 22.9011C69.197 23.4282 69.5129 24.1612 69.5129 25.236C69.5129 27.7768 67.6175 29.3458 64.5355 29.3458L64.5395 29.3499Z\" fill=\"currentColor\"/><path d=\"M70.2022 30.68C71.0892 30.68 71.4091 30.2888 71.4091 29.3004V19.3965H73.5556V29.3869C73.5556 31.4995 72.6849 32.4549 70.7733 32.4549C70.3885 32.4549 69.9349 32.389 69.5664 32.2654L69.3477 30.577C69.6676 30.647 69.9349 30.68 70.2022 30.68ZM71.3605 15.2373H73.6245V17.4363H71.3605V15.2373Z\" fill=\"currentColor\"/><path d=\"M80.1127 19.1741C81.8056 19.1741 83.0976 19.94 83.8023 21.3566C84.2559 22.2791 84.4746 23.3868 84.4543 24.717H77.5977C77.6989 26.5083 78.7033 27.5996 80.2626 27.5996C81.5019 27.5996 82.3078 27.019 82.7614 25.7918L84.5718 26.3724C83.8671 28.2997 82.3078 29.3539 80.214 29.3539C77.2818 29.3539 75.4512 27.3937 75.4512 24.3093C75.4512 21.2249 77.3952 19.1782 80.1127 19.1782V19.1741ZM77.6301 23.3333H82.3078C82.2754 22.8227 82.1742 22.4479 82.0243 22.1061C81.6882 21.3402 80.9835 20.9119 80.0965 20.9119C78.7398 20.9119 77.8326 21.8137 77.6341 23.3333H77.6301Z\" fill=\"currentColor\"/><path d=\"M90.0018 24.1693L88.4102 25.8207V29.1275H86.2637V15.2332H88.4102V23.774L92.4521 19.3924H94.9347L91.5975 23.0575L95.2182 29.1275H92.853L90.0018 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M100.142 24.1693L98.5508 25.8207V29.1275H96.4043V15.2332H98.5508V23.774L102.593 19.3924H105.075L101.738 23.0575L105.359 29.1275H102.994L100.142 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M111.459 15.9331C114.578 15.9331 116.271 17.2797 116.271 19.8041C116.271 22.5302 114.545 24.0827 111.293 24.0827H108.863V29.1273H106.668V15.9331H111.463H111.459ZM111.325 17.7574H108.859V22.2914H111.224C113.168 22.2914 114.007 21.5748 114.007 19.9029C114.007 18.4534 113.136 17.7533 111.325 17.7533V17.7574Z\" fill=\"currentColor\"/><path d=\"M117.83 25.5324V19.3965H119.96V24.8694C119.96 26.7431 120.564 27.5791 121.957 27.5791C123.447 27.5791 124.338 26.4219 124.338 24.3587V19.3965H126.485V29.1316H124.391V27.1384H124.359C123.67 28.6044 122.463 29.3375 121.09 29.3375C119.045 29.3375 117.838 28.0938 117.838 25.5365L117.83 25.5324Z\" fill=\"currentColor\"/><path d=\"M131.02 19.3966V21.4062H131.052C131.741 19.9402 132.964 19.1907 134.353 19.1907C136.398 19.1907 137.605 20.5043 137.605 23.1605V29.1275H135.475V23.7411C135.475 21.7974 134.888 20.945 133.478 20.945C131.988 20.945 131.048 22.1392 131.048 24.2023V29.1275H128.918V19.3925H131.012L131.02 19.3966Z\" fill=\"currentColor\"/><path d=\"M143.709 24.1693L142.117 25.8207V29.1275H139.971V15.2332H142.117V23.774L146.159 19.3924H148.642L145.305 23.0575L148.925 29.1275H146.56L143.709 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M155.763 29.0617C155.244 29.2305 154.689 29.3335 153.92 29.3335C151.875 29.3335 150.951 28.3781 150.951 26.282V21.0315H149.023V19.3966H150.984V17.4529L153.077 16.551V19.3966H155.759V21.0315H153.077V25.9567C153.077 27.1674 153.462 27.575 154.637 27.575C155.09 27.575 155.443 27.5421 155.759 27.4556V29.0575L155.763 29.0617Z\" fill=\"currentColor\"/><path d=\"M156.686 22.7527H161.999V24.3711H156.686V22.7527Z\" fill=\"currentColor\"/><path d=\"M65.0425 46.7898H62.576L59.0039 37.0547H61.2152L63.8477 44.776L66.3304 37.0547H68.4931L65.0384 46.7898H65.0425Z\" fill=\"currentColor\"/><path d=\"M73.726 36.8323C75.4189 36.8323 76.7109 37.5982 77.4156 39.0148C77.8692 39.9373 78.0879 41.045 78.0676 42.3752H71.211C71.3122 44.1665 72.3166 45.2578 73.8759 45.2578C75.1152 45.2578 75.9211 44.6772 76.3747 43.45L78.1851 44.0306C77.4804 45.9579 75.9211 47.0121 73.8273 47.0121C70.8951 47.0121 69.0645 45.0519 69.0645 41.9675C69.0645 38.8831 71.0085 36.8364 73.726 36.8364V36.8323ZM71.2434 40.9915H75.9211C75.8887 40.4809 75.7875 40.1061 75.6376 39.7643C75.3015 38.9984 74.5968 38.5701 73.7098 38.5701C72.3531 38.5701 71.4459 39.4719 71.2474 40.9915H71.2434Z\" fill=\"currentColor\"/><path d=\"M87.0501 39.7479C87.0501 40.1391 87.0015 40.7033 86.9002 41.1809L84.9238 41.4033C85.0089 41.0286 85.0737 40.4644 85.0737 40.0732C85.0737 38.9325 84.6039 38.3848 83.8344 38.3848C82.6963 38.3848 81.9916 39.6284 81.9916 41.7616V46.7897H79.8613V37.0547H81.9754V38.9284H82.0078C82.5424 37.6147 83.4658 36.8652 84.7051 36.8652C86.0983 36.8652 87.0541 37.7877 87.0541 39.7479H87.0501Z\" fill=\"currentColor\"/><path d=\"M92.4003 41.8275L90.8086 43.4789V46.7857H88.6621V32.8914H90.8086V41.4322L94.8505 37.0506H97.3332L93.996 40.7157L97.6167 46.7857H95.2515L92.4003 41.8234V41.8275Z\" fill=\"currentColor\"/><path d=\"M104.303 43.9937C104.303 43.1578 103.481 43.1083 102.072 42.853C100.513 42.5812 99.573 42.3753 98.9857 41.7947C98.5848 41.387 98.3337 40.7899 98.3337 39.9704C98.3337 38.0802 99.8605 36.853 102.072 36.853C104.283 36.853 105.745 37.9443 106.13 39.8015L104.271 40.1598C104.052 39.0521 103.283 38.4714 102.076 38.4714C101.055 38.4714 100.351 38.9326 100.351 39.8015C100.351 40.6705 101.088 40.8064 102.546 41.0452C104.154 41.3335 105.061 41.4364 105.713 42.0871C106.114 42.4783 106.332 43.0589 106.332 43.8414C106.332 45.7315 104.789 46.9958 102.376 46.9958C99.9618 46.9958 98.2689 45.9745 97.8477 43.9773L99.8241 43.549C100.091 44.7597 100.946 45.3403 102.424 45.3403C103.615 45.3403 104.303 44.8462 104.303 43.9937Z\" fill=\"currentColor\"/><path d=\"M113.638 46.7199C113.119 46.8887 112.564 46.9917 111.795 46.9917C109.75 46.9917 108.826 46.0363 108.826 43.9402V38.6897H106.898V37.0548H108.859V35.1111L110.952 34.2092V37.0548H113.634V38.6897H110.952V43.6149C110.952 44.8256 111.337 45.2333 112.512 45.2333C112.965 45.2333 113.318 45.2003 113.634 45.1138V46.7158L113.638 46.7199Z\" fill=\"currentColor\"/><path d=\"M119.22 36.8323C120.913 36.8323 122.205 37.5982 122.91 39.0148C123.363 39.9373 123.582 41.045 123.562 42.3752H116.705C116.806 44.1665 117.811 45.2578 119.37 45.2578C120.609 45.2578 121.415 44.6772 121.869 43.45L123.679 44.0306C122.975 45.9579 121.415 47.0121 119.321 47.0121C116.389 47.0121 114.559 45.0519 114.559 41.9675C114.559 38.8831 116.503 36.8364 119.22 36.8364V36.8323ZM116.742 40.9915H121.419C121.387 40.4809 121.286 40.1061 121.136 39.7643C120.8 38.9984 120.095 38.5701 119.208 38.5701C117.851 38.5701 116.944 39.4719 116.746 40.9915H116.742Z\" fill=\"currentColor\"/><path d=\"M129.061 36.8324C130.434 36.8324 131.39 37.5654 131.928 38.7761H131.997V32.8955H134.127V46.7898H132.034V44.8461H131.985C131.414 46.1597 130.393 47.0122 128.85 47.0122C126.639 47.0122 124.979 45.1385 124.979 42.0005C124.979 38.8626 126.874 36.8365 129.069 36.8365L129.061 36.8324ZM132.009 41.9305C132.009 39.8674 131.086 38.6237 129.612 38.6237C128.138 38.6237 127.149 39.8509 127.149 41.9635C127.149 44.076 128.073 45.2002 129.563 45.2002C131.054 45.2002 132.009 43.9895 132.009 41.9264V41.9305Z\" fill=\"currentColor\"/><path d=\"M48 24.0005C48 37.2547 37.2542 48.0005 24 48.0005C10.7458 48.0005 0 37.2547 0 24.0005C0 10.7463 10.7398 0.000488281 23.994 0.000488281C37.2483 0.000488281 47.994 10.7463 47.994 24.0005H48Z\" fill=\"#FED141\"/><path d=\"M22.2613 39.8764C22.2017 39.8764 22.1392 39.8763 22.0766 39.8734C20.7479 39.8078 19.5473 39.0571 18.9098 37.8922L8.75683 19.3173C7.7469 17.4672 8.42614 15.1465 10.2762 14.1365C12.1262 13.1266 14.447 13.8058 15.4569 15.6559L22.6158 28.7492L41.024 1.67178C42.2097 -0.0740018 44.584 -0.523853 46.3268 0.661847C48.0696 1.84755 48.5225 4.22193 47.3368 5.96473L25.4162 38.2051C24.7042 39.2537 23.5185 39.8764 22.2583 39.8764H22.2613Z\" fill=\"#DA1A32\"/></svg>\n  </a>\n</div>\n\n      </div>\n      <div class=\"site-header__end\">\n        \n\n  \n\n  \n\n  \n\n  \n\n\n\n  <nav class=\"main-navigation\">\n    <ol class=\"main-navigation__list\" data-depth=\"1\">\n    \n      <li class=\"main-navigation__item\">\n        \n          <a class=\"main-navigation__link\" href=\"/bestilltime\">Bestill time</a>\n        \n        \n        </li>\n      \n      <li class=\"main-navigation__item\">\n        \n          <a class=\"main-navigation__link\" href=\"/tjenester\">Tjenester</a>\n        \n        \n        </li>\n      \n      <li class=\"main-navigation__item\">\n        \n          <a class=\"main-navigation__link\" href=\"/om-oss\">Om oss</a>\n        \n        \n        </li>\n      \n      <li class=\"main-navigation__item\">\n        \n          <a class=\"main-navigation__link\" href=\"/kontakt\">Kontakt</a>\n        \n        \n        </li>\n      \n    </ol>\n  </nav>\n  <div class=\"menu-toggle\">\n    <button class=\"menu-toggle__button\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"burger\" width=\"14\" height=\"10\" viewBox=\"0 0 14 10\" fill=\"none\"><path d=\"M1 5H13\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1 0.636353H13\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1 9.36362H13\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n      <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"exit\" width=\"11\" height=\"10\" viewBox=\"0 0 11 10\" fill=\"none\"><path d=\"M1 0.909088L10 9\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M1 9.09091L10 0.909088\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n      Meny\n    </button>\n  </div>\n\n      </div>\n    </div>\n  </div>\n</header>\n    <main>\n  \n    \n  <section class=\"hero hero-type3 hero-accent\">\n    <div class=\"content container\">\n      <div class=\"inner\">\n        <h1>Velkommen til Haukås Bilverksted</h1>\n        <p>Ditt lokale bilverksted i Sveio og omegn, en familiebedrift med mange års erfaring. Du finner oss langs E39 som en totalleverandør til bil, med bensinstasjon rett ved, dekkverksted med dekkhotell og et utvalg fritidsprodukter. Vi jobber med lette kjøretøy, bobil og elbil, og har et solid utdannet team med spisskompetanse på mekanisk arbeid.</p>\n        \n          <div class=\"btn-container\">\n            \n              <a class=\"btn-l btn-dark\" href=\"/bestilltime\">\n  <span>Bestill time</span>\n  \n</a>\n\n            \n              <a class=\"btn-l btn-main\" href=\"tel:+53742551\">\n  <span>53 74 25 51</span>\n  \n</a>\n\n            \n          </div>\n        \n      </div>\n    </div>\n    <div class=\"asset\">\n      \n        <picture>\n          <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL2JpbGRlci1mcmEtaHVha2FzL3JlcGFyYXNqb24tcGEtaGF1a2FzLWJpbHZlcmtzdGVkLmpwZw/reparasjon-pa-haukas-bilverksted.jpg?w=272&h=208&fit=crop&s=7cc9f5725924a8e27ffc7b31dba941b6 1x, /img/asset/YXNzZXRzL2JpbGRlci1mcmEtaHVha2FzL3JlcGFyYXNqb24tcGEtaGF1a2FzLWJpbHZlcmtzdGVkLmpwZw/reparasjon-pa-haukas-bilverksted.jpg?w=272&h=208&fit=crop&dpr=2&s=4a58d95773131910b4acf6bb72488a5e 2x\" />\n          <img src=\"/img/asset/YXNzZXRzL2JpbGRlci1mcmEtaHVha2FzL3JlcGFyYXNqb24tcGEtaGF1a2FzLWJpbHZlcmtzdGVkLmpwZw/reparasjon-pa-haukas-bilverksted.jpg?w=785&h=600&fit=crop&s=01d45ab25982f5ef221390a521c6f7c3\" alt=\"\" />\n        </picture>\n      \n        <picture>\n          <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc18yMy5qcGVn/haukas_23.jpeg?w=272&h=208&fit=crop&s=ca8c7d73cb005f747008b013a159bec1 1x, /img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc18yMy5qcGVn/haukas_23.jpeg?w=272&h=208&fit=crop&dpr=2&s=8ceeecffa8519689a269303dfd99bf2a 2x\" />\n          <img src=\"/img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc18yMy5qcGVn/haukas_23.jpeg?w=785&h=600&fit=crop&s=c4d9de8ba529a8ff335478609d617ba7\" alt=\"\" />\n        </picture>\n      \n        <picture>\n          <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc180LmpwZWc/haukas_4.jpeg?w=272&h=208&fit=crop&s=f48219be92a54dbbe5e58b3a09171eaa 1x, /img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc180LmpwZWc/haukas_4.jpeg?w=272&h=208&fit=crop&dpr=2&s=96dd5e0fb8e158b74b8cf80dc50902db 2x\" />\n          <img src=\"/img/asset/YXNzZXRzL3JlcG90YXNqZS0yMDI2LWJpbC1vZy1zYW50L2hhdWthc180LmpwZWc/haukas_4.jpeg?w=785&h=600&fit=crop&s=af16133b1e67309034b99fa805f3db63\" alt=\"\" />\n        </picture>\n      \n    </div>\n  </section>\n\n\n  \n    <section class=\"logo-block negative\">\n  \n\n  <div class=\"logos count-even container\">\n    \n      <div class=\"logos__item\">\n        \n          <a href=\"https://www.miljofyrtarn.no/sok-virksomheter/\" class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL21pbGpvZnlydGFybi1zZXJ0aWZpc2VydC12aXJrc29taGV0LXZlcnRpa2FsLXJnYi03Njh4OTc3LnBuZw/miljofyrtarn-sertifisert-virksomhet-vertikal-rgb-768x977.png?w=110&h=55&fit=contain&s=47228b7316b79f3332710d59b9dbc025\" />\n          <img src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL21pbGpvZnlydGFybi1zZXJ0aWZpc2VydC12aXJrc29taGV0LXZlcnRpa2FsLXJnYi03Njh4OTc3LnBuZw/miljofyrtarn-sertifisert-virksomhet-vertikal-rgb-768x977.png?w=165&h=70&fit=contain&s=38fccf5846b3d57952aaef235a858a56\" alt=\"Logo\" />\n        </picture>\n      \n          </a>\n        \n      </div>\n      \n    \n      <div class=\"logos__item\">\n        \n          <a href=\"https://utdanning.no/finnlarebedrift/bedrift/925414379/\" class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2dvZGtqZW50LWxhZXJlYmVkcmlmdC1lbGVrdHJvZmFnLmdpZg/godkjent-laerebedrift-elektrofag.gif?w=110&h=55&fit=contain&s=f880a35b1a3db8debdb154df2ad063e5\" />\n          <img src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2dvZGtqZW50LWxhZXJlYmVkcmlmdC1lbGVrdHJvZmFnLmdpZg/godkjent-laerebedrift-elektrofag.gif?w=165&h=70&fit=contain&s=e9323e10489bee4d9aeb05262b85f5d5\" alt=\"Logo\" />\n        </picture>\n      \n          </a>\n        \n      </div>\n      \n    \n      <div class=\"logos__item\">\n        \n          <div class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/assets/logo-og-profil/hurtigruta-carglass_idq6cofrf__1.svg\" />\n          <img src=\"/assets/logo-og-profil/hurtigruta-carglass_idq6cofrf__1.svg\" alt=\"Logo\" />\n        </picture>\n      \n          </div>\n        \n      </div>\n      \n    \n      <div class=\"logos__item\">\n        \n          <div class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2VsYmlsLXBvcy1mYXJnZXIucG5n/elbil-pos-farger.png?w=110&h=55&fit=contain&s=aad005dc3119a5dee0520f7e1e9818dd\" />\n          <img src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2VsYmlsLXBvcy1mYXJnZXIucG5n/elbil-pos-farger.png?w=165&h=70&fit=contain&s=64feafecb110d50adcf3895c9e0e850a\" alt=\"Logo\" />\n        </picture>\n      \n          </div>\n        \n      </div>\n      \n    \n      <div class=\"logos__item\">\n        \n          <a href=\"https://www.ekstralys.no/\" class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2Vrc3RyYWx5cy1sb2dvLXBuZy5wbmc/ekstralys-logo-png.png?w=110&h=55&fit=contain&s=66ea4aae7457d5e5fef540ad6e58115e\" />\n          <img src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2Vrc3RyYWx5cy1sb2dvLXBuZy5wbmc/ekstralys-logo-png.png?w=165&h=70&fit=contain&s=6f0521b506aff403f39eaf89f8d1cd65\" alt=\"Logo\" />\n        </picture>\n      \n          </a>\n        \n      </div>\n      \n    \n      <div class=\"logos__item\">\n        \n          <a href=\"https://fleet.ayvens.com/nb-no/no/page/avtaleverksted\" class=\"logos__item-inner\">\n            \n        <picture>\n          <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2F5dmVucy1sb2dvLnBuZw/ayvens-logo.png?w=110&h=55&fit=contain&s=34fb4fc0f9852e04c27ceb9c5568341b\" />\n          <img src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL2F5dmVucy1sb2dvLnBuZw/ayvens-logo.png?w=165&h=70&fit=contain&s=9d400ddca1844c30cb983a10aa80bfb8\" alt=\"Logo\" />\n        </picture>\n      \n          </a>\n        \n      </div>\n      \n    \n  </div>\n</section>\n\n  \n    \n\n\n  \n    \n  \n\n<section class=\"campaign main flip\">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Bestill service nå og få GRATIS dekkskift</h2>\n        <p></p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-main\" href=\"/bestilltime\">\n  <span>Bestill time</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL2hhdWthc18zLTEuanBlZw/haukas_3-1.jpeg?w=420&h=387&fit=crop-39-45-1&s=66b3403cff120480dbd63ea3afa4e40b 1x, /img/asset/YXNzZXRzL2hhdWthc18zLTEuanBlZw/haukas_3-1.jpeg?w=420&h=387&fit=crop-39-45-1&dpr=2&s=1824060a812f3c3c44a21dcfe982d03d 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL2hhdWthc18zLTEuanBlZw/haukas_3-1.jpeg?w=736&h=677&fit=crop-39-45-1&s=55ec81b745ce06218bf5bea98e748a3d\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL2hhdWthc18zLTEuanBlZw/haukas_3-1.jpeg?w=816&h=751&fit=crop-39-45-1&s=72320252638dcb0d451451d0035f547b\" alt=\"\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n  \n    <section class=\"cards negative\">\n  \n  <div class=\"block__intro container\">\n    \n      <h2>Det eldste verkstedet i Sveio</h2>\n    \n    \n      <p>Vi har mer enn 60 års fartstid i bransjen, og er  i konstant utvikling for å hold tritt med den teknologiske utviklingen. Hos oss finner du et topp moderne verksted og verktøy, samt godt utdannede fagfolk. Vi utfører det meste innen bil på alle bilmerker.</p>\n    \n  </div>\n\n\n  <div class=\"cards__container container\">\n    <div class=\"cards__inner\">\n      \n        <div class=\"cards__item bard\">\n          <div class=\"cards__item-heading\">\n            <div class=\"cards__item-icon\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M243.31,90.91l-128.4,128.4a16,16,0,0,1-22.62,0l-71.62-72a16,16,0,0,1,0-22.61l20-20a16,16,0,0,1,22.58,0L104,144.22l96.76-95.57a16,16,0,0,1,22.59,0l19.95,19.54A16,16,0,0,1,243.31,90.91Z\" fill=\"currentColor\"/></svg>\n            </div>\n            <h3>EU-kontroll</h3>\n          </div>\n          <p>Vi er godkjent av Statens Vegvesen til å utføre kontroll på kjøretøy inntil 3500kg og tyngre</p>\n          <a href=\"/tjenester/eu-kontroll\">Les mer</a>\n        </div>\n      \n        <div class=\"cards__item bard\">\n          <div class=\"cards__item-heading\">\n            <div class=\"cards__item-icon\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M223.68,66.15,135.68,18a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,168a40,40,0,1,1,40-40A40,40,0,0,1,128,168Z\" fill=\"currentColor\" /></svg>\n            </div>\n            <h3>Service og reparasjoner</h3>\n          </div>\n          <p>Vi anbefaler service hvert 2. år eller etter hver 30000 km, og utfører alle servicer ihht. bilprodusentenes instruksjoner og retningslinjer.</p>\n          <a href=\"/tjenester/service\">Les mer</a>\n        </div>\n      \n        <div class=\"cards__item bard\">\n          <div class=\"cards__item-heading\">\n            <div class=\"cards__item-icon\">\n              <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M237.66,77.66,203.31,112l26.35,26.34a8,8,0,0,1-11.32,11.32L212,143.31l-53,53a40,40,0,0,1-56.57,0L86.75,180.57,37.66,229.66a8,8,0,0,1-11.32-11.32l49.09-49.09L59.72,153.54a40,40,0,0,1,0-56.57l53-53-6.35-6.34a8,8,0,0,1,11.32-11.32L144,52.69l34.34-34.35a8,8,0,1,1,11.32,11.32L155.31,64,192,100.69l34.34-34.35a8,8,0,0,1,11.32,11.32Z\" fill=\"currentColor\" /></svg>\n            </div>\n            <h3>Elbil og hybrid</h3>\n          </div>\n          <p>Vi er et sertifisert elbilverksted, og utfører service og reparasjon på din elbil i henhold til fabrikantens spesifikasjoner.</p>\n          <a href=\"/tjenester/elbil\">Les mer</a>\n        </div>\n      \n    </div>\n    \n      <a class=\"btn-l btn-main\" href=\"/tjenester\">\n  <span>Se alle vår verkstedtjenester</span>\n  \n</a>\n\n    \n  </div>\n</section>\n\n  \n    <section class=\"call-to-action single negative container\">\n  \n    <div class=\"dark\">\n      <h2 class=\"large\">\"God gammeldags service i et nymoderne verksted\"</h2>\n      \n        <p>Bli bedre kjent med verkstedet vårt gjennom reportasjen i Bil & sånt.</p>\n      \n      \n        <a class=\"btn-l btn-on-dark\" href=\"/assets/haukas-bilverksted-i-bil-a-sant-nr-2-2026.pdf\">\n  <span>Les repotasje</span>\n  \n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><line x1=\"40\" y1=\"128\" x2=\"216\" y2=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"/><polyline points=\"144 56 216 128 144 200\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"/></svg>\n  \n</a>\n\n      \n    </div>\n  \n</section>\n\n  \n    \n\n\n  \n    \n  \n\n<section class=\"campaign main flip\">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Lang erfaring med bobil</h2>\n        <p>Vi har god erfaring med service og reparasjoner av bobil. Enten det gjelder vedlikehold, feilsøking eller mekanisk arbeid, har vi kompetansen som trengs for å holde deg trygt på veien.</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-main\" href=\"/tjenester/bobil\">\n  <span>Les mer</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2RzYzAwMDQ1LmpwZw/dsc00045.jpg?w=420&h=387&fit=crop&s=2c6c4b38e163da76c23d1766e3774fac 1x, /img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2RzYzAwMDQ1LmpwZw/dsc00045.jpg?w=420&h=387&fit=crop&dpr=2&s=dbd429d0fa8f11e9dd58c63db4a27727 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2RzYzAwMDQ1LmpwZw/dsc00045.jpg?w=736&h=677&fit=crop&s=ae437d4564344122143972044d6447af\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2RzYzAwMDQ1LmpwZw/dsc00045.jpg?w=816&h=751&fit=crop&s=ff8f1a24f866419ec208d566bad16fc4\" alt=\"\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n  \n    \n\n\n  \n    \n  \n\n<section class=\"campaign accent \">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Dårlig sikt i mørket? <br> Vi hjelper deg med bedre lys.</h2>\n        <p>Vi har avtale med Ekstralys og hjelper deg med både bytte av billys og montering av ekstralys. Våre mekanikere sørger for riktig montering og justering, slik at du får bedre sikt og tryggere kjøring på mørke veier.</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-accent\" href=\"\">\n  <span>Les mer</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2ZqZXJubHlzLXBhLW5hdHRhLmpwZw/fjernlys-pa-natta.jpg?w=420&h=387&fit=crop&s=44a7bd86d2e91fae3afd13a31cfadf7f 1x, /img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2ZqZXJubHlzLXBhLW5hdHRhLmpwZw/fjernlys-pa-natta.jpg?w=420&h=387&fit=crop&dpr=2&s=b5efc95cd606681a4965b66daa9927ac 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2ZqZXJubHlzLXBhLW5hdHRhLmpwZw/fjernlys-pa-natta.jpg?w=736&h=677&fit=crop&s=53a94c4758c5a0fd79c98cc3341c6a78\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2ZqZXJubHlzLXBhLW5hdHRhLmpwZw/fjernlys-pa-natta.jpg?w=816&h=751&fit=crop&s=14693e4f71c2d585e5da462686de483f\" alt=\"\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n  \n    <section class=\"eu-inspection dark\">\n  <div class=\"container\">\n    <div class=\"eu-inspection__inner\">\n      <div class=\"eu-inspection__content\">\n        <h2>Sjekk fristen for EU-kontroll</h2>\n        <p>Det er du som bileier som må sørge for at bilen blir EU-kontrollert i tide.</p>\n        <form>\n          <input type=\"text\" placeholder=\"Registreringsnummer\" pattern=\"[A-Za-z]{2}\\s?[0-9]{5}\" />\n          <button type=\"submit\" disabled aria-label=\"Sjekk kjøretøy\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"arrow\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\"><path d=\"M27 16H5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7L5 16L14 25\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button>\n        </form>\n        <div class=\"eu-inspection__content-error\"></div>\n        <div class=\"eu-inspection__content-result\">\n          <ul>\n            <li>\n              Neste kontrollfrist:\n              <span class=\"deadline\"></span>\n            </li>\n            <li>\n              Sist godkjent:\n              <span class=\"approved\"></span>\n            </li>\n            <li>\n              <span class=\"brand\"></span>\n              <span class=\"model\"></span>\n            </li>\n          </ul>\n          <a class=\"btn-l btn-on-dark\" href=\"/bestilltime\">\n  <span>Bestill EU-kontroll</span>\n  \n</a>\n\n        </div>\n      </div>\n      <div class=\"eu-inspection__asset\">\n        \n          \n            <picture>\n              <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2V1LWtvbnRyb2xsX21lZF9seXMuanBn/eu-kontroll_med_lys.jpg?w=420&h=387&fit=crop&s=cc3e97a028ac3c2708233ffd169bda61 1x, /img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2V1LWtvbnRyb2xsX21lZF9seXMuanBn/eu-kontroll_med_lys.jpg?w=420&h=387&fit=crop&dpr=2&s=1fc71a224b046c02515de452e6a4fc78 2x\" />\n              <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2V1LWtvbnRyb2xsX21lZF9seXMuanBn/eu-kontroll_med_lys.jpg?w=736&h=677&fit=crop&s=a6c166c2e20867d7b14d8f4575fd192e\" />\n              <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL2V1LWtvbnRyb2xsX21lZF9seXMuanBn/eu-kontroll_med_lys.jpg?w=816&h=751&fit=crop&s=2ef612d1ed8d8dfa14824dc9cb08082f\" alt=\"\" />\n            </picture>\n          \n        \n      </div>\n    </div>\n  </div>\n</section>\n\n  \n    \n\n\n  \n    \n  \n\n<section class=\"campaign negative \">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Godkjent miljøfyrtårn bedrift</h2>\n        <p>Vi tar miljøet på alvor. Gjennom gode rutiner for avfallshåndtering, kildesortering og energieffektiv drift jobber vi hver dag for å redusere vårt miljøavtrykk, til det beste for både deg og miljøet. Har du innspill til vårt miljøarbeid - send gjerne en e-post til post@haukaasbilverksted.no</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-accent\" href=\"https://rapportering.miljofyrtarn.no/stats/192136\">\n  <span>Klimarapport 2025</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL3Rla3N0MjEwODB4MTA4MDAxLnBuZw/tekst21080x108001.png?w=420&h=387&fit=crop&s=bc8b4ea654feeab6c77216e228c3ae8a 1x, /img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL3Rla3N0MjEwODB4MTA4MDAxLnBuZw/tekst21080x108001.png?w=420&h=387&fit=crop&dpr=2&s=6f35a34ffcddeeb083560c6bcb633b20 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL3Rla3N0MjEwODB4MTA4MDAxLnBuZw/tekst21080x108001.png?w=736&h=677&fit=crop&s=f49a2722089a5b0b682e79a8444eef14\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL2xvZ28tb2ctcHJvZmlsL3Rla3N0MjEwODB4MTA4MDAxLnBuZw/tekst21080x108001.png?w=816&h=751&fit=crop&s=67e90c54d9b730d75fd5581f1c530c31\" alt=\"\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n  \n    <section class=\"text_image negative flip\">\n  <div class=\"text_image__inner container\">\n    <div class=\"text_image__content bard\">\n      <h2>Alt du trenger rett ved E39!</h2>\n      <p><p>Hos oss finner du alt til bil på ett sted. Enten det gjelder service, nye dekk, fritidsprodukter eller bare å fylle tanken. Alt samlet langs E39, enkelt for deg som er på farten.</p></p>\n    </div>\n    <div class=\"text_image__asset\">\n      <picture>\n        <source media=\"(max-width: 1023px)\" srcset=\"/img/asset/YXNzZXRzL2hhdWthcy1nLXZpZXcuanBn/haukas-g-view.jpg?w=420&h=430&fit=crop&s=949437cb8be3b3a314c7f20474adcdeb 1x, /img/asset/YXNzZXRzL2hhdWthcy1nLXZpZXcuanBn/haukas-g-view.jpg?w=420&h=430&fit=crop&dpr=2&s=67f8bd99fcd239260b9264116e34f979 2x\">\n        <source media=\"(max-width: 1279px)\" srcset=\"/img/asset/YXNzZXRzL2hhdWthcy1nLXZpZXcuanBn/haukas-g-view.jpg?w=511&h=526&fit=crop&s=fcc89f4f3be0804dc2e063cbba424d2c\">\n        <img src=\"/img/asset/YXNzZXRzL2hhdWthcy1nLXZpZXcuanBn/haukas-g-view.jpg?w=840&h=866&fit=crop&s=c8e3d247a9aa7cb11b48d4c373ed9178\" alt=\"\" />\n      </picture>\n    </div>\n  </div>\n</section>\n\n  \n    \n\n\n  \n    \n  \n\n<section class=\"campaign accent flip\">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Betal når det passer</h2>\n        <p>Søk om SjekkPunkt konto og ønsket kreditt inntil 40 000 kr hos verksted og få svar direkte.</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-accent\" href=\"https://sjekkpunkt.no/sjekkpunkt-konto/soknad\">\n  <span>Søk om konto</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL3Jlc3VzcmJhbmtfa29ydF9uZXR0XzI1X255Mi5wbmc/resusrbank_kort_nett_25_ny2.png?w=420&h=387&fit=crop&s=05bcc23e17f9d4b381d9a37e2d5c5f62 1x, /img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL3Jlc3VzcmJhbmtfa29ydF9uZXR0XzI1X255Mi5wbmc/resusrbank_kort_nett_25_ny2.png?w=420&h=387&fit=crop&dpr=2&s=984fcc3d6309e170cfa1715b7d0a688f 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL3Jlc3VzcmJhbmtfa29ydF9uZXR0XzI1X255Mi5wbmc/resusrbank_kort_nett_25_ny2.png?w=736&h=677&fit=crop&s=ec4ae4ba38ec1ca3f043d372bc6038f2\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3NqZWtrcHVua3QtYmlsZGVyL3Jlc3VzcmJhbmtfa29ydF9uZXR0XzI1X255Mi5wbmc/resusrbank_kort_nett_25_ny2.png?w=816&h=751&fit=crop&s=df590f3b8e296d3d1967160e77718b2c\" alt=\"\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n  \n</main>\n\n    <footer class=\"site-footer\" data-color=\"main\">\n  <div class=\"site-footer__inner\">\n    \n      <div class=\"site-footer__newsletter newsletter\">\n  \n    <h2 class=\"newsletter__heading\">Ikke glem EU-kontrollen!</h2>\n  \n  \n    <p class=\"newsletter__summary\">Meld deg på vårt nyhetsbrev for å få innkalling til EU-kontroll, service, og vedlikeholdstips til bilen din!</p>\n  \n  <form method=\"POST\" action=\"https://haukaasbilverksted.no/!/forms/newsletter\" class=\"newsletter__input-container\"><input type=\"hidden\" name=\"_token\" value=\"m6g84ksSMM5ZB09HcFsUvqqY7I0K47zJKg4ukqTF\" autocomplete=\"off\">\n    <input type=\"text\" tabindex=\"-1\" class=\"newsletter__honey\" aria-hidden=\"true\" name=\"city\">\n    <div class=\"newsletter__field\">\n      <input type=\"email\" id=\"email\" class=\"newsletter__input\" name=\"email_address\" placeholder=\" \" value=\"\">\n      <label class=\"newsletter__label\" for=\"email\">Din E-postadresse</label>\n      <button class=\"newsletter__submit\" aria-label=\"Send skjema\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"arrow\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\"><path d=\"M27 16H5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7L5 16L14 25\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button>\n    </div>\n  </form>\n  <p class=\"newsletter__thank-you newsletter__thank-you--hidden\">\n    Takk for din påmelding 🥳\n  </p>\n</div>\n    \n    \n      <div class=\"site-footer__details\">\n        <div class=\"site-footer__detail\">\n          <h2 class=\"site-footer__heading\">Kontakt oss</h2>\n          \n            <p>tlf. <a href=\"tel:&#x35;&#x33; 74 &#50;&#x35;&#x20;&#x35;&#49;\">&#53;3&#x20;&#55;4&#x20;&#50;5 51</a></p>\n          \n          \n            <p><a href=\"mailto:&#x70;&#x6f;&#115;t&#64;&#104;&#97;&#x75;&#x6b;a&#97;sbi&#x6c;ve&#114;&#107;&#x73;&#x74;e&#x64;&#x2e;&#110;o\">\n              <span class=\"site-footer__email-text site-footer__email-text--tablet\">Send epost</span>\n              <span class=\"site-footer__email-text site-footer__email-text--desktop\">p&#x6f;s&#116;&#64;&#104;&#x61;&#117;&#107;&#97;asb&#105;&#108;v&#x65;&#114;&#x6b;ste&#x64;&#46;&#110;&#111;</span>\n            </a></p>\n          \n        </div>\n        \n          <div class=\"site-footer__detail\">\n            <h2 class=\"site-footer__heading\">Åpningstider</h2>\n            <dl><dt>Man-fre</dt><dd>07.30 - 15.30</dd><dt>Lør-søn</dt><dd>Stengt</dd></dl>\n          </div>\n        \n        <div class=\"site-footer__detail\">\n          \n          \n          <h2 class=\"site-footer__heading\">Her er vi</h2> \n          <a href=\"https://www.google.com/maps?saddr=My+Location&daddr=Tittelsnesvegen+595,%205550+Sveio\" target=\"_blank\">\n            \n              <p>Tittelsnesvegen 595,</p>\n            \n            \n              <p>5550 Sveio</p>\n            \n          </a>\n        </div>\n        \n          <div class=\"site-footer__detail\">\n            <h2 class=\"site-footer__heading\">Følg oss</h2>\n            <p><a href=\"https://www.facebook.com/Haukaasbilverksted/\">Facebook</a></p><p><a href=\"https://www.instagram.com/haukaasbilverksted/\">Instagram</a></p>\n          </div>\n        \n      </div>\n    </div>\n  \n  <div class=\"site-footer__bottom\">\n    <div class=\"logo\">\n      <a class=\"logo__link\" href=\"/\">\n  <img class=\"logo__image\" src=\"/assets/logo-og-profil/haukas_logo-negativ-2.png\" alt=\"\">\n</a>\n      \n\n<div class=\"sjekkpunkt-brand\">\n  <a href=\"https://sjekkpunkt.no\" target=\"_blank\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"162\" height=\"48\" viewBox=\"0 0 162 48\" fill=\"none\"><path d=\"M60.6815 0.494629L63.3302 8.18303L65.825 0.494629H67.4207L64.1847 9.79319H62.4594L59.0898 0.494629H60.6855H60.6815Z\" fill=\"currentColor\"/><path d=\"M68.3145 0.000488281H69.9102V1.54888H68.3145V0.000488281ZM69.8616 2.93254V9.79321H68.3509V2.93254H69.8616Z\" fill=\"currentColor\"/><path d=\"M76.7631 2.77612C77.9578 2.77612 78.865 3.31559 79.3632 4.31216C79.6831 4.96281 79.837 5.74112 79.8249 6.68004H74.9932C75.0661 7.94016 75.7749 8.71023 76.8724 8.71023C77.7472 8.71023 78.3142 8.30255 78.6342 7.43776L79.9099 7.84544C79.4118 9.2044 78.3142 9.94977 76.836 9.94977C74.7664 9.94977 73.4785 8.57022 73.4785 6.39177C73.4785 4.21332 74.8474 2.77612 76.7631 2.77612ZM75.0135 5.70818H78.3102C78.2859 5.34579 78.217 5.08223 78.1077 4.84338C77.8728 4.30392 77.3746 4.0033 76.7469 4.0033C75.7911 4.0033 75.1512 4.6416 75.0094 5.70818H75.0135Z\" fill=\"currentColor\"/><path d=\"M86.1546 4.83098C86.1546 5.10689 86.1181 5.50222 86.0493 5.8399L84.6561 5.99639C84.7168 5.73283 84.7614 5.3375 84.7614 5.05747C84.7614 4.25445 84.4293 3.86736 83.8866 3.86736C83.0847 3.86736 82.5865 4.7445 82.5865 6.24759V9.79323H81.084V2.93256H82.5744V4.25445H82.5987C82.9753 3.32789 83.6274 2.80078 84.5022 2.80078C85.4823 2.80078 86.1546 3.45143 86.1546 4.83098Z\" fill=\"currentColor\"/><path d=\"M92.4447 2.77612C93.6395 2.77612 94.5467 3.31559 95.0448 4.31216C95.3648 4.96281 95.5187 5.74112 95.5065 6.68004H90.6749C90.7478 7.94016 91.4565 8.71023 92.5541 8.71023C93.4289 8.71023 93.9959 8.30255 94.3158 7.43776L95.5916 7.84544C95.0934 9.2044 93.9959 9.94977 92.5176 9.94977C90.4481 9.94977 89.1602 8.57022 89.1602 6.39177C89.1602 4.21332 90.5291 2.77612 92.4447 2.77612ZM90.6951 5.70818H93.9918C93.9675 5.34579 93.8987 5.08223 93.7893 4.84338C93.5544 4.30392 93.0563 4.0033 92.4285 4.0033C91.4727 4.0033 90.8328 4.6416 90.6911 5.70818H90.6951Z\" fill=\"currentColor\"/><path d=\"M100.69 9.74372C100.326 9.86314 99.9328 9.93726 99.3901 9.93726C97.9483 9.93726 97.3003 9.26602 97.3003 7.78764V4.08551H95.9395V2.93246H97.3205V1.56115L98.7988 0.922852V2.92834H100.69V4.0814H98.7988V7.55291C98.7988 8.40535 99.0701 8.69361 99.8963 8.69361C100.216 8.69361 100.463 8.6689 100.686 8.61125V9.7396L100.69 9.74372Z\" fill=\"currentColor\"/><path d=\"M64.5395 29.3499C61.5547 29.3499 59.5418 28.1227 59.0234 25.4954L61.1375 24.8818C61.4737 26.6567 62.7292 27.4886 64.6246 27.4886C66.3661 27.4886 67.3421 26.7391 67.3421 25.4089C67.3421 23.5847 65.147 23.9429 62.312 23.074C61.5749 22.8516 60.9877 22.5469 60.5503 22.1022C60.0157 21.5586 59.7119 20.772 59.7119 19.8002C59.7119 17.1728 61.7248 15.7109 64.4545 15.7109C67.1842 15.7109 68.7961 17.0575 69.4157 19.4254L67.3381 19.9031C66.9695 18.3012 65.9813 17.5682 64.3856 17.5682C62.9276 17.5682 61.8868 18.2682 61.8868 19.5778C61.8868 21.5545 64.4342 21.2127 66.9169 21.9992C67.6702 22.238 68.225 22.4934 68.6422 22.9011C69.197 23.4282 69.5129 24.1612 69.5129 25.236C69.5129 27.7768 67.6175 29.3458 64.5355 29.3458L64.5395 29.3499Z\" fill=\"currentColor\"/><path d=\"M70.2022 30.68C71.0892 30.68 71.4091 30.2888 71.4091 29.3004V19.3965H73.5556V29.3869C73.5556 31.4995 72.6849 32.4549 70.7733 32.4549C70.3885 32.4549 69.9349 32.389 69.5664 32.2654L69.3477 30.577C69.6676 30.647 69.9349 30.68 70.2022 30.68ZM71.3605 15.2373H73.6245V17.4363H71.3605V15.2373Z\" fill=\"currentColor\"/><path d=\"M80.1127 19.1741C81.8056 19.1741 83.0976 19.94 83.8023 21.3566C84.2559 22.2791 84.4746 23.3868 84.4543 24.717H77.5977C77.6989 26.5083 78.7033 27.5996 80.2626 27.5996C81.5019 27.5996 82.3078 27.019 82.7614 25.7918L84.5718 26.3724C83.8671 28.2997 82.3078 29.3539 80.214 29.3539C77.2818 29.3539 75.4512 27.3937 75.4512 24.3093C75.4512 21.2249 77.3952 19.1782 80.1127 19.1782V19.1741ZM77.6301 23.3333H82.3078C82.2754 22.8227 82.1742 22.4479 82.0243 22.1061C81.6882 21.3402 80.9835 20.9119 80.0965 20.9119C78.7398 20.9119 77.8326 21.8137 77.6341 23.3333H77.6301Z\" fill=\"currentColor\"/><path d=\"M90.0018 24.1693L88.4102 25.8207V29.1275H86.2637V15.2332H88.4102V23.774L92.4521 19.3924H94.9347L91.5975 23.0575L95.2182 29.1275H92.853L90.0018 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M100.142 24.1693L98.5508 25.8207V29.1275H96.4043V15.2332H98.5508V23.774L102.593 19.3924H105.075L101.738 23.0575L105.359 29.1275H102.994L100.142 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M111.459 15.9331C114.578 15.9331 116.271 17.2797 116.271 19.8041C116.271 22.5302 114.545 24.0827 111.293 24.0827H108.863V29.1273H106.668V15.9331H111.463H111.459ZM111.325 17.7574H108.859V22.2914H111.224C113.168 22.2914 114.007 21.5748 114.007 19.9029C114.007 18.4534 113.136 17.7533 111.325 17.7533V17.7574Z\" fill=\"currentColor\"/><path d=\"M117.83 25.5324V19.3965H119.96V24.8694C119.96 26.7431 120.564 27.5791 121.957 27.5791C123.447 27.5791 124.338 26.4219 124.338 24.3587V19.3965H126.485V29.1316H124.391V27.1384H124.359C123.67 28.6044 122.463 29.3375 121.09 29.3375C119.045 29.3375 117.838 28.0938 117.838 25.5365L117.83 25.5324Z\" fill=\"currentColor\"/><path d=\"M131.02 19.3966V21.4062H131.052C131.741 19.9402 132.964 19.1907 134.353 19.1907C136.398 19.1907 137.605 20.5043 137.605 23.1605V29.1275H135.475V23.7411C135.475 21.7974 134.888 20.945 133.478 20.945C131.988 20.945 131.048 22.1392 131.048 24.2023V29.1275H128.918V19.3925H131.012L131.02 19.3966Z\" fill=\"currentColor\"/><path d=\"M143.709 24.1693L142.117 25.8207V29.1275H139.971V15.2332H142.117V23.774L146.159 19.3924H148.642L145.305 23.0575L148.925 29.1275H146.56L143.709 24.1652V24.1693Z\" fill=\"currentColor\"/><path d=\"M155.763 29.0617C155.244 29.2305 154.689 29.3335 153.92 29.3335C151.875 29.3335 150.951 28.3781 150.951 26.282V21.0315H149.023V19.3966H150.984V17.4529L153.077 16.551V19.3966H155.759V21.0315H153.077V25.9567C153.077 27.1674 153.462 27.575 154.637 27.575C155.09 27.575 155.443 27.5421 155.759 27.4556V29.0575L155.763 29.0617Z\" fill=\"currentColor\"/><path d=\"M156.686 22.7527H161.999V24.3711H156.686V22.7527Z\" fill=\"currentColor\"/><path d=\"M65.0425 46.7898H62.576L59.0039 37.0547H61.2152L63.8477 44.776L66.3304 37.0547H68.4931L65.0384 46.7898H65.0425Z\" fill=\"currentColor\"/><path d=\"M73.726 36.8323C75.4189 36.8323 76.7109 37.5982 77.4156 39.0148C77.8692 39.9373 78.0879 41.045 78.0676 42.3752H71.211C71.3122 44.1665 72.3166 45.2578 73.8759 45.2578C75.1152 45.2578 75.9211 44.6772 76.3747 43.45L78.1851 44.0306C77.4804 45.9579 75.9211 47.0121 73.8273 47.0121C70.8951 47.0121 69.0645 45.0519 69.0645 41.9675C69.0645 38.8831 71.0085 36.8364 73.726 36.8364V36.8323ZM71.2434 40.9915H75.9211C75.8887 40.4809 75.7875 40.1061 75.6376 39.7643C75.3015 38.9984 74.5968 38.5701 73.7098 38.5701C72.3531 38.5701 71.4459 39.4719 71.2474 40.9915H71.2434Z\" fill=\"currentColor\"/><path d=\"M87.0501 39.7479C87.0501 40.1391 87.0015 40.7033 86.9002 41.1809L84.9238 41.4033C85.0089 41.0286 85.0737 40.4644 85.0737 40.0732C85.0737 38.9325 84.6039 38.3848 83.8344 38.3848C82.6963 38.3848 81.9916 39.6284 81.9916 41.7616V46.7897H79.8613V37.0547H81.9754V38.9284H82.0078C82.5424 37.6147 83.4658 36.8652 84.7051 36.8652C86.0983 36.8652 87.0541 37.7877 87.0541 39.7479H87.0501Z\" fill=\"currentColor\"/><path d=\"M92.4003 41.8275L90.8086 43.4789V46.7857H88.6621V32.8914H90.8086V41.4322L94.8505 37.0506H97.3332L93.996 40.7157L97.6167 46.7857H95.2515L92.4003 41.8234V41.8275Z\" fill=\"currentColor\"/><path d=\"M104.303 43.9937C104.303 43.1578 103.481 43.1083 102.072 42.853C100.513 42.5812 99.573 42.3753 98.9857 41.7947C98.5848 41.387 98.3337 40.7899 98.3337 39.9704C98.3337 38.0802 99.8605 36.853 102.072 36.853C104.283 36.853 105.745 37.9443 106.13 39.8015L104.271 40.1598C104.052 39.0521 103.283 38.4714 102.076 38.4714C101.055 38.4714 100.351 38.9326 100.351 39.8015C100.351 40.6705 101.088 40.8064 102.546 41.0452C104.154 41.3335 105.061 41.4364 105.713 42.0871C106.114 42.4783 106.332 43.0589 106.332 43.8414C106.332 45.7315 104.789 46.9958 102.376 46.9958C99.9618 46.9958 98.2689 45.9745 97.8477 43.9773L99.8241 43.549C100.091 44.7597 100.946 45.3403 102.424 45.3403C103.615 45.3403 104.303 44.8462 104.303 43.9937Z\" fill=\"currentColor\"/><path d=\"M113.638 46.7199C113.119 46.8887 112.564 46.9917 111.795 46.9917C109.75 46.9917 108.826 46.0363 108.826 43.9402V38.6897H106.898V37.0548H108.859V35.1111L110.952 34.2092V37.0548H113.634V38.6897H110.952V43.6149C110.952 44.8256 111.337 45.2333 112.512 45.2333C112.965 45.2333 113.318 45.2003 113.634 45.1138V46.7158L113.638 46.7199Z\" fill=\"currentColor\"/><path d=\"M119.22 36.8323C120.913 36.8323 122.205 37.5982 122.91 39.0148C123.363 39.9373 123.582 41.045 123.562 42.3752H116.705C116.806 44.1665 117.811 45.2578 119.37 45.2578C120.609 45.2578 121.415 44.6772 121.869 43.45L123.679 44.0306C122.975 45.9579 121.415 47.0121 119.321 47.0121C116.389 47.0121 114.559 45.0519 114.559 41.9675C114.559 38.8831 116.503 36.8364 119.22 36.8364V36.8323ZM116.742 40.9915H121.419C121.387 40.4809 121.286 40.1061 121.136 39.7643C120.8 38.9984 120.095 38.5701 119.208 38.5701C117.851 38.5701 116.944 39.4719 116.746 40.9915H116.742Z\" fill=\"currentColor\"/><path d=\"M129.061 36.8324C130.434 36.8324 131.39 37.5654 131.928 38.7761H131.997V32.8955H134.127V46.7898H132.034V44.8461H131.985C131.414 46.1597 130.393 47.0122 128.85 47.0122C126.639 47.0122 124.979 45.1385 124.979 42.0005C124.979 38.8626 126.874 36.8365 129.069 36.8365L129.061 36.8324ZM132.009 41.9305C132.009 39.8674 131.086 38.6237 129.612 38.6237C128.138 38.6237 127.149 39.8509 127.149 41.9635C127.149 44.076 128.073 45.2002 129.563 45.2002C131.054 45.2002 132.009 43.9895 132.009 41.9264V41.9305Z\" fill=\"currentColor\"/><path d=\"M48 24.0005C48 37.2547 37.2542 48.0005 24 48.0005C10.7458 48.0005 0 37.2547 0 24.0005C0 10.7463 10.7398 0.000488281 23.994 0.000488281C37.2483 0.000488281 47.994 10.7463 47.994 24.0005H48Z\" fill=\"#FED141\"/><path d=\"M22.2613 39.8764C22.2017 39.8764 22.1392 39.8763 22.0766 39.8734C20.7479 39.8078 19.5473 39.0571 18.9098 37.8922L8.75683 19.3173C7.7469 17.4672 8.42614 15.1465 10.2762 14.1365C12.1262 13.1266 14.447 13.8058 15.4569 15.6559L22.6158 28.7492L41.024 1.67178C42.2097 -0.0740018 44.584 -0.523853 46.3268 0.661847C48.0696 1.84755 48.5225 4.22193 47.3368 5.96473L25.4162 38.2051C24.7042 39.2537 23.5185 39.8764 22.2583 39.8764H22.2613Z\" fill=\"#DA1A32\"/></svg>\n  </a>\n</div>\n\n    </div>\n    <div>Haukås Bilverksted AS</div>\n    \n      <div>\n        <a href=\"/personvern-cookies\">Personvern / cookies</a>\n      </div>\n    \n  </div>\n</footer>\n    \n  </body>\n</html>\n",
+          "page_text": "Haukaas Bilverksted  - Ditt bilverksted i Sveio Bestill time Tjenester Om oss Kontakt Meny Velkommen til Haukås Bilverksted Ditt lokale bilverksted i Sveio og omegn, en familiebedrift med mange års erfaring. Du finner oss langs E39 som en totalleverandør til bil, med bensinstasjon rett ved, dekkverksted med dekkhotell og et utvalg fritidsprodukter. Vi jobber med lette kjøretøy, bobil og elbil, og har et solid utdannet team med spisskompetanse på mekanisk arbeid. Bestill time 53 74 25 51 Bestill service nå og få GRATIS dekkskift Bestill time Det eldste verkstedet i Sveio Vi har mer enn 60 års fartstid i bransjen, og er  i konstant utvikling for å hold tritt med den teknologiske utviklingen. Hos oss finner du et topp moderne verksted og verktøy, samt godt utdannede fagfolk. Vi utfører det meste innen bil på alle bilmerker. EU-kontroll Vi er godkjent av Statens Vegvesen til å utføre kontroll på kjøretøy inntil 3500kg og tyngre Les mer Service og reparasjoner Vi anbefaler service hvert 2. år eller etter hver 30000 km, og utfører alle servicer ihht. bilprodusentenes instruksjoner og retningslinjer. Les mer Elbil og hybrid Vi er et sertifisert elbilverksted, og utfører service og reparasjon på din elbil i henhold til fabrikantens spesifikasjoner. Les mer Se alle vår verkstedtjenester \"God gammeldags service i et nymoderne verksted\" Bli bedre kjent med verkstedet vårt gjennom reportasjen i Bil & sånt. Les repotasje Lang erfaring med bobil Vi har god erfaring med service og reparasjoner av bobil. Enten det gjelder vedlikehold, feilsøking eller mekanisk arbeid, har vi kompetansen som trengs for å holde deg trygt på veien. Les mer Dårlig sikt i mørket? Vi hjelper deg med bedre lys. Vi har avtale med Ekstralys og hjelper deg med både bytte av billys og montering av ekstralys. Våre mekanikere sørger for riktig montering og justering, slik at du får bedre sikt og tryggere kjøring på mørke veier. Les mer Sjekk fristen for EU-kontroll Det er du som bileier som må sørge for at bilen blir EU-kontrollert i tide. Neste kontrollfrist: Sist godkjent: Bestill EU-kontroll Godkjent miljøfyrtårn bedrift Vi tar miljøet på alvor. Gjennom gode rutiner for avfallshåndtering, kildesortering og energieffektiv drift jobber vi hver dag for å redusere vårt miljøavtrykk, til det beste for både deg og miljøet. Har du innspill til vårt miljøarbeid - send gjerne en e-post til post@haukaasbilverksted.no Klimarapport 2025 Alt du trenger rett ved E39! Hos oss finner du alt til bil på ett sted. Enten det gjelder service, nye dekk, fritidsprodukter eller bare å fylle tanken. Alt samlet langs E39, enkelt for deg som er på farten. Betal når det passer Søk om SjekkPunkt konto og ønsket kreditt inntil 40 000 kr hos verksted og få svar direkte. Søk om konto Ikke glem EU-kontrollen! Meld deg på vårt nyhetsbrev for å få innkalling til EU-kontroll, service, og vedlikeholdstips til bilen din! Din E-postadresse Takk for din påmelding 🥳 Kontakt oss tlf. 53 74 25 51 Send epost post@haukaasbilverksted.no Åpningstider Man-fre 07.30 - 15.30 Lør-søn Stengt Her er vi Tittelsnesvegen 595, 5550 Sveio Følg oss Facebook Instagram Haukås Bilverksted AS Personvern / cookies",
+          "proof_level": "p1_exact",
+          "registrable_domain": "haukaasbilverksted.no",
+          "strategy": "domain_guess"
+        }
+      }
+    },
+    "industry_code": "95.310",
+    "industry_label": "Reparasjon og vedlikehold av motorvogner",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "SVEIO",
+    "municipality_number": "4612",
+    "name": "HAUKÅS BILVERKSTED AS",
+    "organisation_number": "990414653",
+    "run_metrics": {
+      "latencies_ms": [
+        1172,
+        1187,
+        1172,
+        1235,
+        14,
+        47,
+        15093,
+        1889
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:30Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "HAUKÅS BILVERKSTED AS (AS, org.nr 990414653)",
+    "what_it_does": "HAUKÅS BILVERKSTED AS is classified under NACE code 95.310 (unspecified). The company operates its verified website at https://haukaasbilverksted.no/. It operates publicly under the brand name 'Haukaas Bilverksted', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, HAUKÅS BILVERKSTED AS reported revenue of 9,543,436 NOK and an operating result of -243,189 NOK. Net result was -148,623 NOK, with total assets of 4,597,881 NOK and equity of 3,765,101 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was -2.5% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Øystein Kinn. Daily operations are led by general manager Øystein Kinn. The entity has 7 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "HAUKÅS BILVERKSTED AS is classified under NACE code 95.310 (unspecified).",
+        "claim_ids": [
+          "9a4667400f062e2daa36",
+          "e387f72e4154b74da3c7"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://haukaasbilverksted.no/.",
+        "claim_ids": [
+          "b0323024ffcd7a16549e"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Haukaas Bilverksted', according to its website.",
+        "claim_ids": [
+          "22ff9c9932677874789b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "a417e2d984775a77157b",
+          "9a4667400f062e2daa36"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, HAUKÅS BILVERKSTED AS reported revenue of 9,543,436 NOK and an operating result of -243,189 NOK.",
+        "claim_ids": [
+          "08fcd6280b48958d3213",
+          "fe337eed9063d1a2991b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was -148,623 NOK, with total assets of 4,597,881 NOK and equity of 3,765,101 NOK.",
+        "claim_ids": [
+          "f5affc4d5acd13386546",
+          "ab9c7b45bc8acade1440",
+          "321ffb5a356604e4748b"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "f5affc4d5acd13386546"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "08fcd6280b48958d3213",
+          "73dd1f39a0ea7c4e2100"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Operating margin was -2.5% (derived: operating result / revenue).",
+        "claim_ids": [
+          "fe337eed9063d1a2991b",
+          "08fcd6280b48958d3213"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The board of directors is chaired by Øystein Kinn.",
+        "claim_ids": [
+          "5a3fa7c877e2abbae00e"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "Daily operations are led by general manager Øystein Kinn.",
+        "claim_ids": [
+          "7661e5f9ae8f22c651c5"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity has 7 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "31b2ebde2d43552476d9",
+          "5a3fa7c877e2abbae00e",
+          "7661e5f9ae8f22c651c5",
+          "bc02e75631b55d7f51c2",
+          "c7dc3d9a8e5b28db3387",
+          "d8982e911a6d5c500ab8"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "e387f72e4154b74da3c7"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "6cd10fec3fde5ce46cc6"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "e387f72e4154b74da3c7"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "e387f72e4154b74da3c7"
+        ]
+      },
+      {
+        "id": "s17",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "e387f72e4154b74da3c7"
+        ]
+      }
+    ]
+  }
+}

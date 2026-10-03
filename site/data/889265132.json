@@ -1,0 +1,1578 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "399f415dd2ae14fb89b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1536022.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82ffe8b948f3b38bc0cd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 900492.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb6cf52e8a0674c6e094",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1552988.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24f07a1f80bc0f3380a1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37732914.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c39455d915079292e818",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37650121.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d91604e559dcfe08203b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38482973.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8974a034b5bd086910d7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 293520.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b72bacd049494fb5bb60",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 251864.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f1bb31a3dab7effea4ce",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 217827.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1cbdef5bd3da9754a9c0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 38231109.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2dea50535806a9d6de4f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37515087.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd9a2040a70f5313e83c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37356601.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c968f98ad95d750e5df8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 380703.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ec85d2a681aa13ee74be",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 88618.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ece4a1eef56a38c39a20",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 37568.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "55c7840234918517044f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1714142.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d4ab95a8f5b2217636a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1037123.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f9a6252077fe550b06fb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1561866.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "292f15fbc469a42c3969",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 933000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b50f1d391fc41d62b0db",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 962500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fdb859ce91dc6f5cb48a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-889265132-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 865812.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "240afd11c63df30b7bdc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-889265132"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.320"
+    },
+    {
+      "availability": "available",
+      "claim_id": "08ecf5010e7a6e0fb50d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-889265132"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "510d587d2691194ef561",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-889265132"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "LØKKE INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "09dbc640c1bff5b97a78",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-66d94f987c19"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eline Larsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "5b6bb24bd9f0630ac7c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-0a2797a01154"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ketil Jørgen Winther Løkke",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a89683350939ae2181c4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-e4e3e9100090"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ABACUS ØKONOMITJENESTER AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b9aec70f03aba3ff76fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-62b04e285dee"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Paal Henning Løkke",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "df94ca45622effca8f47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-1f0da6746078"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jan Henning Løkke",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0f2fa71ed28262fc00f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-ff50d4456850"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Ketil Jørgen Winther Løkke",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f123cf840c9bab38435e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-889265132-8a27373f2aa2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "CEDRA NORGE MOMENTUM AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "833dd8a896a19fa5cb00",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-889265132-917161542"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:50Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:50Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Bryggegata 22"
+          ],
+          "kommune": "OSLO",
+          "kommunenummer": "0301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "0250",
+          "poststed": "OSLO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Eiendomsforvaltning på oppdrag",
+          "kode": "68.320"
+        },
+        "name": "LØKKE INVEST AS",
+        "organisation_number": "917161542"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 962500.0, operating_result: 380703.0, profit_before_tax: 1714142.0, annual_result: 1552988.0, assets: 37732914.0, equity: 37515087.0, debt: 217827.0",
+      "content_sha256": "f2f1af671606b096ff258a6988b81479731394953aaceff76cd1656a857b0ec1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "http_status": 200,
+      "id": "ev-fin-889265132-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:42.310125Z",
+      "snapshot_ref": "f2/f2f1af671606b096ff258a6988b81479731394953aaceff76cd1656a857b0ec1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 933000.0, operating_result: 37568.0, profit_before_tax: 1561866.0, annual_result: 1536022.0, assets: 38482973.0, equity: 38231109.0, debt: 251864.0",
+      "content_sha256": "8f99a2fad008fc546f4ea7de3fa23962d1cfe0f012f790ed99ea103bd065ace7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "http_status": 200,
+      "id": "ev-fin-889265132-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:42.310125Z",
+      "snapshot_ref": "8f/8f99a2fad008fc546f4ea7de3fa23962d1cfe0f012f790ed99ea103bd065ace7.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 865812.0, operating_result: 88618.0, profit_before_tax: 1037123.0, annual_result: 900492.0, assets: 37650121.0, equity: 37356601.0, debt: 293520.0",
+      "content_sha256": "80b87cfe8c39701d7d299396c90ef52e001f2dc4acee8349e03b677023af7c0c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "http_status": 200,
+      "id": "ev-fin-889265132-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:42.310125Z",
+      "snapshot_ref": "80/80b87cfe8c39701d7d299396c90ef52e001f2dc4acee8349e03b677023af7c0c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 917161542: LØKKE INVEST AS",
+      "content_sha256": "3aac12024e8b491e03ae9be10be31c0ceee837c4b49201542d4546b8fa8e8011",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=889265132&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-889265132-917161542",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:45.917748Z",
+      "snapshot_ref": "3a/3aac12024e8b491e03ae9be10be31c0ceee837c4b49201542d4546b8fa8e8011.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=889265132&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 889265132 LØKKE INVEST AS",
+      "content_sha256": "1bec46044ac8b70461ff617698ab5f9509e23c5d8e096ac0ba00d0bec860f975",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-889265132",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "1b/1bec46044ac8b70461ff617698ab5f9509e23c5d8e096ac0ba00d0bec860f975.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Ketil Jørgen Winther Løkke",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-0a2797a01154",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Jan Henning Løkke",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-1f0da6746078",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Paal Henning Løkke",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-62b04e285dee",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Eline Larsen",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-66d94f987c19",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: CEDRA NORGE MOMENTUM AS",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-8a27373f2aa2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ABACUS ØKONOMITJENESTER AS",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-e4e3e9100090",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Ketil Jørgen Winther Løkke",
+      "content_sha256": "4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "http_status": 200,
+      "id": "ev-role-889265132-ff50d4456850",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:43.534174Z",
+      "snapshot_ref": "4d/4d371ff9976ca40f835a9ab49f556be74b31be12452604a3f4b3ae5586bf449a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1cbdef5bd3da9754a9c0",
+        "24f07a1f80bc0f3380a1",
+        "292f15fbc469a42c3969",
+        "2dea50535806a9d6de4f",
+        "399f415dd2ae14fb89b4",
+        "55c7840234918517044f",
+        "82ffe8b948f3b38bc0cd",
+        "8974a034b5bd086910d7",
+        "b50f1d391fc41d62b0db",
+        "b72bacd049494fb5bb60",
+        "c39455d915079292e818",
+        "c968f98ad95d750e5df8",
+        "cd9a2040a70f5313e83c",
+        "d4ab95a8f5b2217636a9",
+        "d91604e559dcfe08203b",
+        "ec85d2a681aa13ee74be",
+        "ece4a1eef56a38c39a20",
+        "f1bb31a3dab7effea4ce",
+        "f9a6252077fe550b06fb",
+        "fb6cf52e8a0674c6e094",
+        "fdb859ce91dc6f5cb48a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "08ecf5010e7a6e0fb50d",
+        "240afd11c63df30b7bdc",
+        "510d587d2691194ef561"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "09dbc640c1bff5b97a78",
+        "5b6bb24bd9f0630ac7c8",
+        "a89683350939ae2181c4",
+        "b9aec70f03aba3ff76fd",
+        "df94ca45622effca8f47",
+        "f0f2fa71ed28262fc00f",
+        "f123cf840c9bab38435e"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "833dd8a896a19fa5cb00"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "510d587d2691194ef561",
+      "08ecf5010e7a6e0fb50d",
+      "240afd11c63df30b7bdc"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "LØKKE INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 9042,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "889265132",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:49.434246Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "889265132",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "d0e3740b670e7f129a7a58fcece868480128cefd98222595edf5b08e0435e706",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:42.310125Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/889265132",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1552988.0,
+              "assets": 37732914.0,
+              "currency": "NOK",
+              "debt": 217827.0,
+              "equity": 37515087.0,
+              "operating_result": 380703.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1714142.0,
+              "record_id": 4900799,
+              "revenue": 962500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1536022.0,
+              "assets": 38482973.0,
+              "currency": "NOK",
+              "debt": 251864.0,
+              "equity": 38231109.0,
+              "operating_result": 37568.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 1561866.0,
+              "record_id": 5649499,
+              "revenue": 933000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 900492.0,
+              "assets": 37650121.0,
+              "currency": "NOK",
+              "debt": 293520.0,
+              "equity": 37356601.0,
+              "operating_result": 88618.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1037123.0,
+              "record_id": 6775386,
+              "revenue": 865812.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:44.688272Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/889265132",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9e04138beda8fd05702b1b4ded12a5e5fb8d29cec6b90134bc9ff366524d99c6",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:45.917748Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=889265132&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Bryggegata 22"
+                ],
+                "kommune": "OSLO",
+                "kommunenummer": "0301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "0250",
+                "poststed": "OSLO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Eiendomsforvaltning på oppdrag",
+                "kode": "68.320"
+              },
+              "name": "LØKKE INVEST AS",
+              "organisation_number": "917161542"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "889265132",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøp og salg av verdipapirer og fast eiendom samt alt som naturlig hører inn under dette. Videre skal selskapet være forretningsfører og være driftsansvarlige for de faste eiendommene i porteføljen.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Bryggegata 22",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0250",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "9645227.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2006-03-25",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Eiendomsforvaltning på oppdrag",
+          "naeringskode1.kode": "68.320",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "LØKKE INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "889265132",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2006-03-25",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2006-03-25",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2005-12-22",
+          "telefon": "31 29 19 40",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2016-01-18",
+          "vedtektsfestetFormaal": "Kjøp og salg av verdipapirer og fast eiendom samt alt som naturlig hører inn under dette. Videre skal selskapet være forretningsfører og være driftsansvarlig for de faste eiendommene i porteføljen."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "7f3f38b27720ead90ecc03992cb998f5d83cc7bc4d625f367e3ade310af83a15",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:43.534174Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/889265132/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2006-03-25",
+              "name": "Ketil Jørgen Winther Løkke",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-03-25",
+              "name": "Jan Henning Løkke",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-03-25",
+              "name": "Paal Henning Løkke",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-03-25",
+              "name": "Ketil Jørgen Winther Løkke",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-03-25",
+              "name": "Eline Larsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-07-01",
+              "name": [
+                "CEDRA NORGE MOMENTUM AS"
+              ],
+              "organisation_number": "936032249",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2019-03-22",
+              "name": [
+                "ABACUS ØKONOMITJENESTER AS"
+              ],
+              "organisation_number": "982741076",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.320",
+    "industry_label": "Eiendomsforvaltning på oppdrag",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "LØKKE INVEST AS",
+    "organisation_number": "889265132",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1218,
+        1156,
+        1233,
+        1110,
+        639,
+        797,
+        1671
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:50Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "LØKKE INVEST AS (AS, org.nr 889265132)",
+    "what_it_does": "LØKKE INVEST AS is classified under NACE code 68.320 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, LØKKE INVEST AS reported revenue of 865,812 NOK and an operating result of 88,618 NOK. Net result was 900,492 NOK, with total assets of 37,650,121 NOK and equity of 37,356,601 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 10.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Jan Henning Løkke. Daily operations are led by general manager Ketil Jørgen Winther Løkke. The entity has 7 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "LØKKE INVEST AS is classified under NACE code 68.320 (unspecified).",
+        "claim_ids": [
+          "240afd11c63df30b7bdc",
+          "510d587d2691194ef561"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "08ecf5010e7a6e0fb50d",
+          "240afd11c63df30b7bdc"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, LØKKE INVEST AS reported revenue of 865,812 NOK and an operating result of 88,618 NOK.",
+        "claim_ids": [
+          "fdb859ce91dc6f5cb48a",
+          "ec85d2a681aa13ee74be"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 900,492 NOK, with total assets of 37,650,121 NOK and equity of 37,356,601 NOK.",
+        "claim_ids": [
+          "82ffe8b948f3b38bc0cd",
+          "c39455d915079292e818",
+          "cd9a2040a70f5313e83c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "fdb859ce91dc6f5cb48a",
+          "292f15fbc469a42c3969"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 10.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "ec85d2a681aa13ee74be",
+          "fdb859ce91dc6f5cb48a"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Jan Henning Løkke.",
+        "claim_ids": [
+          "df94ca45622effca8f47"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Ketil Jørgen Winther Løkke.",
+        "claim_ids": [
+          "5b6bb24bd9f0630ac7c8"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 7 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "09dbc640c1bff5b97a78",
+          "5b6bb24bd9f0630ac7c8",
+          "a89683350939ae2181c4",
+          "b9aec70f03aba3ff76fd",
+          "df94ca45622effca8f47",
+          "f0f2fa71ed28262fc00f"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "510d587d2691194ef561"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "833dd8a896a19fa5cb00"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "510d587d2691194ef561"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "510d587d2691194ef561"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "510d587d2691194ef561"
+        ]
+      }
+    ]
+  }
+}

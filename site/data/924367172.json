@@ -1,0 +1,1434 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "0941652c567ae4005834",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 65635.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "597c546a9b5b107bee93",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44503.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aacd6c0588c83cdcb49e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1305347.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d3710d634ba1b2ce42e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3580080.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "701ad858d20dfa73de35",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2850057.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ed6516fb542632972fb0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4550481.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3a77732e59d3b1471e2d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3638976.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7097d40ab70b43d9c87",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4148665.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d65ed2c01f5204f7acf6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4543742.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "97a7827b557060b3074e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -58896.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7bd33a486b1e1af3fde",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6739.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f60bf48480402a867e9a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1298608.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "17f7701a740beaaf1778",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 89329.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a0c379cfbc21c22515f4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 49105.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cf567b48d26b85d4cf04",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1864176.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "01328e977dded131d6e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -1209222.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "970a0be583eeb27a40cf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 75527.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a7b6eed2011dbe86af76",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 55670.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f62de77c1a67347516f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4126000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "99fa8b24ee5ab5601a40",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3848000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a12759efd95ed9120dd0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-924367172-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4230596.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9661f952a6a896833857",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924367172"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "67561d4fdd6d826874ef",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924367172"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "41c35f5d6bdf9c21fefe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-924367172"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "CIBUS INVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d7dd1d1a14b4b995219",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924367172-3b03b4fdec43"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "SAGA REGNSKAP DRAMMEN AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9609b78f4ccddd933dcc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924367172-d1b6fb881021"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Christian Borgen Olsen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a89e0b42335e40322936",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924367172-63a2d2e88a7f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Christian Borgen Olsen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b84473436f228b093772",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-924367172-25746b33e12a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Fredrik Borgen Olsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a9cf58d95ee5dc002a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-924367172-924400226"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:45Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:45Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nedre Eikervei 14"
+          ],
+          "kommune": "DRAMMEN",
+          "kommunenummer": "3301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3045",
+          "poststed": "DRAMMEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "CIBUS INVEST AS",
+        "organisation_number": "924400226"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 4230596.0, operating_result: 89329.0, profit_before_tax: 55670.0, annual_result: 44503.0, assets: 3580080.0, equity: -58896.0, debt: 3638976.0",
+      "content_sha256": "19765053f1b554aa73b2a5264ea5dbdc5f71226af859a93b5e0ba272d51c21c4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "http_status": 200,
+      "id": "ev-fin-924367172-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.486904Z",
+      "snapshot_ref": "19/19765053f1b554aa73b2a5264ea5dbdc5f71226af859a93b5e0ba272d51c21c4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 3848000.0, operating_result: 49105.0, profit_before_tax: 75527.0, annual_result: 65635.0, assets: 4550481.0, equity: 6739.0, debt: 4543742.0",
+      "content_sha256": "f64e5cbc97e50f704692ebdbd7bd4f721d58d5ff17c019e85d8b0115b5d786c5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "http_status": 200,
+      "id": "ev-fin-924367172-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.486904Z",
+      "snapshot_ref": "f6/f64e5cbc97e50f704692ebdbd7bd4f721d58d5ff17c019e85d8b0115b5d786c5.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 4126000.0, operating_result: -1864176.0, profit_before_tax: -1209222.0, annual_result: -1305347.0, assets: 2850057.0, equity: -1298608.0, debt: 4148665.0",
+      "content_sha256": "90ab29599192c42ce832bff5ef242cffb8118a7748e4adb2f0f9c0dc79bf1b53",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "http_status": 200,
+      "id": "ev-fin-924367172-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:38.486904Z",
+      "snapshot_ref": "90/90ab29599192c42ce832bff5ef242cffb8118a7748e4adb2f0f9c0dc79bf1b53.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 924400226: CIBUS INVEST AS",
+      "content_sha256": "3ee4c136186aac07b7efbe328404b95841f7b5580ed1b53429d84b24b8806857",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924367172&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-924367172-924400226",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:42.087735Z",
+      "snapshot_ref": "3e/3ee4c136186aac07b7efbe328404b95841f7b5580ed1b53429d84b24b8806857.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924367172&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 924367172 CIBUS INVEST AS",
+      "content_sha256": "de9a61538c15d360bce2c46b084a0ff2a7e5011daad6e06d8172152c55c2e827",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-924367172",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "de/de9a61538c15d360bce2c46b084a0ff2a7e5011daad6e06d8172152c55c2e827.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Fredrik Borgen Olsen",
+      "content_sha256": "f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "http_status": 200,
+      "id": "ev-role-924367172-25746b33e12a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.711358Z",
+      "snapshot_ref": "f1/f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: SAGA REGNSKAP DRAMMEN AS",
+      "content_sha256": "f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "http_status": 200,
+      "id": "ev-role-924367172-3b03b4fdec43",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.711358Z",
+      "snapshot_ref": "f1/f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Christian Borgen Olsen",
+      "content_sha256": "f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "http_status": 200,
+      "id": "ev-role-924367172-63a2d2e88a7f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.711358Z",
+      "snapshot_ref": "f1/f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Christian Borgen Olsen",
+      "content_sha256": "f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "http_status": 200,
+      "id": "ev-role-924367172-d1b6fb881021",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:39.711358Z",
+      "snapshot_ref": "f1/f1b1276b434bb7d75b23252bf875fc087f2d486f0de5cbe59ef7339ad3cb6870.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "01328e977dded131d6e5",
+        "0941652c567ae4005834",
+        "17f7701a740beaaf1778",
+        "2d3710d634ba1b2ce42e",
+        "3a77732e59d3b1471e2d",
+        "597c546a9b5b107bee93",
+        "701ad858d20dfa73de35",
+        "8f62de77c1a67347516f",
+        "970a0be583eeb27a40cf",
+        "97a7827b557060b3074e",
+        "99fa8b24ee5ab5601a40",
+        "a0c379cfbc21c22515f4",
+        "a12759efd95ed9120dd0",
+        "a7097d40ab70b43d9c87",
+        "a7b6eed2011dbe86af76",
+        "a7bd33a486b1e1af3fde",
+        "aacd6c0588c83cdcb49e",
+        "cf567b48d26b85d4cf04",
+        "d65ed2c01f5204f7acf6",
+        "ed6516fb542632972fb0",
+        "f60bf48480402a867e9a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "41c35f5d6bdf9c21fefe",
+        "67561d4fdd6d826874ef",
+        "9661f952a6a896833857"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0d7dd1d1a14b4b995219",
+        "9609b78f4ccddd933dcc",
+        "a89e0b42335e40322936",
+        "b84473436f228b093772"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4a9cf58d95ee5dc002a9"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "41c35f5d6bdf9c21fefe",
+      "67561d4fdd6d826874ef",
+      "9661f952a6a896833857"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "CIBUS INVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 7886,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "924367172",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.095889Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "924367172",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "1c81db399e6327038efe2afe2a6f518a6979f5896b893361c168beb6a8373d95",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.486904Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/924367172",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 44503.0,
+              "assets": 3580080.0,
+              "currency": "NOK",
+              "debt": 3638976.0,
+              "equity": -58896.0,
+              "operating_result": 89329.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 55670.0,
+              "record_id": 5431015,
+              "revenue": 4230596.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 65635.0,
+              "assets": 4550481.0,
+              "currency": "NOK",
+              "debt": 4543742.0,
+              "equity": 6739.0,
+              "operating_result": 49105.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 75527.0,
+              "record_id": 6246607,
+              "revenue": 3848000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -1305347.0,
+              "assets": 2850057.0,
+              "currency": "NOK",
+              "debt": 4148665.0,
+              "equity": -1298608.0,
+              "operating_result": -1864176.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -1209222.0,
+              "record_id": 7079173,
+              "revenue": 4126000.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:40.884297Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/924367172",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "b649ccf2fa927a7e4cbffa8f83636b28a3e49a75a9cdeb12e0191eef49158770",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:42.087735Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=924367172&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nedre Eikervei 14"
+                ],
+                "kommune": "DRAMMEN",
+                "kommunenummer": "3301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3045",
+                "poststed": "DRAMMEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "CIBUS INVEST AS",
+              "organisation_number": "924400226"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "924367172",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Direkte og indirekte investeringer i andre selskap, utvikling og forvaltning av fast eiendom og alt som står naturlig i forbindelse med dette. Selskapet skal kunne motta og gi lån til andre selskap i konsernet.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nedre Eikervei 14",
+          "forretningsadresse.kommune": "DRAMMEN",
+          "forretningsadresse.kommunenummer": "3301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3045",
+          "forretningsadresse.poststed": "DRAMMEN",
+          "fravalgRevisjonBeslutningsDato": "2024-10-26",
+          "fravalgRevisjonDato": "2024-10-31",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-01-08",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "CIBUS INVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "924367172",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2024-05-13",
+          "registreringsdatoForetaksregisteret": "2020-01-08",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2022-12-30",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-01-07",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2024-05-10",
+          "registreringsdatoenhetsregisteret": "2020-01-08",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-11-18",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-10-21",
+          "vedtektsfestetFormaal": "Direkte eller indirekte investeringer i andre selskap, utvikling og forvaltning av fast eiendom og alt som står naturlig i forbindelse med dette. Selskapet skal kunne motta og gi lån til andre selskap i konsernet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "13fa233c5c43d6d9a7fd169529cd38ad769a5ed329a4adda4ec9be237dbea89a",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:39.711358Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/924367172/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-01-08",
+              "name": "Christian Borgen Olsen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-01-08",
+              "name": "Christian Borgen Olsen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-01-08",
+              "name": "Fredrik Borgen Olsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-01-02",
+              "name": [
+                "SAGA REGNSKAP DRAMMEN AS"
+              ],
+              "organisation_number": "934412249",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "DRAMMEN",
+    "municipality_number": "3301",
+    "name": "CIBUS INVEST AS",
+    "organisation_number": "924367172",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1234,
+        1171,
+        1203,
+        1702,
+        1171,
+        156,
+        78
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:45Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "CIBUS INVEST AS (AS, org.nr 924367172)",
+    "what_it_does": "CIBUS INVEST AS is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, CIBUS INVEST AS reported revenue of 4,126,000 NOK and an operating result of -1,864,176 NOK. Net result was -1,305,347 NOK, with total assets of 2,850,057 NOK and equity of -1,298,608 NOK. The company was loss-making in 2025. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was -45.2% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Christian Borgen Olsen. Daily operations are led by general manager Christian Borgen Olsen. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "CIBUS INVEST AS is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "9661f952a6a896833857",
+          "41c35f5d6bdf9c21fefe"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "67561d4fdd6d826874ef",
+          "9661f952a6a896833857"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, CIBUS INVEST AS reported revenue of 4,126,000 NOK and an operating result of -1,864,176 NOK.",
+        "claim_ids": [
+          "8f62de77c1a67347516f",
+          "cf567b48d26b85d4cf04"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -1,305,347 NOK, with total assets of 2,850,057 NOK and equity of -1,298,608 NOK.",
+        "claim_ids": [
+          "aacd6c0588c83cdcb49e",
+          "701ad858d20dfa73de35",
+          "f60bf48480402a867e9a"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "aacd6c0588c83cdcb49e"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "8f62de77c1a67347516f",
+          "99fa8b24ee5ab5601a40"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -45.2% (derived: operating result / revenue).",
+        "claim_ids": [
+          "cf567b48d26b85d4cf04",
+          "8f62de77c1a67347516f"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Christian Borgen Olsen.",
+        "claim_ids": [
+          "9609b78f4ccddd933dcc"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Daily operations are led by general manager Christian Borgen Olsen.",
+        "claim_ids": [
+          "a89e0b42335e40322936"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "0d7dd1d1a14b4b995219",
+          "9609b78f4ccddd933dcc",
+          "a89e0b42335e40322936",
+          "b84473436f228b093772"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "41c35f5d6bdf9c21fefe"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "4a9cf58d95ee5dc002a9"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "41c35f5d6bdf9c21fefe"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "41c35f5d6bdf9c21fefe"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "41c35f5d6bdf9c21fefe"
+        ]
+      }
+    ]
+  }
+}

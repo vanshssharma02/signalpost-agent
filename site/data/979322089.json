@@ -1,0 +1,1508 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "53ebc4fb8b2290abc935",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 121459.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7797d15c8c13a3fa6e47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 151021.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c8e54849401d5ce50c5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 516302.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "44d1e230b90d1e44e3da",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7199997.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "46ef6caa0a38a09eaf4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9114014.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f8f268e2f0714fc30b44",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8555338.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "713d6f96361ba8400cca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6206885.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ae1672722d2a695568d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4335242.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c83d92fbebd51c917250",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6887020.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "07b7ebe83db1fd8d051c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2864756.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "23c2a17d1b711554479c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2348454.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c16e4d6813f10ff478a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2226995.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5fff682f2fb40190f24e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 821275.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6e549613802951fd6b88",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 370141.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7767ed762b72c62513c7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 346801.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5475c1146d6745a3393a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 671722.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c93b31a7acb068d2a53a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 165642.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d25b1f0aba0ed86f5ded",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 171418.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "872381805579469b4dbd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7286310.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e4e3576f41cf1b7dd760",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8144634.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ea7305c6312f1a5a3101",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-979322089-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7487994.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "746de4a528566522d682",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979322089"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "18.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7a201dbb2f470b2a3cde",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979322089"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a57b373d86ff30e08c6b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979322089"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "DESIGN STUDIO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "ba7547ab1fea57b1cbb9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-979322089"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 7
+    },
+    {
+      "availability": "available",
+      "claim_id": "00e89ab9828bef6d45fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979322089-ad417744c8af"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ULTIMA REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "20e1e14204124f9bbd77",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979322089-01a71bcf7195"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Solveig Kjosavik Johnsen",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "4b9d3b42bbfd360bbee0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979322089-3d1113a71e3d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Børge Nilsen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e61bfbff3a1be8a10ea",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979322089-9f2f4b871d96"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rune Johnsen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f35748e73e8514452265",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-979322089-fd540a6991f4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "OME SOLUTIONS AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "1cd2a9880511f54e2f5d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-979322089-979330057"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:39Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:39Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Storebotn 55H"
+          ],
+          "kommune": "ASKØY",
+          "kommunenummer": "4627",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5309",
+          "poststed": "KLEPPESTØ"
+        },
+        "employees": 7,
+        "industry": {
+          "beskrivelse": "Trykking ellers",
+          "kode": "18.120"
+        },
+        "name": "DESIGN STUDIO AS",
+        "organisation_number": "979330057"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 7286310.0, operating_result: 346801.0, profit_before_tax: 165642.0, annual_result: 151021.0, assets: 9114014.0, equity: 2226995.0, debt: 6887020.0",
+      "content_sha256": "15ec7647e5d8a6a4e6234b71aab47ef537fd5c8edcc9cfa8e62e154c31f09bfd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "http_status": 200,
+      "id": "ev-fin-979322089-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.729041Z",
+      "snapshot_ref": "15/15ec7647e5d8a6a4e6234b71aab47ef537fd5c8edcc9cfa8e62e154c31f09bfd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 7487994.0, operating_result: 370141.0, profit_before_tax: 171418.0, annual_result: 121459.0, assets: 8555338.0, equity: 2348454.0, debt: 6206885.0",
+      "content_sha256": "8659f803b3980e63588038fbfc065c1a55f0c6075e47b71e5ad5379e2e7ccea1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "http_status": 200,
+      "id": "ev-fin-979322089-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.729041Z",
+      "snapshot_ref": "86/8659f803b3980e63588038fbfc065c1a55f0c6075e47b71e5ad5379e2e7ccea1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 8144634.0, operating_result: 821275.0, profit_before_tax: 671722.0, annual_result: 516302.0, assets: 7199997.0, equity: 2864756.0, debt: 4335242.0",
+      "content_sha256": "574c5e71b2b846ee7fbd5296f961038f0add8a097ab0b08da1655262be8a947a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "http_status": 200,
+      "id": "ev-fin-979322089-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:48.729041Z",
+      "snapshot_ref": "57/574c5e71b2b846ee7fbd5296f961038f0add8a097ab0b08da1655262be8a947a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 979330057: DESIGN STUDIO AS",
+      "content_sha256": "6953526f18a0db39172733e32d58ecfafbf71e161ad82fb78d9f7b991960b095",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=979322089&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-979322089-979330057",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:53.140346Z",
+      "snapshot_ref": "69/6953526f18a0db39172733e32d58ecfafbf71e161ad82fb78d9f7b991960b095.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=979322089&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 979322089 DESIGN STUDIO AS",
+      "content_sha256": "c2b6e22defbe98d8a25320efeddd06a7cf4d2820f45ce6fcf3814ea70af2be9c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-979322089",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "c2/c2b6e22defbe98d8a25320efeddd06a7cf4d2820f45ce6fcf3814ea70af2be9c.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Solveig Kjosavik Johnsen",
+      "content_sha256": "df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "http_status": 200,
+      "id": "ev-role-979322089-01a71bcf7195",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:50.788877Z",
+      "snapshot_ref": "df/df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Børge Nilsen",
+      "content_sha256": "df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "http_status": 200,
+      "id": "ev-role-979322089-3d1113a71e3d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:50.788877Z",
+      "snapshot_ref": "df/df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Rune Johnsen",
+      "content_sha256": "df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "http_status": 200,
+      "id": "ev-role-979322089-9f2f4b871d96",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:50.788877Z",
+      "snapshot_ref": "df/df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ULTIMA REVISJON AS",
+      "content_sha256": "df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "http_status": 200,
+      "id": "ev-role-979322089-ad417744c8af",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:50.788877Z",
+      "snapshot_ref": "df/df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: OME SOLUTIONS AS",
+      "content_sha256": "df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "http_status": 200,
+      "id": "ev-role-979322089-fd540a6991f4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:50.788877Z",
+      "snapshot_ref": "df/df063bea8d0ecddd229239c28fc208fc1bec6e12196fdef13bb6fd1ccfe6f11f.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "07b7ebe83db1fd8d051c",
+        "23c2a17d1b711554479c",
+        "44d1e230b90d1e44e3da",
+        "46ef6caa0a38a09eaf4b",
+        "53ebc4fb8b2290abc935",
+        "5475c1146d6745a3393a",
+        "5fff682f2fb40190f24e",
+        "6e549613802951fd6b88",
+        "713d6f96361ba8400cca",
+        "7767ed762b72c62513c7",
+        "7797d15c8c13a3fa6e47",
+        "872381805579469b4dbd",
+        "ae1672722d2a695568d8",
+        "c16e4d6813f10ff478a3",
+        "c83d92fbebd51c917250",
+        "c8e54849401d5ce50c5d",
+        "c93b31a7acb068d2a53a",
+        "d25b1f0aba0ed86f5ded",
+        "e4e3576f41cf1b7dd760",
+        "ea7305c6312f1a5a3101",
+        "f8f268e2f0714fc30b44"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "746de4a528566522d682",
+        "7a201dbb2f470b2a3cde",
+        "a57b373d86ff30e08c6b",
+        "ba7547ab1fea57b1cbb9"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "00e89ab9828bef6d45fd",
+        "20e1e14204124f9bbd77",
+        "4b9d3b42bbfd360bbee0",
+        "7e61bfbff3a1be8a10ea",
+        "f35748e73e8514452265"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1cd2a9880511f54e2f5d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "a57b373d86ff30e08c6b",
+      "7a201dbb2f470b2a3cde",
+      "ba7547ab1fea57b1cbb9",
+      "746de4a528566522d682"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "DESIGN STUDIO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 17,
+    "runtime_ms": 49947,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "979322089",
+  "profile": {
+    "bankrupt": false,
+    "employees": 7,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:00.509309Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "979322089",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "d22ff7c22814e84cca404a6833df3c9f6569a9e8e69eb46c8bd989cac3217f58",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:48.729041Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/979322089",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 151021.0,
+              "assets": 9114014.0,
+              "currency": "NOK",
+              "debt": 6887020.0,
+              "equity": 2226995.0,
+              "operating_result": 346801.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 165642.0,
+              "record_id": 5352011,
+              "revenue": 7286310.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 121459.0,
+              "assets": 8555338.0,
+              "currency": "NOK",
+              "debt": 6206885.0,
+              "equity": 2348454.0,
+              "operating_result": 370141.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 171418.0,
+              "record_id": 6216835,
+              "revenue": 7487994.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 516302.0,
+              "assets": 7199997.0,
+              "currency": "NOK",
+              "debt": 4335242.0,
+              "equity": 2864756.0,
+              "operating_result": 821275.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 671722.0,
+              "record_id": 6945464,
+              "revenue": 8144634.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:51.942913Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/979322089",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "99fbceabcd5584c856094c163b35951c41a261884591b798ec1079a8344d4d46",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:53.140346Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=979322089&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Storebotn 55H"
+                ],
+                "kommune": "ASKØY",
+                "kommunenummer": "4627",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5309",
+                "poststed": "KLEPPESTØ"
+              },
+              "employees": 7,
+              "industry": {
+                "beskrivelse": "Trykking ellers",
+                "kode": "18.120"
+              },
+              "name": "DESIGN STUDIO AS",
+              "organisation_number": "979330057"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "979322089",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Trykking ellers.",
+          "antallAnsatte": "7",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Storebotn 55H",
+          "forretningsadresse.kommune": "ASKØY",
+          "forretningsadresse.kommunenummer": "4627",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5309",
+          "forretningsadresse.poststed": "KLEPPESTØ",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "50",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2004-04-15",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Trykking ellers",
+          "naeringskode1.kode": "18.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "DESIGN STUDIO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "979322089",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-01-13",
+          "registreringsdatoForetaksregisteret": "1997-10-16",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1997-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1997-11-27",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-01-10",
+          "registreringsdatoenhetsregisteret": "1997-10-16",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1997-10-13",
+          "telefon": "56 14 97 93",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2004-03-20",
+          "vedtektsfestetFormaal": "Design og reklameproduksjon og det som naturlig faller inn under dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "2fd24109c8785c22fe7c8bb1aa2ee04190fd03bc5a5d460d169d4be7ffc5330f",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:50.788877Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/979322089/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2018-01-31",
+              "name": "Børge Nilsen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2002-12-11",
+              "name": "Rune Johnsen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2002-12-11",
+              "name": "Solveig Kjosavik Johnsen",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2025-11-19",
+              "name": [
+                "ULTIMA REVISJON AS"
+              ],
+              "organisation_number": "920915051",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2013-05-31",
+              "name": [
+                "OME SOLUTIONS AS"
+              ],
+              "organisation_number": "978647618",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "18.120",
+    "industry_label": "Trykking ellers",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ASKØY",
+    "municipality_number": "4627",
+    "name": "DESIGN STUDIO AS",
+    "organisation_number": "979322089",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        2062,
+        1156,
+        1187,
+        1858,
+        578,
+        360,
+        1922,
+        358,
+        452,
+        62,
+        3265,
+        30125,
+        2468,
+        844,
+        750,
+        1282
+      ],
+      "requests": 17
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:39Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "DESIGN STUDIO AS (AS, org.nr 979322089)",
+    "what_it_does": "DESIGN STUDIO AS is classified under NACE code 18.120 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, DESIGN STUDIO AS reported revenue of 8,144,634 NOK and an operating result of 821,275 NOK. Net result was 516,302 NOK, with total assets of 7,199,997 NOK and equity of 2,864,756 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 10.1% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Rune Johnsen. Daily operations are led by general manager Børge Nilsen. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "DESIGN STUDIO AS is classified under NACE code 18.120 (unspecified).",
+        "claim_ids": [
+          "746de4a528566522d682",
+          "a57b373d86ff30e08c6b"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "7a201dbb2f470b2a3cde",
+          "746de4a528566522d682"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, DESIGN STUDIO AS reported revenue of 8,144,634 NOK and an operating result of 821,275 NOK.",
+        "claim_ids": [
+          "e4e3576f41cf1b7dd760",
+          "5fff682f2fb40190f24e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 516,302 NOK, with total assets of 7,199,997 NOK and equity of 2,864,756 NOK.",
+        "claim_ids": [
+          "c8e54849401d5ce50c5d",
+          "44d1e230b90d1e44e3da",
+          "07b7ebe83db1fd8d051c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "e4e3576f41cf1b7dd760",
+          "ea7305c6312f1a5a3101"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 10.1% (derived: operating result / revenue).",
+        "claim_ids": [
+          "5fff682f2fb40190f24e",
+          "e4e3576f41cf1b7dd760"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Rune Johnsen.",
+        "claim_ids": [
+          "7e61bfbff3a1be8a10ea"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Børge Nilsen.",
+        "claim_ids": [
+          "4b9d3b42bbfd360bbee0"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "00e89ab9828bef6d45fd",
+          "20e1e14204124f9bbd77",
+          "4b9d3b42bbfd360bbee0",
+          "7e61bfbff3a1be8a10ea",
+          "f35748e73e8514452265"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "a57b373d86ff30e08c6b"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "1cd2a9880511f54e2f5d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "a57b373d86ff30e08c6b"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "a57b373d86ff30e08c6b"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "a57b373d86ff30e08c6b"
+        ]
+      }
+    ]
+  }
+}

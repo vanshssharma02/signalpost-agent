@@ -1,0 +1,1618 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "1f0154a42173591e2954",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 262075.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a90bd479e768875702d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -89687.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "73025aeb158fc581ca13",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 130149.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "489089ea4d528bbe073c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4065519.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "605a888b74399ad4b2fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3944791.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cee4108c3570ce998ed5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3575224.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7aee0d82f36a2f6335e0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1899545.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbc397a51b619928a944",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2121364.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d91aba36db96a8a53441",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2152405.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "218884094c35b560939b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1675679.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "32c9ca91c09735981a97",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1913114.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cdd475a146d29320f219",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1823427.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "04fac3c3de228d448c87",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 49429.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "050e9e98d71322fa2475",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 392924.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5f43dbe8a139ec8b504d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 211804.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "38f54e46100c867df7a0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 130149.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7715b678578bad9aeca7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 344446.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e69eefdce364084ec4d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -65787.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1683ce65744a8d568186",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8803927.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2bfaa5441b8d15673b93",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 7816037.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9c6f40462a84ab182167",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-996282147-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8612990.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f953085117e1fd4d2ad2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-996282147"
+      ],
+      "family": "brand",
+      "field": "public_brand",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "html_meta",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "Bilverksted i Tomte"
+    },
+    {
+      "availability": "available",
+      "claim_id": "717469f3ba7ac0e177aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-996282147"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "95.310"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d6abf783787d1241679",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-996282147"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2cfc8d20e6235e2792c6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-996282147"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SVEEN MEK VERKSTED AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "306b1faff56feed97c3e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-996282147"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 10
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbe703bc91fcfd6504dc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-449e72e2f859"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rolf-Erik Sandvoll",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c434f4e367ccaa621b4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-a9da87a0e1be"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ØKONOMIPARTNER HAMAR AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c55addd555218631bf9f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-847d40835180"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rolf Sandvoll",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d06da6b4fc75420800a3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-4af89ed195ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDO AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2ac8c5b12cd3d395256",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-2066a75179fe"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Rolf-Erik Sandvoll",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e8dd9358510ab2ed55c9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-996282147-3bbb49d2e7c3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Gunn Eva Sandvoll",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "132fa6277663f9635087",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-996282147-971827491"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Alderslystvegen 231"
+          ],
+          "kommune": "HAMAR",
+          "kommunenummer": "3403",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "2324",
+          "poststed": "VANG PÅ HEDMARKEN"
+        },
+        "employees": 10,
+        "industry": {
+          "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+          "kode": "95.310"
+        },
+        "name": "SVEEN MEK VERKSTED AS",
+        "organisation_number": "971827491"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f5576946c0ae3b5e839",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-web-996282147"
+      ],
+      "family": "website",
+      "field": "official_website",
+      "first_observed_at": "2026-10-03T20:48:04Z",
+      "identity_proof": "p1_exact",
+      "last_verified_at": "2026-10-03T20:48:04Z",
+      "method": "registry_email_domain",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "company_owned",
+      "value": "https://sjekkpunkt.no/bilverksted/sveenmek"
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 8612990.0, operating_result: 392924.0, profit_before_tax: 344446.0, annual_result: 262075.0, assets: 3575224.0, equity: 1675679.0, debt: 1899545.0",
+      "content_sha256": "1a4c03583f16e577951c00532f63adf042457b36be0b5b34790516768bc42c81",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "http_status": 200,
+      "id": "ev-fin-996282147-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.096627Z",
+      "snapshot_ref": "1a/1a4c03583f16e577951c00532f63adf042457b36be0b5b34790516768bc42c81.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 7816037.0, operating_result: 211804.0, profit_before_tax: 130149.0, annual_result: 130149.0, assets: 4065519.0, equity: 1913114.0, debt: 2152405.0",
+      "content_sha256": "5b00c5f07d9fdaeaf2e7cef021c649943794e3b6ec9204cf5f579cecc8e9821c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "http_status": 200,
+      "id": "ev-fin-996282147-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.096627Z",
+      "snapshot_ref": "5b/5b00c5f07d9fdaeaf2e7cef021c649943794e3b6ec9204cf5f579cecc8e9821c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 8803927.0, operating_result: 49429.0, profit_before_tax: -65787.0, annual_result: -89687.0, assets: 3944791.0, equity: 1823427.0, debt: 2121364.0",
+      "content_sha256": "c9d62f3ff6a06710a5341098aa9913d8676da9aee20aac3d3a948c25d164eb89",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "http_status": 200,
+      "id": "ev-fin-996282147-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.096627Z",
+      "snapshot_ref": "c9/c9d62f3ff6a06710a5341098aa9913d8676da9aee20aac3d3a948c25d164eb89.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 971827491: SVEEN MEK VERKSTED AS",
+      "content_sha256": "736506193fa950efb6aed48c8d9df5031a7567f2843a4d1613743a3ec95942b4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=996282147&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-996282147-971827491",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:58.656321Z",
+      "snapshot_ref": "73/736506193fa950efb6aed48c8d9df5031a7567f2843a4d1613743a3ec95942b4.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=996282147&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 996282147 SVEEN MEK VERKSTED AS",
+      "content_sha256": "954e5a552791d628655df974b543cb6f23b2e2b76db8178fd742c5cf1eb8c2c9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-996282147",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "95/954e5a552791d628655df974b543cb6f23b2e2b76db8178fd742c5cf1eb8c2c9.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Rolf-Erik Sandvoll",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-2066a75179fe",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Gunn Eva Sandvoll",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-3bbb49d2e7c3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Rolf-Erik Sandvoll",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-449e72e2f859",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: BDO AS",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-4af89ed195ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Rolf Sandvoll",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-847d40835180",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ØKONOMIPARTNER HAMAR AS",
+      "content_sha256": "e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "http_status": 200,
+      "id": "ev-role-996282147-a9da87a0e1be",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.307275Z",
+      "snapshot_ref": "e9/e9bd754e882ec2717ab66cbdb5062356d8040a2531cce1b9aad1696e7c8200da.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "opertyID\":\"NO:orgnr\",\"value\":\"996282147\"},\"potentialAction\":{\"@type\":\"",
+      "content_sha256": "75cce71cdd49db86c89d93a333a442d11f43c336927764ae4ed9d447bc73cae5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://sjekkpunkt.no/bilverksted/sveenmek",
+      "http_status": 200,
+      "id": "ev-web-996282147",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:04Z",
+      "snapshot_ref": "75/75cce71cdd49db86c89d93a333a442d11f43c336927764ae4ed9d447bc73cae5.gz",
+      "source_class": "company_owned",
+      "source_url": "https://sveenmek.no/",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04fac3c3de228d448c87",
+        "050e9e98d71322fa2475",
+        "1683ce65744a8d568186",
+        "1f0154a42173591e2954",
+        "218884094c35b560939b",
+        "2a90bd479e768875702d",
+        "2bfaa5441b8d15673b93",
+        "32c9ca91c09735981a97",
+        "38f54e46100c867df7a0",
+        "489089ea4d528bbe073c",
+        "5f43dbe8a139ec8b504d",
+        "605a888b74399ad4b2fd",
+        "73025aeb158fc581ca13",
+        "7715b678578bad9aeca7",
+        "7aee0d82f36a2f6335e0",
+        "7e69eefdce364084ec4d",
+        "9c6f40462a84ab182167",
+        "bbc397a51b619928a944",
+        "cdd475a146d29320f219",
+        "cee4108c3570ce998ed5",
+        "d91aba36db96a8a53441"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f953085117e1fd4d2ad2"
+      ],
+      "reason": "verified"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2cfc8d20e6235e2792c6",
+        "2d6abf783787d1241679",
+        "306b1faff56feed97c3e",
+        "717469f3ba7ac0e177aa"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "bbe703bc91fcfd6504dc",
+        "c434f4e367ccaa621b4b",
+        "c55addd555218631bf9f",
+        "d06da6b4fc75420800a3",
+        "e2ac8c5b12cd3d395256",
+        "e8dd9358510ab2ed55c9"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "132fa6277663f9635087"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1f5576946c0ae3b5e839"
+      ],
+      "reason": "verified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "2cfc8d20e6235e2792c6",
+      "2d6abf783787d1241679",
+      "306b1faff56feed97c3e",
+      "717469f3ba7ac0e177aa"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SVEEN MEK VERKSTED AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 5,
+    "runtime_ms": 10482,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "996282147",
+  "profile": {
+    "bankrupt": false,
+    "employees": 10,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:03.677166Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "996282147",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "18460e008c6f86800d68fdfb7247ed5d037072d62bca130d1d25f877a81888f6",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:55.096627Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/996282147",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 262075.0,
+              "assets": 3575224.0,
+              "currency": "NOK",
+              "debt": 1899545.0,
+              "equity": 1675679.0,
+              "operating_result": 392924.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 344446.0,
+              "record_id": 5106047,
+              "revenue": 8612990.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 130149.0,
+              "assets": 4065519.0,
+              "currency": "NOK",
+              "debt": 2152405.0,
+              "equity": 1913114.0,
+              "operating_result": 211804.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 130149.0,
+              "record_id": 6045967,
+              "revenue": 7816037.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -89687.0,
+              "assets": 3944791.0,
+              "currency": "NOK",
+              "debt": 2121364.0,
+              "equity": 1823427.0,
+              "operating_result": 49429.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -65787.0,
+              "record_id": 6967156,
+              "revenue": 8803927.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:57.461116Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/996282147",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "5aa8c6286fc2230a2d4f0e89532ca7254c88d3b933abb82313ac72c7e557ed13",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:58.656321Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=996282147&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Alderslystvegen 231"
+                ],
+                "kommune": "HAMAR",
+                "kommunenummer": "3403",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "2324",
+                "poststed": "VANG PÅ HEDMARKEN"
+              },
+              "employees": 10,
+              "industry": {
+                "beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+                "kode": "95.310"
+              },
+              "name": "SVEEN MEK VERKSTED AS",
+              "organisation_number": "971827491"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "996282147",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Drift av verksted for biler og utstyr knyttet til skog og hagebruk. Selskapet kan også selge deler og utstyr innenfor samme virksomhetsområde. Omsetning av bruktbiler.",
+          "antallAnsatte": "10",
+          "epostadresse": "rolf@sveenmek.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Alderslystvegen 231",
+          "forretningsadresse.kommune": "HAMAR",
+          "forretningsadresse.kommunenummer": "3403",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "2324",
+          "forretningsadresse.poststed": "VANG PÅ HEDMARKEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "156",
+          "kapital.belop": "156000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2018-11-09",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Reparasjon og vedlikehold av motorvogner",
+          "naeringskode1.kode": "95.310",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SVEEN MEK VERKSTED AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "996282147",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+          "registreringsdatoForetaksregisteret": "2010-12-09",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2011-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2010-12-20",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-07-10",
+          "registreringsdatoenhetsregisteret": "2010-12-09",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2010-11-25",
+          "telefon": "62 59 82 73",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2018-08-31",
+          "vedtektsfestetFormaal": "Drift av verksted for biler og utstyr knyttet til skog og hagebruk. Selskapet kan også selge deler og utstyr innenfor samme virksomhetsområde. Selskapet kan også erverve og eie fast eiendom og gjennom aksjetegning eller på annen måte gjøre seg interessert i andre virksomheter."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "3c689ad4fb4b55e2715566d16efbf4b151259d042fb0c99c0589f21fffcdcde9",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:56.307275Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/996282147/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2017-01-05",
+              "name": "Rolf-Erik Sandvoll",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2010-12-09",
+              "name": "Rolf Sandvoll",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2010-12-09",
+              "name": "Rolf-Erik Sandvoll",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2010-12-09",
+              "name": "Gunn Eva Sandvoll",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2010-12-09",
+              "name": [
+                "BDO AS"
+              ],
+              "organisation_number": "993606650",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2024-10-25",
+              "name": [
+                "ØKONOMIPARTNER HAMAR AS"
+              ],
+              "organisation_number": "989103032",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "retrieved_at": "2026-10-03T20:48:04Z",
+        "source_url": "https://sveenmek.no/",
+        "status": "available",
+        "value": {
+          "brand_name": "Bilverksted i Tomte",
+          "claim_span": "opertyID\":\"NO:orgnr\",\"value\":\"996282147\"},\"potentialAction\":{\"@type\":\"",
+          "final_url": "https://sjekkpunkt.no/bilverksted/sveenmek",
+          "homepage": "https://sveenmek.no/",
+          "page_html": "<!DOCTYPE html>\n<html lang=\"nb\">\n<head>\n  <!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MSJ2BWKW');</script>\n<!-- End Google Tag Manager -->\n  <script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"AutoRepair\",\"@id\":\"https://sjekkpunkt.no/bilverksted/sveenmek/#AutoRepair\",\"name\":\"Sveen Mek. Verksted as\",\"url\":\"https://sjekkpunkt.no/bilverksted/sveenmek\",\"description\":\"Ser du etter bilverksted i Tomte? Sveen Mek. Verksted as er et godkjent SjekkPunkt verksted som tilbyr service og reparasjoner for alle bilmerker.\",\"telephone\":\"+4762598273\",\"email\":\"post@sveenmek.no\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Alderslystvegen 231\",\"addressLocality\":\"Vang hedmark\",\"postalCode\":\"2324\",\"addressCountry\":\"NO\"},\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\"],\"opens\":\"07:00\",\"closes\":\"15:30\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Friday\"],\"opens\":\"07:00\",\"closes\":\"13:30\"}],\"image\":\"\",\"memberOf\":{\"@type\":\"Organization\",\"@id\":\"https://sjekkpunkt.no/#Organization\",\"name\":\"SjekkPunkt Norge AS\",\"url\":\"https://sjekkpunkt.no/\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"60.86317\",\"longitude\":\"11.26075\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Vang hedmark\"},\"identifier\":{\"@type\":\"PropertyValue\",\"propertyID\":\"NO:orgnr\",\"value\":\"996282147\"},\"potentialAction\":{\"@type\":\"ReserveAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://sjekkpunkt.no/bilverksted/sveenmek/bestilltime\"},\"result\":{\"@type\":\"Reservation\",\"name\":\"Timebestilling\"}},\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"Tjenester\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"AC-/klimaservice\",\"url\":\"https://sjekkpunkt.no/tjenester/ac-service\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Automatgirkasse (flushing)\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Bensin- og dieselinnsprøyting\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Bilelektriske reparasjoner\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Bilglass\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Bilservice\",\"url\":\"https://sjekkpunkt.no/tjenester/bilservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Hjulstillingskontroll\",\"url\":\"https://sjekkpunkt.no/tjenester/bremser-1\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Elbil og Hybridbil-service\",\"url\":\"https://sjekkpunkt.no/tjenester/elbilservice-1\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Dekk\",\"url\":\"https://sjekkpunkt.no/tjenester/dekkskift\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Dekkhotell\",\"url\":\"https://sjekkpunkt.no/tjenester/dekkhotell\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Tilhengerservice (Tempo 100)\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"EU-kontroll opp til 3500KG\",\"url\":\"https://sjekkpunkt.no/tjenester/eu-kontroll\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Bobil\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Utlånsbil ved service\"}}]}}</script>\n  <script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://sjekkpunkt.no/bilverksted/sveenmek/#BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hjem\",\"item\":\"https://sjekkpunkt.no\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Bilverksteder\",\"item\":\"https://sjekkpunkt.no/bilverksteder\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Sveen Mek. Verksted as\"}]}</script>\n\n  <meta charset=\"utf-8\" />\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <meta name=\"ahrefs-site-verification\" content=\"c36240676b314e8a38053eb073513416e83aa05ee7225050021c781512ca0716\">\n  <link rel=\"icon\" href=\"/gfx/sjekkpunkt-favicon.svg\" type=\"image/svg+xml\">\n  <title>Bilverksted i Tomte - Sveen Mek. Verksted as</title>\n<meta property=\"og:title\" content=\"Bilverksted i Tomte - Sveen Mek. Verksted as\" />\n<meta name=\"description\" content=\"Ser du etter bilverksted i Tomte? Sveen Mek. Verksted as er et godkjent SjekkPunkt verksted som tilbyr service og reparasjoner for alle bilmerker.\" />\n<meta property=\"og:description\" content=\"Ser du etter bilverksted i Tomte? Sveen Mek. Verksted as er et godkjent SjekkPunkt verksted som tilbyr service og reparasjoner for alle bilmerker.\" />\n<meta property=\"og:type\" content=\"website\" />\n\n<meta property=\"og:url\" content=\"https://sjekkpunkt.no/bilverksted/sveenmek\" />\n<link rel=\"canonical\" href=\"https://sjekkpunkt.no/bilverksted/sveenmek\" />\n  <link rel=\"preload\" as=\"style\" href=\"https://sjekkpunkt.no/build/assets/site-BdCbVP5L.css\" /><link rel=\"preload\" as=\"style\" href=\"https://sjekkpunkt.no/build/assets/site-BsrpGn1a.css\" /><link rel=\"modulepreload\" as=\"script\" href=\"https://sjekkpunkt.no/build/assets/site-CexGGzRt.js\" /><link rel=\"stylesheet\" href=\"https://sjekkpunkt.no/build/assets/site-BdCbVP5L.css\" /><link rel=\"stylesheet\" href=\"https://sjekkpunkt.no/build/assets/site-BsrpGn1a.css\" /><script type=\"module\" src=\"https://sjekkpunkt.no/build/assets/site-CexGGzRt.js\"></script>\n  \n      <script src=\"https://api.mapbox.com/mapbox-gl-js/v3.5.1/mapbox-gl.js\"></script>\n      <link href=\"https://api.mapbox.com/mapbox-gl-js/v3.5.1/mapbox-gl.css\" rel=\"stylesheet\" />\n    \n</head>\n<body>\n  <!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MSJ2BWKW\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n  \n    <header class=\"member-header\">\n  <div class=\"member-header__return\">\n    <div class=\"member-header__return-inner container\">\n      <a href=\"/\" aria-label=\"SjekkPunkt - til forsiden\">\n        <svg class=\"w-5\" xmlns=\"http://www.w3.org/2000/svg\" class=\"arrow\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\"><path d=\"M27 16H5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7L5 16L14 25\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n        <svg class=\"w-28\" xmlns=\"http://www.w3.org/2000/svg\" width=\"249\" height=\"40\" viewBox=\"0 0 249 40\" fill=\"none\"><g clip-path=\"url(#clip0_806_6457)\"><path d=\"M142.912 20C142.912 31.0452 133.957 40 122.912 40C111.867 40 102.912 31.0452 102.912 20C102.912 8.95481 111.862 0 122.907 0C133.952 0 142.907 8.95481 142.907 20H142.912Z\" fill=\"#FED141\"/><path d=\"M121.462 33.23C121.413 33.23 121.361 33.23 121.308 33.2275C120.201 33.1729 119.201 32.5473 118.669 31.5766L110.209 16.0974C109.367 14.5557 109.933 12.6218 111.475 11.7802C113.016 10.9385 114.95 11.5046 115.792 13.0463L121.758 23.9574L137.098 1.39535C138.086 -0.059471 140.065 -0.434347 141.517 0.553737C142.969 1.54182 143.347 3.52047 142.359 4.9728L124.091 31.8397C123.498 32.7136 122.51 33.2325 121.46 33.2325L121.462 33.23Z\" fill=\"#DA1A32\"/><path d=\"M159.181 6.66577C165.713 6.66577 169.265 9.44134 169.265 14.6871C169.265 20.3376 165.713 23.7214 159.012 23.7214H156.264V33.3316H150.442V6.66577H159.178H159.181ZM158.91 11.3033H156.264V19.1534H158.977C161.922 19.1534 163.309 17.8326 163.309 14.99C163.309 12.5545 161.82 11.3008 158.91 11.3008V11.3033Z\" fill=\"currentColor\"/><path d=\"M171.286 25.8539V13.8752H176.904V24.1955C176.904 27.7159 177.818 29.2725 180.186 29.2725C182.555 29.2725 184.178 27.4453 184.178 24.0614V13.8752H189.796V33.334H184.28V29.8484H184.178C182.723 32.4875 180.32 33.7412 177.748 33.7412C173.756 33.7412 171.283 31.3057 171.283 25.8564L171.286 25.8539Z\" fill=\"currentColor\"/><path d=\"M199.508 13.8754V17.361H199.61C201.065 14.722 203.468 13.4683 206.04 13.4683C210.067 13.4683 212.572 16.0055 212.572 21.4549V33.3342H206.954V23.0139C206.954 19.4936 206.005 17.937 203.602 17.937C201.199 17.937 199.61 19.7642 199.61 23.148V33.3342H193.992V13.8754H199.508Z\" fill=\"currentColor\"/><path d=\"M224.821 24.3644L222.249 27.0705V33.3317H216.599V6.80981H222.249V21.9613L229.456 13.8729H235.886L229.052 21.5889L236.058 33.3317H229.898L224.821 24.3644Z\" fill=\"currentColor\"/><path d=\"M237.669 13.8753L243.287 7.50488V13.8753H248.227V18.0039H243.287V26.4647C243.287 28.7313 243.965 29.3743 246.298 29.3743C247.078 29.3743 247.686 29.3073 248.262 29.2055V33.1653C247.113 33.5377 245.859 33.7735 244.099 33.7735C239.632 33.7735 237.669 31.8445 237.669 27.3783V13.8753Z\" fill=\"currentColor\"/><path d=\"M11.6063 33.8059C5.37984 33.8059 1.18421 31.4722 0 26.3605L5.54866 24.7691C6.3282 27.7135 8.52781 29.0318 11.8098 29.0318C14.7542 29.0318 16.3456 27.8823 16.3456 25.8168C16.3456 22.9742 12.3535 23.6172 6.76763 21.9588C5.27805 21.5194 4.06157 20.9087 3.14796 19.995C2.03078 18.8779 1.35551 17.356 1.35551 15.2235C1.35551 9.60528 5.82175 6.66089 11.5765 6.66089C17.3312 6.66089 20.7125 9.43646 22.068 14.1063L16.5864 15.3252C15.8764 12.5844 14.1509 11.4325 11.4076 11.4325C9.03923 11.4325 7.17726 12.5149 7.17726 14.6475C7.17726 17.9643 12.1847 17.2865 16.8545 18.7413C18.2075 19.1485 19.4935 19.6897 20.4072 20.6033C21.4573 21.6534 22.1673 23.1405 22.1673 25.3079C22.1673 30.5859 18.1753 33.8009 11.6087 33.8009L11.6063 33.8059Z\" fill=\"currentColor\"/><path d=\"M23.0164 35.6329C24.7765 35.6329 25.4518 34.9552 25.4518 33.2298V13.8752H31.07V33.3663C31.07 37.9021 29.074 39.9999 24.7765 39.9999C23.8977 39.9999 22.8476 39.8658 21.9339 39.5952L21.4275 35.5014C22.1375 35.6032 22.5447 35.6379 23.0189 35.6379L23.0164 35.6329Z\" fill=\"currentColor\"/><path d=\"M44.2204 13.4333C47.8748 13.4333 50.6156 14.99 52.1052 17.8996C53.0858 19.8286 53.493 22.13 53.4259 24.8708H39.99C40.2258 27.6786 41.919 29.337 44.558 29.337C46.7229 29.337 48.1802 28.3564 48.8902 26.4274L53.6618 27.8152C52.2393 31.6732 48.8902 33.8057 44.3892 33.8057C38.1628 33.8057 34.3718 29.9477 34.3718 23.7884C34.3718 17.629 38.5004 13.4333 44.2204 13.4333ZM40.0595 21.4547H47.8425C47.7755 20.7099 47.6067 20.1339 47.3684 19.5927C46.8619 18.4433 45.6752 17.8003 44.2204 17.8003C41.9538 17.8003 40.4642 19.121 40.057 21.4547H40.0595Z\" fill=\"currentColor\"/><path d=\"M64.8609 24.3644L62.2889 27.0704V33.3316H56.6384V6.66577H62.2889V21.9612L69.4959 13.8728H75.9259L69.0913 21.5888L76.0972 33.3316H69.9378L64.8609 24.3644Z\" fill=\"currentColor\"/><path d=\"M86.5865 24.3644L84.0145 27.0704V33.3316H78.364V6.66577H84.0145V21.9612L91.2215 13.8728H97.6515L90.8168 21.5888L97.8228 33.3316H91.6634L86.5865 24.3644Z\" fill=\"currentColor\"/><path d=\"M28.2622 12.2219C30.0488 12.2219 31.4971 10.7736 31.4971 8.98705C31.4971 7.20049 30.0488 5.7522 28.2622 5.7522C26.4756 5.7522 25.0273 7.20049 25.0273 8.98705C25.0273 10.7736 26.4756 12.2219 28.2622 12.2219Z\" fill=\"currentColor\"/></g><defs><clipPath id=\"clip0_806_6457\"><rect width=\"248.262\" height=\"40\" fill=\"currentColor\"/></clipPath></defs></svg>\n      </a>\n    </div>\n  </div>\n  <div class=\"member-header__inner container\">\n    <div class=\"member-header__brand\">\n      \n        <img src=\"/assets/bilverksteder/sveen_mek/sveenmekverksted_logo_nett_24.png\" alt=\"Logo til Sveen Mek Verksted\" aria-label=\"SjekkPunkt - til forsiden\" />\n      \n      \n        <span class=\"member-header__divider\" aria-hidden=\"true\"></span>\n        <div class=\"member-header__ayvens\">\n          <?xml version=\"1.0\" encoding=\"UTF-8\"?><svg class=\"member-header__ayvens-logo\" xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 139 33.9\"><defs><style> .st0 { fill: none; } </style></defs><g id=\"Layer_1\"><rect class=\"st0\" width=\"139\" height=\"33.9\"/><path d=\"M47.1,11c-1.2-1.9-3.6-2.9-5.9-2.9-4.3,0-8.4,3.2-8.4,8.8s4.1,8.8,8.4,8.8,4.6-1,5.9-3v2.6h3.5V8.5h-3.5v2.5h0ZM41.8,22.7c-2.8,0-5.4-2.1-5.4-5.8s2.6-5.8,5.4-5.8,5.3,2.2,5.3,5.8-2.6,5.8-5.3,5.8ZM65.1,17.1c0,3.5-1.1,5.6-3.8,5.6s-4-1.7-4-4.9v-9.3h-3.6v9.5c0,5.8,3.2,7.7,6.8,7.7s4.2-1.4,4.8-2.5v2.6c0,2.9-.8,5-3.9,5s-3.5-.8-4-2.8h-3.6c.5,3.6,3.1,5.7,7.3,5.7s7.7-3.5,7.7-8.1V8.5h-3.6v8.6h0ZM80.9,25.4l6.3-16.8h-3.6l-4.7,13.4-4.7-13.4h-3.8l6.3,16.8h4.3ZM110.4,16.6c0-3.2,1.6-5.5,4.6-5.5s4,1.6,4,4.9v9.3h3.6v-9.7c0-5.4-2.9-7.6-6.5-7.6s-4.8,1.3-5.8,3.2v-2.8h-3.4v16.8h3.6v-8.7ZM95.9,25.7c3.7,0,6.7-2.1,7.7-5.6h-3.5c-.6,1.9-2.1,2.6-4.1,2.6-2.9,0-4.7-2.2-4.9-4.9h13.1c0-.6,0-1,0-1.7,0-4.5-3.3-8.1-8.2-8.1s-8.5,3.7-8.5,8.9,3.1,8.7,8.5,8.7M95.9,10.9c2.8,0,4.6,1.9,4.7,4.4h-9.5c.2-2.6,2.1-4.4,4.9-4.4ZM139,20.4c0-5.9-10-4.3-10-7.7s1-1.8,2.8-1.8,3.2.9,3.2,2.4h3.4c-.1-3.4-2.8-5.2-6.5-5.2s-6.3,2-6.3,5c0,5.8,9.9,4.1,9.9,7.6s-1,2.2-3.1,2.2-3.7-1.1-4-2.9h-3.5c.3,3.2,3,5.7,7.5,5.7s6.7-2.8,6.7-5.4M17.7,25.4h8.6V5.7h-5.5c0,6.8-1.1,13.5-3.1,19.6ZM14.9,5.7L0,25.5c10.8,0,19.7-8.9,19.7-19.8h-4.8Z\"/></g></svg>\n          <span class=\"member-header__ayvens-text\">Vi er godkjent<br>Ayvens-verksted</span>\n        </div>\n      \n    </div>\n    \n      \n        <a class=\"btn-l btn-on-accent btn-mobile-hidden\" href=\"/bilverksted/sveenmek/bestilltime\">\n  <span>Bestill time</span>\n  \n</a>\n\n      \n    \n  </div>\n</header>\n\n  \n  <main>\n    \n  \n  <section class=\"hero type2 dark\">\n    <div class=\"hero__inner container\">\n      <div class=\"hero__inner-content\">\n        <h1 class=\"font-h2\">Velkommen til Sveen Mek. Verksted</h1>\n        \n          <div class=\"hero__inner-summary\"><p>Ditt lokale verksted. Vi er et offentlig godkjent verksted og tilbyr alt av service og reparasjoner for alle bilmerker. </p></div>\n        \n        \n          <div class=\"hero__inner-buttons\">\n            \n              <a href=\"/bilverksted/sveenmek/bestilltime\" class=\"btn-small primary\">\n                Bestill time\n              </a>\n            \n              <a href=\"tel:+4762598273\" class=\"btn-small secondary\">\n                62 59 82 73\n              </a>\n            \n          </div>\n        \n      </div>\n    </div>\n    <div class=\"hero__image\">\n      \n        \n          <picture>\n            <source media=\"(max-width: 576px)\" srcset=\"/img/asset/YXNzZXRzL2JpbHZlcmtzdGVkZXIvc3ZlZW5fbWVrL3N2ZWVuX21la192ZXJrc3RlZF9mYXNhZGVfZ29vZ2xlXzE5LmpwZw/sveen_mek_verksted_fasade_google_19.jpg?w=420&h=420&fit=crop&s=067398163608f6728dcef040303061c2 1x, /img/asset/YXNzZXRzL2JpbHZlcmtzdGVkZXIvc3ZlZW5fbWVrL3N2ZWVuX21la192ZXJrc3RlZF9mYXNhZGVfZ29vZ2xlXzE5LmpwZw/sveen_mek_verksted_fasade_google_19.jpg?w=420&h=420&fit=crop&dpr=2&s=159049837df4facf990180be1415f1ee 2x\" />\n            <img src=\"/img/asset/YXNzZXRzL2JpbHZlcmtzdGVkZXIvc3ZlZW5fbWVrL3N2ZWVuX21la192ZXJrc3RlZF9mYXNhZGVfZ29vZ2xlXzE5LmpwZw/sveen_mek_verksted_fasade_google_19.jpg?w=1720&h=1600&fit=crop&s=e022a33904e0b1a0e9e38a0ec0a84d78\" alt=\"Bygningen til Sveen Mek Verksted\" />\n          </picture>\n        \n      \n    </div>\n  </section>\n\n\n  \n\n  <section class=\"workshop-services\">\n  <div class=\"workshop-services__inner container\">\n    <header>\n      <h2>Våre tjenester</h2>\n      <p>Hos oss kan du forvente god service, godt arbeid og deler av høy kvalitet.</p>\n    </header>\n    <ul>\n      \n        <li><a href='/tjenester/ac-service'>AC-/klimaservice</a></li><li>Automatgirkasse (flushing)</li><li>Bensin- og dieselinnsprøyting</li><li>Bilelektriske reparasjoner</li><li>Bilglass</li><li><a href='/tjenester/bilservice'>Bilservice</a></li><li><a href='/tjenester/bremser-1'>Hjulstillingskontroll</a></li><li><a href='/tjenester/elbilservice-1'>Elbil og Hybridbil-service</a></li><li><a href='/tjenester/dekkskift'>Dekk</a></li><li><a href='/tjenester/dekkhotell'>Dekkhotell</a></li><li>Tilhengerservice (Tempo 100)</li><li><a href='/tjenester/eu-kontroll'>EU-kontroll opp til 3500KG</a></li><li>Bobil</li><li>Utlånsbil ved service</li>\n      \n    </ul>\n  </div>\n</section>\n\n  \n\n  \n\n\n  \n    \n  \n\n  \n    \n  \n\n<section class=\"campaign main \">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>På tide med dekkskift?</h2>\n        <p>Unngå kø når den første frosten melder seg. Bestill time til dekkskift allerede i dag!</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-main \" href=\"/bilverksted/sveenmek/bestilltime\">\n  <span>Bestill time</span>\n  \n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><line x1=\"40\" y1=\"128\" x2=\"216\" y2=\"128\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"/><polyline points=\"144 56 216 128 144 200\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"/></svg>\n  \n</a>\n\n              \n            \n              \n                <a class=\"btn-l btn-on-main \" href=\"/artikkel/dekkskift\">\n  <span>Mer om dekkskift</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9kZWtrc2tpZnQtXzQuanBn/dekkskift-_4.jpg?w=420&h=387&fit=crop&s=0f8591258bbda891bf5ca657ee3a6d53 1x, /img/asset/YXNzZXRzL3RqZW5lc3Rlci9kZWtrc2tpZnQtXzQuanBn/dekkskift-_4.jpg?w=420&h=387&fit=crop&dpr=2&s=f54d552e2e714b6ad0f33830f03b43ce 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9kZWtrc2tpZnQtXzQuanBn/dekkskift-_4.jpg?w=736&h=677&fit=crop&s=b50e3e8b87ffceeb419b8f7cbd43a86a\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9kZWtrc2tpZnQtXzQuanBn/dekkskift-_4.jpg?w=816&h=751&fit=crop&s=872e71b4bf282ae5b22481a659e5267a\" alt=\"Mekaniker som skifter dekk på en bil\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n\n  \n\n  \n  \n  \n  <section class=\"workshop-information\">\n    <div class=\"workshop-information__inner container\">\n      <h2 class=\"block-heading\">Kontakt oss</h2>\n\n      \n        <a class=\"phone\" href=\"tel:+4762598273\">\n          <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M144.27,45.93a8,8,0,0,1,9.8-5.66,86.22,86.22,0,0,1,61.66,61.66,8,8,0,0,1-5.66,9.8A8.23,8.23,0,0,1,208,112a8,8,0,0,1-7.73-5.93,70.35,70.35,0,0,0-50.33-50.34A8,8,0,0,1,144.27,45.93Zm-2.33,41.8c13.79,3.68,22.65,12.55,26.33,26.34A8,8,0,0,0,176,120a8.23,8.23,0,0,0,2.07-.27,8,8,0,0,0,5.66-9.8c-5.12-19.16-18.5-32.54-37.66-37.66a8,8,0,1,0-4.13,15.46Zm72.43,78.73-47.11-21.11-.13-.06a16,16,0,0,0-15.17,1.4,8.12,8.12,0,0,0-.75.56L126.87,168c-15.42-7.49-31.34-23.29-38.83-38.51l20.78-24.71c.2-.25.39-.5.57-.77a16,16,0,0,0,1.32-15.06l0-.12L89.54,41.64a16,16,0,0,0-16.62-9.52A56.26,56.26,0,0,0,24,88c0,79.4,64.6,144,144,144a56.26,56.26,0,0,0,55.88-48.92A16,16,0,0,0,214.37,166.46Z\"/></svg>\n          <div>\n            <h2>Ring oss på telefon</h2>\n            <span>62 59 82 73</span>\n          </div>\n        </a>\n      \n\n      <a class=\"email\" href=\"mailto:post@sveenmek.no\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M232,128c0,.51,0,1,0,1.52-.34,14.26-5.63,30.48-28,30.48-23.14,0-28-17.4-28-32V88a8,8,0,0,0-8.53-8A8.17,8.17,0,0,0,160,88.27v4a48,48,0,1,0,6.73,64.05,40.19,40.19,0,0,0,3.38,5C175.48,168,185.71,176,204,176a54.81,54.81,0,0,0,9.22-.75,4,4,0,0,1,4.09,6A104.05,104.05,0,0,1,125.91,232C71.13,230.9,26.2,186.86,24.08,132.11A104,104,0,1,1,232,128ZM96,128a32,32,0,1,0,32-32A32,32,0,0,0,96,128Z\"/></svg>\n        <div>\n          <div class=\"sm-only\">Send e-post</div>\n          <h2>Send oss en e-post</h2>\n          <span>post@sveenmek.no</span>\n        </div>\n      </a>\n\n      <a class=\"address\" href=\"https://www.google.com/maps?saddr=My+Location&daddr=Sveen+Mek.+Verksted+as,%20Alderslystvegen+231,%202324+Vang+hedmark\" target=\"_blank\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\"><rect width=\"256\" height=\"256\" fill=\"none\"/><path d=\"M224,120v96a8,8,0,0,1-8,8H160a8,8,0,0,1-8-8V164a4,4,0,0,0-4-4H108a4,4,0,0,0-4,4v52a8,8,0,0,1-8,8H40a8,8,0,0,1-8-8V120a16,16,0,0,1,4.69-11.31l80-80a16,16,0,0,1,22.62,0l80,80A16,16,0,0,1,224,120Z\"/></svg>\n        <div>\n          <div class=\"sm-only\">Adresse</div>\n          <h2>Besøk oss</h2>\n          <span>Alderslystvegen 231, 2324 Vang hedmark</span>\n        </div>\n      </a>\n\n      \n\n      \n\n      <div class=\"opening-hours-title\">\n        <hr />\n        <h2>Åpningstider</h2>\n      </div>\n      <div class=\"directions-link bard\">\n        <a href=\"https://www.google.com/maps?saddr=My+Location&daddr=Sveen+Mek.+Verksted+as,%20Alderslystvegen+231,%202324+Vang+hedmark\" target=\"_blank\">Veibeskrivelse</a>\n      </div>\n\n      <div class=\"opening-hours-list\">\n        <div class=\"opening-hours-list__content\">\n          <dl><dt>Mandag</dt><dd>07.00 - 15.30</dd><dt>Tirsdag</dt><dd>07.00 - 15.30</dd><dt>Onsdag</dt><dd>07.00 - 15.30</dd><dt>Torsdag</dt><dd>07.00 - 15.30</dd><dt>Fredag</dt><dd>07.00 - 13.30</dd><dt>Lørdag</dt><dd>Stengt</dd><dt>Søndag</dt><dd>Stengt</dd></dl>\n        </div>\n        <hr />\n      </div>\n      <div class=\"map\" id=\"map\" data-location=\"11.260996,60.863112\"></div>\n    </div>\n    \n  </section>\n\n\n  \n\n  <section class=\"eu-inspection\">\n  <div class=\"container\">\n    <div class=\"eu-inspection__inner\">\n      <div class=\"eu-inspection__asset\">\n        \n          <picture>\n            <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9ldS1rb250cm9sbF9tZWRfbHlzLmpwZw/eu-kontroll_med_lys.jpg?w=420&h=387&fit=crop&s=1516d8c73985e02814b18116d4a63cff 1x, /img/asset/YXNzZXRzL3RqZW5lc3Rlci9ldS1rb250cm9sbF9tZWRfbHlzLmpwZw/eu-kontroll_med_lys.jpg?w=420&h=387&fit=crop&dpr=2&s=e24ca0e60658573cee32422113d75896 2x\" />\n            <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9ldS1rb250cm9sbF9tZWRfbHlzLmpwZw/eu-kontroll_med_lys.jpg?w=736&h=677&fit=crop&s=2d6fc04526dfb91960d8d24f0f1a5ad3\" />\n            <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL3RqZW5lc3Rlci9ldS1rb250cm9sbF9tZWRfbHlzLmpwZw/eu-kontroll_med_lys.jpg?w=712&h=487&fit=crop&s=7f99a0dbce01dbdef9d5e45be395ce56\" alt=\"Mekaniker som utfører en kontroll på bilens understell\" />\n          </picture>\n        \n      </div>\n      <div class=\"eu-inspection__content\">\n        <h2>Sjekk fristen for EU-kontroll</h2>\n        <p>Det er du som bileier som må sørge for at bilen blir EU-kontrollert i tide.</p>\n        <form>\n          <label class=\"sr-only\" for=\"eu-inspection-regnr\">Registreringsnummer</label>\n          <input type=\"text\" id=\"eu-inspection-regnr\" placeholder=\"Registreringsnummer\" pattern=\"[A-Za-z]{2}\\s?[0-9]{5}\" aria-describedby=\"eu-inspection-error\" />\n          <button type=\"submit\" disabled aria-label=\"Sjekk kjøretøy\"><svg aria-hidden=\"true\" focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" class=\"arrow\" width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\"><path d=\"M27 16H5\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 7L5 16L14 25\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button>\n        </form>\n        <div class=\"eu-inspection__content-error\" id=\"eu-inspection-error\" role=\"alert\"></div>\n        <div class=\"eu-inspection__content-result\" tabindex=\"-1\">\n          <ul>\n            <li>\n              Neste kontrollfrist:\n              <span class=\"deadline\"></span>\n            </li>\n            <li>\n              Sist godkjent:\n              <span class=\"approved\"></span>\n            </li>\n            <li>\n              <span class=\"brand\"></span>\n              <span class=\"model\"></span>\n            </li>\n          </ul>\n          \n          <a class=\"btn-small primary eu-inspection__content-booking\" href=\"/bilverksted/sveenmek/bestilltime\">Bestill EU-kontroll</a>\n        </div>\n      </div>\n    </div>\n  </div>\n</section>\n\n  \n\n  \n\n\n  \n    \n  \n\n<section class=\"campaign negative \">\n  <div class=\"container\">\n    <div class=\"inner\">\n      <div class=\"content\">\n        <h2>Betal når det passer med SjekkPunkt-kortet</h2>\n        <p>Søk om SjekkPunkt-konto og ønsket kreditt på inntil 40 000 kr og få svar med en gang.</p>\n        \n          <div class=\"btn-container\">\n            \n              \n                <a class=\"btn-l btn-on-accent \" href=\"/sjekkpunkt-konto/soknad\">\n  <span>Søk om konto</span>\n  \n</a>\n\n              \n            \n          </div>\n        \n      </div>\n      <div class=\"asset\">\n        \n          \n            \n              <picture>\n                <source media=\"(max-width: 767px)\" srcset=\"/img/asset/YXNzZXRzL2FydGlrbGVyLW9nLW1pbGpvL3NqZWtrcHVua3Rrb3J0X255X2xvZ28ucG5n/sjekkpunktkort_ny_logo.png?w=420&h=387&fit=crop-50-50-1.1&s=d7021681ca8f6b56a5647edcfebe5903 1x, /img/asset/YXNzZXRzL2FydGlrbGVyLW9nLW1pbGpvL3NqZWtrcHVua3Rrb3J0X255X2xvZ28ucG5n/sjekkpunktkort_ny_logo.png?w=420&h=387&fit=crop-50-50-1.1&dpr=2&s=17506bc7353eb7484a56d35a4ee4b606 2x\" />\n                <source media=\"(max-width: 1024px)\" srcset=\"/img/asset/YXNzZXRzL2FydGlrbGVyLW9nLW1pbGpvL3NqZWtrcHVua3Rrb3J0X255X2xvZ28ucG5n/sjekkpunktkort_ny_logo.png?w=736&h=677&fit=crop-50-50-1.1&s=d3daada183d4fa88faa91475fad2af96\" />\n                <img class=\"w-full\" src=\"/img/asset/YXNzZXRzL2FydGlrbGVyLW9nLW1pbGpvL3NqZWtrcHVua3Rrb3J0X255X2xvZ28ucG5n/sjekkpunktkort_ny_logo.png?w=816&h=751&fit=crop-50-50-1.1&s=521a5fe339a3bfa82be9d5d1478e4094\" alt=\"SjekkPunkt-konto kredittkort\" />\n              </picture>\n            \n          \n        \n      </div>\n      \n    </div>\n  </div>\n</section>\n\n\n  \n\n\n  </main>\n  <footer class=\"site-footer\">\n  <div class=\"site-footer__inner\">\n    <section class=\"newsletter\">\n  <h2 class=\"newsletter__heading\">Ikke glem EU-kontrollen!</h2>\n  <div class=\"newsletter__description\"><p>Meld deg på vårt nyhetsbrev for å få innkalling til EU-kontroll og service, og hold deg oppdatert på vedlikeholdsoppgaver for ditt kjøretøy!</p></div>\n  <button class=\"btn-small primary newsletter__link\">\n    Meld deg på\n  </button>\n</section>\n    <nav class=\"footer-nav\">\n  <ul class=\"footer-nav__list\">\n  \n      \n        <li class=\"footer-nav__item\">\n          \n            <button class=\"footer-nav__button\">\n              SjekkPunkt\n              <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"plus\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\"><path d=\"M1 7H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 1V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n            </button>\n            <ul class=\"footer-nav__sublist\">\n      \n        <li class=\"footer-nav__item\">\n          <a class=\"footer-nav__link\" href=\"/om-sjekkpunkt\">Om SjekkPunkt</a>\n        </li>\n      \n      \n      \n        <li class=\"footer-nav__item\">\n          <a class=\"footer-nav__link\" href=\"/kontakt-oss\">Kontakt oss</a>\n        </li>\n      \n      </ul>\n          \n        </li>\n      \n      \n      \n        <li class=\"footer-nav__item\">\n          \n            <button class=\"footer-nav__button\">\n              Medlem\n              <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"plus\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\"><path d=\"M1 7H13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M7 1V13\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>\n            </button>\n            <ul class=\"footer-nav__sublist\">\n      \n        <li class=\"footer-nav__item\">\n          <a class=\"footer-nav__link\" href=\"https://medlem.sjekkpunkt.no/\">Innlogging</a>\n        </li>\n      \n      </ul>\n          \n        </li>\n      \n      \n    </ul>\n</nav>\n    <div class=\"site-footer__details\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"249\" height=\"40\" viewBox=\"0 0 249 40\" fill=\"none\"><g clip-path=\"url(#clip0_806_6457)\"><path d=\"M142.912 20C142.912 31.0452 133.957 40 122.912 40C111.867 40 102.912 31.0452 102.912 20C102.912 8.95481 111.862 0 122.907 0C133.952 0 142.907 8.95481 142.907 20H142.912Z\" fill=\"#FED141\"/><path d=\"M121.462 33.23C121.413 33.23 121.361 33.23 121.308 33.2275C120.201 33.1729 119.201 32.5473 118.669 31.5766L110.209 16.0974C109.367 14.5557 109.933 12.6218 111.475 11.7802C113.016 10.9385 114.95 11.5046 115.792 13.0463L121.758 23.9574L137.098 1.39535C138.086 -0.059471 140.065 -0.434347 141.517 0.553737C142.969 1.54182 143.347 3.52047 142.359 4.9728L124.091 31.8397C123.498 32.7136 122.51 33.2325 121.46 33.2325L121.462 33.23Z\" fill=\"#DA1A32\"/><path d=\"M159.181 6.66577C165.713 6.66577 169.265 9.44134 169.265 14.6871C169.265 20.3376 165.713 23.7214 159.012 23.7214H156.264V33.3316H150.442V6.66577H159.178H159.181ZM158.91 11.3033H156.264V19.1534H158.977C161.922 19.1534 163.309 17.8326 163.309 14.99C163.309 12.5545 161.82 11.3008 158.91 11.3008V11.3033Z\" fill=\"currentColor\"/><path d=\"M171.286 25.8539V13.8752H176.904V24.1955C176.904 27.7159 177.818 29.2725 180.186 29.2725C182.555 29.2725 184.178 27.4453 184.178 24.0614V13.8752H189.796V33.334H184.28V29.8484H184.178C182.723 32.4875 180.32 33.7412 177.748 33.7412C173.756 33.7412 171.283 31.3057 171.283 25.8564L171.286 25.8539Z\" fill=\"currentColor\"/><path d=\"M199.508 13.8754V17.361H199.61C201.065 14.722 203.468 13.4683 206.04 13.4683C210.067 13.4683 212.572 16.0055 212.572 21.4549V33.3342H206.954V23.0139C206.954 19.4936 206.005 17.937 203.602 17.937C201.199 17.937 199.61 19.7642 199.61 23.148V33.3342H193.992V13.8754H199.508Z\" fill=\"currentColor\"/><path d=\"M224.821 24.3644L222.249 27.0705V33.3317H216.599V6.80981H222.249V21.9613L229.456 13.8729H235.886L229.052 21.5889L236.058 33.3317H229.898L224.821 24.3644Z\" fill=\"currentColor\"/><path d=\"M237.669 13.8753L243.287 7.50488V13.8753H248.227V18.0039H243.287V26.4647C243.287 28.7313 243.965 29.3743 246.298 29.3743C247.078 29.3743 247.686 29.3073 248.262 29.2055V33.1653C247.113 33.5377 245.859 33.7735 244.099 33.7735C239.632 33.7735 237.669 31.8445 237.669 27.3783V13.8753Z\" fill=\"currentColor\"/><path d=\"M11.6063 33.8059C5.37984 33.8059 1.18421 31.4722 0 26.3605L5.54866 24.7691C6.3282 27.7135 8.52781 29.0318 11.8098 29.0318C14.7542 29.0318 16.3456 27.8823 16.3456 25.8168C16.3456 22.9742 12.3535 23.6172 6.76763 21.9588C5.27805 21.5194 4.06157 20.9087 3.14796 19.995C2.03078 18.8779 1.35551 17.356 1.35551 15.2235C1.35551 9.60528 5.82175 6.66089 11.5765 6.66089C17.3312 6.66089 20.7125 9.43646 22.068 14.1063L16.5864 15.3252C15.8764 12.5844 14.1509 11.4325 11.4076 11.4325C9.03923 11.4325 7.17726 12.5149 7.17726 14.6475C7.17726 17.9643 12.1847 17.2865 16.8545 18.7413C18.2075 19.1485 19.4935 19.6897 20.4072 20.6033C21.4573 21.6534 22.1673 23.1405 22.1673 25.3079C22.1673 30.5859 18.1753 33.8009 11.6087 33.8009L11.6063 33.8059Z\" fill=\"currentColor\"/><path d=\"M23.0164 35.6329C24.7765 35.6329 25.4518 34.9552 25.4518 33.2298V13.8752H31.07V33.3663C31.07 37.9021 29.074 39.9999 24.7765 39.9999C23.8977 39.9999 22.8476 39.8658 21.9339 39.5952L21.4275 35.5014C22.1375 35.6032 22.5447 35.6379 23.0189 35.6379L23.0164 35.6329Z\" fill=\"currentColor\"/><path d=\"M44.2204 13.4333C47.8748 13.4333 50.6156 14.99 52.1052 17.8996C53.0858 19.8286 53.493 22.13 53.4259 24.8708H39.99C40.2258 27.6786 41.919 29.337 44.558 29.337C46.7229 29.337 48.1802 28.3564 48.8902 26.4274L53.6618 27.8152C52.2393 31.6732 48.8902 33.8057 44.3892 33.8057C38.1628 33.8057 34.3718 29.9477 34.3718 23.7884C34.3718 17.629 38.5004 13.4333 44.2204 13.4333ZM40.0595 21.4547H47.8425C47.7755 20.7099 47.6067 20.1339 47.3684 19.5927C46.8619 18.4433 45.6752 17.8003 44.2204 17.8003C41.9538 17.8003 40.4642 19.121 40.057 21.4547H40.0595Z\" fill=\"currentColor\"/><path d=\"M64.8609 24.3644L62.2889 27.0704V33.3316H56.6384V6.66577H62.2889V21.9612L69.4959 13.8728H75.9259L69.0913 21.5888L76.0972 33.3316H69.9378L64.8609 24.3644Z\" fill=\"currentColor\"/><path d=\"M86.5865 24.3644L84.0145 27.0704V33.3316H78.364V6.66577H84.0145V21.9612L91.2215 13.8728H97.6515L90.8168 21.5888L97.8228 33.3316H91.6634L86.5865 24.3644Z\" fill=\"currentColor\"/><path d=\"M28.2622 12.2219C30.0488 12.2219 31.4971 10.7736 31.4971 8.98705C31.4971 7.20049 30.0488 5.7522 28.2622 5.7522C26.4756 5.7522 25.0273 7.20049 25.0273 8.98705C25.0273 10.7736 26.4756 12.2219 28.2622 12.2219Z\" fill=\"currentColor\"/></g><defs><clipPath id=\"clip0_806_6457\"><rect width=\"248.262\" height=\"40\" fill=\"currentColor\"/></clipPath></defs></svg>\n      <p>SjekkPunkt Norge AS</p>\n      <a href=\"/personvern\">\n        Personvern / Cookies\n      </a>\n    </div>\n  </div>\n</footer>\n  <div class=\"signup-backdrop\"></div>\n<aside class=\"signup-sidebar\">\n  <svg class=\"signup-close\" width=\"53\" height=\"53\" viewBox=\"0 0 53 53\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n    <circle cx=\"26.5\" cy=\"26.5\" r=\"26.5\" fill=\"#C0CAFF\" />\n    <path d=\"M35.7363 33.4628C35.8199 33.5464 35.8862 33.6457 35.9315 33.755C35.9767 33.8642 36 33.9813 36 34.0995C36 34.2178 35.9767 34.3349 35.9315 34.4441C35.8862 34.5534 35.8199 34.6526 35.7363 34.7363C35.6526 34.8199 35.5534 34.8862 35.4441 34.9315C35.3349 34.9767 35.2178 35 35.0995 35C34.9813 35 34.8642 34.9767 34.755 34.9315C34.6457 34.8862 34.5464 34.8199 34.4628 34.7363L27 27.2723L19.5372 34.7363C19.3683 34.9051 19.1393 35 18.9005 35C18.6616 35 18.4326 34.9051 18.2637 34.7363C18.0949 34.5674 18 34.3384 18 34.0995C18 33.8607 18.0949 33.6317 18.2637 33.4628L25.7277 26L18.2637 18.5372C18.0949 18.3683 18 18.1393 18 17.9005C18 17.6616 18.0949 17.4326 18.2637 17.2637C18.4326 17.0949 18.6616 17 18.9005 17C19.1393 17 19.3683 17.0949 19.5372 17.2637L27 24.7277L34.4628 17.2637C34.6317 17.0949 34.8607 17 35.0995 17C35.3384 17 35.5674 17.0949 35.7363 17.2637C35.9051 17.4326 36 17.6616 36 17.9005C36 18.1393 35.9051 18.3683 35.7363 18.5372L28.2723 26L35.7363 33.4628Z\" fill=\"#1C1B20\" />\n  </svg>\n  <div class=\"signup-receipt\">\n    <p>Innkalling</p>\n    <h2>Takk for at du ville være med i SjekkPunkt kundeprogram</h2>\n    <p>Du vil motta EU-innkalling, serviceinformasjon og nyttige tips om problemfritt bilhold fra ditt lokale bilverksted.</p>\n    <p class=\"legend\">Om du takket ja til nyhetsbrev kan du forvente å motta 2-4 nyhetsbrev fra oss i løpet av året. Vi håper du vil få glede av denne informasjonen.</p>\n    <button class=\"signup-close btn-small primary\" aria-label=\"Lukk\">Lukk</button>\n  </div>\n\n  <form method=\"POST\" action=\"https://sjekkpunkt.no/!/forms/newsletter\" id=\"signup_form\" class=\"signup-sidebar__inner\"><input type=\"hidden\" name=\"_token\" value=\"0eXyaYR7MVmELfFPMvou3RKl6ZTx1iCFeUb8WvPv\" autocomplete=\"off\">\n    <input type=\"text\" name=\"website\" tabindex=\"-1\" autocomplete=\"off\" aria-hidden=\"true\" style=\"display: none\" />\n    <h2>Innkalling</h2>\n    <div class=\"signup-sidebar__inputs\">\n      \n        <select name=\"workshop_orgnumber\" aria-label=\"Verksted\">\n          <option value=\"996282147\" selected>Sveen Mek. Verksted AS</option>\n        </select>\n        <input type=\"hidden\" name=\"workshop_name\" value=\"Sveen Mek. Verksted AS\" />\n      \n    </div>\n    <h3>Dine opplysninger</h3>\n    <div class=\"signup-sidebar__inputs\">\n      <input type=\"text\" name=\"first_name\" placeholder=\"Fornavn\" aria-label=\"Fornavn\" required autocomplete=\"given-name\" />\n      <input type=\"text\" name=\"last_name\" placeholder=\"Etternavn\" aria-label=\"Etternavn\" required autocomplete=\"family-name\" />\n      <input type=\"tel\" name=\"mobile\" placeholder=\"Mobilnummer\" aria-label=\"Mobilnummer\" pattern=\"[0-9]{8}\" required autocomplete=\"tel\" />\n      <input type=\"email\" name=\"email\" placeholder=\"E-postadresse\" aria-label=\"E-postadresse\" required autocomplete=\"email\" />\n      <input type=\"text\" name=\"zip\" placeholder=\"Postnummer\" aria-label=\"Postnummer\" pattern=\"[0-9]{4}\" required autocomplete=\"postal-code\" />\n      <input type=\"text\" name=\"registration_number\" placeholder=\"Registreringsnummer\" aria-label=\"Registreringsnummer\" pattern=\"[A-Z0-9]+\" />\n      <span class=\"input--error\" role=\"alert\">Registreringsnummer ikke funnet ⚠️</span>\n      <input type=\"hidden\" name=\"car_brand\" />\n      <input type=\"hidden\" name=\"car_model\" />\n    </div>\n    <h3>Varsler og nyhetsbrev</h3>\n    <div class=\"signup-sidebar__checkboxes\">\n      <label class=\"signup-sidebar__checkbox\">\n        <input class=\"signup-sidebar__checkbox-checkbox\" type=\"checkbox\" name=\"eu_notification\" value=\"1\" />\n        <span class=\"signup-sidebar__checkbox-label\">Innkalling til EU-kontroll</span>\n      </label>\n      <label class=\"signup-sidebar__checkbox\">\n        <input class=\"signup-sidebar__checkbox-checkbox\" type=\"checkbox\" name=\"service_notification\" value=\"1\" />\n        <span class=\"signup-sidebar__checkbox-label\">Innkalling til service</span>\n      </label>\n      <label class=\"signup-sidebar__checkbox\">\n        <input class=\"signup-sidebar__checkbox-checkbox\" type=\"checkbox\" name=\"newsletter\" value=\"1\" />\n        <span class=\"signup-sidebar__checkbox-label\">Nyhetsbrev</span>\n      </label>\n    </div>\n    <span class=\"signup-error\" role=\"alert\">Noe gikk galt. Vennligst prøv igjen. ⚠️</span>\n    <button class=\"btn-small primary\" type=\"submit\" aria-label=\"Send\">Send</button>\n  </form>\n</aside>\n\n</body>\n</html>",
+          "page_text": "Bilverksted i Tomte - Sveen Mek. Verksted as Vi er godkjent Ayvens-verksted Bestill time Velkommen til Sveen Mek. Verksted Ditt lokale verksted. Vi er et offentlig godkjent verksted og tilbyr alt av service og reparasjoner for alle bilmerker. Bestill time 62 59 82 73 Våre tjenester Hos oss kan du forvente god service, godt arbeid og deler av høy kvalitet. AC-/klimaservice Automatgirkasse (flushing) Bensin- og dieselinnsprøyting Bilelektriske reparasjoner Bilglass Bilservice Hjulstillingskontroll Elbil og Hybridbil-service Dekk Dekkhotell Tilhengerservice (Tempo 100) EU-kontroll opp til 3500KG Bobil Utlånsbil ved service På tide med dekkskift? Unngå kø når den første frosten melder seg. Bestill time til dekkskift allerede i dag! Bestill time Mer om dekkskift Kontakt oss Ring oss på telefon 62 59 82 73 Send e-post Send oss en e-post post@sveenmek.no Adresse Besøk oss Alderslystvegen 231, 2324 Vang hedmark Åpningstider Veibeskrivelse Mandag 07.00 - 15.30 Tirsdag 07.00 - 15.30 Onsdag 07.00 - 15.30 Torsdag 07.00 - 15.30 Fredag 07.00 - 13.30 Lørdag Stengt Søndag Stengt Sjekk fristen for EU-kontroll Det er du som bileier som må sørge for at bilen blir EU-kontrollert i tide. Registreringsnummer Neste kontrollfrist: Sist godkjent: Bestill EU-kontroll Betal når det passer med SjekkPunkt-kortet Søk om SjekkPunkt-konto og ønsket kreditt på inntil 40 000 kr og få svar med en gang. Søk om konto Ikke glem EU-kontrollen! Meld deg på vårt nyhetsbrev for å få innkalling til EU-kontroll og service, og hold deg oppdatert på vedlikeholdsoppgaver for ditt kjøretøy! Meld deg på SjekkPunkt Om SjekkPunkt Kontakt oss Medlem Innlogging SjekkPunkt Norge AS Personvern / Cookies Innkalling Takk for at du ville være med i SjekkPunkt kundeprogram Du vil motta EU-innkalling, serviceinformasjon og nyttige tips om problemfritt bilhold fra ditt lokale bilverksted. Om du takket ja til nyhetsbrev kan du forvente å motta 2-4 nyhetsbrev fra oss i løpet av året. Vi håper du vil få glede av denne informasjonen. Lukk Innkalling Sveen Mek. Verksted AS Dine opplysninger Registreringsnummer ikke funnet ⚠️ Varsler og nyhetsbrev Innkalling til EU-kontroll Innkalling til service Nyhetsbrev Noe gikk galt. Vennligst prøv igjen. ⚠️ Send",
+          "proof_level": "p1_exact",
+          "registrable_domain": "sjekkpunkt.no",
+          "strategy": "registry_email_domain"
+        }
+      }
+    },
+    "industry_code": "95.310",
+    "industry_label": "Reparasjon og vedlikehold av motorvogner",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HAMAR",
+    "municipality_number": "3403",
+    "name": "SVEEN MEK VERKSTED AS",
+    "organisation_number": "996282147",
+    "run_metrics": {
+      "latencies_ms": [
+        1219,
+        1218,
+        1156,
+        1187,
+        5702
+      ],
+      "requests": 5
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:04Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SVEEN MEK VERKSTED AS (AS, org.nr 996282147)",
+    "what_it_does": "SVEEN MEK VERKSTED AS is classified under NACE code 95.310 (unspecified). The company operates its verified website at https://sjekkpunkt.no/bilverksted/sveenmek. It operates publicly under the brand name 'Bilverksted i Tomte', according to its website.",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SVEEN MEK VERKSTED AS reported revenue of 8,803,927 NOK and an operating result of 49,429 NOK. Net result was -89,687 NOK, with total assets of 3,944,791 NOK and equity of 1,823,427 NOK. The company was loss-making in 2025. Revenue grew by +12.6% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 0.6% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Rolf Sandvoll. Daily operations are led by general manager Rolf-Erik Sandvoll. The entity has 6 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SVEEN MEK VERKSTED AS is classified under NACE code 95.310 (unspecified).",
+        "claim_ids": [
+          "717469f3ba7ac0e177aa",
+          "2cfc8d20e6235e2792c6"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "The company operates its verified website at https://sjekkpunkt.no/bilverksted/sveenmek.",
+        "claim_ids": [
+          "1f5576946c0ae3b5e839"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "It operates publicly under the brand name 'Bilverksted i Tomte', according to its website.",
+        "claim_ids": [
+          "f953085117e1fd4d2ad2"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "2d6abf783787d1241679",
+          "717469f3ba7ac0e177aa"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "For fiscal year 2025, SVEEN MEK VERKSTED AS reported revenue of 8,803,927 NOK and an operating result of 49,429 NOK.",
+        "claim_ids": [
+          "1683ce65744a8d568186",
+          "04fac3c3de228d448c87"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Net result was -89,687 NOK, with total assets of 3,944,791 NOK and equity of 1,823,427 NOK.",
+        "claim_ids": [
+          "2a90bd479e768875702d",
+          "605a888b74399ad4b2fd",
+          "cdd475a146d29320f219"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "2a90bd479e768875702d"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Revenue grew by +12.6% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "1683ce65744a8d568186",
+          "2bfaa5441b8d15673b93"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Operating margin was 0.6% (derived: operating result / revenue).",
+        "claim_ids": [
+          "04fac3c3de228d448c87",
+          "1683ce65744a8d568186"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The board of directors is chaired by Rolf Sandvoll.",
+        "claim_ids": [
+          "c55addd555218631bf9f"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "Daily operations are led by general manager Rolf-Erik Sandvoll.",
+        "claim_ids": [
+          "bbe703bc91fcfd6504dc"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity has 6 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "bbe703bc91fcfd6504dc",
+          "c434f4e367ccaa621b4b",
+          "c55addd555218631bf9f",
+          "d06da6b4fc75420800a3",
+          "e2ac8c5b12cd3d395256",
+          "e8dd9358510ab2ed55c9"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "2cfc8d20e6235e2792c6"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "132fa6277663f9635087"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "2cfc8d20e6235e2792c6"
+        ]
+      },
+      {
+        "id": "s16",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "2cfc8d20e6235e2792c6"
+        ]
+      },
+      {
+        "id": "s17",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "2cfc8d20e6235e2792c6"
+        ]
+      }
+    ]
+  }
+}

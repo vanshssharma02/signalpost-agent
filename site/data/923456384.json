@@ -1,0 +1,1196 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "1907726f42370225422c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 206960.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a374b68aa4ffebda71e7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -178970.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5b78e920e5ef9d0f7ed1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 735626831.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c37920113f79c4f8e2bc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 510385876.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ad378a7ab957772d7a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 556046280.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "74f707d5285abc29d845",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 101323655.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f56fcaf62cbe401cf86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 179580551.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e43839db8ba26561ae68",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 409062222.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "115f550c8dec7aba75a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 46125511.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aeaa1318d745b1dba17d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -193115.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0434a0da99ea701531dd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20577367.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "70dea0f9e18b33fa110c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -229449.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "607e03ad24f48825cf13",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-923456384-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 948570054.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21a19864b9c8a30ab8b6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923456384"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "62.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c921edf930a3629ff202",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923456384"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2ce2c0cd42ccabe27f24",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-923456384"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "MIMIR HOLDCO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "055b00dc48c6a4ffb76c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923456384-250268e606a0"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Michael Grant Jacobs",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "2557f81f8be7d5b50579",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923456384-4af89ed195ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDO AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "67b09d24e115290b67df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923456384-590172c2fe1a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Maria Charlotte Ekanger",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "87f7f6defc21c846020b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923456384-56700989a926"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Filip Abusdal Engebretsen",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9705f020dc9807b83cf1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-923456384-0d76859d17ae"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:49Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:49Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Torkild Hebbert Haukaas",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 948570054.0, operating_result: 46125511.0, profit_before_tax: 20577367.0, annual_result: 206960.0, assets: 735626831.0, equity: 179580551.0, debt: 556046280.0",
+      "content_sha256": "8adbdf079726d0af290ebf00643f0fa2a3c55418649a849287fc489531ebcb21",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923456384",
+      "http_status": 200,
+      "id": "ev-fin-923456384-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:45.600677Z",
+      "snapshot_ref": "8a/8adbdf079726d0af290ebf00643f0fa2a3c55418649a849287fc489531ebcb21.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923456384",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -193115.0, profit_before_tax: -229449.0, annual_result: -178970.0, assets: 510385876.0, equity: 409062222.0, debt: 101323655.0",
+      "content_sha256": "b03bb280617adef007f808c3bd77e87ae2eb244527e9c433a62a5411a7129cfe",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923456384",
+      "http_status": 200,
+      "id": "ev-fin-923456384-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:45.600677Z",
+      "snapshot_ref": "b0/b03bb280617adef007f808c3bd77e87ae2eb244527e9c433a62a5411a7129cfe.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923456384",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 923456384 MIMIR HOLDCO AS",
+      "content_sha256": "261589abcac67aaf52cb67d1f18d1c4db509d5c35c8dd7779ac7334c4aef8ded",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-923456384",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "26/261589abcac67aaf52cb67d1f18d1c4db509d5c35c8dd7779ac7334c4aef8ded.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Torkild Hebbert Haukaas",
+      "content_sha256": "bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "http_status": 200,
+      "id": "ev-role-923456384-0d76859d17ae",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.811688Z",
+      "snapshot_ref": "bb/bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Michael Grant Jacobs",
+      "content_sha256": "bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "http_status": 200,
+      "id": "ev-role-923456384-250268e606a0",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.811688Z",
+      "snapshot_ref": "bb/bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: BDO AS",
+      "content_sha256": "bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "http_status": 200,
+      "id": "ev-role-923456384-4af89ed195ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.811688Z",
+      "snapshot_ref": "bb/bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Filip Abusdal Engebretsen",
+      "content_sha256": "bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "http_status": 200,
+      "id": "ev-role-923456384-56700989a926",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.811688Z",
+      "snapshot_ref": "bb/bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Maria Charlotte Ekanger",
+      "content_sha256": "bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "http_status": 200,
+      "id": "ev-role-923456384-590172c2fe1a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.811688Z",
+      "snapshot_ref": "bb/bb2898cd0440aef7c5a21f204251693f7b706aad211f13a31542cfbb2bc90be0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0434a0da99ea701531dd",
+        "115f550c8dec7aba75a9",
+        "1907726f42370225422c",
+        "1f56fcaf62cbe401cf86",
+        "5b78e920e5ef9d0f7ed1",
+        "607e03ad24f48825cf13",
+        "6ad378a7ab957772d7a9",
+        "70dea0f9e18b33fa110c",
+        "74f707d5285abc29d845",
+        "a374b68aa4ffebda71e7",
+        "aeaa1318d745b1dba17d",
+        "c37920113f79c4f8e2bc",
+        "e43839db8ba26561ae68"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "21a19864b9c8a30ab8b6",
+        "2ce2c0cd42ccabe27f24",
+        "c921edf930a3629ff202"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "055b00dc48c6a4ffb76c",
+        "2557f81f8be7d5b50579",
+        "67b09d24e115290b67df",
+        "87f7f6defc21c846020b",
+        "9705f020dc9807b83cf1"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "2ce2c0cd42ccabe27f24",
+      "c921edf930a3629ff202",
+      "21a19864b9c8a30ab8b6"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "MIMIR HOLDCO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4951,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "923456384",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:52.820489Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "923456384",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "22f8f76183d0f1402e926b33bcce291faeea793ffb8922a2aeb30a4667b7543e",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:45.600677Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/923456384",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "KONSERN",
+              "annual_result": 206960.0,
+              "assets": 735626831.0,
+              "currency": "NOK",
+              "debt": 556046280.0,
+              "equity": 179580551.0,
+              "operating_result": 46125511.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 20577367.0,
+              "record_id": 5356679,
+              "revenue": 948570054.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 0.0,
+              "assets": 177712546.0,
+              "currency": "NOK",
+              "debt": 4839.0,
+              "equity": 177707707.0,
+              "operating_result": -149205.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 0.0,
+              "record_id": 5356677,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -178970.0,
+              "assets": 510385876.0,
+              "currency": "NOK",
+              "debt": 101323655.0,
+              "equity": 409062222.0,
+              "operating_result": -193115.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -229449.0,
+              "record_id": 6053235,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:47.997275Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/923456384",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "184fdae297ecbf79c39a54bdddd36243720cd0e23113ca70acc8078695e3068a",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:49.196454Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=923456384&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "923456384",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Selskapets formål er å investere i, eie og utvikle andre selskaper og alt som står i forbindelse med dette.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kongens gate 51",
+          "forretningsadresse.kommune": "NARVIK",
+          "forretningsadresse.kommunenummer": "1806",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8514",
+          "forretningsadresse.poststed": "NARVIK",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "Hovedkontortjenester",
+          "hjelpeenhetskode.kode": "70.100",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1600000",
+          "kapital.belop": "2400000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-10-25",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+          "naeringskode1.kode": "62.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "MIMIR HOLDCO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "923456384",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 528",
+          "postadresse.kommune": "NARVIK",
+          "postadresse.kommunenummer": "1806",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "8507",
+          "postadresse.poststed": "NARVIK",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2019-09-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2026-09-02",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-09-10",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2019-09-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2019-08-29",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-09-29",
+          "vedtektsfestetFormaal": "Investere i, eie og utvikle andre selskaper og alt som står i forbindelse med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "7352474a569988ca82b16cacd85fa6c93fa5d01b79221f11575783b3dc815ee4",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:46.811688Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/923456384/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2026-01-23",
+              "name": "Michael Grant Jacobs",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-10-27",
+              "name": "Torkild Hebbert Haukaas",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-10-27",
+              "name": "Filip Abusdal Engebretsen",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": true,
+              "last_changed": "2021-10-27",
+              "name": "Maria Charlotte Ekanger",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2020-02-06",
+              "name": [
+                "BDO AS"
+              ],
+              "organisation_number": "993606650",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "62.200",
+    "industry_label": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NARVIK",
+    "municipality_number": "1806",
+    "name": "MIMIR HOLDCO AS",
+    "organisation_number": "923456384",
+    "run_metrics": {
+      "latencies_ms": [
+        1171,
+        1203,
+        1186,
+        1203,
+        16,
+        15,
+        47,
+        110
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:49Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "MIMIR HOLDCO AS (AS, org.nr 923456384)",
+    "what_it_does": "MIMIR HOLDCO AS is classified under NACE code 62.200 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was -178,970 NOK, with total assets of 510,385,876 NOK and equity of 409,062,222 NOK. The company was loss-making in 2024.",
+    "leadership_and_structure": "The board of directors is chaired by Torkild Hebbert Haukaas. Daily operations are led by general manager Michael Grant Jacobs. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "MIMIR HOLDCO AS is classified under NACE code 62.200 (unspecified).",
+        "claim_ids": [
+          "21a19864b9c8a30ab8b6",
+          "2ce2c0cd42ccabe27f24"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c921edf930a3629ff202",
+          "21a19864b9c8a30ab8b6"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was -178,970 NOK, with total assets of 510,385,876 NOK and equity of 409,062,222 NOK.",
+        "claim_ids": [
+          "a374b68aa4ffebda71e7",
+          "c37920113f79c4f8e2bc",
+          "e43839db8ba26561ae68"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The company was loss-making in 2024.",
+        "claim_ids": [
+          "a374b68aa4ffebda71e7"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The board of directors is chaired by Torkild Hebbert Haukaas.",
+        "claim_ids": [
+          "9705f020dc9807b83cf1"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Daily operations are led by general manager Michael Grant Jacobs.",
+        "claim_ids": [
+          "055b00dc48c6a4ffb76c"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "055b00dc48c6a4ffb76c",
+          "2557f81f8be7d5b50579",
+          "67b09d24e115290b67df",
+          "87f7f6defc21c846020b",
+          "9705f020dc9807b83cf1"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "2ce2c0cd42ccabe27f24"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "2ce2c0cd42ccabe27f24"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "2ce2c0cd42ccabe27f24"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "2ce2c0cd42ccabe27f24"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "2ce2c0cd42ccabe27f24"
+        ]
+      }
+    ]
+  }
+}

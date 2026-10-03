@@ -1,0 +1,1499 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "170f4ee2b673e564b46f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -153039.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd9859dfa524ce601216",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 150876.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "da90596cad2b46916a59",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -26285.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "324332387813581fb57b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1747441.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "885b714f296ca6d360ee",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1831242.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8ef30f20c657b8fe526b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1732707.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "85d63413ea06f7861225",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2119411.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db35d8b80adc0dc72aa4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1453610.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "effb0ef08c8028f5fa32",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1988418.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4e1027d320806936ced9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -157176.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "da90576792c8a789a0cf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -371970.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "df7600ca2284f1bc8691",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 279097.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "41d0997809f9f1e4774b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 246675.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "80002b4b266aa8c214a6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 53355.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b1809e444d5379f95e0e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -12883.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "180261da4efdaf300a14",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 129444.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "197b89e230c3d3255f84",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -94282.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "681ac4e6f65798bf933b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -153039.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f8fff5b8cc57b085811",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3726257.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3489b67bb0f8a7c894b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4077385.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "baf19526b261dcbafae6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-927409232-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3922802.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2c0bcfe4df0297217841",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927409232"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "56.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "87e228d674400ede25fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927409232"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "bdbb853bfadf76c64ae2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927409232"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "EVJE PIZZA AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "265795961566b6ce0275",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-927409232"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 7
+    },
+    {
+      "availability": "available",
+      "claim_id": "2895ea550644e11a049a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927409232-cd035698134e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "LIIT AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3dfa5fe548b586d72e6b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927409232-bbeecbcfe7d4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bernt André Kvinlog",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8a37ddc689772af83166",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927409232-c36c20c2e0f1"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Aurelija Kvinlog",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "905d10078311ee123049",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927409232-feb18837ee08"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Aurelija Kvinlog",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "df1237719c2320e95c4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-927409232-07169f1e729f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "LIGO REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8895761930a948ffde8d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-927409232-927430622"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:47Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:47Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nils Heglands veg 42"
+          ],
+          "kommune": "EVJE OG HORNNES",
+          "kommunenummer": "4219",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "4735",
+          "poststed": "EVJE"
+        },
+        "employees": 7,
+        "industry": {
+          "beskrivelse": "Drift av restauranter",
+          "kode": "56.110"
+        },
+        "name": "PIZZABAKEREN EVJE",
+        "organisation_number": "927430622"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 3922802.0, operating_result: -12883.0, profit_before_tax: -153039.0, annual_result: -153039.0, assets: 1747441.0, equity: -371970.0, debt: 2119411.0",
+      "content_sha256": "4bf89bccf3a7441c077e1b5f8df954c77875d53b3cb8610c44cc83aebe468e51",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "http_status": 200,
+      "id": "ev-fin-927409232-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.373097Z",
+      "snapshot_ref": "4b/4bf89bccf3a7441c077e1b5f8df954c77875d53b3cb8610c44cc83aebe468e51.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 3726257.0, operating_result: 53355.0, profit_before_tax: -94282.0, annual_result: -26285.0, assets: 1831242.0, equity: -157176.0, debt: 1988418.0",
+      "content_sha256": "2adc321c7dc177fd374559a0f22646e891a696ceff8fb82a957c53b73291e3a1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "http_status": 200,
+      "id": "ev-fin-927409232-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.373097Z",
+      "snapshot_ref": "2a/2adc321c7dc177fd374559a0f22646e891a696ceff8fb82a957c53b73291e3a1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 4077385.0, operating_result: 246675.0, profit_before_tax: 129444.0, annual_result: 150876.0, assets: 1732707.0, equity: 279097.0, debt: 1453610.0",
+      "content_sha256": "42218a3203c4c603ccc571ec7740140fbb245ba53eb021e2132737ddbfe25d3c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "http_status": 200,
+      "id": "ev-fin-927409232-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:43.373097Z",
+      "snapshot_ref": "42/42218a3203c4c603ccc571ec7740140fbb245ba53eb021e2132737ddbfe25d3c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 927430622: PIZZABAKEREN EVJE",
+      "content_sha256": "94c284757a3abd89e5a070ec8d97f71e056d9c7367d483ba65df136ed5f8ecd1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927409232&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-927409232-927430622",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:46.974342Z",
+      "snapshot_ref": "94/94c284757a3abd89e5a070ec8d97f71e056d9c7367d483ba65df136ed5f8ecd1.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927409232&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 927409232 EVJE PIZZA AS",
+      "content_sha256": "a5bcc07e59573f685e01ad5b38825c384777501264f4c43fdd497803b5eb64d8",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-927409232",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "a5/a5bcc07e59573f685e01ad5b38825c384777501264f4c43fdd497803b5eb64d8.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: LIGO REGNSKAP AS",
+      "content_sha256": "c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "http_status": 200,
+      "id": "ev-role-927409232-07169f1e729f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.549044Z",
+      "snapshot_ref": "c2/c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Bernt André Kvinlog",
+      "content_sha256": "c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "http_status": 200,
+      "id": "ev-role-927409232-bbeecbcfe7d4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.549044Z",
+      "snapshot_ref": "c2/c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Aurelija Kvinlog",
+      "content_sha256": "c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "http_status": 200,
+      "id": "ev-role-927409232-c36c20c2e0f1",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.549044Z",
+      "snapshot_ref": "c2/c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: LIIT AS",
+      "content_sha256": "c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "http_status": 200,
+      "id": "ev-role-927409232-cd035698134e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.549044Z",
+      "snapshot_ref": "c2/c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Aurelija Kvinlog",
+      "content_sha256": "c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "http_status": 200,
+      "id": "ev-role-927409232-feb18837ee08",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:44.549044Z",
+      "snapshot_ref": "c2/c2a7109a007237ae995efb581eddeb4f509f97e0ffbfd9aabdd27b39df660282.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "170f4ee2b673e564b46f",
+        "180261da4efdaf300a14",
+        "197b89e230c3d3255f84",
+        "1f8fff5b8cc57b085811",
+        "324332387813581fb57b",
+        "3489b67bb0f8a7c894b8",
+        "41d0997809f9f1e4774b",
+        "4e1027d320806936ced9",
+        "681ac4e6f65798bf933b",
+        "80002b4b266aa8c214a6",
+        "85d63413ea06f7861225",
+        "885b714f296ca6d360ee",
+        "8ef30f20c657b8fe526b",
+        "b1809e444d5379f95e0e",
+        "baf19526b261dcbafae6",
+        "cd9859dfa524ce601216",
+        "da90576792c8a789a0cf",
+        "da90596cad2b46916a59",
+        "db35d8b80adc0dc72aa4",
+        "df7600ca2284f1bc8691",
+        "effb0ef08c8028f5fa32"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "265795961566b6ce0275",
+        "2c0bcfe4df0297217841",
+        "87e228d674400ede25fd",
+        "bdbb853bfadf76c64ae2"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2895ea550644e11a049a",
+        "3dfa5fe548b586d72e6b",
+        "8a37ddc689772af83166",
+        "905d10078311ee123049",
+        "df1237719c2320e95c4b"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "8895761930a948ffde8d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "bdbb853bfadf76c64ae2",
+      "87e228d674400ede25fd",
+      "265795961566b6ce0275",
+      "2c0bcfe4df0297217841"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "EVJE PIZZA AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4934,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "927409232",
+  "profile": {
+    "bankrupt": false,
+    "employees": 7,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.328904Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "927409232",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "851ee3a9febabe1941144ee255928cba4e5cbb3d8c7417fe3814293be8e62c5c",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:43.373097Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/927409232",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -153039.0,
+              "assets": 1747441.0,
+              "currency": "NOK",
+              "debt": 2119411.0,
+              "equity": -371970.0,
+              "operating_result": -12883.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -153039.0,
+              "record_id": 5094925,
+              "revenue": 3922802.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -26285.0,
+              "assets": 1831242.0,
+              "currency": "NOK",
+              "debt": 1988418.0,
+              "equity": -157176.0,
+              "operating_result": 53355.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -94282.0,
+              "record_id": 5934849,
+              "revenue": 3726257.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 150876.0,
+              "assets": 1732707.0,
+              "currency": "NOK",
+              "debt": 1453610.0,
+              "equity": 279097.0,
+              "operating_result": 246675.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 129444.0,
+              "record_id": 6692110,
+              "revenue": 4077385.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:45.742260Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/927409232",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a53228669f1dcbca49224cf2627e0a92406325809efef1612fc972cb36a200e7",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:46.974342Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=927409232&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nils Heglands veg 42"
+                ],
+                "kommune": "EVJE OG HORNNES",
+                "kommunenummer": "4219",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "4735",
+                "poststed": "EVJE"
+              },
+              "employees": 7,
+              "industry": {
+                "beskrivelse": "Drift av restauranter",
+                "kode": "56.110"
+              },
+              "name": "PIZZABAKEREN EVJE",
+              "organisation_number": "927430622"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "927409232",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Gatekjøkken med produksjon og salg av pizza med tilhørende produkter.",
+          "antallAnsatte": "7",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nils Heglands veg 42",
+          "forretningsadresse.kommune": "EVJE OG HORNNES",
+          "forretningsadresse.kommunenummer": "4219",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "4735",
+          "forretningsadresse.poststed": "EVJE",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "1000",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-07-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Drift av restauranter",
+          "naeringskode1.kode": "56.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "EVJE PIZZA AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "927409232",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-05-11",
+          "registreringsdatoForetaksregisteret": "2021-07-12",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-12-08",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-05-10",
+          "registreringsdatoenhetsregisteret": "2021-07-12",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2021-06-07",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-06-07",
+          "vedtektsfestetFormaal": "Produksjon-, handel- & serveringsvirksomhet med hovedvekt på pizzaprodukter samt hva hermed står i forbindelse, herunder å delta i selskaper med lignende virksomhet."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "9b3618b83f8e575e62cd86cfb8bca11711ced63cb51555d6d2828e720c7f826b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:44.549044Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/927409232/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2021-07-12",
+              "name": "Aurelija Kvinlog",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-07-12",
+              "name": "Aurelija Kvinlog",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2021-07-12",
+              "name": "Bernt André Kvinlog",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2025-09-20",
+              "name": [
+                "LIIT AS"
+              ],
+              "organisation_number": "931900420",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2021-07-12",
+              "name": [
+                "LIGO REGNSKAP AS"
+              ],
+              "organisation_number": "892122652",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "56.110",
+    "industry_label": "Drift av restauranter",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "EVJE OG HORNNES",
+    "municipality_number": "4219",
+    "name": "EVJE PIZZA AS",
+    "organisation_number": "927409232",
+    "run_metrics": {
+      "latencies_ms": [
+        1155,
+        1172,
+        1202,
+        1235,
+        14,
+        63,
+        31,
+        62
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:47Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "EVJE PIZZA AS (AS, org.nr 927409232)",
+    "what_it_does": "EVJE PIZZA AS is classified under NACE code 56.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, EVJE PIZZA AS reported revenue of 4,077,385 NOK and an operating result of 246,675 NOK. Net result was 150,876 NOK, with total assets of 1,732,707 NOK and equity of 279,097 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 6.0% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Aurelija Kvinlog. Daily operations are led by general manager Aurelija Kvinlog. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "EVJE PIZZA AS is classified under NACE code 56.110 (unspecified).",
+        "claim_ids": [
+          "2c0bcfe4df0297217841",
+          "bdbb853bfadf76c64ae2"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "87e228d674400ede25fd",
+          "2c0bcfe4df0297217841"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, EVJE PIZZA AS reported revenue of 4,077,385 NOK and an operating result of 246,675 NOK.",
+        "claim_ids": [
+          "3489b67bb0f8a7c894b8",
+          "41d0997809f9f1e4774b"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 150,876 NOK, with total assets of 1,732,707 NOK and equity of 279,097 NOK.",
+        "claim_ids": [
+          "cd9859dfa524ce601216",
+          "8ef30f20c657b8fe526b",
+          "df7600ca2284f1bc8691"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "3489b67bb0f8a7c894b8",
+          "1f8fff5b8cc57b085811"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 6.0% (derived: operating result / revenue).",
+        "claim_ids": [
+          "41d0997809f9f1e4774b",
+          "3489b67bb0f8a7c894b8"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Aurelija Kvinlog.",
+        "claim_ids": [
+          "8a37ddc689772af83166"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Aurelija Kvinlog.",
+        "claim_ids": [
+          "905d10078311ee123049"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2895ea550644e11a049a",
+          "3dfa5fe548b586d72e6b",
+          "8a37ddc689772af83166",
+          "905d10078311ee123049",
+          "df1237719c2320e95c4b"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "bdbb853bfadf76c64ae2"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "8895761930a948ffde8d"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "bdbb853bfadf76c64ae2"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "bdbb853bfadf76c64ae2"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "bdbb853bfadf76c64ae2"
+        ]
+      }
+    ]
+  }
+}

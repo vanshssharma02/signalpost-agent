@@ -1,0 +1,1358 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "38375029a2483624401a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2004075.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3e7a300e86b528d7d3e8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1171812.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c4aba08508c4c03513ec",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9803.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a2b59044908a622c5c03",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4570924.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a72674184ec716f271ae",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 6057165.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c6d0d24a08c8e6388630",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11978539.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "04d22d670939506742b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8096237.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3049ed0a04ffe04cfa82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2826877.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6ff60321cbdacc6212b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2309044.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1624956c9ba7243e5981",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3882302.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "33f5145bbf9177f22f64",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1744046.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8ea599884403931c717f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3748121.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ada7920c72d1b65721b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -40841.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6d3dab2ec18a2fcc2b33",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9803.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c7fc1d192b4167db4357",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -36495.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "061137d453addd9b5441",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2004075.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3a0a175512e7745f9764",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1171812.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "62ae074a2d0d82a181d5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9803.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "30345030cf22c61931a6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 24556.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3bee35c98db59136500",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 48500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f45ad9a9b115d5c8ce3f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989140353-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 73583.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee538a4b43d4330938d7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989140353"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "82.990"
+    },
+    {
+      "availability": "available",
+      "claim_id": "cf4cc386461fb20150f6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989140353"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e4f07cfc2e0c9ab3b3e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989140353"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "B. FURRE HOLDING AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d067e80e7d06e852ec7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989140353-4f2a68cf5d2a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BERG ØKONOMI AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ec43228154fbd36793b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989140353-4d731400632e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bernt Asbjørn Furre",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "825e6ae5d273c25d1a82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989140353-07201e73c8a4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kjell Magnar Haugan",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc142e82294a6c82945b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989140353-318f247a584a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:03Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:03Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Bernt Asbjørn Furre",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 24556.0, operating_result: -9803.0, profit_before_tax: -9803.0, annual_result: -9803.0, assets: 4570924.0, equity: 1744046.0, debt: 2826877.0",
+      "content_sha256": "001c217992a965b57d0c96cb4e180468ab6adfada3230565ddca4f24d1e3cc6d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "http_status": 200,
+      "id": "ev-fin-989140353-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:59.957574Z",
+      "snapshot_ref": "00/001c217992a965b57d0c96cb4e180468ab6adfada3230565ddca4f24d1e3cc6d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 48500.0, operating_result: -40841.0, profit_before_tax: 2004075.0, annual_result: 2004075.0, assets: 6057165.0, equity: 3748121.0, debt: 2309044.0",
+      "content_sha256": "88cf44f8438f19b6303df317c796962681fb4668269877e0c5f004be12fd11cf",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "http_status": 200,
+      "id": "ev-fin-989140353-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:59.957574Z",
+      "snapshot_ref": "88/88cf44f8438f19b6303df317c796962681fb4668269877e0c5f004be12fd11cf.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 73583.0, operating_result: -36495.0, profit_before_tax: 1171812.0, annual_result: 1171812.0, assets: 11978539.0, equity: 3882302.0, debt: 8096237.0",
+      "content_sha256": "66fa40d1932dd6a707ddc2aa72f167302478d75e030483c964e6bf9b4b66aa7d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "http_status": 200,
+      "id": "ev-fin-989140353-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:59.957574Z",
+      "snapshot_ref": "66/66fa40d1932dd6a707ddc2aa72f167302478d75e030483c964e6bf9b4b66aa7d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 989140353 B. FURRE HOLDING AS",
+      "content_sha256": "226a9f50920d592217f9023c92640840213c802c8bcd3c2778f3b6b243ba5ea1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-989140353",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "22/226a9f50920d592217f9023c92640840213c802c8bcd3c2778f3b6b243ba5ea1.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Kjell Magnar Haugan",
+      "content_sha256": "1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "http_status": 200,
+      "id": "ev-role-989140353-07201e73c8a4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:01.146851Z",
+      "snapshot_ref": "1a/1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Bernt Asbjørn Furre",
+      "content_sha256": "1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "http_status": 200,
+      "id": "ev-role-989140353-318f247a584a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:01.146851Z",
+      "snapshot_ref": "1a/1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Bernt Asbjørn Furre",
+      "content_sha256": "1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "http_status": 200,
+      "id": "ev-role-989140353-4d731400632e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:01.146851Z",
+      "snapshot_ref": "1a/1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: BERG ØKONOMI AS",
+      "content_sha256": "1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "http_status": 200,
+      "id": "ev-role-989140353-4f2a68cf5d2a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:01.146851Z",
+      "snapshot_ref": "1a/1ad4a9a596c80427980135fe06b3715c1a8a66a4a8f89c91c738e0801076eeb4.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04d22d670939506742b5",
+        "061137d453addd9b5441",
+        "1624956c9ba7243e5981",
+        "30345030cf22c61931a6",
+        "3049ed0a04ffe04cfa82",
+        "33f5145bbf9177f22f64",
+        "38375029a2483624401a",
+        "3a0a175512e7745f9764",
+        "3e7a300e86b528d7d3e8",
+        "5ada7920c72d1b65721b",
+        "62ae074a2d0d82a181d5",
+        "6d3dab2ec18a2fcc2b33",
+        "6ff60321cbdacc6212b1",
+        "8ea599884403931c717f",
+        "a2b59044908a622c5c03",
+        "a72674184ec716f271ae",
+        "c4aba08508c4c03513ec",
+        "c6d0d24a08c8e6388630",
+        "c7fc1d192b4167db4357",
+        "f3bee35c98db59136500",
+        "f45ad9a9b115d5c8ce3f"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0e4f07cfc2e0c9ab3b3e",
+        "cf4cc386461fb20150f6",
+        "ee538a4b43d4330938d7"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2d067e80e7d06e852ec7",
+        "3ec43228154fbd36793b",
+        "825e6ae5d273c25d1a82",
+        "cc142e82294a6c82945b"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "0e4f07cfc2e0c9ab3b3e",
+      "cf4cc386461fb20150f6",
+      "ee538a4b43d4330938d7"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "B. FURRE HOLDING AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4981,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "989140353",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.034751Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "989140353",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "81f32ab15dea8fe93beee34437a4733d606cd61c841b9ee3bc95b4cbf1d041cf",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:59.957574Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989140353",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -9803.0,
+              "assets": 4570924.0,
+              "currency": "NOK",
+              "debt": 2826877.0,
+              "equity": 1744046.0,
+              "operating_result": -9803.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -9803.0,
+              "record_id": 5053849,
+              "revenue": 24556.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2004075.0,
+              "assets": 6057165.0,
+              "currency": "NOK",
+              "debt": 2309044.0,
+              "equity": 3748121.0,
+              "operating_result": -40841.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 2004075.0,
+              "record_id": 5711235,
+              "revenue": 48500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1171812.0,
+              "assets": 11978539.0,
+              "currency": "NOK",
+              "debt": 8096237.0,
+              "equity": 3882302.0,
+              "operating_result": -36495.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1171812.0,
+              "record_id": 6890538,
+              "revenue": 73583.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:02.326556Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/989140353",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "ce27e2bedd36cf286e5a8a7a68da8d7e9066701018f5d0e3884e0e423616d1d6",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:03.568293Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989140353&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "989140353",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Eie aksjer eller på annen måte investere i andre selskaper.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Kvamsengvegen 24B",
+          "forretningsadresse.kommune": "STEINKJER",
+          "forretningsadresse.kommunenummer": "5006",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7715",
+          "forretningsadresse.poststed": "STEINKJER",
+          "fravalgRevisjonBeslutningsDato": "2020-12-16",
+          "fravalgRevisjonDato": "2021-01-05",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "Hovedkontortjenester",
+          "hjelpeenhetskode.kode": "70.100",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "650",
+          "kapital.belop": "650000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2006-02-28",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+          "naeringskode1.kode": "82.990",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "B. FURRE HOLDING AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "989140353",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2006-02-28",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2006-01-30",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2005-11-29",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2006-02-06",
+          "vedtektsfestetFormaal": "Eie aksjer eller på annen måte investere i andre selskaper."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "56754da59106c7f4b7ab03e4cef355325a9d2c6bf0d84c2cc646290141c3bd1c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:01.146851Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989140353/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2006-01-30",
+              "name": "Bernt Asbjørn Furre",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-02-28",
+              "name": "Bernt Asbjørn Furre",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-02-28",
+              "name": "Kjell Magnar Haugan",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2021-12-06",
+              "name": [
+                "BERG ØKONOMI AS"
+              ],
+              "organisation_number": "839650302",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "82.990",
+    "industry_label": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "STEINKJER",
+    "municipality_number": "5006",
+    "name": "B. FURRE HOLDING AS",
+    "organisation_number": "989140353",
+    "run_metrics": {
+      "latencies_ms": [
+        1156,
+        1203,
+        1171,
+        1250,
+        31,
+        14,
+        63,
+        93
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:03Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "B. FURRE HOLDING AS (AS, org.nr 989140353)",
+    "what_it_does": "B. FURRE HOLDING AS is classified under NACE code 82.990 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, B. FURRE HOLDING AS reported revenue of 73,583 NOK and an operating result of -36,495 NOK. Net result was 1,171,812 NOK, with total assets of 11,978,539 NOK and equity of 3,882,302 NOK. Revenue grew by +51.7% year-over-year from 2024 (derived: YoY revenue change). Operating margin was -49.6% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Bernt Asbjørn Furre. Daily operations are led by general manager Bernt Asbjørn Furre. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "B. FURRE HOLDING AS is classified under NACE code 82.990 (unspecified).",
+        "claim_ids": [
+          "ee538a4b43d4330938d7",
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "cf4cc386461fb20150f6",
+          "ee538a4b43d4330938d7"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, B. FURRE HOLDING AS reported revenue of 73,583 NOK and an operating result of -36,495 NOK.",
+        "claim_ids": [
+          "f45ad9a9b115d5c8ce3f",
+          "c7fc1d192b4167db4357"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 1,171,812 NOK, with total assets of 11,978,539 NOK and equity of 3,882,302 NOK.",
+        "claim_ids": [
+          "3e7a300e86b528d7d3e8",
+          "c6d0d24a08c8e6388630",
+          "1624956c9ba7243e5981"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +51.7% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "f45ad9a9b115d5c8ce3f",
+          "f3bee35c98db59136500"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was -49.6% (derived: operating result / revenue).",
+        "claim_ids": [
+          "c7fc1d192b4167db4357",
+          "f45ad9a9b115d5c8ce3f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Bernt Asbjørn Furre.",
+        "claim_ids": [
+          "cc142e82294a6c82945b"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Bernt Asbjørn Furre.",
+        "claim_ids": [
+          "3ec43228154fbd36793b"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2d067e80e7d06e852ec7",
+          "3ec43228154fbd36793b",
+          "825e6ae5d273c25d1a82",
+          "cc142e82294a6c82945b"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "0e4f07cfc2e0c9ab3b3e"
+        ]
+      }
+    ]
+  }
+}

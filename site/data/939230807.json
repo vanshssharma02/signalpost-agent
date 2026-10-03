@@ -1,0 +1,1423 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "5c3fd6f31bbcfc60dbb4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1524354.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "685b0506dfa5d450e055",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1501367.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "92a77210d0dfd7da4e82",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2144078.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "87424b2f579752f79ca9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9124386.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9d2b19bb2f70e533975",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12099685.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d61b967000db6264fa60",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11808300.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "737725aefa3a983a9504",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 960849.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a5b67e793d1478a35a6f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1030996.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b94b86759f99e04fce61",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2170831.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5fc2ab804f2811ac8488",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8093390.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "accd923943fda039ebb0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9637468.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e4a026153d3c567e8f2c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11138835.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "79964ed4651ede875f97",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1707859.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b08348da67cd7eea7cb2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2517961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cbeb55d46158fceb6330",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1689242.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "498fdcd81812cc41a2b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2742712.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a1cd9ad3b87213c3c701",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1933493.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c013a7d302697ea0649e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1934804.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "01ff2728cb236ba33681",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10545409.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "acbf2447a07ffe842a4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10397099.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e766904acd1808d23007",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-939230807-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12031813.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d90be62b297650433184",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-939230807"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "46.830"
+    },
+    {
+      "availability": "available",
+      "claim_id": "ce41d44fb37d3f51e7a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-939230807"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4cacf243a24ba0591952",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-939230807"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "KNUT WOLFF AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6845fccfcf53adeda5dd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-939230807-a1356a1d8b65"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Atle Wolff",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "830664acb7306dd7d42a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-939230807-d4d5ab2bb6c9"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Atle Wolff",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d3dffd9524aedf8727b8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-939230807-a725c05b65b6"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REVISORGRUPPEN FJORDANE AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef3d19c04a71e03aaa38",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-939230807-d93fcf27d292"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kevin Wolff",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "17083afb420c78e36161",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-939230807-971792612"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:41Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:41Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [],
+          "kommune": "HYLLESTAD",
+          "kommunenummer": "4637",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6953",
+          "poststed": "LEIRVIK I SOGN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",
+          "kode": "46.830"
+        },
+        "name": "WOLFF KNUT AS",
+        "organisation_number": "971792612"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 10545409.0, operating_result: 1689242.0, profit_before_tax: 1933493.0, annual_result: 1524354.0, assets: 9124386.0, equity: 8093390.0, debt: 1030996.0",
+      "content_sha256": "b9928b7763d603c557d31e58e86cf24f687ba7cf132306981b83bc4f8a8050cd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "http_status": 200,
+      "id": "ev-fin-939230807-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.665540Z",
+      "snapshot_ref": "b9/b9928b7763d603c557d31e58e86cf24f687ba7cf132306981b83bc4f8a8050cd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 12031813.0, operating_result: 2517961.0, profit_before_tax: 2742712.0, annual_result: 2144078.0, assets: 11808300.0, equity: 9637468.0, debt: 2170831.0",
+      "content_sha256": "d39f0c0567003e410c1a560760fc8d649fe2b2769e2c81d3f4fef84fefa56cef",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "http_status": 200,
+      "id": "ev-fin-939230807-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.665540Z",
+      "snapshot_ref": "d3/d39f0c0567003e410c1a560760fc8d649fe2b2769e2c81d3f4fef84fefa56cef.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 10397099.0, operating_result: 1707859.0, profit_before_tax: 1934804.0, annual_result: 1501367.0, assets: 12099685.0, equity: 11138835.0, debt: 960849.0",
+      "content_sha256": "ee57eb9d3cc043ec00852947fcab17fb02294bca03905875424b208053f79744",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "http_status": 200,
+      "id": "ev-fin-939230807-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:37.665540Z",
+      "snapshot_ref": "ee/ee57eb9d3cc043ec00852947fcab17fb02294bca03905875424b208053f79744.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 971792612: WOLFF KNUT AS",
+      "content_sha256": "a3bf486c2660fe0a5412f59ff233a4e7e420821be42b69338692887386224181",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=939230807&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-939230807-971792612",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:41.207553Z",
+      "snapshot_ref": "a3/a3bf486c2660fe0a5412f59ff233a4e7e420821be42b69338692887386224181.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=939230807&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 939230807 KNUT WOLFF AS",
+      "content_sha256": "ac019af5a18843c7c16158dba098d08db545643a1f84e847d54b60a1cb69fd65",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-939230807",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "ac/ac019af5a18843c7c16158dba098d08db545643a1f84e847d54b60a1cb69fd65.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Atle Wolff",
+      "content_sha256": "e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "http_status": 200,
+      "id": "ev-role-939230807-a1356a1d8b65",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.786400Z",
+      "snapshot_ref": "e3/e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: REVISORGRUPPEN FJORDANE AS",
+      "content_sha256": "e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "http_status": 200,
+      "id": "ev-role-939230807-a725c05b65b6",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.786400Z",
+      "snapshot_ref": "e3/e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Atle Wolff",
+      "content_sha256": "e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "http_status": 200,
+      "id": "ev-role-939230807-d4d5ab2bb6c9",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.786400Z",
+      "snapshot_ref": "e3/e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Kevin Wolff",
+      "content_sha256": "e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "http_status": 200,
+      "id": "ev-role-939230807-d93fcf27d292",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:38.786400Z",
+      "snapshot_ref": "e3/e3fd52abf9b6d9c8d192e5ccf4469003709a742b9aa393317ae86ff8e427812d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "01ff2728cb236ba33681",
+        "498fdcd81812cc41a2b0",
+        "5c3fd6f31bbcfc60dbb4",
+        "5fc2ab804f2811ac8488",
+        "685b0506dfa5d450e055",
+        "737725aefa3a983a9504",
+        "79964ed4651ede875f97",
+        "87424b2f579752f79ca9",
+        "92a77210d0dfd7da4e82",
+        "a1cd9ad3b87213c3c701",
+        "a5b67e793d1478a35a6f",
+        "acbf2447a07ffe842a4b",
+        "accd923943fda039ebb0",
+        "b08348da67cd7eea7cb2",
+        "b94b86759f99e04fce61",
+        "c013a7d302697ea0649e",
+        "c9d2b19bb2f70e533975",
+        "cbeb55d46158fceb6330",
+        "d61b967000db6264fa60",
+        "e4a026153d3c567e8f2c",
+        "e766904acd1808d23007"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4cacf243a24ba0591952",
+        "ce41d44fb37d3f51e7a5",
+        "d90be62b297650433184"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "6845fccfcf53adeda5dd",
+        "830664acb7306dd7d42a",
+        "d3dffd9524aedf8727b8",
+        "ef3d19c04a71e03aaa38"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "17083afb420c78e36161"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "4cacf243a24ba0591952",
+      "ce41d44fb37d3f51e7a5",
+      "d90be62b297650433184"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "KNUT WOLFF AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4855,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "939230807",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:59.262370Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "939230807",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "84d855f5997e808b4cb192da80f59cac202f193eac4466f4e111ebb89784e223",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:37.665540Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/939230807",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1524354.0,
+              "assets": 9124386.0,
+              "currency": "NOK",
+              "debt": 1030996.0,
+              "equity": 8093390.0,
+              "operating_result": 1689242.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 1933493.0,
+              "record_id": 4824135,
+              "revenue": 10545409.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 2144078.0,
+              "assets": 11808300.0,
+              "currency": "NOK",
+              "debt": 2170831.0,
+              "equity": 9637468.0,
+              "operating_result": 2517961.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 2742712.0,
+              "record_id": 6249257,
+              "revenue": 12031813.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 1501367.0,
+              "assets": 12099685.0,
+              "currency": "NOK",
+              "debt": 960849.0,
+              "equity": 11138835.0,
+              "operating_result": 1707859.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 1934804.0,
+              "record_id": 6444235,
+              "revenue": 10397099.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:40.001768Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/939230807",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "105495e24b62929ea9d9e30a26f820606e6116ad46cc0c818fa482c18ce462a1",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:41.207553Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=939230807&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [],
+                "kommune": "HYLLESTAD",
+                "kommunenummer": "4637",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6953",
+                "poststed": "LEIRVIK I SOGN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",
+                "kode": "46.830"
+              },
+              "name": "WOLFF KNUT AS",
+              "organisation_number": "971792612"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "939230807",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Drive handel og det som står i forbindelse med slik virksomhet, herunder ved innskudd av kapital, eventuelt ved aksjetegning delta i andre virksom- heter.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "",
+          "forretningsadresse.kommune": "HYLLESTAD",
+          "forretningsadresse.kommunenummer": "4637",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6953",
+          "forretningsadresse.poststed": "LEIRVIK I SOGN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "725",
+          "kapital.belop": "725000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2016-05-12",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Nynorsk",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",
+          "naeringskode1.kode": "46.830",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "KNUT WOLFF AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "939230807",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2021-03-11",
+          "registreringsdatoForetaksregisteret": "1989-11-07",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "1987-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2021-03-10",
+          "registreringsdatoenhetsregisteret": "1995-02-19",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1985-07-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2015-05-15",
+          "vedtektsfestetFormaal": "Drive handel og det som står i forbindelse med slik virksomhet, herunder ved innskudd av kapital, eventuelt ved aksjetegning delta i andre virksom- heter."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "95e9c7246f79976ffee7d8162cb45e297f4b5e7b01ac38b88e9ae9ef06c27214",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:38.786400Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/939230807/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "1989-11-07",
+              "name": "Atle Wolff",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-01-24",
+              "name": "Kevin Wolff",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2019-01-24",
+              "name": "Atle Wolff",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2004-06-02",
+              "name": [
+                "REVISORGRUPPEN FJORDANE AS"
+              ],
+              "organisation_number": "839223692",
+              "role": "Revisor",
+              "role_code": "REVI"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "46.830",
+    "industry_label": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "HYLLESTAD",
+    "municipality_number": "4637",
+    "name": "KNUT WOLFF AS",
+    "organisation_number": "939230807",
+    "run_metrics": {
+      "latencies_ms": [
+        1139,
+        1110,
+        1217,
+        1203,
+        62,
+        47,
+        46,
+        31
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:41Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "KNUT WOLFF AS (AS, org.nr 939230807)",
+    "what_it_does": "KNUT WOLFF AS is classified under NACE code 46.830 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, KNUT WOLFF AS reported revenue of 10,397,099 NOK and an operating result of 1,707,859 NOK. Net result was 1,501,367 NOK, with total assets of 12,099,685 NOK and equity of 11,138,835 NOK. Revenue contracted by -13.6% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 16.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Kevin Wolff. Daily operations are led by general manager Atle Wolff. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "KNUT WOLFF AS is classified under NACE code 46.830 (unspecified).",
+        "claim_ids": [
+          "d90be62b297650433184",
+          "4cacf243a24ba0591952"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "ce41d44fb37d3f51e7a5",
+          "d90be62b297650433184"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, KNUT WOLFF AS reported revenue of 10,397,099 NOK and an operating result of 1,707,859 NOK.",
+        "claim_ids": [
+          "acbf2447a07ffe842a4b",
+          "79964ed4651ede875f97"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 1,501,367 NOK, with total assets of 12,099,685 NOK and equity of 11,138,835 NOK.",
+        "claim_ids": [
+          "685b0506dfa5d450e055",
+          "c9d2b19bb2f70e533975",
+          "e4a026153d3c567e8f2c"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue contracted by -13.6% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "acbf2447a07ffe842a4b",
+          "e766904acd1808d23007"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 16.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "79964ed4651ede875f97",
+          "acbf2447a07ffe842a4b"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Kevin Wolff.",
+        "claim_ids": [
+          "ef3d19c04a71e03aaa38"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Atle Wolff.",
+        "claim_ids": [
+          "6845fccfcf53adeda5dd"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "6845fccfcf53adeda5dd",
+          "830664acb7306dd7d42a",
+          "d3dffd9524aedf8727b8",
+          "ef3d19c04a71e03aaa38"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "4cacf243a24ba0591952"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "17083afb420c78e36161"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "4cacf243a24ba0591952"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "4cacf243a24ba0591952"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "4cacf243a24ba0591952"
+        ]
+      }
+    ]
+  }
+}

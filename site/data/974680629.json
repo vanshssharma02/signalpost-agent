@@ -1,0 +1,1628 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "2759500b2a5fe55bc1bd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 60714.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64abe072e85a94321bff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2258.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "df882e644b62c9b20789",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 84081.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2bfcab5c2b54bb29f452",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 626476.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a8481af5f2733b51bed1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 632622.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de4e1a1ab4ed22d37ef5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 648317.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a081082c9ac69500cf08",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 66128.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ae8ec748709d2bf312eb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 62240.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bbe3a26ce36b2fffd17e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "010224131ffca77e17d5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 566494.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a6b59d6b937717dab58",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 648316.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f607451d7be9c75ee9ff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 564236.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "866b0ba076e7abcf453a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 295.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b6fe6e5f0a03a592c653",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 85223.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f492dafa8154e741d7cc",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 65061.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "522b7e82b29d021df593",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2258.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "82b8c3b323c484e2eafd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 84081.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2228687e701e72119b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 60714.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1c074a00b5025809494e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 160100.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "45a10e644694b8b3f450",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 140000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8f88654ef3969a800a6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-974680629-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 181928.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3979e59b1c448fcb220",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-974680629"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.200"
+    },
+    {
+      "availability": "available",
+      "claim_id": "7989e34825be38a77939",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-974680629"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "STI"
+    },
+    {
+      "availability": "available",
+      "claim_id": "15f43c91548b5156d989",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-974680629"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "RØDVEN BO-STIFTELSE"
+    },
+    {
+      "availability": "available",
+      "claim_id": "745019f5314a75838587",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-b95caf93eb5e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Peder Kristian Dønheim",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "761c94737b2579537448",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-d91a026ec817"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lars Magne Dønheim",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "774f446daf3e19d83c9f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-c4901796be1a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jonny Arne Frilund",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "88c59fca968ef4e4957a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-4af89ed195ca"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "BDO AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "bba0e0c3a3cb005b8d1b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-c0248191be8a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Audhild Mølmen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d9b3dbb0e1cefb127c46",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-038cff84f943"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Marianne Brevik",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "e693613cae0494b133d8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-f8eeee50e942"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Kirsti Rødven",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f7d2d3f73925581eec4a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-974680629-4847f6e8eb9a"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "TINDE REGNSKAPSKONTOR ARF Nauste",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9171d649a60b109a951e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-974680629-976181980"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Rødven"
+          ],
+          "kommune": "RAUMA",
+          "kommunenummer": "1539",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6350",
+          "poststed": "EIDSBYGDA"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "kode": "68.200"
+        },
+        "name": "RØDVEN BO-STIFTELSE",
+        "organisation_number": "976181980"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 140000.0, operating_result: 65061.0, profit_before_tax: 60714.0, annual_result: 60714.0, assets: 632622.0, equity: 566494.0, debt: 66128.0",
+      "content_sha256": "a816eecbe97d6100fbc82fc2c874118d7109b76150fbde6971d108afc436ec04",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "http_status": 200,
+      "id": "ev-fin-974680629-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.401914Z",
+      "snapshot_ref": "a8/a816eecbe97d6100fbc82fc2c874118d7109b76150fbde6971d108afc436ec04.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 160100.0, operating_result: 295.0, profit_before_tax: -2258.0, annual_result: -2258.0, assets: 626476.0, equity: 564236.0, debt: 62240.0",
+      "content_sha256": "c6cc21a527e8fdec5f9c1be94826ba5e416b95520a70de91cb15a32aae893c3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "http_status": 200,
+      "id": "ev-fin-974680629-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.401914Z",
+      "snapshot_ref": "c6/c6cc21a527e8fdec5f9c1be94826ba5e416b95520a70de91cb15a32aae893c3a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 181928.0, operating_result: 85223.0, profit_before_tax: 84081.0, annual_result: 84081.0, assets: 648317.0, equity: 648316.0, debt: 0.0",
+      "content_sha256": "5ab8d3a85c70aeb22808926ab630be454819091c3229b4e4f0e5ca90bd2c4f11",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "http_status": 200,
+      "id": "ev-fin-974680629-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:55.401914Z",
+      "snapshot_ref": "5a/5ab8d3a85c70aeb22808926ab630be454819091c3229b4e4f0e5ca90bd2c4f11.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 976181980: RØDVEN BO-STIFTELSE",
+      "content_sha256": "88bff27d5d615f32416a25b68a8b6b36bb2bff5115aa5ea6e05e481eda7b9eb5",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=974680629&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-974680629-976181980",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:58.983336Z",
+      "snapshot_ref": "88/88bff27d5d615f32416a25b68a8b6b36bb2bff5115aa5ea6e05e481eda7b9eb5.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=974680629&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 974680629 RØDVEN BO-STIFTELSE",
+      "content_sha256": "c303888ce1325a5a70feac0c399de2df08a47dccf516e550a781a90ffbb5e4d2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-974680629",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "c3/c303888ce1325a5a70feac0c399de2df08a47dccf516e550a781a90ffbb5e4d2.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Marianne Brevik",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-038cff84f943",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: TINDE REGNSKAPSKONTOR ARF Nauste",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-4847f6e8eb9a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: BDO AS",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-4af89ed195ca",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Peder Kristian Dønheim",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-b95caf93eb5e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Audhild Mølmen",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-c0248191be8a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Jonny Arne Frilund",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-c4901796be1a",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Lars Magne Dønheim",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-d91a026ec817",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Kirsti Rødven",
+      "content_sha256": "19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "http_status": 200,
+      "id": "ev-role-974680629-f8eeee50e942",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:56.602650Z",
+      "snapshot_ref": "19/19898337c4f7e310246b05029c632787abbf5e19db6e9439b7e912d47be18bbb.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "010224131ffca77e17d5",
+        "1c074a00b5025809494e",
+        "2759500b2a5fe55bc1bd",
+        "2bfcab5c2b54bb29f452",
+        "45a10e644694b8b3f450",
+        "4a6b59d6b937717dab58",
+        "522b7e82b29d021df593",
+        "64abe072e85a94321bff",
+        "82b8c3b323c484e2eafd",
+        "866b0ba076e7abcf453a",
+        "a081082c9ac69500cf08",
+        "a8481af5f2733b51bed1",
+        "ae8ec748709d2bf312eb",
+        "b6fe6e5f0a03a592c653",
+        "bbe3a26ce36b2fffd17e",
+        "d2228687e701e72119b1",
+        "d8f88654ef3969a800a6",
+        "de4e1a1ab4ed22d37ef5",
+        "df882e644b62c9b20789",
+        "f492dafa8154e741d7cc",
+        "f607451d7be9c75ee9ff"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "15f43c91548b5156d989",
+        "7989e34825be38a77939",
+        "f3979e59b1c448fcb220"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "745019f5314a75838587",
+        "761c94737b2579537448",
+        "774f446daf3e19d83c9f",
+        "88c59fca968ef4e4957a",
+        "bba0e0c3a3cb005b8d1b",
+        "d9b3dbb0e1cefb127c46",
+        "e693613cae0494b133d8",
+        "f7d2d3f73925581eec4a"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "9171d649a60b109a951e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "15f43c91548b5156d989",
+      "7989e34825be38a77939",
+      "f3979e59b1c448fcb220"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "RØDVEN BO-STIFTELSE"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 7227,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "974680629",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:00.185599Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "974680629",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "STI",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "58e2ff72180af26876e05f4c4756c4048cbdd07eb498dbda46d9bf2431e8592d",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:55.401914Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/974680629",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 60714.0,
+              "assets": 632622.0,
+              "currency": "NOK",
+              "debt": 66128.0,
+              "equity": 566494.0,
+              "operating_result": 65061.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 60714.0,
+              "record_id": 5206849,
+              "revenue": 140000.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -2258.0,
+              "assets": 626476.0,
+              "currency": "NOK",
+              "debt": 62240.0,
+              "equity": 564236.0,
+              "operating_result": 295.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -2258.0,
+              "record_id": 5936129,
+              "revenue": 160100.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 84081.0,
+              "assets": 648317.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 648316.0,
+              "operating_result": 85223.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 84081.0,
+              "record_id": 6691792,
+              "revenue": 181928.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:57.763146Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/974680629",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a2390cbc38ef63db00df82c08c48ba0fb67ab72f580a3cf1dad05bbe23dfcad3",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:58.983336Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=974680629&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Rødven"
+                ],
+                "kommune": "RAUMA",
+                "kommunenummer": "1539",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6350",
+                "poststed": "EIDSBYGDA"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Utleie av egen eller leid fast eiendom",
+                "kode": "68.200"
+              },
+              "name": "RØDVEN BO-STIFTELSE",
+              "organisation_number": "976181980"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "974680629",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Livsløpsboliger - utleie.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Rødven",
+          "forretningsadresse.kommune": "RAUMA",
+          "forretningsadresse.kommunenummer": "1539",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6350",
+          "forretningsadresse.poststed": "EIDSBYGDA",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Ideelle organisasjoner",
+          "institusjonellSektorkode.kode": "7000",
+          "kapital.antallAksjer": "",
+          "kapital.belop": "200000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "true",
+          "kapital.innbetalt": "200000.00",
+          "kapital.innfortDato": "2010-07-15",
+          "kapital.type": "Grunnkapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Utleie av egen eller leid fast eiendom",
+          "naeringskode1.kode": "68.200",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "RØDVEN BO-STIFTELSE",
+          "organisasjonsform.beskrivelse": "Stiftelse",
+          "organisasjonsform.kode": "STI",
+          "organisasjonsnummer": "974680629",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "1995-07-13",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "false",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "true",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1995-05-19",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2016-06-27",
+          "vedtektsfestetFormaal": ""
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "3294219e793a7dd2f95414e3edfbd07580ca6ae48a9d938eb5ac4341d87a31c2",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:56.602650Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/974680629/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Audhild Mølmen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Marianne Brevik",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Lars Magne Dønheim",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Kirsti Rødven",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Jonny Arne Frilund",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-12-14",
+              "name": "Peder Kristian Dønheim",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2012-02-04",
+              "name": [
+                "BDO AS"
+              ],
+              "organisation_number": "993606650",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2021-01-15",
+              "name": [
+                "TINDE REGNSKAPSKONTOR ARF Nauste"
+              ],
+              "organisation_number": "995284812",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.200",
+    "industry_label": "Utleie av egen eller leid fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "STI",
+    "liquidating": false,
+    "municipality": "RAUMA",
+    "municipality_number": "1539",
+    "name": "RØDVEN BO-STIFTELSE",
+    "organisation_number": "974680629",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1202,
+        1156,
+        1218,
+        31,
+        62,
+        31,
+        31,
+        62,
+        31,
+        47,
+        125,
+        77,
+        78,
+        77,
+        1781
+      ],
+      "requests": 16
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:01Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "RØDVEN BO-STIFTELSE (STI, org.nr 974680629)",
+    "what_it_does": "RØDVEN BO-STIFTELSE is classified under NACE code 68.200 (unspecified).",
+    "business_model": "Operates as a registered STI entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, RØDVEN BO-STIFTELSE reported revenue of 181,928 NOK and an operating result of 85,223 NOK. Net result was 84,081 NOK, with total assets of 648,317 NOK and equity of 648,316 NOK. Revenue grew by +13.6% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 46.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Audhild Mølmen. The entity has 8 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "RØDVEN BO-STIFTELSE is classified under NACE code 68.200 (unspecified).",
+        "claim_ids": [
+          "f3979e59b1c448fcb220",
+          "15f43c91548b5156d989"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered STI entity within the commercial sector.",
+        "claim_ids": [
+          "7989e34825be38a77939",
+          "f3979e59b1c448fcb220"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, RØDVEN BO-STIFTELSE reported revenue of 181,928 NOK and an operating result of 85,223 NOK.",
+        "claim_ids": [
+          "d8f88654ef3969a800a6",
+          "b6fe6e5f0a03a592c653"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 84,081 NOK, with total assets of 648,317 NOK and equity of 648,316 NOK.",
+        "claim_ids": [
+          "df882e644b62c9b20789",
+          "de4e1a1ab4ed22d37ef5",
+          "4a6b59d6b937717dab58"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +13.6% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "d8f88654ef3969a800a6",
+          "1c074a00b5025809494e"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 46.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "b6fe6e5f0a03a592c653",
+          "d8f88654ef3969a800a6"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Audhild Mølmen.",
+        "claim_ids": [
+          "bba0e0c3a3cb005b8d1b"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 8 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "745019f5314a75838587",
+          "761c94737b2579537448",
+          "774f446daf3e19d83c9f",
+          "88c59fca968ef4e4957a",
+          "bba0e0c3a3cb005b8d1b",
+          "d9b3dbb0e1cefb127c46"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "15f43c91548b5156d989"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "9171d649a60b109a951e"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "15f43c91548b5156d989"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "15f43c91548b5156d989"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "15f43c91548b5156d989"
+        ]
+      }
+    ]
+  }
+}

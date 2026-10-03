@@ -1,0 +1,1305 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "280398582825a7c45956",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -96440.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "87c4ee5a20ca04e07f03",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 270872.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c9225bf520ecf41aa72",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 197440.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "32dd18b1468513733ff9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 892790.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "78817ce5d0260a3b861c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1152211.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "97758dec23ccc1215584",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1097590.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1503889921f224a17938",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19730.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f2e9228d46a789803b41",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -22980.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f86605118c2fde3b1940",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 170284.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3080a770e1af8b6fd6c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 981927.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "37c0542e3d2da7678a6c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1120570.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64cfe7cf1476de4c5107",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 873060.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1a322e633a251d6a93b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -120263.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "46557c4ad183e2a80409",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 252254.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5a04deb941cfdcf26385",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 25564.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8f1938d46cb123123421",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -115844.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cfbc46b5a81c812940f8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 258445.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ff919dabbff4c9ec4bf9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 197440.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6afde0aa79cdbe3686b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-999588131-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1058594.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "39d769a8e477774d6d46",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-999588131"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "71.129"
+    },
+    {
+      "availability": "available",
+      "claim_id": "794849c726aa1e6afae9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-999588131"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "ee93cc3999195a6434f0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-999588131"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "EXTENSIO AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "1e4f14831ae944203bb6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-999588131-d5795b3bce6f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hans Kristian Steensnæs Omenaas",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "41395d3b4805e037dcc4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-999588131-43c731dc3cfd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Peder Nicolai Steensnæs Omenaas",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f59947d3319a7ac52483",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-999588131-67bf5726c421"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Hans Kristian Steensnæs Omenaas",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "053095eb2b6cc8e386b0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-999588131-988887757"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:51Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:51Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nattlandsfjellet 183"
+          ],
+          "kommune": "BERGEN",
+          "kommunenummer": "4601",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "5098",
+          "poststed": "BERGEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "kode": "71.129"
+        },
+        "name": "EXTENSIO AS",
+        "organisation_number": "988887757"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 1058594.0, operating_result: 252254.0, profit_before_tax: 258445.0, annual_result: 270872.0, assets: 1152211.0, equity: 981927.0, debt: 170284.0",
+      "content_sha256": "3e9c81791e7c3ea06be155c6d6b82b2303aa5e0aa798328105f02f5fbcf38a5c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "http_status": 200,
+      "id": "ev-fin-999588131-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.679482Z",
+      "snapshot_ref": "3e/3e9c81791e7c3ea06be155c6d6b82b2303aa5e0aa798328105f02f5fbcf38a5c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -120263.0, profit_before_tax: -115844.0, annual_result: -96440.0, assets: 892790.0, equity: 873060.0, debt: 19730.0",
+      "content_sha256": "888f37e94e827121528342500563bb9bd9aaff5e3f21802e2ee1d3a4bd403fd3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "http_status": 200,
+      "id": "ev-fin-999588131-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.679482Z",
+      "snapshot_ref": "88/888f37e94e827121528342500563bb9bd9aaff5e3f21802e2ee1d3a4bd403fd3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: operating_result: 25564.0, profit_before_tax: 197440.0, annual_result: 197440.0, assets: 1097590.0, equity: 1120570.0, debt: -22980.0",
+      "content_sha256": "4e0132fb3b23b649968bc6af4eeb561c08e2ef81005cff6a4ea974e3279feca1",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "http_status": 200,
+      "id": "ev-fin-999588131-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.679482Z",
+      "snapshot_ref": "4e/4e0132fb3b23b649968bc6af4eeb561c08e2ef81005cff6a4ea974e3279feca1.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 988887757: EXTENSIO AS",
+      "content_sha256": "688dd98ea8ae6dafed2ebec86c133593c57b8efc06207c5ddb3174b90b343fb7",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999588131&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-999588131-988887757",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:06.247040Z",
+      "snapshot_ref": "68/688dd98ea8ae6dafed2ebec86c133593c57b8efc06207c5ddb3174b90b343fb7.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999588131&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 999588131 EXTENSIO AS",
+      "content_sha256": "19636b81595fe859e6a13a96973343867c78249a77d0169aa2109b04d756299d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-999588131",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "19/19636b81595fe859e6a13a96973343867c78249a77d0169aa2109b04d756299d.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Peder Nicolai Steensnæs Omenaas",
+      "content_sha256": "f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "http_status": 200,
+      "id": "ev-role-999588131-43c731dc3cfd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:03.900505Z",
+      "snapshot_ref": "f8/f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Hans Kristian Steensnæs Omenaas",
+      "content_sha256": "f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "http_status": 200,
+      "id": "ev-role-999588131-67bf5726c421",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:03.900505Z",
+      "snapshot_ref": "f8/f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Hans Kristian Steensnæs Omenaas",
+      "content_sha256": "f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "http_status": 200,
+      "id": "ev-role-999588131-d5795b3bce6f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:03.900505Z",
+      "snapshot_ref": "f8/f86430897d77855057d113da142d1c6def9393c32e57d56be9637c5baf153dc0.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1503889921f224a17938",
+        "1a322e633a251d6a93b5",
+        "280398582825a7c45956",
+        "3080a770e1af8b6fd6c2",
+        "32dd18b1468513733ff9",
+        "37c0542e3d2da7678a6c",
+        "46557c4ad183e2a80409",
+        "5a04deb941cfdcf26385",
+        "64cfe7cf1476de4c5107",
+        "6afde0aa79cdbe3686b1",
+        "78817ce5d0260a3b861c",
+        "87c4ee5a20ca04e07f03",
+        "8c9225bf520ecf41aa72",
+        "8f1938d46cb123123421",
+        "97758dec23ccc1215584",
+        "cfbc46b5a81c812940f8",
+        "f2e9228d46a789803b41",
+        "f86605118c2fde3b1940",
+        "ff919dabbff4c9ec4bf9"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "39d769a8e477774d6d46",
+        "794849c726aa1e6afae9",
+        "ee93cc3999195a6434f0"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1e4f14831ae944203bb6",
+        "41395d3b4805e037dcc4",
+        "f59947d3319a7ac52483"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "053095eb2b6cc8e386b0"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "ee93cc3999195a6434f0",
+      "794849c726aa1e6afae9",
+      "39d769a8e477774d6d46"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "EXTENSIO AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 49920,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "999588131",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:04.519045Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "999588131",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "a4ccebed135cd4ea4107ca717724377be8476460d99266ab2ef49542b950d045",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:02.679482Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/999588131",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 270872.0,
+              "assets": 1152211.0,
+              "currency": "NOK",
+              "debt": 170284.0,
+              "equity": 981927.0,
+              "operating_result": 252254.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 258445.0,
+              "record_id": 5340421,
+              "revenue": 1058594.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -96440.0,
+              "assets": 892790.0,
+              "currency": "NOK",
+              "debt": 19730.0,
+              "equity": 873060.0,
+              "operating_result": -120263.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -115844.0,
+              "record_id": 6324853,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 197440.0,
+              "assets": 1097590.0,
+              "currency": "NOK",
+              "debt": -22980.0,
+              "equity": 1120570.0,
+              "operating_result": 25564.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 197440.0,
+              "record_id": 7224278,
+              "revenue": null
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:05.059996Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/999588131",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "e92db11ce33c7568baef6f978d715222e424bcf51f2705ba40fb9a166b26f314",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:06.247040Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=999588131&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nattlandsfjellet 183"
+                ],
+                "kommune": "BERGEN",
+                "kommunenummer": "4601",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "5098",
+                "poststed": "BERGEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Annen teknisk konsulentvirksomhet",
+                "kode": "71.129"
+              },
+              "name": "EXTENSIO AS",
+              "organisation_number": "988887757"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "999588131",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Konsulentvirksomhet knyttet til olje og gass, samt annet som er naturlig knyttet til virksomheten. Prosjektledelse og utleie av personale, samt annet som er naturlig knyttet til virksomheten.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nattlandsfjellet 183",
+          "forretningsadresse.kommune": "BERGEN",
+          "forretningsadresse.kommunenummer": "4601",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "5098",
+          "forretningsadresse.poststed": "BERGEN",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "2013-01-24",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2013-01-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Annen teknisk konsulentvirksomhet",
+          "naeringskode1.kode": "71.129",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "EXTENSIO AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "999588131",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2013-01-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2013-03-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-05-23",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2013-01-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2013-01-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2013-01-01",
+          "vedtektsfestetFormaal": "Konsulentvirksomhet knyttet til olje og gass, samt annet som er naturlig knyttet til virksomheten. Prosjektledelse og utleie av personale, samt annet som er naturlig knyttet til virksomheten."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "0c63c0dae8d690ef1dd600842025798881e8a379e649ab0943b5cc9f67abfebc",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:03.900505Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/999588131/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2013-01-24",
+              "name": "Hans Kristian Steensnæs Omenaas",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-01-24",
+              "name": "Hans Kristian Steensnæs Omenaas",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2013-01-24",
+              "name": "Peder Nicolai Steensnæs Omenaas",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "71.129",
+    "industry_label": "Annen teknisk konsulentvirksomhet",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "BERGEN",
+    "municipality_number": "4601",
+    "name": "EXTENSIO AS",
+    "organisation_number": "999588131",
+    "run_metrics": {
+      "latencies_ms": [
+        1203,
+        1218,
+        1156,
+        1186,
+        15047,
+        30110
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:51Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "EXTENSIO AS (AS, org.nr 999588131)",
+    "what_it_does": "EXTENSIO AS is classified under NACE code 71.129 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "Net result was 197,440 NOK, with total assets of 1,097,590 NOK and equity of 1,120,570 NOK.",
+    "leadership_and_structure": "The board of directors is chaired by Hans Kristian Steensnæs Omenaas. Daily operations are led by general manager Hans Kristian Steensnæs Omenaas. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "EXTENSIO AS is classified under NACE code 71.129 (unspecified).",
+        "claim_ids": [
+          "39d769a8e477774d6d46",
+          "ee93cc3999195a6434f0"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "794849c726aa1e6afae9",
+          "39d769a8e477774d6d46"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "Net result was 197,440 NOK, with total assets of 1,097,590 NOK and equity of 1,120,570 NOK.",
+        "claim_ids": [
+          "8c9225bf520ecf41aa72",
+          "97758dec23ccc1215584",
+          "37c0542e3d2da7678a6c"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "The board of directors is chaired by Hans Kristian Steensnæs Omenaas.",
+        "claim_ids": [
+          "f59947d3319a7ac52483"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Daily operations are led by general manager Hans Kristian Steensnæs Omenaas.",
+        "claim_ids": [
+          "1e4f14831ae944203bb6"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "1e4f14831ae944203bb6",
+          "41395d3b4805e037dcc4",
+          "f59947d3319a7ac52483"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "ee93cc3999195a6434f0"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "053095eb2b6cc8e386b0"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "ee93cc3999195a6434f0"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "ee93cc3999195a6434f0"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "ee93cc3999195a6434f0"
+        ]
+      }
+    ]
+  }
+}

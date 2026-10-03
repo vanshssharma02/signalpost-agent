@@ -1,0 +1,1605 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "d27768569421ab9dfde2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -84938.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de60956fc4f800e97f6b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 100526.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dea0391558010fc4ee3b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -13703.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "06d73d2978136f4d0593",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4792980.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0a1ea57730cae6d527cf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4780209.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "350425833a524c4bf78b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4938592.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "72099612612dc390fed6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3855325.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "83af9a5645155bd5986f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4000005.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dfdd1f0be6fe240e1948",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3769454.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "418adf1fd430c2e519ad",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 924884.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "551084b6d8d4181bee3a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 938587.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef230f176b6278accfb8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1023526.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "386e0303fdf51cb25a59",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 96409.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b8cc4cb4ff58cdce86e9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 316607.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cc05de7a7d18e8a8e395",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 163333.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "270a94a5e72196b597d2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 128880.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1d742d1dc1f231ad4d1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -145598.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0126c875e5c020404e43",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 722545.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9986798250db20e0f600",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8509988.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e36b59a1de1948240c28",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932069156-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10810904.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "63e20d2fbb990f55ca28",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932069156"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "46dd68b082c2af0f5576",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932069156"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "449321fad6ba771dc227",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932069156"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "ROVDE HANDEL AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "43280b79aea404f3e5cb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-ffbfcd122c57"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "NORGESGRUPPEN REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "440d81b6fa2dacb98016",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-683e4126b4d2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Paul Sindre Vedeld",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "616476c0c172bb7a801b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-7367bc4e89ce"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jasmin Beyer",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a98b437de69db1b62e34",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-0853b503d42d"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anette Sætre",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c50443067cd137c04804",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-d9b9e00adfe4"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Lillian Oliv Petra Aarskog",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d2e08e3f92d37ae2fbf8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-81286cd3e0cd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Jan Øystein Aksnes",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "df0daa8ec2082c16cd6f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-d0358ad9fcf3"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ERNST & YOUNG AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe90664f79b591ff0f31",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932069156-270d6d9e4629"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Palmar Elias Knardal",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "14bdc55e2dca010f26a9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-932069156-932122871"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:54Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:54Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Åsevika 3"
+          ],
+          "kommune": "VANYLVEN",
+          "kommunenummer": "1511",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6141",
+          "poststed": "ROVDE"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+          "kode": "47.110"
+        },
+        "name": "ROVDE HANDEL AS",
+        "organisation_number": "932122871"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 722545.0, operating_result: 163333.0, profit_before_tax: 128880.0, annual_result: 100526.0, assets: 4792980.0, equity: 1023526.0, debt: 3769454.0",
+      "content_sha256": "99e92b1d34490dc77fccb7fe3b3d9ccdaff694dab2691e73a98a557e3bf0e10f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "http_status": 200,
+      "id": "ev-fin-932069156-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:50.930339Z",
+      "snapshot_ref": "99/99e92b1d34490dc77fccb7fe3b3d9ccdaff694dab2691e73a98a557e3bf0e10f.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 8509988.0, operating_result: 96409.0, profit_before_tax: -145598.0, annual_result: -84938.0, assets: 4938592.0, equity: 938587.0, debt: 4000005.0",
+      "content_sha256": "bb2c4d82958ec948d7aa2b2d4da67a7c361f6ccef77f26070af77eb039b6a647",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "http_status": 200,
+      "id": "ev-fin-932069156-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:50.930339Z",
+      "snapshot_ref": "bb/bb2c4d82958ec948d7aa2b2d4da67a7c361f6ccef77f26070af77eb039b6a647.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 10810904.0, operating_result: 316607.0, annual_result: -13703.0, assets: 4780209.0, equity: 924884.0, debt: 3855325.0",
+      "content_sha256": "249574b6d151786dddca138bf660a96845731310b89795b492d0fc65fa2e8878",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "http_status": 200,
+      "id": "ev-fin-932069156-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:50.930339Z",
+      "snapshot_ref": "24/249574b6d151786dddca138bf660a96845731310b89795b492d0fc65fa2e8878.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 932122871: ROVDE HANDEL AS",
+      "content_sha256": "5f0578c039d21760ee8986d29de14fe70627d77c00a0b2b3493508c13d55c120",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932069156&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-932069156-932122871",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:54.478326Z",
+      "snapshot_ref": "5f/5f0578c039d21760ee8986d29de14fe70627d77c00a0b2b3493508c13d55c120.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932069156&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 932069156 ROVDE HANDEL AS",
+      "content_sha256": "9c819a0589ae16d32484e02ae0757447d3a734292e5f7c7013128f098da16f57",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-932069156",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "9c/9c819a0589ae16d32484e02ae0757447d3a734292e5f7c7013128f098da16f57.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anette Sætre",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-0853b503d42d",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Palmar Elias Knardal",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-270d6d9e4629",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Paul Sindre Vedeld",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-683e4126b4d2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jasmin Beyer",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-7367bc4e89ce",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Jan Øystein Aksnes",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-81286cd3e0cd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ERNST & YOUNG AS",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-d0358ad9fcf3",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Lillian Oliv Petra Aarskog",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-d9b9e00adfe4",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: NORGESGRUPPEN REGNSKAP AS",
+      "content_sha256": "87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "http_status": 200,
+      "id": "ev-role-932069156-ffbfcd122c57",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:52.124030Z",
+      "snapshot_ref": "87/87ac3c9cc1831e401603dd95b92ec63ef4d5e873bc7e3028cdedaf6e15514c0d.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0126c875e5c020404e43",
+        "06d73d2978136f4d0593",
+        "0a1ea57730cae6d527cf",
+        "270a94a5e72196b597d2",
+        "350425833a524c4bf78b",
+        "386e0303fdf51cb25a59",
+        "418adf1fd430c2e519ad",
+        "551084b6d8d4181bee3a",
+        "72099612612dc390fed6",
+        "83af9a5645155bd5986f",
+        "9986798250db20e0f600",
+        "b8cc4cb4ff58cdce86e9",
+        "c1d742d1dc1f231ad4d1",
+        "cc05de7a7d18e8a8e395",
+        "d27768569421ab9dfde2",
+        "de60956fc4f800e97f6b",
+        "dea0391558010fc4ee3b",
+        "dfdd1f0be6fe240e1948",
+        "e36b59a1de1948240c28",
+        "ef230f176b6278accfb8"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "449321fad6ba771dc227",
+        "46dd68b082c2af0f5576",
+        "63e20d2fbb990f55ca28"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "43280b79aea404f3e5cb",
+        "440d81b6fa2dacb98016",
+        "616476c0c172bb7a801b",
+        "a98b437de69db1b62e34",
+        "c50443067cd137c04804",
+        "d2e08e3f92d37ae2fbf8",
+        "df0daa8ec2082c16cd6f",
+        "fe90664f79b591ff0f31"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "14bdc55e2dca010f26a9"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "449321fad6ba771dc227",
+      "46dd68b082c2af0f5576",
+      "63e20d2fbb990f55ca28"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "ROVDE HANDEL AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 4997,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "932069156",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:56.168565Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "932069156",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "ef783b0f9a8ccfa77e7c373e0deb1af211908fb2ae04ae7ccb53ef2da73662d8",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:50.930339Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932069156",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 100526.0,
+              "assets": 4792980.0,
+              "currency": "NOK",
+              "debt": 3769454.0,
+              "equity": 1023526.0,
+              "operating_result": 163333.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 128880.0,
+              "record_id": 5289949,
+              "revenue": 722545.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -84938.0,
+              "assets": 4938592.0,
+              "currency": "NOK",
+              "debt": 4000005.0,
+              "equity": 938587.0,
+              "operating_result": 96409.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -145598.0,
+              "record_id": 6232719,
+              "revenue": 8509988.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -13703.0,
+              "assets": 4780209.0,
+              "currency": "NOK",
+              "debt": 3855325.0,
+              "equity": 924884.0,
+              "operating_result": 316607.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": null,
+              "record_id": 7125233,
+              "revenue": 10810904.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:53.265890Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/932069156",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9cc55bfd25835627d2e33a64eeb290b16e497c988ca88d3b1e63691299fffe78",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:54.478326Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932069156&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Åsevika 3"
+                ],
+                "kommune": "VANYLVEN",
+                "kommunenummer": "1511",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6141",
+                "poststed": "ROVDE"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+                "kode": "47.110"
+              },
+              "name": "ROVDE HANDEL AS",
+              "organisation_number": "932122871"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "932069156",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Dagligvarebutikk.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Åsevika 3",
+          "forretningsadresse.kommune": "VANYLVEN",
+          "forretningsadresse.kommunenummer": "1511",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6141",
+          "forretningsadresse.poststed": "ROVDE",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "923",
+          "kapital.belop": "923000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2024-04-02",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Nynorsk",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+          "naeringskode1.kode": "47.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "ROVDE HANDEL AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "932069156",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+          "registreringsdatoForetaksregisteret": "2023-09-21",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2023-12-06",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-12-06",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-07-10",
+          "registreringsdatoenhetsregisteret": "2023-09-21",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2023-07-27",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2023-11-30",
+          "vedtektsfestetFormaal": "Butikkdrift dagligvare og utleie av eiendomsmasse og annet som naturlig faller sammen med dette."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "8180c697b4a45c7d0dce66712ed600a2f8a5ccce2705322f3653f4a0c820fe7d",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:52.124030Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932069156/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Paul Sindre Vedeld",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Lillian Oliv Petra Aarskog",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Anette Sætre",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Jan Øystein Aksnes",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Jasmin Beyer",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2026-04-27",
+              "name": "Palmar Elias Knardal",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2026-06-05",
+              "name": [
+                "ERNST & YOUNG AS"
+              ],
+              "organisation_number": "976389387",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-10-13",
+              "name": [
+                "NORGESGRUPPEN REGNSKAP AS"
+              ],
+              "organisation_number": "883743512",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "47.110",
+    "industry_label": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "VANYLVEN",
+    "municipality_number": "1511",
+    "name": "ROVDE HANDEL AS",
+    "organisation_number": "932069156",
+    "run_metrics": {
+      "latencies_ms": [
+        1203,
+        1186,
+        1141,
+        1218,
+        31,
+        62,
+        31,
+        125
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:54Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "ROVDE HANDEL AS (AS, org.nr 932069156)",
+    "what_it_does": "ROVDE HANDEL AS is classified under NACE code 47.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, ROVDE HANDEL AS reported revenue of 10,810,904 NOK and an operating result of 316,607 NOK. Net result was -13,703 NOK, with total assets of 4,780,209 NOK and equity of 924,884 NOK. The company was loss-making in 2025. Revenue grew by +27.0% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 2.9% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Paul Sindre Vedeld. The entity has 8 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "ROVDE HANDEL AS is classified under NACE code 47.110 (unspecified).",
+        "claim_ids": [
+          "63e20d2fbb990f55ca28",
+          "449321fad6ba771dc227"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "46dd68b082c2af0f5576",
+          "63e20d2fbb990f55ca28"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, ROVDE HANDEL AS reported revenue of 10,810,904 NOK and an operating result of 316,607 NOK.",
+        "claim_ids": [
+          "e36b59a1de1948240c28",
+          "b8cc4cb4ff58cdce86e9"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -13,703 NOK, with total assets of 4,780,209 NOK and equity of 924,884 NOK.",
+        "claim_ids": [
+          "dea0391558010fc4ee3b",
+          "0a1ea57730cae6d527cf",
+          "418adf1fd430c2e519ad"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "dea0391558010fc4ee3b"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue grew by +27.0% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "e36b59a1de1948240c28",
+          "9986798250db20e0f600"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was 2.9% (derived: operating result / revenue).",
+        "claim_ids": [
+          "b8cc4cb4ff58cdce86e9",
+          "e36b59a1de1948240c28"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Paul Sindre Vedeld.",
+        "claim_ids": [
+          "440d81b6fa2dacb98016"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 8 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "43280b79aea404f3e5cb",
+          "440d81b6fa2dacb98016",
+          "616476c0c172bb7a801b",
+          "a98b437de69db1b62e34",
+          "c50443067cd137c04804",
+          "d2e08e3f92d37ae2fbf8"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "449321fad6ba771dc227"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "14bdc55e2dca010f26a9"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "449321fad6ba771dc227"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "449321fad6ba771dc227"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "449321fad6ba771dc227"
+        ]
+      }
+    ]
+  }
+}

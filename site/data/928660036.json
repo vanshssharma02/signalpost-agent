@@ -1,0 +1,1329 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "53040dc1930332ce3201",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9063.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "550bc1fcbe12ee05b9f9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 746887.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8ff3ba079fc2378fb002",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4d2e9bbcedd1195e2079",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1388799.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "864ebacf260c48c136e4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11806.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b2f5e63a1c3a253c43e4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30000.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c2880736e10b026a6006",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d6cbd51149b5275c5b4c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 630106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fe4112305160c1f01579",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9063.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "26dda7f8e6a3d68871aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20937.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "97211d2a4b39fc1fcdbf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 758693.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb560feb6daec4dba181",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 11806.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1852771632b05642e158",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9063.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "772640c9d3cece6f2219",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f80a8d386905cfc1a258",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 957547.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "364f8d0003d337ec266d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 957547.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aecfa93b2292669b4581",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9063.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1f0f96775f810e7ba4b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -9131.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3d5b6b075fe3f1966b2d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-928660036-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1233035.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "dbf660245849e5ca7123",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928660036"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "49.410"
+    },
+    {
+      "availability": "available",
+      "claim_id": "13ee17071ce6107973a1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928660036"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "f27605c4e51edd68b388",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-928660036"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "SVECAT MASKIN OG TRANSPORT AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "2a13e7ca0d65b832fe34",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928660036-c47cfab5b7b2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Svein Roger Hansen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8547054781c172532491",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928660036-66e7110448de"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Svein Roger Hansen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "871b9c982bfe35ddc419",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-928660036-0a1f96eff487"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ASPIA NORGE AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "530598039a93c6eece8d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-928660036-936204023"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:32Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:32Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Industriveien 8A"
+          ],
+          "kommune": "ANDØY",
+          "kommunenummer": "1871",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "8480",
+          "poststed": "ANDENES"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Godstransport på vei",
+          "kode": "49.410"
+        },
+        "name": "SVECAT MASKIN OG TRANSPORT AS",
+        "organisation_number": "936204023"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -9063.0, profit_before_tax: -9063.0, annual_result: -9063.0, assets: 30000.0, equity: 20937.0, debt: 9063.0",
+      "content_sha256": "55943bfa657f36d92388be6aad2a66b4440bbbdef4faaa00feae122c651b00b2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "http_status": 200,
+      "id": "ev-fin-928660036-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:23.616863Z",
+      "snapshot_ref": "55/55943bfa657f36d92388be6aad2a66b4440bbbdef4faaa00feae122c651b00b2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -9131.0, profit_before_tax: -9131.0, annual_result: -9131.0, assets: 11806.0, equity: 11806.0, debt: 0.0",
+      "content_sha256": "de072f93769746e3808712ace676f10535a613eeb6218a44f8e87eb52287b9df",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "http_status": 200,
+      "id": "ev-fin-928660036-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:23.616863Z",
+      "snapshot_ref": "de/de072f93769746e3808712ace676f10535a613eeb6218a44f8e87eb52287b9df.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 1233035.0, operating_result: 957547.0, profit_before_tax: 957547.0, annual_result: 746887.0, assets: 1388799.0, equity: 758693.0, debt: 630106.0",
+      "content_sha256": "674821d07149d439f2d1e9ee7bd7367d95a6e920a0c278b3e8282de08cfc7cea",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "http_status": 200,
+      "id": "ev-fin-928660036-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:49:23.616863Z",
+      "snapshot_ref": "67/674821d07149d439f2d1e9ee7bd7367d95a6e920a0c278b3e8282de08cfc7cea.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 936204023: SVECAT MASKIN OG TRANSPORT AS",
+      "content_sha256": "334288ef00eb70a2777605f592db51bb07b46631990ffff0f9d41dfaa1059e74",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928660036&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-928660036-936204023",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:27.247550Z",
+      "snapshot_ref": "33/334288ef00eb70a2777605f592db51bb07b46631990ffff0f9d41dfaa1059e74.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928660036&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 928660036 SVECAT MASKIN OG TRANSPORT AS",
+      "content_sha256": "86432a2e63d224e555fa772bd604bd2aba23122b0986e454839f57f9553cbe59",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-928660036",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "86/86432a2e63d224e555fa772bd604bd2aba23122b0986e454839f57f9553cbe59.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ASPIA NORGE AS",
+      "content_sha256": "23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "http_status": 200,
+      "id": "ev-role-928660036-0a1f96eff487",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:24.831425Z",
+      "snapshot_ref": "23/23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Svein Roger Hansen",
+      "content_sha256": "23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "http_status": 200,
+      "id": "ev-role-928660036-66e7110448de",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:24.831425Z",
+      "snapshot_ref": "23/23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Svein Roger Hansen",
+      "content_sha256": "23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "http_status": 200,
+      "id": "ev-role-928660036-c47cfab5b7b2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:24.831425Z",
+      "snapshot_ref": "23/23abf291d19ed00df23e1093782a79da8bc33aa04f26f2cefe013195a1294e35.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "1852771632b05642e158",
+        "26dda7f8e6a3d68871aa",
+        "364f8d0003d337ec266d",
+        "3d5b6b075fe3f1966b2d",
+        "4d2e9bbcedd1195e2079",
+        "53040dc1930332ce3201",
+        "550bc1fcbe12ee05b9f9",
+        "772640c9d3cece6f2219",
+        "864ebacf260c48c136e4",
+        "8ff3ba079fc2378fb002",
+        "97211d2a4b39fc1fcdbf",
+        "aecfa93b2292669b4581",
+        "b2f5e63a1c3a253c43e4",
+        "c1f0f96775f810e7ba4b",
+        "c2880736e10b026a6006",
+        "d6cbd51149b5275c5b4c",
+        "f80a8d386905cfc1a258",
+        "fb560feb6daec4dba181",
+        "fe4112305160c1f01579"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "13ee17071ce6107973a1",
+        "dbf660245849e5ca7123",
+        "f27605c4e51edd68b388"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "2a13e7ca0d65b832fe34",
+        "8547054781c172532491",
+        "871b9c982bfe35ddc419"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "530598039a93c6eece8d"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "f27605c4e51edd68b388",
+      "13ee17071ce6107973a1",
+      "dbf660245849e5ca7123"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "SVECAT MASKIN OG TRANSPORT AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 9961,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "928660036",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:54.799530Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "928660036",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "1f65022b33fbd235c3d7d4add985a6b6c49dcde77c605bfc8ceebae9ec035a02",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:23.616863Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/928660036",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -9063.0,
+              "assets": 30000.0,
+              "currency": "NOK",
+              "debt": 9063.0,
+              "equity": 20937.0,
+              "operating_result": -9063.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -9063.0,
+              "record_id": 5375123,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -9131.0,
+              "assets": 11806.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 11806.0,
+              "operating_result": -9131.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -9131.0,
+              "record_id": 6212793,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 746887.0,
+              "assets": 1388799.0,
+              "currency": "NOK",
+              "debt": 630106.0,
+              "equity": 758693.0,
+              "operating_result": 957547.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 957547.0,
+              "record_id": 6901508,
+              "revenue": 1233035.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:49:26.040365Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/928660036",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "1a04493c61c476fc508bd592d848a07c26bd6d5e8468fed83d2bc88be8071b26",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:27.247550Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=928660036&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Industriveien 8A"
+                ],
+                "kommune": "ANDØY",
+                "kommunenummer": "1871",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "8480",
+                "poststed": "ANDENES"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Godstransport på vei",
+                "kode": "49.410"
+              },
+              "name": "SVECAT MASKIN OG TRANSPORT AS",
+              "organisation_number": "936204023"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "928660036",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Lastebiltransport. Grunnarbeid, drenering osv. Utleie av maskiner.",
+          "antallAnsatte": "",
+          "epostadresse": "svecatas@gmail.com",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Industriveien 8A",
+          "forretningsadresse.kommune": "ANDØY",
+          "forretningsadresse.kommunenummer": "1871",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "8480",
+          "forretningsadresse.poststed": "ANDENES",
+          "fravalgRevisjonBeslutningsDato": "2022-01-18",
+          "fravalgRevisjonDato": "2022-02-02",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "10",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2025-09-18",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "921 53 000",
+          "naeringskode1.beskrivelse": "Godstransport på vei",
+          "naeringskode1.kode": "49.410",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "SVECAT MASKIN OG TRANSPORT AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "928660036",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2022-02-02",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2025-09-18",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-20",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2022-02-02",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-01-18",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2025-09-02",
+          "vedtektsfestetFormaal": "Lastebiltransport, utleie av maskiner, grunnarbeid, drenering osv."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "104c464a7131d33c846be26824fdf1a5c14ea2a3ac78492469264ab0f3d4fbbc",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:24.831425Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/928660036/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2022-02-15",
+              "name": "Svein Roger Hansen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-02-24",
+              "name": "Svein Roger Hansen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2025-08-28",
+              "name": [
+                "ASPIA NORGE AS"
+              ],
+              "organisation_number": "923792457",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "49.410",
+    "industry_label": "Godstransport på vei",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ANDØY",
+    "municipality_number": "1871",
+    "name": "SVECAT MASKIN OG TRANSPORT AS",
+    "organisation_number": "928660036",
+    "run_metrics": {
+      "latencies_ms": [
+        1217,
+        1203,
+        1218,
+        1202,
+        47,
+        62,
+        47,
+        2937,
+        77,
+        62,
+        47,
+        1842
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:32Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "SVECAT MASKIN OG TRANSPORT AS (AS, org.nr 928660036)",
+    "what_it_does": "SVECAT MASKIN OG TRANSPORT AS is classified under NACE code 49.410 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, SVECAT MASKIN OG TRANSPORT AS reported revenue of 1,233,035 NOK and an operating result of 957,547 NOK. Net result was 746,887 NOK, with total assets of 1,388,799 NOK and equity of 758,693 NOK. Operating margin was 77.7% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Svein Roger Hansen. Daily operations are led by general manager Svein Roger Hansen. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "SVECAT MASKIN OG TRANSPORT AS is classified under NACE code 49.410 (unspecified).",
+        "claim_ids": [
+          "dbf660245849e5ca7123",
+          "f27605c4e51edd68b388"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "13ee17071ce6107973a1",
+          "dbf660245849e5ca7123"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, SVECAT MASKIN OG TRANSPORT AS reported revenue of 1,233,035 NOK and an operating result of 957,547 NOK.",
+        "claim_ids": [
+          "3d5b6b075fe3f1966b2d",
+          "f80a8d386905cfc1a258"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 746,887 NOK, with total assets of 1,388,799 NOK and equity of 758,693 NOK.",
+        "claim_ids": [
+          "550bc1fcbe12ee05b9f9",
+          "4d2e9bbcedd1195e2079",
+          "97211d2a4b39fc1fcdbf"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Operating margin was 77.7% (derived: operating result / revenue).",
+        "claim_ids": [
+          "f80a8d386905cfc1a258",
+          "3d5b6b075fe3f1966b2d"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The board of directors is chaired by Svein Roger Hansen.",
+        "claim_ids": [
+          "2a13e7ca0d65b832fe34"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Daily operations are led by general manager Svein Roger Hansen.",
+        "claim_ids": [
+          "8547054781c172532491"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "2a13e7ca0d65b832fe34",
+          "8547054781c172532491",
+          "871b9c982bfe35ddc419"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "f27605c4e51edd68b388"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "530598039a93c6eece8d"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "f27605c4e51edd68b388"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "f27605c4e51edd68b388"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "f27605c4e51edd68b388"
+        ]
+      }
+    ]
+  }
+}

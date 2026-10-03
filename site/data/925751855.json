@@ -1,0 +1,1453 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "152ba3aae125033fb114",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 482020.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "762b8f6a9ee2418af07a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 296045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8fc3812110d376542dc8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 243200.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "208b0002297445ab785b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 10276948.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ff25c1ceea72fe38d3e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9855180.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db12c2449c7058de0d0b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 9486354.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "04e10238f15c4fbf7e24",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8171183.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9edc4a1f15766a3fe3e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8735406.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d3dbf2be36c059dffdbd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 8045558.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cbfe7589cf118170e3fe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1541542.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ef4008b7a3b7a5b25665",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1683997.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f992a6c50944238a2bc4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1440796.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "30086c3352ef83053957",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 346698.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3aab1f66c0203af13d2f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 582376.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2a36f480dc38c66484a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 257448.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9f06ad61f38f7b08da15",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 311452.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d64c87af2af254469a70",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 636583.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e2c5f81f3707761b8982",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 380199.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "461a47cff1531a708371",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 101213221.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "4764717ceaa39da4e7aa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 92830043.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bd7b0158fcf9c3aab9c5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-925751855-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 96570464.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ef385e12b8390e7c296",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925751855"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "6bb645a9240daf3608b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925751855"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "5829c37ceba4bb08b7ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925751855"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "STENSETH HANDEL AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "21d0e860a45aa78ce140",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-925751855"
+      ],
+      "family": "identity",
+      "field": "registered_employees",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": 20
+    },
+    {
+      "availability": "available",
+      "claim_id": "780cd181b71d2da70ef9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925751855-424d5aefc883"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "PRICEWATERHOUSECOOPERS AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "8a25806354795473427d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925751855-22163fe1cece"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "REMA 1000 NORGE AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "b10a523fb99f16a0132e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925751855-87b606f7f720"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eivind Andre Stenseth",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "cd4ed33412cec8670fcf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-925751855-2d155aacb340"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Eivind Andre Stenseth",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "57bee42728f9a74be2df",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-925751855-972022780"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:01Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:01Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Enenvegen 1A"
+          ],
+          "kommune": "MOLDE",
+          "kommunenummer": "1506",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "6416",
+          "poststed": "MOLDE"
+        },
+        "employees": 20,
+        "industry": {
+          "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+          "kode": "47.110"
+        },
+        "name": "REMA 1000 FUGLSET",
+        "organisation_number": "972022780"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 92830043.0, operating_result: 346698.0, profit_before_tax: 380199.0, annual_result: 296045.0, assets: 9486354.0, equity: 1440796.0, debt: 8045558.0",
+      "content_sha256": "869a32e61935ac2e09e565dab4bd38640636931f6656cab43c74e71b3361dfb2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "http_status": 200,
+      "id": "ev-fin-925751855-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.931129Z",
+      "snapshot_ref": "86/869a32e61935ac2e09e565dab4bd38640636931f6656cab43c74e71b3361dfb2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 96570464.0, operating_result: 257448.0, profit_before_tax: 311452.0, annual_result: 243200.0, assets: 9855180.0, equity: 1683997.0, debt: 8171183.0",
+      "content_sha256": "74745558e789235818c7cf64c45087625e764d6a1393f6ca4a333ca46d136729",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "http_status": 200,
+      "id": "ev-fin-925751855-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.931129Z",
+      "snapshot_ref": "74/74745558e789235818c7cf64c45087625e764d6a1393f6ca4a333ca46d136729.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 101213221.0, operating_result: 582376.0, profit_before_tax: 636583.0, annual_result: 482020.0, assets: 10276948.0, equity: 1541542.0, debt: 8735406.0",
+      "content_sha256": "47c46ead20c5340a2e8b61cd1251dbe72fede9f7c6327d20b7a63ef23da2818c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "http_status": 200,
+      "id": "ev-fin-925751855-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.931129Z",
+      "snapshot_ref": "47/47c46ead20c5340a2e8b61cd1251dbe72fede9f7c6327d20b7a63ef23da2818c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 972022780: REMA 1000 FUGLSET",
+      "content_sha256": "1c1a330029739e40215d5f9ecb3746b24108428da44a1c23c8abb6b3e22326fc",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925751855&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-925751855-972022780",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:58.355644Z",
+      "snapshot_ref": "1c/1c1a330029739e40215d5f9ecb3746b24108428da44a1c23c8abb6b3e22326fc.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925751855&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 925751855 STENSETH HANDEL AS",
+      "content_sha256": "d05613cc9bac886314592949f1868d9ae3605686fd4dfa9e1d4a5838367c06b9",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-925751855",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "d0/d05613cc9bac886314592949f1868d9ae3605686fd4dfa9e1d4a5838367c06b9.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: REMA 1000 NORGE AS",
+      "content_sha256": "db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "http_status": 200,
+      "id": "ev-role-925751855-22163fe1cece",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.135717Z",
+      "snapshot_ref": "db/db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Eivind Andre Stenseth",
+      "content_sha256": "db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "http_status": 200,
+      "id": "ev-role-925751855-2d155aacb340",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.135717Z",
+      "snapshot_ref": "db/db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: PRICEWATERHOUSECOOPERS AS",
+      "content_sha256": "db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "http_status": 200,
+      "id": "ev-role-925751855-424d5aefc883",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.135717Z",
+      "snapshot_ref": "db/db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Eivind Andre Stenseth",
+      "content_sha256": "db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "http_status": 200,
+      "id": "ev-role-925751855-87b606f7f720",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:55.135717Z",
+      "snapshot_ref": "db/db488858c9a38690ebe1a71460596b783701edc314a1158e367af78d57a75f3a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "04e10238f15c4fbf7e24",
+        "152ba3aae125033fb114",
+        "208b0002297445ab785b",
+        "30086c3352ef83053957",
+        "3aab1f66c0203af13d2f",
+        "461a47cff1531a708371",
+        "4764717ceaa39da4e7aa",
+        "5ff25c1ceea72fe38d3e",
+        "762b8f6a9ee2418af07a",
+        "8fc3812110d376542dc8",
+        "9edc4a1f15766a3fe3e6",
+        "9f06ad61f38f7b08da15",
+        "bd7b0158fcf9c3aab9c5",
+        "cbfe7589cf118170e3fe",
+        "d3dbf2be36c059dffdbd",
+        "d64c87af2af254469a70",
+        "db12c2449c7058de0d0b",
+        "e2a36f480dc38c66484a",
+        "e2c5f81f3707761b8982",
+        "ef4008b7a3b7a5b25665",
+        "f992a6c50944238a2bc4"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "21d0e860a45aa78ce140",
+        "3ef385e12b8390e7c296",
+        "5829c37ceba4bb08b7ca",
+        "6bb645a9240daf3608b7"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "780cd181b71d2da70ef9",
+        "8a25806354795473427d",
+        "b10a523fb99f16a0132e",
+        "cd4ed33412cec8670fcf"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "57bee42728f9a74be2df"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "5829c37ceba4bb08b7ca",
+      "6bb645a9240daf3608b7",
+      "21d0e860a45aa78ce140",
+      "3ef385e12b8390e7c296"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "STENSETH HANDEL AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 12,
+    "runtime_ms": 8950,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "925751855",
+  "profile": {
+    "bankrupt": false,
+    "employees": 20,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:53.666248Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "925751855",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "65b4d16e3c5254dbfac636c63090a300e51e6691078788a4e48f0b03a0af78b9",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:53.931129Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/925751855",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 296045.0,
+              "assets": 9486354.0,
+              "currency": "NOK",
+              "debt": 8045558.0,
+              "equity": 1440796.0,
+              "operating_result": 346698.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 380199.0,
+              "record_id": 4679967,
+              "revenue": 92830043.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 243200.0,
+              "assets": 9855180.0,
+              "currency": "NOK",
+              "debt": 8171183.0,
+              "equity": 1683997.0,
+              "operating_result": 257448.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 311452.0,
+              "record_id": 5506245,
+              "revenue": 96570464.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 482020.0,
+              "assets": 10276948.0,
+              "currency": "NOK",
+              "debt": 8735406.0,
+              "equity": 1541542.0,
+              "operating_result": 582376.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 636583.0,
+              "record_id": 6430227,
+              "revenue": 101213221.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:56.294174Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/925751855",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9bd2381d571659a7a89f4076fb0b34c11534efe2ce3291f3b94d92aeb48c142f",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:58.355644Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=925751855&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Enenvegen 1A"
+                ],
+                "kommune": "MOLDE",
+                "kommunenummer": "1506",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "6416",
+                "poststed": "MOLDE"
+              },
+              "employees": 20,
+              "industry": {
+                "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+                "kode": "47.110"
+              },
+              "name": "REMA 1000 FUGLSET",
+              "organisation_number": "972022780"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "925751855",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Butikkhandel med dagligvare.",
+          "antallAnsatte": "20",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "c/o Rema 1000 Fuglset\nEnenvegen 1A",
+          "forretningsadresse.kommune": "MOLDE",
+          "forretningsadresse.kommunenummer": "1506",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "6416",
+          "forretningsadresse.poststed": "MOLDE",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "500",
+          "kapital.belop": "500000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2020-10-06",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+          "naeringskode1.kode": "47.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "STENSETH HANDEL AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "925751855",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+          "registreringsdatoForetaksregisteret": "2020-10-06",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2020-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-10-08",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-09-10",
+          "registreringsdatoenhetsregisteret": "2020-10-06",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2020-09-23",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2020-09-23",
+          "vedtektsfestetFormaal": "Selv, gjennom hel- eller deleide selskaper eller ved samarbeide med andre virksomheter, å forestå drift av dagligvareforretning og annen virksomhet beslektet med denne."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "c91d1aa762a568aa5a8e38891fb65e1a7bd467bf8ff96003ddeb7e5c6cc8c31b",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:55.135717Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/925751855/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2020-10-06",
+              "name": "Eivind Andre Stenseth",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2020-10-06",
+              "name": "Eivind Andre Stenseth",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2024-08-15",
+              "name": [
+                "PRICEWATERHOUSECOOPERS AS"
+              ],
+              "organisation_number": "987009713",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2020-10-06",
+              "name": [
+                "REMA 1000 NORGE AS"
+              ],
+              "organisation_number": "982254604",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "47.110",
+    "industry_label": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "MOLDE",
+    "municipality_number": "1506",
+    "name": "STENSETH HANDEL AS",
+    "organisation_number": "925751855",
+    "run_metrics": {
+      "latencies_ms": [
+        1188,
+        1202,
+        1156,
+        2062,
+        31,
+        62,
+        735,
+        500,
+        266,
+        109,
+        46,
+        1593
+      ],
+      "requests": 12
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:01Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "STENSETH HANDEL AS (AS, org.nr 925751855)",
+    "what_it_does": "STENSETH HANDEL AS is classified under NACE code 47.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, STENSETH HANDEL AS reported revenue of 101,213,221 NOK and an operating result of 582,376 NOK. Net result was 482,020 NOK, with total assets of 10,276,948 NOK and equity of 1,541,542 NOK. Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%). Operating margin was 0.6% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Eivind Andre Stenseth. Daily operations are led by general manager Eivind Andre Stenseth. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "STENSETH HANDEL AS is classified under NACE code 47.110 (unspecified).",
+        "claim_ids": [
+          "3ef385e12b8390e7c296",
+          "5829c37ceba4bb08b7ca"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "6bb645a9240daf3608b7",
+          "3ef385e12b8390e7c296"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, STENSETH HANDEL AS reported revenue of 101,213,221 NOK and an operating result of 582,376 NOK.",
+        "claim_ids": [
+          "461a47cff1531a708371",
+          "3aab1f66c0203af13d2f"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 482,020 NOK, with total assets of 10,276,948 NOK and equity of 1,541,542 NOK.",
+        "claim_ids": [
+          "152ba3aae125033fb114",
+          "208b0002297445ab785b",
+          "cbfe7589cf118170e3fe"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue remained stable year-over-year from 2024 (derived: YoY revenue change within 10%).",
+        "claim_ids": [
+          "461a47cff1531a708371",
+          "bd7b0158fcf9c3aab9c5"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 0.6% (derived: operating result / revenue).",
+        "claim_ids": [
+          "3aab1f66c0203af13d2f",
+          "461a47cff1531a708371"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Eivind Andre Stenseth.",
+        "claim_ids": [
+          "b10a523fb99f16a0132e"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Eivind Andre Stenseth.",
+        "claim_ids": [
+          "cd4ed33412cec8670fcf"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "780cd181b71d2da70ef9",
+          "8a25806354795473427d",
+          "b10a523fb99f16a0132e",
+          "cd4ed33412cec8670fcf"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "5829c37ceba4bb08b7ca"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "57bee42728f9a74be2df"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "5829c37ceba4bb08b7ca"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "5829c37ceba4bb08b7ca"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "5829c37ceba4bb08b7ca"
+        ]
+      }
+    ]
+  }
+}

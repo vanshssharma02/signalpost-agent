@@ -1,0 +1,1201 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "81db109c667157786153",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7130.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b225f4ba5fd051915e0d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "da8980c6f83dfe14bcd7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5670.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "47d7dc55deec63077510",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5810.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "511c64e2a0be8af0b773",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12940.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8da5f34bda8588f02a15",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18760.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "66b4b8e982cff54f14e8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8e71f1bbb9722d3393ca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f6fe34d20f6614e840b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2d3d03aea966dac3d3bf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 12940.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "58656505aa5af217f94a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18760.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bc19e1971d7ee77775fd",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5810.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "049476f986554afa8098",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5670.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1609da44e5e8532aeb88",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7130.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "299fe460bc3aad49efc0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1f7f356d0678345c8ed3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -7130.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b84d520f528bdecf428d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5670.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f4853d49ddf702e762e8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -5820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f9c2b2d857944bf80b2a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-828801252-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 0.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3a0195e9747688bea20e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-828801252"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "00.000"
+    },
+    {
+      "availability": "available",
+      "claim_id": "59b21bfb08b957b4df1b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-828801252"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "e6ccf350139500b14fe1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-828801252"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AGINVEST AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "67e3666082827f5aab91",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-828801252-bdc77e772e6b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Andre Gidoin",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3fd8e977272201df513",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-828801252-ff1ca42b1dcd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:08Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:08Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Andre Gidoin",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -5670.0, profit_before_tax: -5670.0, annual_result: -5670.0, assets: 18760.0, equity: 18760.0, debt: 0.0",
+      "content_sha256": "829ac0b8b05d67f03d4d661fd0191c6ae28585494ec3b648932eb20bdff21d32",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "http_status": 200,
+      "id": "ev-fin-828801252-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.684561Z",
+      "snapshot_ref": "82/829ac0b8b05d67f03d4d661fd0191c6ae28585494ec3b648932eb20bdff21d32.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: operating_result: -5820.0, profit_before_tax: -5820.0, annual_result: -5820.0, assets: 12940.0, equity: 12940.0, debt: 0.0",
+      "content_sha256": "8224a36ceab43046a9b0daa905ebd2a4389be5139b29cd12ae5cf68b4d0300f4",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "http_status": 200,
+      "id": "ev-fin-828801252-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.684561Z",
+      "snapshot_ref": "82/8224a36ceab43046a9b0daa905ebd2a4389be5139b29cd12ae5cf68b4d0300f4.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 0.0, operating_result: -7130.0, profit_before_tax: -7130.0, annual_result: -7130.0, assets: 5810.0, equity: 5810.0, debt: 0.0",
+      "content_sha256": "8b3fe4aa369029900e9c36e9f9034c82a1ee4a597c02b74a1b072bd2d69820ed",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "http_status": 200,
+      "id": "ev-fin-828801252-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:02.684561Z",
+      "snapshot_ref": "8b/8b3fe4aa369029900e9c36e9f9034c82a1ee4a597c02b74a1b072bd2d69820ed.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 828801252 AGINVEST AS",
+      "content_sha256": "9c0cbbee4068e3a874b66abcfb3ceb6119e10c6b31458c126803b1306cbb035b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-828801252",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "9c/9c0cbbee4068e3a874b66abcfb3ceb6119e10c6b31458c126803b1306cbb035b.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Andre Gidoin",
+      "content_sha256": "ac1507ec8cf40b5bfa529248062ec7f62f43e0e34bd89fcfd93cbe0f7089894a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828801252/roller",
+      "http_status": 200,
+      "id": "ev-role-828801252-bdc77e772e6b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:03.892089Z",
+      "snapshot_ref": "ac/ac1507ec8cf40b5bfa529248062ec7f62f43e0e34bd89fcfd93cbe0f7089894a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828801252/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Andre Gidoin",
+      "content_sha256": "ac1507ec8cf40b5bfa529248062ec7f62f43e0e34bd89fcfd93cbe0f7089894a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828801252/roller",
+      "http_status": 200,
+      "id": "ev-role-828801252-ff1ca42b1dcd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:03.892089Z",
+      "snapshot_ref": "ac/ac1507ec8cf40b5bfa529248062ec7f62f43e0e34bd89fcfd93cbe0f7089894a.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828801252/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "049476f986554afa8098",
+        "1609da44e5e8532aeb88",
+        "1f7f356d0678345c8ed3",
+        "299fe460bc3aad49efc0",
+        "2d3d03aea966dac3d3bf",
+        "47d7dc55deec63077510",
+        "511c64e2a0be8af0b773",
+        "58656505aa5af217f94a",
+        "66b4b8e982cff54f14e8",
+        "81db109c667157786153",
+        "8da5f34bda8588f02a15",
+        "8e71f1bbb9722d3393ca",
+        "b225f4ba5fd051915e0d",
+        "b84d520f528bdecf428d",
+        "bc19e1971d7ee77775fd",
+        "da8980c6f83dfe14bcd7",
+        "f4853d49ddf702e762e8",
+        "f6fe34d20f6614e840b7",
+        "f9c2b2d857944bf80b2a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3a0195e9747688bea20e",
+        "59b21bfb08b957b4df1b",
+        "e6ccf350139500b14fe1"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "67e3666082827f5aab91",
+        "f3fd8e977272201df513"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_subunits_returned"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "e6ccf350139500b14fe1",
+      "59b21bfb08b957b4df1b",
+      "3a0195e9747688bea20e"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "AGINVEST AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 7232,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "828801252",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:48.849189Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "828801252",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "42327c57cfba7387a4a7c95cbb70af4eb29fc47bda68d893790819665f0e8810",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:02.684561Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/828801252",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -5670.0,
+              "assets": 18760.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 18760.0,
+              "operating_result": -5670.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -5670.0,
+              "record_id": 4661045,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -5820.0,
+              "assets": 12940.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 12940.0,
+              "operating_result": -5820.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -5820.0,
+              "record_id": 5545373,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -7130.0,
+              "assets": 5810.0,
+              "currency": "NOK",
+              "debt": 0.0,
+              "equity": 5810.0,
+              "operating_result": -7130.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -7130.0,
+              "record_id": 7039320,
+              "revenue": 0.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:05.073403Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/828801252",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a9853f45375ffca7baa545db14b0df390a63a8639d049ba46f869bb52da9349b",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:06.298077Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=828801252&size=1000",
+        "status": "available",
+        "value": {
+          "locations": []
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "828801252",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Holdingselskap. Interiørdesign.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Langes gate 13",
+          "forretningsadresse.kommune": "OSLO",
+          "forretningsadresse.kommunenummer": "0301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "0165",
+          "forretningsadresse.poststed": "OSLO",
+          "fravalgRevisjonBeslutningsDato": "2022-02-09",
+          "fravalgRevisjonDato": "2022-02-24",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "30000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-02-24",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Uoppgitt",
+          "naeringskode1.kode": "00.000",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "AGINVEST AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "828801252",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "2022-02-24",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "2022-02-24",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-02-09",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2024-08-16",
+          "vedtektsfestetFormaal": "Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagende, i tillegg til å designe, produsere og selge interiørdesign på en nettbutikk den drifter selv."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "00518dd78a42663b7dc8e9f58bb2a5245de08777c82c8b6297716f5e7523d76c",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:03.892089Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/828801252/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2022-02-24",
+              "name": "Andre Gidoin",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-02-24",
+              "name": "Andre Gidoin",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "00.000",
+    "industry_label": "Uoppgitt",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "OSLO",
+    "municipality_number": "0301",
+    "name": "AGINVEST AS",
+    "organisation_number": "828801252",
+    "run_metrics": {
+      "latencies_ms": [
+        1203,
+        1202,
+        1187,
+        1218,
+        1406,
+        1016
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:08Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "AGINVEST AS (AS, org.nr 828801252)",
+    "what_it_does": "AGINVEST AS is classified under NACE code 00.000 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, AGINVEST AS reported revenue of 0 NOK and an operating result of -7,130 NOK. Net result was -7,130 NOK, with total assets of 5,810 NOK and equity of 5,810 NOK. The company was loss-making in 2025.",
+    "leadership_and_structure": "The board of directors is chaired by Andre Gidoin. Daily operations are led by general manager Andre Gidoin. The entity has 2 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "No secondary operating subunits are registered.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "locations",
+        "why": "locations: no_subunits_returned",
+        "checked": [
+          "official_subunits_api"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "AGINVEST AS is classified under NACE code 00.000 (unspecified).",
+        "claim_ids": [
+          "3a0195e9747688bea20e",
+          "e6ccf350139500b14fe1"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "59b21bfb08b957b4df1b",
+          "3a0195e9747688bea20e"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, AGINVEST AS reported revenue of 0 NOK and an operating result of -7,130 NOK.",
+        "claim_ids": [
+          "f9c2b2d857944bf80b2a",
+          "1609da44e5e8532aeb88"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -7,130 NOK, with total assets of 5,810 NOK and equity of 5,810 NOK.",
+        "claim_ids": [
+          "81db109c667157786153",
+          "47d7dc55deec63077510",
+          "bc19e1971d7ee77775fd"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "81db109c667157786153"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "The board of directors is chaired by Andre Gidoin.",
+        "claim_ids": [
+          "67e3666082827f5aab91"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Daily operations are led by general manager Andre Gidoin.",
+        "claim_ids": [
+          "f3fd8e977272201df513"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The entity has 2 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "67e3666082827f5aab91",
+          "f3fd8e977272201df513"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "e6ccf350139500b14fe1"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No secondary operating subunits are registered.",
+        "claim_ids": [
+          "e6ccf350139500b14fe1"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "e6ccf350139500b14fe1"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "e6ccf350139500b14fe1"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "e6ccf350139500b14fe1"
+        ]
+      }
+    ]
+  }
+}

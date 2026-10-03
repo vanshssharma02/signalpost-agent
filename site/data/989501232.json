@@ -1,0 +1,1479 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "22def829eeb58591de01",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -545853.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "299f3fe12c9af0ec7e29",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 660892.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6546b9677e36c185a301",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -200048.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "348fe66e67031240f488",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3925117.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "789a7fd7a7378487b80f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1322696.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f814c37b981694a52b2a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 5152827.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c1d8e9946f1cd4c69007",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1394365.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c3fe670b7b44f5d0f300",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 3796738.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "cb309fa2682e63e443d4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4563604.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3226c749123d4414b456",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -71669.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9b7174ec7de0ee097efb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 128379.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "debf570b54c78add29f7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 589223.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ad020b50d4c3eb5832b4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 167792.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "bf1abcec1bb82391e1bb",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -650699.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "ebb9d2a260886d61b1e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 744234.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0a4878a4c71e8bbc4aa1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -516154.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0e3748cf5b8d61141996",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 610787.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "457f744e82443cb1077f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -200048.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "319cef48b78c6ca042fa",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 18050079.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "3ad3f92406c2e93efebf",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 19887240.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "43865a211dcc1e3313d4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-989501232-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 20382923.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "565f4dfe98cf2b4b016a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989501232"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "47.520"
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8ec8b6fd19cc3d11537",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989501232"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4da278e557445bb4698e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-989501232"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NORWIN AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "23aa25582edc1fca2de6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989501232-76a839c0813b"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Per Schiøtz",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "7f7c894652581782e6e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989501232-3ec0ff589b59"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Arve Smørdal",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "ba95afe1e329551819ff",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989501232-805b297114b2"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ØKONOMIKONTROLL BW AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d3ca7c42a1bff3082080",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989501232-370b9dfe0e6e"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Per Schiøtz",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "fb232dac521364367da5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-989501232-004dde8a1a59"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "ENTER REVISJON AS",
+        "role": "Revisor",
+        "role_code": "REVI"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "942208244cb76ea338d9",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-989501232-987113855"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:49:17Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:49:17Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Gabriel Christiansens gate 16"
+          ],
+          "kommune": "TØNSBERG",
+          "kommunenummer": "3905",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3127",
+          "poststed": "TØNSBERG"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass",
+          "kode": "47.520"
+        },
+        "name": "NORWIN AS",
+        "organisation_number": "987113855"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 20382923.0, operating_result: -650699.0, profit_before_tax: -516154.0, annual_result: -545853.0, assets: 3925117.0, equity: 128379.0, debt: 3796738.0",
+      "content_sha256": "1704310c1095c3fe337c8df524ef5425a11a08d31e30243280938726237316d2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "http_status": 200,
+      "id": "ev-fin-989501232-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:56.808901Z",
+      "snapshot_ref": "17/1704310c1095c3fe337c8df524ef5425a11a08d31e30243280938726237316d2.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 18050079.0, operating_result: 167792.0, profit_before_tax: -200048.0, annual_result: -200048.0, assets: 1322696.0, equity: -71669.0, debt: 1394365.0",
+      "content_sha256": "30d63af6b35b5952f77315c66f38175cdd1c72f85638fe31e0d434402579a326",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "http_status": 200,
+      "id": "ev-fin-989501232-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:56.808901Z",
+      "snapshot_ref": "30/30d63af6b35b5952f77315c66f38175cdd1c72f85638fe31e0d434402579a326.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 19887240.0, operating_result: 744234.0, profit_before_tax: 610787.0, annual_result: 660892.0, assets: 5152827.0, equity: 589223.0, debt: 4563604.0",
+      "content_sha256": "3bd2f31a8cd45f33bf8adc48bc7dd36d1b4f69ffa624b0f621380f069fbcd0fd",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "http_status": 200,
+      "id": "ev-fin-989501232-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:56.808901Z",
+      "snapshot_ref": "3b/3bd2f31a8cd45f33bf8adc48bc7dd36d1b4f69ffa624b0f621380f069fbcd0fd.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 987113855: NORWIN AS",
+      "content_sha256": "be6dd607e56e6ee9dfd13655a3e6477de1f880a577d3467cdd25d3fcd4ac5f48",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989501232&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-989501232-987113855",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:49:00.312226Z",
+      "snapshot_ref": "be/be6dd607e56e6ee9dfd13655a3e6477de1f880a577d3467cdd25d3fcd4ac5f48.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989501232&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 989501232 NORWIN AS",
+      "content_sha256": "eb67e05d2bd01b91a337aa79af32f37e70ee65235954ee93b29ae4e5ba63a3a2",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-989501232",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "eb/eb67e05d2bd01b91a337aa79af32f37e70ee65235954ee93b29ae4e5ba63a3a2.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REVI: ENTER REVISJON AS",
+      "content_sha256": "9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "http_status": 200,
+      "id": "ev-role-989501232-004dde8a1a59",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.985002Z",
+      "snapshot_ref": "9f/9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Per Schiøtz",
+      "content_sha256": "9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "http_status": 200,
+      "id": "ev-role-989501232-370b9dfe0e6e",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.985002Z",
+      "snapshot_ref": "9f/9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Arve Smørdal",
+      "content_sha256": "9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "http_status": 200,
+      "id": "ev-role-989501232-3ec0ff589b59",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.985002Z",
+      "snapshot_ref": "9f/9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Per Schiøtz",
+      "content_sha256": "9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "http_status": 200,
+      "id": "ev-role-989501232-76a839c0813b",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.985002Z",
+      "snapshot_ref": "9f/9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: ØKONOMIKONTROLL BW AS",
+      "content_sha256": "9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "http_status": 200,
+      "id": "ev-role-989501232-805b297114b2",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:57.985002Z",
+      "snapshot_ref": "9f/9f56dc68117813920e93c40e9f21cf7cdba92fd46f75493d323b793c35a20527.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0a4878a4c71e8bbc4aa1",
+        "0e3748cf5b8d61141996",
+        "22def829eeb58591de01",
+        "299f3fe12c9af0ec7e29",
+        "319cef48b78c6ca042fa",
+        "3226c749123d4414b456",
+        "348fe66e67031240f488",
+        "3ad3f92406c2e93efebf",
+        "43865a211dcc1e3313d4",
+        "457f744e82443cb1077f",
+        "6546b9677e36c185a301",
+        "789a7fd7a7378487b80f",
+        "9b7174ec7de0ee097efb",
+        "ad020b50d4c3eb5832b4",
+        "bf1abcec1bb82391e1bb",
+        "c1d8e9946f1cd4c69007",
+        "c3fe670b7b44f5d0f300",
+        "cb309fa2682e63e443d4",
+        "debf570b54c78add29f7",
+        "ebb9d2a260886d61b1e6",
+        "f814c37b981694a52b2a"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "4da278e557445bb4698e",
+        "565f4dfe98cf2b4b016a",
+        "d8ec8b6fd19cc3d11537"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "23aa25582edc1fca2de6",
+        "7f7c894652581782e6e5",
+        "ba95afe1e329551819ff",
+        "d3ca7c42a1bff3082080",
+        "fb232dac521364367da5"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "942208244cb76ea338d9"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "4da278e557445bb4698e",
+      "d8ec8b6fd19cc3d11537",
+      "565f4dfe98cf2b4b016a"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NORWIN AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 8,
+    "runtime_ms": 22232,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "989501232",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:02.157955Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "989501232",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "972a5ad16e58a44cef398c87d0daba0a43791d692d4618d26c3b89595e745d2d",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:56.808901Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/989501232",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -545853.0,
+              "assets": 3925117.0,
+              "currency": "NOK",
+              "debt": 3796738.0,
+              "equity": 128379.0,
+              "operating_result": -650699.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -516154.0,
+              "record_id": 5117453,
+              "revenue": 20382923.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -200048.0,
+              "assets": 1322696.0,
+              "currency": "NOK",
+              "debt": 1394365.0,
+              "equity": -71669.0,
+              "operating_result": 167792.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -200048.0,
+              "record_id": 5679077,
+              "revenue": 18050079.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 660892.0,
+              "assets": 5152827.0,
+              "currency": "NOK",
+              "debt": 4563604.0,
+              "equity": 589223.0,
+              "operating_result": 744234.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 610787.0,
+              "record_id": 6731752,
+              "revenue": 19887240.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:59.149065Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/989501232",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a9e056d3a9fe672e3efc85dd68b4861a4036a8d4d64b93c7f1ba5a2b63cb2ec5",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:49:00.312226Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=989501232&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Gabriel Christiansens gate 16"
+                ],
+                "kommune": "TØNSBERG",
+                "kommunenummer": "3905",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3127",
+                "poststed": "TØNSBERG"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass",
+                "kode": "47.520"
+              },
+              "name": "NORWIN AS",
+              "organisation_number": "987113855"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "989501232",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Kjøp/ salg av byggevarer og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer.",
+          "antallAnsatte": "",
+          "epostadresse": "pe-schi@online.no",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Gabriel Christiansens gate 16",
+          "forretningsadresse.kommune": "TØNSBERG",
+          "forretningsadresse.kommunenummer": "3905",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3127",
+          "forretningsadresse.poststed": "TØNSBERG",
+          "fravalgRevisjonBeslutningsDato": "",
+          "fravalgRevisjonDato": "",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "3000",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2021-12-29",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "90583823",
+          "naeringskode1.beskrivelse": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass",
+          "naeringskode1.kode": "47.520",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NORWIN AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "989501232",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-02-12",
+          "registreringsdatoForetaksregisteret": "2006-02-23",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2006-01-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2006-03-11",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-02-10",
+          "registreringsdatoenhetsregisteret": "2006-02-23",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2006-02-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2021-10-14",
+          "vedtektsfestetFormaal": "Kjøp/ salg av byggevarer og andre produkter som naturlig faller sammen med dette, herunder å delta i andre selskaper med lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg interessert i andre foretagender."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "6bc4f4fad36218706ad43665467ebe226ac253ccc095e17da527d34a652376fb",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:57.985002Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/989501232/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2006-02-23",
+              "name": "Per Schiøtz",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-02-23",
+              "name": "Per Schiøtz",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2006-02-23",
+              "name": "Arve Smørdal",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Revisor",
+              "group_code": "REVI",
+              "inactive": false,
+              "last_changed": "2017-11-29",
+              "name": [
+                "ENTER REVISJON AS"
+              ],
+              "organisation_number": "987597046",
+              "role": "Revisor",
+              "role_code": "REVI"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2006-02-23",
+              "name": [
+                "ØKONOMIKONTROLL BW AS"
+              ],
+              "organisation_number": "834095742",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "47.520",
+    "industry_label": "Detaljhandel med jernvarer, byggevarer, fargevarer og glass",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "TØNSBERG",
+    "municipality_number": "3905",
+    "name": "NORWIN AS",
+    "organisation_number": "989501232",
+    "run_metrics": {
+      "latencies_ms": [
+        1203,
+        1171,
+        1172,
+        1156,
+        1625,
+        390,
+        172,
+        15343
+      ],
+      "requests": 8
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:49:17Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NORWIN AS (AS, org.nr 989501232)",
+    "what_it_does": "NORWIN AS is classified under NACE code 47.520 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, NORWIN AS reported revenue of 19,887,240 NOK and an operating result of 744,234 NOK. Net result was 660,892 NOK, with total assets of 5,152,827 NOK and equity of 589,223 NOK. Revenue grew by +10.2% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 3.7% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Per Schiøtz. Daily operations are led by general manager Per Schiøtz. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NORWIN AS is classified under NACE code 47.520 (unspecified).",
+        "claim_ids": [
+          "565f4dfe98cf2b4b016a",
+          "4da278e557445bb4698e"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "d8ec8b6fd19cc3d11537",
+          "565f4dfe98cf2b4b016a"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, NORWIN AS reported revenue of 19,887,240 NOK and an operating result of 744,234 NOK.",
+        "claim_ids": [
+          "3ad3f92406c2e93efebf",
+          "ebb9d2a260886d61b1e6"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 660,892 NOK, with total assets of 5,152,827 NOK and equity of 589,223 NOK.",
+        "claim_ids": [
+          "299f3fe12c9af0ec7e29",
+          "f814c37b981694a52b2a",
+          "debf570b54c78add29f7"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +10.2% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "3ad3f92406c2e93efebf",
+          "319cef48b78c6ca042fa"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 3.7% (derived: operating result / revenue).",
+        "claim_ids": [
+          "ebb9d2a260886d61b1e6",
+          "3ad3f92406c2e93efebf"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Per Schiøtz.",
+        "claim_ids": [
+          "23aa25582edc1fca2de6"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Per Schiøtz.",
+        "claim_ids": [
+          "d3ca7c42a1bff3082080"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "23aa25582edc1fca2de6",
+          "7f7c894652581782e6e5",
+          "ba95afe1e329551819ff",
+          "d3ca7c42a1bff3082080",
+          "fb232dac521364367da5"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "4da278e557445bb4698e"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "942208244cb76ea338d9"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "4da278e557445bb4698e"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "4da278e557445bb4698e"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "4da278e557445bb4698e"
+        ]
+      }
+    ]
+  }
+}

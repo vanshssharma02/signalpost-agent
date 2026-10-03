@@ -1,0 +1,1425 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "507f467cb8e57443247a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 207961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de34fd7bd382309c6f32",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 338821.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e7bddd6423289c73701b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 187961.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2dd61570cc108654dcca",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2589854.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2e99de61895d9b0b728d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2804662.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8e3ad014ad9c2b6a1806",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2983802.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "25c0bddb3517f078d662",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 28076.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "48cae83815c000c701b1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 30051.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d8f6f4b5c168c42ef760",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 36898.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7d4b9cecd94848e80167",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2955726.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "87d17ef47746f4585f46",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2559804.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a2e995a1d302fb2ddf0c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2767765.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24489978f3f520a0b80a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 67068.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "9749ad6902d25d02bb63",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 78792.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d9091df20d43e6177f79",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 44176.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0d2c9fff8cf2b6e1f8e5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 368455.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "559ab03e12ea3f887891",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 239318.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f84631deaf68053acba0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 213627.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c4b088de28e7b617a3c3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 82820.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f0a292b5ac421284f10f",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 49726.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f565d1970d62081933e6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-975798046-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 75500.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "de10dbd998208a9b5e5b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-975798046"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "68.110"
+    },
+    {
+      "availability": "available",
+      "claim_id": "3f78809ca39144435004",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-975798046"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "4a3b0db3112b597b2710",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-975798046"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NISTUGU AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "0eb3b54d9aa5fdd23604",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-975798046-38770cf68ecd"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Vidar Grutle Sire",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "1cb70295f2d5fd3bbd30",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-975798046-7ea7c2103398"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Vidar Grutle Sire",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "d66c58c2864ed9cb1a6a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-975798046-3630a62b788c"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Heidi Anita Jacobsen Sire",
+        "role": "Varamedlem",
+        "role_code": "VARA"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "dc7fccf6878b63c05cd1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-975798046-f775e18df502"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "HALLINGDAL ØKONOMISERVICE AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "28385f03592455e818a2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-975798046-928385418"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:40Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:40Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Sirevegen 178"
+          ],
+          "kommune": "ÅL",
+          "kommunenummer": "3328",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3579",
+          "poststed": "TORPO"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "kode": "68.110"
+        },
+        "name": "NISTUGU AS",
+        "organisation_number": "928385418"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 82820.0, operating_result: 78792.0, profit_before_tax: 368455.0, annual_result: 338821.0, assets: 2589854.0, equity: 2559804.0, debt: 30051.0",
+      "content_sha256": "f6e8ea454f4a698448becda72d4df185a355eb5020b0e40ed2740be93e46f42d",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "http_status": 200,
+      "id": "ev-fin-975798046-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:20.418023Z",
+      "snapshot_ref": "f6/f6e8ea454f4a698448becda72d4df185a355eb5020b0e40ed2740be93e46f42d.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 75500.0, operating_result: 67068.0, profit_before_tax: 239318.0, annual_result: 207961.0, assets: 2804662.0, equity: 2767765.0, debt: 36898.0",
+      "content_sha256": "531fa7580ffa02ed4b632186505f9c4cf9f71927f747826d0a54ef1e0488a2fa",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "http_status": 200,
+      "id": "ev-fin-975798046-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:20.418023Z",
+      "snapshot_ref": "53/531fa7580ffa02ed4b632186505f9c4cf9f71927f747826d0a54ef1e0488a2fa.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 49726.0, operating_result: 44176.0, profit_before_tax: 213627.0, annual_result: 187961.0, assets: 2983802.0, equity: 2955726.0, debt: 28076.0",
+      "content_sha256": "83bdd6b8554cb52b61a691525a98673303ad4fd60166eaed052e5462cff93877",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "http_status": 200,
+      "id": "ev-fin-975798046-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:48:20.418023Z",
+      "snapshot_ref": "83/83bdd6b8554cb52b61a691525a98673303ad4fd60166eaed052e5462cff93877.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 928385418: NISTUGU AS",
+      "content_sha256": "c222ef58c3111390d6ee48eade94d31c5af167fd9168afed1307b405089a6f2b",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=975798046&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-975798046-928385418",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:24.964936Z",
+      "snapshot_ref": "c2/c222ef58c3111390d6ee48eade94d31c5af167fd9168afed1307b405089a6f2b.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=975798046&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 975798046 NISTUGU AS",
+      "content_sha256": "9b00031c3b7f552dfdcdb9249488113300ec463b7998c7d18aec3347f057d244",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-975798046",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "9b/9b00031c3b7f552dfdcdb9249488113300ec463b7998c7d18aec3347f057d244.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role VARA: Heidi Anita Jacobsen Sire",
+      "content_sha256": "2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "http_status": 200,
+      "id": "ev-role-975798046-3630a62b788c",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:21.595932Z",
+      "snapshot_ref": "2d/2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Vidar Grutle Sire",
+      "content_sha256": "2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "http_status": 200,
+      "id": "ev-role-975798046-38770cf68ecd",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:21.595932Z",
+      "snapshot_ref": "2d/2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Vidar Grutle Sire",
+      "content_sha256": "2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "http_status": 200,
+      "id": "ev-role-975798046-7ea7c2103398",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:21.595932Z",
+      "snapshot_ref": "2d/2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: HALLINGDAL ØKONOMISERVICE AS",
+      "content_sha256": "2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "http_status": 200,
+      "id": "ev-role-975798046-f775e18df502",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:21.595932Z",
+      "snapshot_ref": "2d/2d22b08eba6716026f7a78aa6fda79dc77f7eac1ef98bfce92d8237a1954ada3.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0d2c9fff8cf2b6e1f8e5",
+        "24489978f3f520a0b80a",
+        "25c0bddb3517f078d662",
+        "2dd61570cc108654dcca",
+        "2e99de61895d9b0b728d",
+        "48cae83815c000c701b1",
+        "507f467cb8e57443247a",
+        "559ab03e12ea3f887891",
+        "7d4b9cecd94848e80167",
+        "87d17ef47746f4585f46",
+        "8e3ad014ad9c2b6a1806",
+        "9749ad6902d25d02bb63",
+        "a2e995a1d302fb2ddf0c",
+        "c4b088de28e7b617a3c3",
+        "d8f6f4b5c168c42ef760",
+        "d9091df20d43e6177f79",
+        "de34fd7bd382309c6f32",
+        "e7bddd6423289c73701b",
+        "f0a292b5ac421284f10f",
+        "f565d1970d62081933e6",
+        "f84631deaf68053acba0"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "3f78809ca39144435004",
+        "4a3b0db3112b597b2710",
+        "de10dbd998208a9b5e5b"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0eb3b54d9aa5fdd23604",
+        "1cb70295f2d5fd3bbd30",
+        "d66c58c2864ed9cb1a6a",
+        "dc7fccf6878b63c05cd1"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "28385f03592455e818a2"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "4a3b0db3112b597b2710",
+      "3f78809ca39144435004",
+      "de10dbd998208a9b5e5b"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NISTUGU AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 6,
+    "runtime_ms": 20856,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "975798046",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:00.250331Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "975798046",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "fb7f7329da4f18aa6bf7a1d8b7594459fdd4fbec44c65aceef6e05432c033a50",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:20.418023Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/975798046",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 338821.0,
+              "assets": 2589854.0,
+              "currency": "NOK",
+              "debt": 30051.0,
+              "equity": 2559804.0,
+              "operating_result": 78792.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 368455.0,
+              "record_id": 5057123,
+              "revenue": 82820.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 207961.0,
+              "assets": 2804662.0,
+              "currency": "NOK",
+              "debt": 36898.0,
+              "equity": 2767765.0,
+              "operating_result": 67068.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": 239318.0,
+              "record_id": 5988717,
+              "revenue": 75500.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 187961.0,
+              "assets": 2983802.0,
+              "currency": "NOK",
+              "debt": 28076.0,
+              "equity": 2955726.0,
+              "operating_result": 44176.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 213627.0,
+              "record_id": 6572443,
+              "revenue": 49726.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:23.746068Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/975798046",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "9187aa8fc8c0bcb24dcd860bc809346086e553be2b1bd99593618f74b2b5e5e8",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:24.964936Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=975798046&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Sirevegen 178"
+                ],
+                "kommune": "ÅL",
+                "kommunenummer": "3328",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3579",
+                "poststed": "TORPO"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Kjøp og salg av egen fast eiendom",
+                "kode": "68.110"
+              },
+              "name": "NISTUGU AS",
+              "organisation_number": "928385418"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "975798046",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Konsulentvirksomhet, kjøp og salg av fast eiendom, samt deltakelse i andre selskaper. Selskapet skal også drive med produksjon og salg av treprodukter/bioenergi.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Sirevegen 178",
+          "forretningsadresse.kommune": "ÅL",
+          "forretningsadresse.kommunenummer": "3328",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3579",
+          "forretningsadresse.poststed": "TORPO",
+          "fravalgRevisjonBeslutningsDato": "2017-12-31",
+          "fravalgRevisjonDato": "2018-01-19",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "false",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "800",
+          "kapital.belop": "200000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2002-01-15",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Kjøp og salg av egen fast eiendom",
+          "naeringskode1.kode": "68.110",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NISTUGU AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "975798046",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "",
+          "registreringsdatoForetaksregisteret": "1995-12-28",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2021-09-01",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-10-02",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "",
+          "registreringsdatoenhetsregisteret": "1995-10-10",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "1995-08-01",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2005-08-30",
+          "vedtektsfestetFormaal": "Konsulentvirksomhet, kjøp og salg av fast eiendom, samt deltakelse i andre selskaper. Selskapet kan også drive produksjon og handel."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "25fbf42ed67fb1fe9c470afd714b7508f565490758d5ce6e184a1e2b1cbe6197",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:21.595932Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/975798046/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2005-09-08",
+              "name": "Vidar Grutle Sire",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2005-09-08",
+              "name": "Vidar Grutle Sire",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2005-09-08",
+              "name": "Heidi Anita Jacobsen Sire",
+              "organisation_number": null,
+              "role": "Varamedlem",
+              "role_code": "VARA"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2026-05-11",
+              "name": [
+                "HALLINGDAL ØKONOMISERVICE AS"
+              ],
+              "organisation_number": "980057925",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "68.110",
+    "industry_label": "Kjøp og salg av egen fast eiendom",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "ÅL",
+    "municipality_number": "3328",
+    "name": "NISTUGU AS",
+    "organisation_number": "975798046",
+    "run_metrics": {
+      "latencies_ms": [
+        1156,
+        1172,
+        2155,
+        1219,
+        15093,
+        61
+      ],
+      "requests": 6
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:40Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NISTUGU AS (AS, org.nr 975798046)",
+    "what_it_does": "NISTUGU AS is classified under NACE code 68.110 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, NISTUGU AS reported revenue of 49,726 NOK and an operating result of 44,176 NOK. Net result was 187,961 NOK, with total assets of 2,983,802 NOK and equity of 2,955,726 NOK. Revenue contracted by -34.1% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 88.8% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Vidar Grutle Sire. Daily operations are led by general manager Vidar Grutle Sire. The entity has 4 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NISTUGU AS is classified under NACE code 68.110 (unspecified).",
+        "claim_ids": [
+          "de10dbd998208a9b5e5b",
+          "4a3b0db3112b597b2710"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "3f78809ca39144435004",
+          "de10dbd998208a9b5e5b"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, NISTUGU AS reported revenue of 49,726 NOK and an operating result of 44,176 NOK.",
+        "claim_ids": [
+          "f0a292b5ac421284f10f",
+          "d9091df20d43e6177f79"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 187,961 NOK, with total assets of 2,983,802 NOK and equity of 2,955,726 NOK.",
+        "claim_ids": [
+          "e7bddd6423289c73701b",
+          "8e3ad014ad9c2b6a1806",
+          "7d4b9cecd94848e80167"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue contracted by -34.1% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "f0a292b5ac421284f10f",
+          "f565d1970d62081933e6"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 88.8% (derived: operating result / revenue).",
+        "claim_ids": [
+          "d9091df20d43e6177f79",
+          "f0a292b5ac421284f10f"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Vidar Grutle Sire.",
+        "claim_ids": [
+          "1cb70295f2d5fd3bbd30"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Vidar Grutle Sire.",
+        "claim_ids": [
+          "0eb3b54d9aa5fdd23604"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 4 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "0eb3b54d9aa5fdd23604",
+          "1cb70295f2d5fd3bbd30",
+          "d66c58c2864ed9cb1a6a",
+          "dc7fccf6878b63c05cd1"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "4a3b0db3112b597b2710"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "28385f03592455e818a2"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "4a3b0db3112b597b2710"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "4a3b0db3112b597b2710"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "4a3b0db3112b597b2710"
+        ]
+      }
+    ]
+  }
+}

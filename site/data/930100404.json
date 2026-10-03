@@ -1,0 +1,1377 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "96310c2c0f2f816cb460",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 238924.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c0653a4a5ca9dd4d03f3",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 556522.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "db9478400a4cee7165c2",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -318478.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "2332adee1de79656b55a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 293561.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "8c34b32a87d530568166",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 976348.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f53de6df6dc259487f9d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 657167.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1d305d7043d90c08ce47",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 461919.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aebab7229d4c386dcd53",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 588185.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "c50f6d5161c1eec501a5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 507047.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "64345617f678f5ed577c",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -168359.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a2bee146e1b978dee50a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 150120.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "decfd5a5ceae7261027d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 388163.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "60711534f318763d7118",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -317620.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "6b964e6666313af1849e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 623050.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7611f66cc87abff12b86",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 272688.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5579ee11ac23d9d92fbe",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 623708.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "56efcb76b93b913673c4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 272804.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "5ab86898af0083e89c57",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -318478.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "0f86d2e356274da30049",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 952366.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a221c275d0a08690b890",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2023"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2269651.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "a831eda1ba1dfaa82f81",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-930100404-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 2193225.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "efafef33914e5649b067",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930100404"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "86.930"
+    },
+    {
+      "availability": "available",
+      "claim_id": "c77dee6d1c825129d98a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930100404"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a8abfa7cada7b6eaa347",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-930100404"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "BOSGEN AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "417565c1db6188f8c09a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-930100404-d089b7ffc424"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "LIERSKOGEN REGNSKAPSSERVICE Birte Øen",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "aca82fb0bb96ec9da3e4",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-930100404-9d570203246f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Elisabeth Østensen",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "c9ba1d3a003ddd364c75",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-930100404-be8abf14f2a6"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Elisabeth Østensen",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "f85b5e7d22124aaad17e",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-930100404-930215422"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:47:59Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:47:59Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Ryums vei 54"
+          ],
+          "kommune": "DRAMMEN",
+          "kommunenummer": "3301",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "3036",
+          "poststed": "DRAMMEN"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+          "kode": "86.930"
+        },
+        "name": "BOSGEN AS",
+        "organisation_number": "930215422"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: revenue: 2269651.0, operating_result: 272688.0, profit_before_tax: 272804.0, annual_result: 238924.0, assets: 657167.0, equity: 150120.0, debt: 507047.0",
+      "content_sha256": "82f388668367626f9ef9bed25ff89f2da29638007ff96f3dc81b8d4c15d91478",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "http_status": 200,
+      "id": "ev-fin-930100404-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.625828Z",
+      "snapshot_ref": "82/82f388668367626f9ef9bed25ff89f2da29638007ff96f3dc81b8d4c15d91478.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 952366.0, operating_result: -317620.0, profit_before_tax: -318478.0, annual_result: -318478.0, assets: 293561.0, equity: -168359.0, debt: 461919.0",
+      "content_sha256": "57ab0fe880188e210c827c7137e375f55f63ca764254f5856eba0493dcc42703",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "http_status": 200,
+      "id": "ev-fin-930100404-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.625828Z",
+      "snapshot_ref": "57/57ab0fe880188e210c827c7137e375f55f63ca764254f5856eba0493dcc42703.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 2193225.0, operating_result: 623050.0, profit_before_tax: 623708.0, annual_result: 556522.0, assets: 976348.0, equity: 388163.0, debt: 588185.0",
+      "content_sha256": "35986798c61f392827eaae8de2f41739bbbd9a53a864df19d4c3b8f1785917ae",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "http_status": 200,
+      "id": "ev-fin-930100404-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:53.625828Z",
+      "snapshot_ref": "35/35986798c61f392827eaae8de2f41739bbbd9a53a864df19d4c3b8f1785917ae.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 930215422: BOSGEN AS",
+      "content_sha256": "4d5fb5c584bdd4642da2e1761d5e401edecfd15f4aec0fe550219b7f44cd643c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=930100404&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-930100404-930215422",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:57.229028Z",
+      "snapshot_ref": "4d/4d5fb5c584bdd4642da2e1761d5e401edecfd15f4aec0fe550219b7f44cd643c.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=930100404&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 930100404 BOSGEN AS",
+      "content_sha256": "6399302690900b877cf8c1443809faf5540dbe5c40040340dce11f47eea0031f",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-930100404",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "63/6399302690900b877cf8c1443809faf5540dbe5c40040340dce11f47eea0031f.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Elisabeth Østensen",
+      "content_sha256": "599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "http_status": 200,
+      "id": "ev-role-930100404-9d570203246f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:54.838345Z",
+      "snapshot_ref": "59/599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Elisabeth Østensen",
+      "content_sha256": "599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "http_status": 200,
+      "id": "ev-role-930100404-be8abf14f2a6",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:54.838345Z",
+      "snapshot_ref": "59/599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: LIERSKOGEN REGNSKAPSSERVICE Birte Øen",
+      "content_sha256": "599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "http_status": 200,
+      "id": "ev-role-930100404-d089b7ffc424",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:54.838345Z",
+      "snapshot_ref": "59/599089d4c86a53df0be1520931c18edade416362f59547c5ab7c68cea0879984.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "0f86d2e356274da30049",
+        "1d305d7043d90c08ce47",
+        "2332adee1de79656b55a",
+        "5579ee11ac23d9d92fbe",
+        "56efcb76b93b913673c4",
+        "5ab86898af0083e89c57",
+        "60711534f318763d7118",
+        "64345617f678f5ed577c",
+        "6b964e6666313af1849e",
+        "7611f66cc87abff12b86",
+        "8c34b32a87d530568166",
+        "96310c2c0f2f816cb460",
+        "a221c275d0a08690b890",
+        "a2bee146e1b978dee50a",
+        "a831eda1ba1dfaa82f81",
+        "aebab7229d4c386dcd53",
+        "c0653a4a5ca9dd4d03f3",
+        "c50f6d5161c1eec501a5",
+        "db9478400a4cee7165c2",
+        "decfd5a5ceae7261027d",
+        "f53de6df6dc259487f9d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a8abfa7cada7b6eaa347",
+        "c77dee6d1c825129d98a",
+        "efafef33914e5649b067"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "417565c1db6188f8c09a",
+        "aca82fb0bb96ec9da3e4",
+        "c9ba1d3a003ddd364c75"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "f85b5e7d22124aaad17e"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "a8abfa7cada7b6eaa347",
+      "c77dee6d1c825129d98a",
+      "efafef33914e5649b067"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "BOSGEN AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 7,
+    "runtime_ms": 7466,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "930100404",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:55.387270Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "930100404",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "1054fa137f6b5b33c6847191dbb299f0dafc5d61f8b1b6912a61814f4c2e218c",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:53.625828Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/930100404",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 238924.0,
+              "assets": 657167.0,
+              "currency": "NOK",
+              "debt": 507047.0,
+              "equity": 150120.0,
+              "operating_result": 272688.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": 272804.0,
+              "record_id": 4848077,
+              "revenue": 2269651.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -318478.0,
+              "assets": 293561.0,
+              "currency": "NOK",
+              "debt": 461919.0,
+              "equity": -168359.0,
+              "operating_result": -317620.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -318478.0,
+              "record_id": 5611857,
+              "revenue": 952366.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": 556522.0,
+              "assets": 976348.0,
+              "currency": "NOK",
+              "debt": 588185.0,
+              "equity": 388163.0,
+              "operating_result": 623050.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": 623708.0,
+              "record_id": 6672536,
+              "revenue": 2193225.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:47:56.030379Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/930100404",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "a4baf5f58330226b06b9756818bd5212ab037a8669b374d2797028710d6bb942",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:57.229028Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=930100404&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Ryums vei 54"
+                ],
+                "kommune": "DRAMMEN",
+                "kommunenummer": "3301",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "3036",
+                "poststed": "DRAMMEN"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+                "kode": "86.930"
+              },
+              "name": "BOSGEN AS",
+              "organisation_number": "930215422"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "930100404",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Psykologfaglig virksomhet. Sakkyndighetsarbeid.",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Ryums vei 54",
+          "forretningsadresse.kommune": "DRAMMEN",
+          "forretningsadresse.kommunenummer": "3301",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "3036",
+          "forretningsadresse.poststed": "DRAMMEN",
+          "fravalgRevisjonBeslutningsDato": "2022-09-16",
+          "fravalgRevisjonDato": "2022-10-26",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "10",
+          "kapital.belop": "30000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2022-10-26",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+          "naeringskode1.kode": "86.930",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "BOSGEN AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "930100404",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "Postboks 9523 Åskollen",
+          "postadresse.kommune": "DRAMMEN",
+          "postadresse.kommunenummer": "3301",
+          "postadresse.land": "Norge",
+          "postadresse.landkode": "NO",
+          "postadresse.postnummer": "3066",
+          "postadresse.poststed": "DRAMMEN",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+          "registreringsdatoForetaksregisteret": "2022-10-26",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-07-10",
+          "registreringsdatoenhetsregisteret": "2022-10-26",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "false",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2022-09-16",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2022-09-16",
+          "vedtektsfestetFormaal": "Barnesakkyndige utredninger etter barneloven og barnevernloven."
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "d4196d4abfc17339ee0925e3168c321fbe7259886f3980fa2ce43b9b695df376",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:54.838345Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/930100404/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2022-10-26",
+              "name": "Elisabeth Østensen",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2022-10-26",
+              "name": "Elisabeth Østensen",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2022-10-26",
+              "name": [
+                "LIERSKOGEN REGNSKAPSSERVICE",
+                "Birte Øen"
+              ],
+              "organisation_number": "976076567",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "86.930",
+    "industry_label": "Psykolog- og psykoterapitjenester, unntatt legetjenester innenfor psykiatri",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "DRAMMEN",
+    "municipality_number": "3301",
+    "name": "BOSGEN AS",
+    "organisation_number": "930100404",
+    "run_metrics": {
+      "latencies_ms": [
+        1155,
+        1219,
+        1187,
+        1202,
+        31,
+        1906,
+        766
+      ],
+      "requests": 7
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:47:59Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "BOSGEN AS (AS, org.nr 930100404)",
+    "what_it_does": "BOSGEN AS is classified under NACE code 86.930 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, BOSGEN AS reported revenue of 2,193,225 NOK and an operating result of 623,050 NOK. Net result was 556,522 NOK, with total assets of 976,348 NOK and equity of 388,163 NOK. Revenue grew by +130.3% year-over-year from 2024 (derived: YoY revenue change). Operating margin was 28.4% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Elisabeth Østensen. Daily operations are led by general manager Elisabeth Østensen. The entity has 3 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "BOSGEN AS is classified under NACE code 86.930 (unspecified).",
+        "claim_ids": [
+          "efafef33914e5649b067",
+          "a8abfa7cada7b6eaa347"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "c77dee6d1c825129d98a",
+          "efafef33914e5649b067"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, BOSGEN AS reported revenue of 2,193,225 NOK and an operating result of 623,050 NOK.",
+        "claim_ids": [
+          "a831eda1ba1dfaa82f81",
+          "6b964e6666313af1849e"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was 556,522 NOK, with total assets of 976,348 NOK and equity of 388,163 NOK.",
+        "claim_ids": [
+          "c0653a4a5ca9dd4d03f3",
+          "8c34b32a87d530568166",
+          "decfd5a5ceae7261027d"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "Revenue grew by +130.3% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "a831eda1ba1dfaa82f81",
+          "0f86d2e356274da30049"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Operating margin was 28.4% (derived: operating result / revenue).",
+        "claim_ids": [
+          "6b964e6666313af1849e",
+          "a831eda1ba1dfaa82f81"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "The board of directors is chaired by Elisabeth Østensen.",
+        "claim_ids": [
+          "aca82fb0bb96ec9da3e4"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "Daily operations are led by general manager Elisabeth Østensen.",
+        "claim_ids": [
+          "c9ba1d3a003ddd364c75"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "The entity has 3 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "417565c1db6188f8c09a",
+          "aca82fb0bb96ec9da3e4",
+          "c9ba1d3a003ddd364c75"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "a8abfa7cada7b6eaa347"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "f85b5e7d22124aaad17e"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "a8abfa7cada7b6eaa347"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "a8abfa7cada7b6eaa347"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "a8abfa7cada7b6eaa347"
+        ]
+      }
+    ]
+  }
+}

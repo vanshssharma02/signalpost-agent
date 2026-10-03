@@ -1,0 +1,1470 @@
+{
+  "availability": "available",
+  "changes": [],
+  "claims": [
+    {
+      "availability": "available",
+      "claim_id": "074b7d5dad2ae7bb84c8",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -206735.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24ff2d9623fc4f9c3480",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -368056.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "b10b0a225b07053e101a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "annual_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -2583.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "368c25fcec3bbbdcd5ac",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 63681.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7b934a1cc2846939bbb0",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 101556.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "e5c7eea6618ea0ee935b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "assets",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 327686.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "03a5da5721ed6181b579",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 805060.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "1cafedf67452937d3ec6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 4139.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f3e0a14483cbb8c299b7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "debt",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 172999.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "24c18b69a19adaac9dc1",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 97417.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "42c3eb188ed5f1e42e24",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -477374.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "f469a3163c708be5d23d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "equity",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -109318.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "15dd576f945ae2f5fca6",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -264106.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "34cdac3eb14a8e1c1f06",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -303287.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "d84b96de5fbfc6807db7",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "operating_result",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3311.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "21e241d5a23bd1bd9a98",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -309018.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "7e0ef10c51be018e78b5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -265045.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "99533b6d42a426160ada",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2023"
+      ],
+      "family": "accounts",
+      "field": "profit_before_tax",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": -3311.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "18f97b314328ba30e21b",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2024"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 597418.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "81d2879570e27aa44e63",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-fin-932512378-2025"
+      ],
+      "family": "accounts",
+      "field": "revenue",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "regnskap_api",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "source_class": "official_annual_accounts",
+      "value": 1000168.0
+    },
+    {
+      "availability": "available",
+      "claim_id": "aaf25f8825808d2f4048",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932512378"
+      ],
+      "family": "identity",
+      "field": "industry_code",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "43.120"
+    },
+    {
+      "availability": "available",
+      "claim_id": "a3c5cd83ef64f03df069",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932512378"
+      ],
+      "family": "identity",
+      "field": "legal_form",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "908c16ec1ac4282f2250",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-reg-932512378"
+      ],
+      "family": "identity",
+      "field": "legal_name",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": "orgnr_exact",
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "registry_snapshot",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_registry",
+      "value": "NÆRØYSUND BERGARBEID AS"
+    },
+    {
+      "availability": "available",
+      "claim_id": "17fa5a6a64f5872f7f7a",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932512378-99052f2f1b42"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anders Lysø",
+        "role": "Daglig leder",
+        "role_code": "DAGL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "61e7dd131505ca26ce9d",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932512378-7d295f2c6c1f"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Morten Lysø",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "9fa1c2f883dff237dfc5",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932512378-1f495a19b144"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Anders Lysø",
+        "role": "Styremedlem",
+        "role_code": "MEDL"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "aeb588195495d3b59f42",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932512378-9f3fb3ada0bc"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "Vegard Lysø",
+        "role": "Styrets leder",
+        "role_code": "LEDE"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "eac3b646ec3b58597e63",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-role-932512378-c9e50c9c8caf"
+      ],
+      "family": "leadership",
+      "field": "role_holder",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "roller_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_roles",
+      "value": {
+        "name": "NAMDAL REGNSKAP AS",
+        "role": "Regnskapsfører",
+        "role_code": "REGN"
+      }
+    },
+    {
+      "availability": "available",
+      "claim_id": "a040dfbd41de03506494",
+      "confidence": 1.0,
+      "evidence_ids": [
+        "ev-loc-932512378-932726300"
+      ],
+      "family": "locations",
+      "field": "subunit",
+      "first_observed_at": "2026-10-03T20:48:02Z",
+      "identity_proof": null,
+      "last_verified_at": "2026-10-03T20:48:02Z",
+      "method": "underenheter_api",
+      "published_at": null,
+      "reporting_period": null,
+      "source_class": "official_subunits",
+      "value": {
+        "address": {
+          "adresse": [
+            "Nordaunveien 63"
+          ],
+          "kommune": "NÆRØYSUND",
+          "kommunenummer": "5060",
+          "land": "Norge",
+          "landkode": "NO",
+          "postnummer": "7900",
+          "poststed": "RØRVIK"
+        },
+        "employees": null,
+        "industry": {
+          "beskrivelse": "Grunnarbeid",
+          "kode": "43.120"
+        },
+        "name": "NÆRØYSUND BERGARBEID AS",
+        "organisation_number": "932726300"
+      }
+    }
+  ],
+  "errors": [],
+  "evidence": [
+    {
+      "claim_span": "Filing 2023: operating_result: -3311.0, profit_before_tax: -3311.0, annual_result: -2583.0, assets: 101556.0, equity: 97417.0, debt: 4139.0",
+      "content_sha256": "84cbb9ade3dafca94b4dab359e5bed0135bb39c8e1e67ca8beee538019c00f0c",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "http_status": 200,
+      "id": "ev-fin-932512378-2023",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2023-01-01",
+        "to": "2023-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:57.979102Z",
+      "snapshot_ref": "84/84cbb9ade3dafca94b4dab359e5bed0135bb39c8e1e67ca8beee538019c00f0c.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2024: revenue: 597418.0, operating_result: -264106.0, profit_before_tax: -265045.0, annual_result: -206735.0, assets: 63681.0, equity: -109318.0, debt: 172999.0",
+      "content_sha256": "f39422ffa861e4648f9d8c6040cd650c0d95eeb0c7929a9556749b8560d2891a",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "http_status": 200,
+      "id": "ev-fin-932512378-2024",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2024-01-01",
+        "to": "2024-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:57.979102Z",
+      "snapshot_ref": "f3/f39422ffa861e4648f9d8c6040cd650c0d95eeb0c7929a9556749b8560d2891a.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Filing 2025: revenue: 1000168.0, operating_result: -303287.0, profit_before_tax: -309018.0, annual_result: -368056.0, assets: 327686.0, equity: -477374.0, debt: 805060.0",
+      "content_sha256": "6719065742f80d2aeb7dddc9ec23fac562e2fa88233993e10be4ef85ae59f6c3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "http_status": 200,
+      "id": "ev-fin-932512378-2025",
+      "published_at": null,
+      "reporting_period": {
+        "from": "2025-01-01",
+        "to": "2025-12-31"
+      },
+      "retrieved_at": "2026-10-03T20:47:57.979102Z",
+      "snapshot_ref": "67/6719065742f80d2aeb7dddc9ec23fac562e2fa88233993e10be4ef85ae59f6c3.gz",
+      "source_class": "official_annual_accounts",
+      "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Subunit 932726300: NÆRØYSUND BERGARBEID AS",
+      "content_sha256": "b702e3f7d569350e019f4d0ba7f3bc643b2813c434699c77fffff368ce220908",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932512378&size=1000",
+      "http_status": 200,
+      "id": "ev-loc-932512378-932726300",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:48:01.554239Z",
+      "snapshot_ref": "b7/b702e3f7d569350e019f4d0ba7f3bc643b2813c434699c77fffff368ce220908.gz",
+      "source_class": "official_subunits",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932512378&size=1000",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Organisasjonsnummer 932512378 NÆRØYSUND BERGARBEID AS",
+      "content_sha256": "6c617f370b3e6c33a4d9a74ce5956696337b8099520821f818cd3dfff01c76e3",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "http_status": 200,
+      "id": "ev-reg-932512378",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:46:48Z",
+      "snapshot_ref": "6c/6c617f370b3e6c33a4d9a74ce5956696337b8099520821f818cd3dfff01c76e3.gz",
+      "source_class": "official_registry_bulk",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Anders Lysø",
+      "content_sha256": "e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "http_status": 200,
+      "id": "ev-role-932512378-1f495a19b144",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.174803Z",
+      "snapshot_ref": "e3/e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role MEDL: Morten Lysø",
+      "content_sha256": "e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "http_status": 200,
+      "id": "ev-role-932512378-7d295f2c6c1f",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.174803Z",
+      "snapshot_ref": "e3/e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role DAGL: Anders Lysø",
+      "content_sha256": "e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "http_status": 200,
+      "id": "ev-role-932512378-99052f2f1b42",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.174803Z",
+      "snapshot_ref": "e3/e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role LEDE: Vegard Lysø",
+      "content_sha256": "e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "http_status": 200,
+      "id": "ev-role-932512378-9f3fb3ada0bc",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.174803Z",
+      "snapshot_ref": "e3/e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "span_locator": null
+    },
+    {
+      "claim_span": "Role REGN: NAMDAL REGNSKAP AS",
+      "content_sha256": "e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648",
+      "extractor": "",
+      "extractor_version": "1",
+      "final_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "http_status": 200,
+      "id": "ev-role-932512378-c9e50c9c8caf",
+      "published_at": null,
+      "reporting_period": null,
+      "retrieved_at": "2026-10-03T20:47:59.174803Z",
+      "snapshot_ref": "e3/e34dad10cc6db62677562832b92bed82054c82bc59bd66db04d0f22d87beb648.gz",
+      "source_class": "official_roles",
+      "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+      "span_locator": null
+    }
+  ],
+  "field_states": {
+    "accounts": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "03a5da5721ed6181b579",
+        "074b7d5dad2ae7bb84c8",
+        "15dd576f945ae2f5fca6",
+        "18f97b314328ba30e21b",
+        "1cafedf67452937d3ec6",
+        "21e241d5a23bd1bd9a98",
+        "24c18b69a19adaac9dc1",
+        "24ff2d9623fc4f9c3480",
+        "34cdac3eb14a8e1c1f06",
+        "368c25fcec3bbbdcd5ac",
+        "42c3eb188ed5f1e42e24",
+        "7b934a1cc2846939bbb0",
+        "7e0ef10c51be018e78b5",
+        "81d2879570e27aa44e63",
+        "99533b6d42a426160ada",
+        "b10b0a225b07053e101a",
+        "d84b96de5fbfc6807db7",
+        "e5c7eea6618ea0ee935b",
+        "f3e0a14483cbb8c299b7",
+        "f469a3163c708be5d23d"
+      ],
+      "reason": "verified"
+    },
+    "accounts_history": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "activity": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_news_items_detected"
+    },
+    "brand": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "checked_nothing_found"
+    },
+    "company_profiles": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "no_profiles_detected"
+    },
+    "group": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "not_in_group"
+    },
+    "hiring": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "none_in_nav_feed_or_site"
+    },
+    "identity": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "908c16ec1ac4282f2250",
+        "a3c5cd83ef64f03df069",
+        "aaf25f8825808d2f4048"
+      ],
+      "reason": "verified"
+    },
+    "leadership": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "17fa5a6a64f5872f7f7a",
+        "61e7dd131505ca26ce9d",
+        "9fa1c2f883dff237dfc5",
+        "aeb588195495d3b59f42",
+        "eac3b646ec3b58597e63"
+      ],
+      "reason": "verified"
+    },
+    "locations": {
+      "availability": "available",
+      "checked_sources": [],
+      "claim_ids": [
+        "a040dfbd41de03506494"
+      ],
+      "reason": "verified"
+    },
+    "website": {
+      "availability": "not_available",
+      "checked_sources": [],
+      "claim_ids": [],
+      "reason": "discovery_ladder_exhausted_unverified"
+    }
+  },
+  "identity": {
+    "claim_ids": [
+      "908c16ec1ac4282f2250",
+      "a3c5cd83ef64f03df069",
+      "aaf25f8825808d2f4048"
+    ],
+    "flags": {
+      "bankrupt": false,
+      "deleted": false,
+      "liquidating": false
+    },
+    "legal_name": "NÆRØYSUND BERGARBEID AS"
+  },
+  "modules": {},
+  "operations": {
+    "requests": 16,
+    "runtime_ms": 5367,
+    "third_party_cost_usd": 0.0
+  },
+  "organisation_number": "932512378",
+  "profile": {
+    "bankrupt": false,
+    "employees": null,
+    "evidence": {
+      "accounting_obligation": {
+        "as_of": "2024-08-09",
+        "content_sha256": "b94e22c6da7667d1ae10db3dcb20f1b279634a1ce07b21111fc0f56758b3b6fb",
+        "effective_at": null,
+        "field": "accounting_obligation",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:46:56.349298Z",
+        "source_class": "official_rule_interpretation",
+        "source_row_key": "932512378",
+        "source_type": "official_rule_interpretation",
+        "source_url": "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/",
+        "status": "available",
+        "value": {
+          "classification": "filing_observed",
+          "latest_submitted_accounts": "2025",
+          "legal_form": "AS",
+          "reason": "The registry snapshot reports a latest submitted annual-account year.",
+          "ruleset_version": "brreg_accounting_obligation_rules_2024-08-09_v1"
+        }
+      },
+      "financials": {
+        "as_of": null,
+        "content_sha256": "d0cccf3dafd751e4955f87a5a83eda3f1863060e06093777edaf6cdbdbd62c13",
+        "effective_at": null,
+        "field": "financials",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:57.979102Z",
+        "source_class": "official_annual_accounts",
+        "source_row_key": null,
+        "source_type": "official_annual_accounts",
+        "source_url": "https://data.brreg.no/regnskapsregisteret/regnskap/932512378",
+        "status": "available",
+        "value": {
+          "records": [
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -2583.0,
+              "assets": 101556.0,
+              "currency": "NOK",
+              "debt": 4139.0,
+              "equity": 97417.0,
+              "operating_result": -3311.0,
+              "period": {
+                "fraDato": "2023-01-01",
+                "tilDato": "2023-12-31"
+              },
+              "profit_before_tax": -3311.0,
+              "record_id": 4572929,
+              "revenue": null
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -206735.0,
+              "assets": 63681.0,
+              "currency": "NOK",
+              "debt": 172999.0,
+              "equity": -109318.0,
+              "operating_result": -264106.0,
+              "period": {
+                "fraDato": "2024-01-01",
+                "tilDato": "2024-12-31"
+              },
+              "profit_before_tax": -265045.0,
+              "record_id": 6171483,
+              "revenue": 597418.0
+            },
+            {
+              "account_type": "SELSKAP",
+              "annual_result": -368056.0,
+              "assets": 327686.0,
+              "currency": "NOK",
+              "debt": 805060.0,
+              "equity": -477374.0,
+              "operating_result": -303287.0,
+              "period": {
+                "fraDato": "2025-01-01",
+                "tilDato": "2025-12-31"
+              },
+              "profit_before_tax": -309018.0,
+              "record_id": 7102052,
+              "revenue": 1000168.0
+            }
+          ]
+        }
+      },
+      "group": {
+        "as_of": null,
+        "content_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "effective_at": null,
+        "field": "group",
+        "note": "HTTP 404",
+        "retrieved_at": "2026-10-03T20:48:00.373090Z",
+        "source_class": "official_group_structure",
+        "source_row_key": null,
+        "source_type": "official_group_structure",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/932512378",
+        "status": "not_found",
+        "value": null
+      },
+      "locations": {
+        "as_of": null,
+        "content_sha256": "f89c8af8177c6ad59f18385ef6ea59407046bca8993a4b01430e96ef165684ef",
+        "effective_at": null,
+        "field": "locations",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:48:01.554239Z",
+        "source_class": "official_subunits",
+        "source_row_key": null,
+        "source_type": "official_subunits",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet=932512378&size=1000",
+        "status": "available",
+        "value": {
+          "locations": [
+            {
+              "address": {
+                "adresse": [
+                  "Nordaunveien 63"
+                ],
+                "kommune": "NÆRØYSUND",
+                "kommunenummer": "5060",
+                "land": "Norge",
+                "landkode": "NO",
+                "postnummer": "7900",
+                "poststed": "RØRVIK"
+              },
+              "employees": null,
+              "industry": {
+                "beskrivelse": "Grunnarbeid",
+                "kode": "43.120"
+              },
+              "name": "NÆRØYSUND BERGARBEID AS",
+              "organisation_number": "932726300"
+            }
+          ]
+        }
+      },
+      "registry": {
+        "content_sha256": "a074fc7f565e89a545f2578e29842841274dfcf28747c7824f34a3e5e6796138",
+        "field": "registry",
+        "retrieved_at": "2026-10-03T20:46:48Z",
+        "source_class": "official_registry_bulk",
+        "source_row_key": "932512378",
+        "source_type": "official_registry_bulk",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+        "status": "available",
+        "value": {
+          "aktivitet": "Grunnarbeid (graving, drenering, sprengning, planering).",
+          "antallAnsatte": "",
+          "epostadresse": "",
+          "erIKonsern": "false",
+          "foretaksformIHjemlandet.beskrivelse": "",
+          "foretaksformIHjemlandet.beskrivelseBokmaal": "",
+          "foretaksformIHjemlandet.kode": "",
+          "forretningsadresse.adresse": "Nordaunveien 63",
+          "forretningsadresse.kommune": "NÆRØYSUND",
+          "forretningsadresse.kommunenummer": "5060",
+          "forretningsadresse.land": "Norge",
+          "forretningsadresse.landkode": "NO",
+          "forretningsadresse.postnummer": "7900",
+          "forretningsadresse.poststed": "RØRVIK",
+          "fravalgRevisjonBeslutningsDato": "2023-10-13",
+          "fravalgRevisjonDato": "2023-12-16",
+          "frivilligMvaRegistrertBeskrivelser": "",
+          "harRegistrertAntallAnsatte": "true",
+          "hjelpeenhetskode.beskrivelse": "",
+          "hjelpeenhetskode.kode": "",
+          "hjemmeside": "",
+          "institusjonellSektorkode.beskrivelse": "Private aksjeselskaper mv.",
+          "institusjonellSektorkode.kode": "2100",
+          "kapital.antallAksjer": "100",
+          "kapital.belop": "100000.00",
+          "kapital.bundet": "",
+          "kapital.fulltInnbetalt": "",
+          "kapital.innbetalt": "",
+          "kapital.innfortDato": "2023-12-16",
+          "kapital.type": "Aksjekapital",
+          "kapital.valuta": "NOK",
+          "konkurs": "false",
+          "konkursdato": "",
+          "maalform": "Bokmål",
+          "mobil": "",
+          "naeringskode1.beskrivelse": "Grunnarbeid",
+          "naeringskode1.kode": "43.120",
+          "naeringskode2.beskrivelse": "",
+          "naeringskode2.kode": "",
+          "naeringskode3.beskrivelse": "",
+          "naeringskode3.kode": "",
+          "navn": "NÆRØYSUND BERGARBEID AS",
+          "organisasjonsform.beskrivelse": "Aksjeselskap",
+          "organisasjonsform.kode": "AS",
+          "organisasjonsnummer": "932512378",
+          "overordnetEnhet": "",
+          "paategninger": "false",
+          "postadresse.adresse": "",
+          "postadresse.kommune": "",
+          "postadresse.kommunenummer": "",
+          "postadresse.land": "",
+          "postadresse.landkode": "",
+          "postadresse.postnummer": "",
+          "postadresse.poststed": "",
+          "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+          "registreringsdatoForetaksregisteret": "2023-12-16",
+          "registreringsdatoFrivilligMerverdiavgiftsregisteret": "",
+          "registreringsdatoFrivillighetsregisteret": "",
+          "registreringsdatoMerverdiavgiftsregisteret": "2024-05-15",
+          "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-05-18",
+          "registreringsdatoPartiregisteret": "",
+          "registreringsdatoantallansatteNAVAaregisteret": "2026-08-10",
+          "registreringsdatoenhetsregisteret": "2023-12-16",
+          "registreringsnummerIHjemlandet": "",
+          "registrertIForetaksregisteret": "true",
+          "registrertIFrivillighetsregisteret": "false",
+          "registrertIMvaRegisteret": "true",
+          "registrertIPartiregisteret": "false",
+          "registrertIStiftelsesregisteret": "false",
+          "sisteInnsendteAarsregnskap": "2025",
+          "stiftelsesdato": "2023-10-13",
+          "telefon": "",
+          "tvangsavvikletPgaManglendeSlettingDato": "",
+          "tvangsopplostPgaMangelfulltStyreDato": "",
+          "tvangsopplostPgaManglendeDagligLederDato": "",
+          "tvangsopplostPgaManglendeRegnskapDato": "",
+          "tvangsopplostPgaManglendeRevisorDato": "",
+          "underAvvikling": "false",
+          "underAvviklingDato": "",
+          "underRekonstruksjonsforhandlingDato": "",
+          "underTvangsavviklingEllerTvangsopplosning": "false",
+          "underUtenlandskInsolvensbehandlingDato": "",
+          "underlagtLovgivningLand": "",
+          "underlagtLovgivningLandKode": "",
+          "utenlandskRegisterAdresse.adresse": "",
+          "utenlandskRegisterAdresse.land": "",
+          "utenlandskRegisterAdresse.poststed": "",
+          "utenlandskRegisterNavn": "",
+          "vedtektsdato": "2023-10-13",
+          "vedtektsfestetFormaal": "Boring og sprenging av berg, samt graving og masseforflytning"
+        }
+      },
+      "roles": {
+        "as_of": null,
+        "content_sha256": "508c0e590081d3abec2281f063c3e63fb721723e58f044f5a56f0770e98a41cb",
+        "effective_at": null,
+        "field": "roles",
+        "note": null,
+        "retrieved_at": "2026-10-03T20:47:59.174803Z",
+        "source_class": "official_roles",
+        "source_row_key": null,
+        "source_type": "official_roles",
+        "source_url": "https://data.brreg.no/enhetsregisteret/api/enheter/932512378/roller",
+        "status": "available",
+        "value": {
+          "roles": [
+            {
+              "group": "Daglig leder",
+              "group_code": "DAGL",
+              "inactive": false,
+              "last_changed": "2023-12-16",
+              "name": "Anders Lysø",
+              "organisation_number": null,
+              "role": "Daglig leder",
+              "role_code": "DAGL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-12-16",
+              "name": "Vegard Lysø",
+              "organisation_number": null,
+              "role": "Styrets leder",
+              "role_code": "LEDE"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-12-16",
+              "name": "Morten Lysø",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Styre",
+              "group_code": "STYR",
+              "inactive": false,
+              "last_changed": "2023-12-16",
+              "name": "Anders Lysø",
+              "organisation_number": null,
+              "role": "Styremedlem",
+              "role_code": "MEDL"
+            },
+            {
+              "group": "Regnskapsfører",
+              "group_code": "REGN",
+              "inactive": false,
+              "last_changed": "2023-12-16",
+              "name": [
+                "NAMDAL REGNSKAP AS"
+              ],
+              "organisation_number": "984997965",
+              "role": "Regnskapsfører",
+              "role_code": "REGN"
+            }
+          ]
+        }
+      },
+      "website": {
+        "note": "discovery_ladder_exhausted_unverified",
+        "status": "not_available"
+      }
+    },
+    "industry_code": "43.120",
+    "industry_label": "Grunnarbeid",
+    "latest_submitted_accounts": "2025",
+    "legal_form": "AS",
+    "liquidating": false,
+    "municipality": "NÆRØYSUND",
+    "municipality_number": "5060",
+    "name": "NÆRØYSUND BERGARBEID AS",
+    "organisation_number": "932512378",
+    "run_metrics": {
+      "latencies_ms": [
+        1218,
+        1187,
+        1202,
+        1188,
+        31,
+        46,
+        47,
+        61,
+        32,
+        62,
+        30,
+        63,
+        14,
+        46,
+        63,
+        77
+      ],
+      "requests": 16
+    },
+    "website": ""
+  },
+  "run": {
+    "agent": {
+      "git_commit": "phase-05",
+      "name": "signalpost",
+      "version": "0.5.0"
+    },
+    "completed_at": "2026-10-03T20:48:02Z",
+    "run_id": "run-20261003T204647Z",
+    "started_at": "2026-10-03T20:46:47Z",
+    "strategy_set": "default",
+    "terminal_status": "completed"
+  },
+  "schema_version": "signalpost-envelope/1",
+  "state": "complete",
+  "status": "available",
+  "status_reason": "verified_claims_present",
+  "synthesis": {
+    "generator": "template-v1",
+    "language": "en",
+    "headline": "NÆRØYSUND BERGARBEID AS (AS, org.nr 932512378)",
+    "what_it_does": "NÆRØYSUND BERGARBEID AS is classified under NACE code 43.120 (unspecified).",
+    "business_model": "Operates as a registered AS entity within the commercial sector.",
+    "size_and_financials": "For fiscal year 2025, NÆRØYSUND BERGARBEID AS reported revenue of 1,000,168 NOK and an operating result of -303,287 NOK. Net result was -368,056 NOK, with total assets of 327,686 NOK and equity of -477,374 NOK. The company was loss-making in 2025. Revenue grew by +67.4% year-over-year from 2024 (derived: YoY revenue change). Operating margin was -30.3% (derived: operating result / revenue).",
+    "leadership_and_structure": "The board of directors is chaired by Vegard Lysø. Daily operations are led by general manager Anders Lysø. The entity has 5 registered role position(s) in the register of business enterprises. No corporate group hierarchy or parent company is registered.",
+    "locations": "The entity maintains 1 registered operating subunit(s) across Norway.",
+    "hiring_signal": "No active job postings were found in the NAV feed or on verified site pages.",
+    "recent_activity": "No recent news items were detected on verified company sources.",
+    "what_changed": "First observation on 2026-10-03; no earlier snapshot recorded.",
+    "unknowns": [
+      {
+        "topic": "brand",
+        "why": "brand: checked_nothing_found",
+        "checked": [
+          "verified_website_meta"
+        ]
+      },
+      {
+        "topic": "accounts_history",
+        "why": "accounts_history: checked_nothing_found",
+        "checked": [
+          "official_annual_accounts"
+        ]
+      },
+      {
+        "topic": "group",
+        "why": "group: not_in_group",
+        "checked": [
+          "official_group_structure_api"
+        ]
+      },
+      {
+        "topic": "website",
+        "why": "website: discovery_ladder_exhausted_unverified",
+        "checked": [
+          "registry_homepage",
+          "email_domain",
+          "subunits",
+          "domain_probing"
+        ]
+      },
+      {
+        "topic": "company_profiles",
+        "why": "company_profiles: no_profiles_detected",
+        "checked": [
+          "verified_website_outbound"
+        ]
+      },
+      {
+        "topic": "hiring",
+        "why": "hiring: none_in_nav_feed_or_site",
+        "checked": [
+          "pam_stilling_feed",
+          "verified_website"
+        ]
+      },
+      {
+        "topic": "activity",
+        "why": "activity: no_news_items_detected",
+        "checked": [
+          "verified_website_articles"
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "id": "s1",
+        "text": "NÆRØYSUND BERGARBEID AS is classified under NACE code 43.120 (unspecified).",
+        "claim_ids": [
+          "aaf25f8825808d2f4048",
+          "908c16ec1ac4282f2250"
+        ]
+      },
+      {
+        "id": "s2",
+        "text": "Operates as a registered AS entity within the commercial sector.",
+        "claim_ids": [
+          "a3c5cd83ef64f03df069",
+          "aaf25f8825808d2f4048"
+        ]
+      },
+      {
+        "id": "s3",
+        "text": "For fiscal year 2025, NÆRØYSUND BERGARBEID AS reported revenue of 1,000,168 NOK and an operating result of -303,287 NOK.",
+        "claim_ids": [
+          "81d2879570e27aa44e63",
+          "34cdac3eb14a8e1c1f06"
+        ]
+      },
+      {
+        "id": "s4",
+        "text": "Net result was -368,056 NOK, with total assets of 327,686 NOK and equity of -477,374 NOK.",
+        "claim_ids": [
+          "24ff2d9623fc4f9c3480",
+          "e5c7eea6618ea0ee935b",
+          "42c3eb188ed5f1e42e24"
+        ]
+      },
+      {
+        "id": "s5",
+        "text": "The company was loss-making in 2025.",
+        "claim_ids": [
+          "24ff2d9623fc4f9c3480"
+        ]
+      },
+      {
+        "id": "s6",
+        "text": "Revenue grew by +67.4% year-over-year from 2024 (derived: YoY revenue change).",
+        "claim_ids": [
+          "81d2879570e27aa44e63",
+          "18f97b314328ba30e21b"
+        ]
+      },
+      {
+        "id": "s7",
+        "text": "Operating margin was -30.3% (derived: operating result / revenue).",
+        "claim_ids": [
+          "34cdac3eb14a8e1c1f06",
+          "81d2879570e27aa44e63"
+        ]
+      },
+      {
+        "id": "s8",
+        "text": "The board of directors is chaired by Vegard Lysø.",
+        "claim_ids": [
+          "aeb588195495d3b59f42"
+        ]
+      },
+      {
+        "id": "s9",
+        "text": "Daily operations are led by general manager Anders Lysø.",
+        "claim_ids": [
+          "17fa5a6a64f5872f7f7a"
+        ]
+      },
+      {
+        "id": "s10",
+        "text": "The entity has 5 registered role position(s) in the register of business enterprises.",
+        "claim_ids": [
+          "17fa5a6a64f5872f7f7a",
+          "61e7dd131505ca26ce9d",
+          "9fa1c2f883dff237dfc5",
+          "aeb588195495d3b59f42",
+          "eac3b646ec3b58597e63"
+        ]
+      },
+      {
+        "id": "s11",
+        "text": "No corporate group hierarchy or parent company is registered.",
+        "claim_ids": [
+          "908c16ec1ac4282f2250"
+        ]
+      },
+      {
+        "id": "s12",
+        "text": "The entity maintains 1 registered operating subunit(s) across Norway.",
+        "claim_ids": [
+          "a040dfbd41de03506494"
+        ]
+      },
+      {
+        "id": "s13",
+        "text": "No active job postings were found in the NAV feed or on verified site pages.",
+        "claim_ids": [
+          "908c16ec1ac4282f2250"
+        ]
+      },
+      {
+        "id": "s14",
+        "text": "No recent news items were detected on verified company sources.",
+        "claim_ids": [
+          "908c16ec1ac4282f2250"
+        ]
+      },
+      {
+        "id": "s15",
+        "text": "First observation on 2026-10-03; no earlier snapshot recorded.",
+        "claim_ids": [
+          "908c16ec1ac4282f2250"
+        ]
+      }
+    ]
+  }
+}
