@@ -39,7 +39,7 @@ from signalpost.connectors.nav_jobs import (
 from signalpost.connectors.site_extraction import extract_all_site_signals
 from signalpost.discovery import discover_company_website
 from signalpost.envelope_adapter import profile_to_envelope
-from signalpost.ref.envelope import FAMILIES, STATES, failure_envelope, finalize, utc_now
+from signalpost.ref.envelope import FAMILIES, STATES, failure_envelope, finalize, utc_now, stringify_keys
 from signalpost.ref.guard import Deadline, EnvelopeWriter, InputRow, parse_inputs
 from signalpost.ref.validate import validate_envelopes
 
@@ -391,7 +391,7 @@ async def run_batch_process(
     all_changes = [ch for e in final_envelopes for ch in e.get("changes", [])]
     changes_file = out_path.parent / "changes.jsonl"
     changes_file.write_text(
-        "\n".join(json.dumps(ch, ensure_ascii=False) for ch in all_changes) + ("\n" if all_changes else ""),
+        "\n".join(json.dumps(stringify_keys(ch), ensure_ascii=False, sort_keys=True) for ch in all_changes) + ("\n" if all_changes else ""),
         encoding="utf-8"
     )
 
@@ -402,7 +402,7 @@ async def run_batch_process(
     all_claims = [c for e in final_envelopes for c in e.get("claims", [])]
     with claims_file.open("w", encoding="utf-8") as f:
         for c in all_claims:
-            f.write(json.dumps(c, ensure_ascii=False) + "\n")
+            f.write(json.dumps(stringify_keys(c), ensure_ascii=False, sort_keys=True) + "\n")
 
     status_counts = dict(Counter(e.get("status") for e in final_envelopes))
     report = {
@@ -422,9 +422,10 @@ async def run_batch_process(
         "validation": validation,
     }
 
+    normalized_report = stringify_keys(report)
     Path(report_path).parent.mkdir(parents=True, exist_ok=True)
-    Path(report_path).write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
-    return report
+    Path(report_path).write_text(json.dumps(normalized_report, ensure_ascii=False, indent=2, sort_keys=True), encoding="utf-8")
+    return normalized_report
 
 
 def build_cli_parser() -> argparse.ArgumentParser:
@@ -488,7 +489,7 @@ def main() -> None:
             run_meta=report,
         )
 
-    print(json.dumps(report, indent=2))
+    print(json.dumps(stringify_keys(report), indent=2, sort_keys=True))
     sys.exit(0 if report["validation"]["passed"] else 1)
 
 

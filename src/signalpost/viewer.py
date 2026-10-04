@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from signalpost.ref.envelope import FAMILIES, STATES
+from signalpost.ref.envelope import FAMILIES, STATES, stringify_keys
 
 STATUS_ICONS = {
     "available": "●",
@@ -796,9 +796,9 @@ def render_standalone_html(envelopes: list[dict[str, Any]], run_meta: dict[str, 
             "raw": clean_raw,
         }
 
-    compact_json = json.dumps(compact_rows, ensure_ascii=False).replace("</", "<\\/")
-    details_json = json.dumps(entity_details_map, ensure_ascii=False).replace("</", "<\\/")
-    run_meta_json = json.dumps(run_meta, ensure_ascii=False).replace("</", "<\\/")
+    compact_json = json.dumps(stringify_keys(compact_rows), ensure_ascii=False).replace("</", "<\\/")
+    details_json = json.dumps(stringify_keys(entity_details_map), ensure_ascii=False).replace("</", "<\\/")
+    run_meta_json = json.dumps(stringify_keys(run_meta), ensure_ascii=False).replace("</", "<\\/")
 
     css = get_viewer_css()
 
@@ -1755,7 +1755,7 @@ def build_viewer_site(
     # 1. Build compact index (< 400 KB for 1,100 companies)
     compact_rows = [extract_compact_index_entry(e) for e in envelopes]
     index_json_path = data_dir / "index.json"
-    index_json_content = json.dumps(compact_rows, ensure_ascii=False, indent=None)
+    index_json_content = json.dumps(stringify_keys(compact_rows), ensure_ascii=False, indent=None)
     index_json_path.write_text(index_json_content, encoding="utf-8")
     index_size_kb = len(index_json_content.encode("utf-8")) / 1024.0
 
@@ -1763,7 +1763,7 @@ def build_viewer_site(
     for env in envelopes:
         org = str(env.get("organisation_number", ""))
         # site/data/<orgnr>.json
-        (data_dir / f"{org}.json").write_text(json.dumps(env, ensure_ascii=False, indent=2), encoding="utf-8")
+        (data_dir / f"{org}.json").write_text(json.dumps(stringify_keys(env), ensure_ascii=False, indent=2), encoding="utf-8")
         # site/c/<orgnr>.html
         static_html = render_static_company_page(env, run_meta)
         (company_pages_dir / f"{org}.html").write_text(static_html, encoding="utf-8")
@@ -1796,7 +1796,7 @@ def main() -> None:
     args = parser.parse_args()
 
     summary = build_viewer_site(args.envelopes, args.out, args.standalone)
-    print(json.dumps(summary, indent=2))
+    print(json.dumps(stringify_keys(summary), indent=2))
 
 
 if __name__ == "__main__":

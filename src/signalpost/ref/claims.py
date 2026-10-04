@@ -7,17 +7,27 @@ import unicodedata
 from typing import Any
 
 
+def stringify_keys(obj: Any) -> Any:
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    elif isinstance(obj, tuple):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 def canonical(value: Any) -> str:
     """Deterministic JSON: sorted keys, no whitespace, NFC-normalised strings."""
     def norm(v: Any) -> Any:
         if isinstance(v, str):
             return unicodedata.normalize("NFC", v).strip()
         if isinstance(v, dict):
-            return {str(k): norm(x) for k, x in sorted(v.items())}
+            return {str(k): norm(x) for k, x in v.items()}
         if isinstance(v, (list, tuple)):
             return [norm(x) for x in v]
         return v
-    return json.dumps(norm(value), ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+    return json.dumps(norm(stringify_keys(value)), ensure_ascii=False, separators=(",", ":"), sort_keys=True)
 
 
 def value_hash(value: Any) -> str:

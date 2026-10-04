@@ -11,7 +11,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from .envelope import FAMILIES, STATES
+from .envelope import FAMILIES, STATES, stringify_keys
 from .guard import parse_inputs
 
 HEX64 = re.compile(r"^[0-9a-f]{64}$")
@@ -142,7 +142,7 @@ def main() -> None:
     expected = [r.orgnr for r in parse_inputs(Path(args.input).read_text(encoding="utf-8")) if r.orgnr and not r.problem]
     envs = [json.loads(line) for line in Path(args.output).read_text(encoding="utf-8").splitlines() if line.strip()]
     report = validate_envelopes(envs, expected, Path(args.snapshots) if args.snapshots else None)
-    print(json.dumps(report, indent=2, ensure_ascii=False))
+    print(json.dumps(stringify_keys(report), indent=2, ensure_ascii=False, sort_keys=True))
     sys.exit(0 if report["passed"] else 1)
 
 

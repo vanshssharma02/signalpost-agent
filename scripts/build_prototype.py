@@ -10,6 +10,14 @@ from pathlib import Path
 _NET = "link" + "edin"
 
 
+def stringify_keys(obj):
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 def read_jsonl(path: Path) -> list[dict]:
     return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
 
@@ -290,7 +298,7 @@ if __name__ == "__main__":
     seen_observations: set[str] = set()
     for source in args.external_observations or []:
         for observation in read_jsonl(Path(source)):
-            observation_id = str(observation.get("id") or json.dumps(observation, sort_keys=True, ensure_ascii=False))
+            observation_id = str(observation.get("id") or json.dumps(stringify_keys(observation), sort_keys=True, ensure_ascii=False))
             if observation_id in seen_observations:
                 continue
             seen_observations.add(observation_id)

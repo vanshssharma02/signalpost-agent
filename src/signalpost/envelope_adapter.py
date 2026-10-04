@@ -22,6 +22,7 @@ from signalpost.ref.envelope import (
     new_envelope,
     set_field_state,
     sha256_hex,
+    stringify_keys,
     utc_now,
 )
 from signalpost.synthesis import compose_synthesis
@@ -832,11 +833,11 @@ def profile_to_envelope(
         if is_dataclass(obj) and not isinstance(obj, type):
             return asdict(obj)
         if isinstance(obj, dict):
-            return {k: _to_json_safe(v) for k, v in obj.items()}
+            return {str(k): _to_json_safe(v) for k, v in obj.items()}
         if isinstance(obj, (list, tuple, set)):
             return [_to_json_safe(v) for v in obj]
         return obj
 
     # Keep legacy profile dict for backwards compatibility
     env["profile"] = _to_json_safe(profile)
-    return finalize(env)
+    return finalize(stringify_keys(env))

@@ -156,3 +156,49 @@ def test_idempotent_compare():
     assert compare_runs(one, two)["idempotent"]
     two[0]["claims"][0]["value"] = "https://other.no/"
     assert not compare_runs(one, two)["idempotent"]
+
+
+def test_stringify_keys_mixed_types():
+    from signalpost.ref.envelope import stringify_keys, dumps
+    import pytest
+
+    # Dict with mixed types that normally causes json.dumps(..., sort_keys=True) to crash
+    mixed = {
+        2023: {"revenue": 1000, 2022: 900},
+        "total": 1900,
+        (1, 2): "tuple_key",
+        "nested_list": [
+            {404: "not found", "status": 200},
+            {"clean": "ok"},
+        ],
+    }
+
+    # Verify standard json.dumps with sort_keys=True fails on unnormalized mixed dict
+    with pytest.raises(TypeError):
+        json.dumps(mixed, sort_keys=True)
+
+    # Stringify keys normalizes all keys to string
+    cleaned = stringify_keys(mixed)
+    serialized = json.dumps(cleaned, sort_keys=True)
+    assert serialized is not None
+    loaded = json.loads(serialized)
+    assert loaded["2023"]["2022"] == 900
+    assert loaded["total"] == 1900
+    assert loaded["nested_list"][0]["404"] == "not found"
+
+
+def test_dumps_envelope_with_mixed_keys():
+    from signalpost.ref.envelope import dumps
+    env = good_env(A)
+    # Inject mixed key types into claims value, operations, and profile
+    env["operations"]["requests_by_code"] = {200: 5, 404: 1, "total": 6}
+    env["claims"][0]["value"] = {2023: 100, "currency": "NOK"}
+    env["profile"]["financial_years"] = {2022: {"revenue": 50}, 2023: {"revenue": 100}}
+
+    # dumps() must succeed deterministically without raising TypeError
+    line = dumps(env)
+    assert isinstance(line, str)
+    loaded = json.loads(line)
+    assert loaded["operations"]["requests_by_code"]["200"] == 5
+    assert loaded["claims"][0]["value"]["2023"] == 100
+    assert loaded["organisation_number"] == A

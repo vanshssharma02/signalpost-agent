@@ -17,12 +17,20 @@ from norway_company_agent.official import fetch_official_modules  # noqa: E402
 from norway_company_agent.website import fetch_website  # noqa: E402
 
 
+def stringify_keys(obj):
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 def write_jsonl(path: Path, rows: list[dict]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix(path.suffix + ".tmp")
     with temporary.open("w", encoding="utf-8") as handle:
         for row in rows:
-            handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+            handle.write(json.dumps(stringify_keys(row), ensure_ascii=False, separators=(",", ":"), sort_keys=True) + "\n")
     temporary.replace(path)
 
 
@@ -123,8 +131,8 @@ def main() -> None:
         "validation": validation,
     }
     Path(args.report).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps(report, ensure_ascii=False, indent=2))
+    Path(args.report).write_text(json.dumps(stringify_keys(report), ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    print(json.dumps(stringify_keys(report), ensure_ascii=False, indent=2, sort_keys=True))
     raise SystemExit(0 if validation["passed"] else 1)
 
 

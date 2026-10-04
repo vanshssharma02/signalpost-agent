@@ -15,6 +15,14 @@ from norway_company_agent.refresh import diff_datasets  # noqa: E402
 from norway_company_agent.snapshots import SnapshotFetcher  # noqa: E402
 
 
+def stringify_keys(obj):
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 def materialize(base_profiles: list[dict], snapshot: dict, modules: set[str]) -> tuple[list[dict], SnapshotFetcher]:
     fetcher = SnapshotFetcher(snapshot)
     rows = copy.deepcopy(base_profiles)
@@ -68,9 +76,8 @@ def main() -> None:
         "qualification_passed": precision >= 0.95 and recall >= 0.95 and evidence_complete and idempotent,
         "events": changes,
     }
-    Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.output).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({key: value for key, value in report.items() if key != "events"}, ensure_ascii=False, indent=2))
+    Path(args.output).write_text(json.dumps(stringify_keys(report), ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+    print(json.dumps(stringify_keys({key: value for key, value in report.items() if key != "events"}), ensure_ascii=False, indent=2, sort_keys=True))
     raise SystemExit(0 if report["qualification_passed"] else 1)
 
 

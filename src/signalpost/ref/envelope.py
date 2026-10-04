@@ -30,8 +30,18 @@ def sha256_hex(data: bytes | str) -> str:
     return hashlib.sha256(data.encode() if isinstance(data, str) else data).hexdigest()
 
 
+def stringify_keys(obj: Any) -> Any:
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    elif isinstance(obj, tuple):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 def dumps(env: dict) -> str:
-    return json.dumps(env, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+    return json.dumps(stringify_keys(env), ensure_ascii=False, separators=(",", ":"), sort_keys=True)
 
 
 def make_evidence(ev_id: str, *, source_url: str, retrieved_at: str, content_sha256: str, claim_span: str,
@@ -132,7 +142,7 @@ def finalize(env: dict, *, now: str | None = None) -> dict:
     env["state"] = LEGACY_STATE[status]
     env.setdefault("modules", {})
     env.setdefault("profile", {})
-    return env
+    return stringify_keys(env)
 
 
 def failure_envelope(orgnr: Any, run: dict, code: str, message: str, *, stage: str = "batch") -> dict:

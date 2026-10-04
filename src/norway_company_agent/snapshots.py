@@ -7,6 +7,14 @@ from typing import Any
 from .http import FetchResult
 
 
+def stringify_keys(obj: Any) -> Any:
+    if isinstance(obj, dict):
+        return {str(k): stringify_keys(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [stringify_keys(elem) for elem in obj]
+    return obj
+
+
 class SnapshotFetcher:
     """Evaluator-owned byte snapshot adapter with the same FetchResult contract as live HTTP."""
 
@@ -25,7 +33,7 @@ class SnapshotFetcher:
             body = json.loads(raw)
         else:
             body = item.get("body")
-            raw = json.dumps(body, ensure_ascii=False, separators=(",", ":"), sort_keys=True).encode("utf-8")
+            raw = json.dumps(stringify_keys(body), ensure_ascii=False, separators=(",", ":"), sort_keys=True).encode("utf-8")
         return FetchResult(
             url=url,
             status=status,

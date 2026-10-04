@@ -12,7 +12,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Awaitable, Callable
 
-from .envelope import dumps, failure_envelope
+from .envelope import dumps, failure_envelope, stringify_keys
 from .orgnr import normalize
 
 KEYS = ("organisation_number", "organisasjonsnummer", "organization_number", "orgnr", "org_nr", "orgNumber", "id")
@@ -127,8 +127,9 @@ class EnvelopeWriter:
         return set(self.envelopes)
 
     def write(self, env: dict) -> None:
-        self.envelopes[env["organisation_number"]] = env
-        self._handle.write(dumps(env) + "\n")
+        clean_env = stringify_keys(env)
+        self.envelopes[clean_env["organisation_number"]] = clean_env
+        self._handle.write(dumps(clean_env) + "\n")
         self._handle.flush()
         self._n += 1
         if self._n % self.fsync_every == 0:
@@ -137,7 +138,9 @@ class EnvelopeWriter:
     def finalize(self, order: list[str], fallback: Callable[[str], dict]) -> int:
         for org in order:
             if org not in self.envelopes:
-                self.envelopes[org] = fallback(org)
+                self.envelopes[org] = stringify_keys(fallback(org))
+            else:
+                self.envelopes[org] = stringify_keys(self.envelopes[org])
         self._handle.flush()
         os.fsync(self._handle.fileno())
         self._handle.close()
@@ -182,10 +185,10 @@ async def run_batch(orgs: list[str], worker: Worker, writer: EnvelopeWriter, *, 
 
     await asyncio.gather(*(one(o) for o in todo))
     codes = Counter(e["errors"][0]["code"] for e in writer.envelopes.values() if e.get("errors"))
-    return {
+    return stringify_keys({
         "processed_this_run": len(todo), "resumed": len(orgs) - len(todo),
         "status_counts": dict(Counter(e["status"] for e in writer.envelopes.values())),
         "error_codes": dict(codes),
         "p50_s": round(statistics.median(timings), 3) if timings else None,
         "p95_s": round(sorted(timings)[int(0.95 * (len(timings) - 1))], 3) if timings else None,
-    }
+    })

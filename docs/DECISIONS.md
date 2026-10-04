@@ -313,3 +313,31 @@ Removed 10 legacy files adhering to AGENTS.md source policy (reason: `source pol
   - Clean-room virtual environment verification: 41 packages installed from `requirements.txt` with SHA-256 hashes, zero errors.
 - **Test Suite**: 143 passed in 2.63s (`uv run --with pytest pytest -q`).
 - **Tag**: Tagged `submission-v1`.
+
+## Post-Submission Hotfix: Deterministic JSON Sorting with Mixed Key Types
+
+### 1. Problem Statement
+Builderr evaluation reported a runner crash on commit `a8b4a736`: `"deterministic JSON sorting encountered mixed object-key types"`. When Python serializes dictionaries containing non-string keys (e.g. integer years in accounts, numeric HTTP status codes, tuples, or mixed key types) with `sort_keys=True`, Python's internal sorting mechanism raises `TypeError: '<' not supported between instances of 'str' and 'int'`.
+
+### 2. Architecture & Fix Implementation
+- Implemented recursive `stringify_keys(obj)` normalizer:
+  ```python
+  def stringify_keys(obj: Any) -> Any:
+      if isinstance(obj, dict):
+          return {str(k): stringify_keys(v) for k, v in obj.items()}
+      elif isinstance(obj, list):
+          return [stringify_keys(elem) for elem in obj]
+      elif isinstance(obj, tuple):
+          return [stringify_keys(elem) for elem in obj]
+      return obj
+  ```
+- Wired `stringify_keys` into:
+  - `signalpost.ref.envelope.dumps(env)` and `finalize(env)`
+  - `signalpost.ref.claims.canonical(value)`
+  - `signalpost.ref.guard.EnvelopeWriter.write` and `finalize`
+  - `signalpost.run` for changes, claims, report, and stdout serialization
+  - `signalpost.envelope_adapter._to_json_safe` and `profile_to_envelope`
+  - `signalpost.viewer` for standalone and static site JSON artifacts
+  - `norway_company_agent.snapshots` and `external_tasks`
+- Added comprehensive unit tests in `tests/ref/test_envelope_guard.py` and `reference/tests/test_envelope_guard.py`.
+- Verified all 145 unit tests pass and 19 reference tests pass.
