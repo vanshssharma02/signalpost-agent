@@ -162,13 +162,14 @@ def test_stringify_keys_mixed_types():
     from signalpost.ref.envelope import stringify_keys, dumps
     import pytest
 
-    # Dict with mixed types that normally causes json.dumps(..., sort_keys=True) to crash
+    # Dict with mixed types including None that normally causes json.dumps(..., sort_keys=True) to crash
     mixed = {
-        2023: {"revenue": 1000, 2022: 900},
+        None: "overflow",
+        2023: {"revenue": 1000, 2022: 900, None: "sub_overflow"},
         "total": 1900,
         (1, 2): "tuple_key",
         "nested_list": [
-            {404: "not found", "status": 200},
+            {404: "not found", "status": 200, None: "list_overflow"},
             {"clean": "ok"},
         ],
     }
@@ -177,14 +178,17 @@ def test_stringify_keys_mixed_types():
     with pytest.raises(TypeError):
         json.dumps(mixed, sort_keys=True)
 
-    # Stringify keys normalizes all keys to string
+    # Stringify keys normalizes all keys to string (and None to "")
     cleaned = stringify_keys(mixed)
     serialized = json.dumps(cleaned, sort_keys=True)
     assert serialized is not None
     loaded = json.loads(serialized)
+    assert loaded[""] == "overflow"
+    assert loaded["2023"][""] == "sub_overflow"
     assert loaded["2023"]["2022"] == 900
     assert loaded["total"] == 1900
     assert loaded["nested_list"][0]["404"] == "not found"
+    assert loaded["nested_list"][0][""] == "list_overflow"
 
 
 def test_dumps_envelope_with_mixed_keys():

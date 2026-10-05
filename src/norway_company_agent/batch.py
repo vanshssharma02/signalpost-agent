@@ -68,6 +68,8 @@ def profiles_from_bulk(path: str | Path, organisation_numbers: Iterable[str]) ->
         if org not in wanted:
             continue
         raw = profile.pop("raw", {})
+        if isinstance(raw, dict):
+            raw.pop(None, None)
         profile["evidence"] = {
             "registry": evidence(
                 "registry",

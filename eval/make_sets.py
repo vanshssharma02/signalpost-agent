@@ -78,8 +78,12 @@ def load_bulk_csv_attributes(universe_orgs: set[str]) -> tuple[set[str], set[str
         return bankrupt, liquidating, missing_filings
 
     with open(BULK_CSV_PATH, "r", encoding="utf-8", errors="replace") as f:
-        reader = csv.DictReader(f)
+        first_line = f.readline()
+        f.seek(0)
+        delim = ";" if (";" in first_line and "," not in first_line) else ","
+        reader = csv.DictReader(f, delimiter=delim, quotechar='"', doublequote=True)
         for row in reader:
+            row.pop(None, None)
             org = row.get("organisasjonsnummer")
             if org not in universe_orgs:
                 continue

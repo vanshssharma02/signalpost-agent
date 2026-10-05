@@ -23,7 +23,7 @@ def canonical(value: Any) -> str:
         if isinstance(v, str):
             return unicodedata.normalize("NFC", v).strip()
         if isinstance(v, dict):
-            return {str(k): norm(x) for k, x in v.items()}
+            return {(str(k) if k is not None else ""): norm(x) for k, x in v.items()}
         if isinstance(v, (list, tuple)):
             return [norm(x) for x in v]
         return v

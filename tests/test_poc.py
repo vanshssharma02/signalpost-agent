@@ -18,7 +18,7 @@ from norway_company_agent.crawl_events import extract_page_event, merge_profile_
 from norway_company_agent.discovery import build_company_search_query, choose_search_candidate, parse_brave_web_results, score_search_candidate  # noqa: E402
 from norway_company_agent.official import _reserve_history_slot, accounting_obligation_assessment, normalize_entity, normalize_financial_history, normalize_financials, normalize_roles  # noqa: E402
 from norway_company_agent.operations import domain_request_summary, latency_summary, percentile  # noqa: E402
-from norway_company_agent.sampling import deterministic_extension_sample, deterministic_financial_filer_sample, deterministic_website_audit_sample, financial_filer_eligible, normalize_row, stratum  # noqa: E402
+from norway_company_agent.sampling import deterministic_extension_sample, deterministic_financial_filer_sample, deterministic_website_audit_sample, financial_filer_eligible, iter_bulk, normalize_row, stratum  # noqa: E402
 from norway_company_agent.research import answer_profile, parse_screen_query, screen_profiles  # noqa: E402
 from norway_company_agent.workspace import load_workspace, record_screen, save_workspace  # noqa: E402
 from norway_company_agent.refresh import diff_datasets, diff_profile  # noqa: E402
@@ -464,6 +464,39 @@ class SamplingTests(unittest.TestCase):
         self.assertEqual(selected[0]["organisation_number"], "444444444")
         self.assertEqual(metadata["unique_hosts_selected"], 1)
         self.assertEqual(metadata["excluded_website_hosts"], 1)
+
+    def test_csv_escaped_quotes_after_8192_bytes_has_no_none_column(self):
+        with tempfile.TemporaryDirectory() as directory:
+            csv_path = Path(directory) / "test_bulk.csv"
+            # Build a CSV where an escaped double quote occurs strictly after 8,192 bytes
+            header = "organisasjonsnummer,navn,organisasjonsform.kode,hjemmeside\n"
+            padding_lines = []
+            current_len = len(header.encode("utf-8"))
+            idx = 100000000
+            while current_len < 8500:
+                line = f'{idx},"Standard Padding Company {idx}","AS","www.example.no"\n'
+                padding_lines.append(line)
+                current_len += len(line.encode("utf-8"))
+                idx += 1
+
+            # Strictly after 8192 bytes, add a row containing escaped double quotes ""
+            escaped_quote_row = '999999999,"Special ""Quoted"" Enterprise AS","AS","www.quoted.no"\n'
+            csv_content = header + "".join(padding_lines) + escaped_quote_row
+            csv_path.write_text(csv_content, encoding="utf-8")
+
+            # Assert that the quote occurrence is strictly beyond 8192 bytes
+            quote_pos = csv_content.find('""')
+            self.assertGreater(quote_pos, 8192)
+
+            records = list(iter_bulk(csv_path))
+            target = [r for r in records if r["organisation_number"] == "999999999"]
+            self.assertEqual(len(target), 1)
+            rec = target[0]
+            # Assert row[None] is not present anywhere
+            self.assertNotIn(None, rec)
+            self.assertNotIn(None, rec.get("raw", {}))
+            self.assertEqual(rec["name"], 'Special "Quoted" Enterprise AS')
+            self.assertEqual(rec["website"], "www.quoted.no")
 
 
 class OperationsTests(unittest.TestCase):

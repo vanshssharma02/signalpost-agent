@@ -60,6 +60,8 @@ def load_bulk_subset(path: str | Path, target_orgs: set[str]) -> tuple[dict[str,
         org = profile.get("organisation_number")
         if org in target_orgs:
             raw = profile.pop("raw", {})
+            if isinstance(raw, dict):
+                raw.pop(None, None)
             profile["evidence"] = {
                 "registry": {
                     "field": "registry",
@@ -285,10 +287,44 @@ async def run_batch_process(
                             },
                         }
                     else:
-                        records["website"] = {
-                            "status": "not_available",
-                            "note": "discovery_ladder_exhausted_unverified",
-                        }
+                        if profile.get("website"):
+                            try:
+                                website_record, _ = fetch_website(profile.get("website"))
+                                gated = apply_website_identity_gate(profile, website_record)
+                                web_gated = gated.get("website") or {}
+                                if web_gated.get("status") == "available" and (gated.get("assessment") or {}).get("publishable"):
+                                    web_val = web_gated.get("value") or {}
+                                    records["website"] = {
+                                        "status": "available",
+                                        "source_url": web_gated.get("source_url") or f"https://{web_val.get('registered_domain')}/",
+                                        "retrieved_at": web_gated.get("retrieved_at") or utc_now(),
+                                        "value": {
+                                            "homepage": web_gated.get("source_url"),
+                                            "final_url": web_val.get("final_url") or web_gated.get("source_url"),
+                                            "registrable_domain": web_val.get("registered_domain"),
+                                            "strategy": "registry_homepage",
+                                            "proof_level": "p2_strong",
+                                            "claim_span": web_val.get("title") or profile.get("name"),
+                                            "page_html": "",
+                                            "page_text": web_val.get("main_text_excerpt") or "",
+                                            "brand_name": web_val.get("title"),
+                                        },
+                                    }
+                                else:
+                                    records["website"] = {
+                                        "status": "not_available",
+                                        "note": "discovery_ladder_exhausted_unverified",
+                                    }
+                            except Exception:
+                                records["website"] = {
+                                    "status": "not_available",
+                                    "note": "discovery_ladder_exhausted_unverified",
+                                }
+                        else:
+                            records["website"] = {
+                                "status": "not_available",
+                                "note": "discovery_ladder_exhausted_unverified",
+                            }
                 except Exception as e:
                     logger.warning("Error running discovery ladder for %s: %s", org, e)
                     records["website"] = {

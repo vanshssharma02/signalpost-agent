@@ -163,11 +163,12 @@ def test_stringify_keys_mixed_types():
     import pytest
 
     mixed = {
-        2023: {"revenue": 1000, 2022: 900},
+        None: "overflow",
+        2023: {"revenue": 1000, 2022: 900, None: "sub_overflow"},
         "total": 1900,
         (1, 2): "tuple_key",
         "nested_list": [
-            {404: "not found", "status": 200},
+            {404: "not found", "status": 200, None: "list_overflow"},
             {"clean": "ok"},
         ],
     }
@@ -179,9 +180,12 @@ def test_stringify_keys_mixed_types():
     serialized = json.dumps(cleaned, sort_keys=True)
     assert serialized is not None
     loaded = json.loads(serialized)
+    assert loaded[""] == "overflow"
+    assert loaded["2023"][""] == "sub_overflow"
     assert loaded["2023"]["2022"] == 900
     assert loaded["total"] == 1900
     assert loaded["nested_list"][0]["404"] == "not found"
+    assert loaded["nested_list"][0][""] == "list_overflow"
 
 
 def test_dumps_envelope_with_mixed_keys():

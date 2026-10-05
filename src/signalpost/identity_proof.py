@@ -87,6 +87,7 @@ def extract_page_text_and_jsonld(html: str) -> tuple[str, list[dict[str, Any]], 
     
     # Remove script and style elements except json-ld
     jsonld_data: list[dict[str, Any]] = []
+    script_strings: list[str] = []
     for script in soup.find_all("script"):
         if script.get("type") == "application/ld+json":
             try:
@@ -98,6 +99,10 @@ def extract_page_text_and_jsonld(html: str) -> tuple[str, list[dict[str, Any]], 
                     jsonld_data.append(data)
             except Exception:
                 pass
+        elif script.string and len(html or "") > 500:
+            strs = re.findall(r'"([^"\\]{3,200})"', script.string)
+            if strs:
+                script_strings.extend(strs[:200])
         script.decompose()
         
     for tag in soup.find_all(["style", "noscript", "svg"]):
@@ -106,6 +111,8 @@ def extract_page_text_and_jsonld(html: str) -> tuple[str, list[dict[str, Any]], 
     title = soup.title.string.strip() if soup.title and soup.title.string else ""
     h1s = [h.get_text(separator=" ", strip=True) for h in soup.find_all("h1")]
     text = soup.get_text(separator=" ", strip=True)
+    if len(text.strip()) < 30 and script_strings:
+        text = f"{text} {' '.join(script_strings)}".strip()
     return text, jsonld_data, title, h1s
 
 
@@ -305,6 +312,7 @@ def verify_website_proof(
             for addr_dict in filter(None, [business_address, postal_address]):
                 postnr = str(addr_dict.get("postnummer") or "").strip()
                 gate = str(addr_dict.get("adresse") or "").strip()
+                poststed = str(addr_dict.get("poststed") or "").strip()
                 if isinstance(gate, list):
                     gate = " ".join(gate)
                 if postnr and len(postnr) == 4 and gate and len(gate) >= 4:
@@ -315,6 +323,11 @@ def verify_website_proof(
                             addr_span = text[idx_gate: min(len(text), idx_gate + len(gate) + 30)].strip()
                         else:
                             addr_span = gate
+                        break
+                if not addr_matched and poststed and len(poststed) >= 4 and poststed.lower() in text.lower():
+                    if cand_reg and final_reg and cand_reg == final_reg:
+                        addr_matched = True
+                        addr_span = poststed
                         break
 
             # Check (c): phone OR email domain == site domain OR role holder

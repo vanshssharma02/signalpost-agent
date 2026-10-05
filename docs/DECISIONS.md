@@ -341,3 +341,29 @@ Builderr evaluation reported a runner crash on commit `a8b4a736`: `"deterministi
   - `norway_company_agent.snapshots` and `external_tasks`
 - Added comprehensive unit tests in `tests/ref/test_envelope_guard.py` and `reference/tests/test_envelope_guard.py`.
 - Verified all 145 unit tests pass and 19 reference tests pass.
+
+## Post-Submission Root Cause Fix: RFC 4180 CSV Dialect & None-Key Overflow Column Prevention
+
+### 1. Problem Statement & Root Cause
+Builderr evaluation identified the exact root cause:
+*"The CSV dialect detector misread escaped double quotes, created overflow columns under a Python None key, and the run stopped while serializing the record."*
+
+Mechanics:
+`csv.Sniffer().sniff(sample, delimiters=";,\t")` sampled only the first 8,192 bytes of `data/brreg-enheter.csv`. When lines occurring strictly after byte 8,192 contained RFC 4180 escaped double quotes (`""`) in company names or bylaws, `csv.DictReader` misread internal delimiters and produced overflow column lists under `row[None]`. The raw CSV row was retained in `profile["raw"]` and passed into `profile["evidence"]["registry"]["value"]`. When serializing the record with `json.dumps(..., sort_keys=True)`, sorting dictionary keys containing `None` alongside strings raised `TypeError`.
+
+### 2. Implementation & Prevention
+1. **Removed `csv.Sniffer()`**:
+   - In `src/norway_company_agent/sampling.py:iter_bulk`, eliminated `csv.Sniffer()`.
+   - Explicitly configured standard RFC 4180 CSV dialect: `csv.DictReader(handle, delimiter=delim, quotechar='"', doublequote=True)` where `delim` defaults to `,` (with fallback to `;` if `;` is present in header and `,` is not, supporting test fixtures).
+2. **Explicit Overflow Column Stripping**:
+   - In all `DictReader` loops (`sampling.py:iter_bulk`, `eval/make_sets.py:load_bulk_csv_attributes`), immediately called `row.pop(None, None)`.
+   - In `normalize_row(row)`, called `row.pop(None, None)` and normalized `"raw"` to `{str(k): v for k, v in row.items() if k is not None}`.
+   - In `src/norway_company_agent/batch.py` and `src/signalpost/run.py:load_bulk_subset`, added defense-in-depth `raw.pop(None, None)`.
+3. **None-Key Safe Stringification**:
+   - Updated `stringify_keys(obj)` across `signalpost.ref.envelope`, `reference/signalpost_ref/envelope`, `signalpost.ref.claims`, `reference/signalpost_ref/claims`, `scripts/run_competition_batch.py`, `scripts/run_refresh_replay.py`, `norway_company_agent.snapshots`, and `norway_company_agent.external_tasks` to convert `None` keys to `""`: `{(str(k) if k is not None else ""): stringify_keys(v) for k, v in obj.items()}`.
+4. **Regression Testing**:
+   - Added `test_csv_escaped_quotes_after_8192_bytes_has_no_none_column` in `tests/test_poc.py`. Reads a CSV with an escaped double-quote (`""`) occurring strictly after 8,192 characters and asserts `row[None]` is not present.
+5. **Verified Company 811413682 (Elopak)**:
+   - Added `tests/test_elopak_extraction.py` and verified extraction for test company 811413682 (Elopak ASA) records website `elopak.com` / `https://www.elopak.com/`, retrieval date, and supporting value dictionary in the emitted envelope.
+   - Full test suite passes: 147 passed, 5 subtests passed, 19 reference tests passed.
+

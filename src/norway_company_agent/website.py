@@ -289,6 +289,14 @@ def fetch_website(url: str | None, *, timeout: float = 15.0, max_bytes: int = 2_
         soup = BeautifulSoup(html, "lxml")
         structured = extruct.extract(html, base_url=final_url, syntaxes=["json-ld", "microdata", "opengraph"])
         text = trafilatura.extract(html, url=final_url, include_links=False, include_tables=False, favor_precision=True) or ""
+        if not text:
+            soup_text = soup.get_text(" ", strip=True)
+            script_strings = []
+            for s in soup.find_all("script"):
+                if s.string:
+                    strs = re.findall(r'"([^"\\]{3,200})"', s.string)
+                    script_strings.extend(strs[:200])
+            text = f"{soup_text} {' '.join(script_strings)}".strip()
         title = soup.title.get_text(" ", strip=True) if soup.title else ""
         description_tag = soup.select_one('meta[name="description"], meta[property="og:description"]')
         description = str(description_tag.get("content") or "").strip() if description_tag else ""

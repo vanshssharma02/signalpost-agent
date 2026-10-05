@@ -7,7 +7,7 @@ from typing import Any
 
 def stringify_keys(obj: Any) -> Any:
     if isinstance(obj, dict):
-        return {str(k): stringify_keys(v) for k, v in obj.items()}
+        return {(str(k) if k is not None else ""): stringify_keys(v) for k, v in obj.items()}
     elif isinstance(obj, list):
         return [stringify_keys(elem) for elem in obj]
     return obj

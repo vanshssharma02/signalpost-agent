@@ -20,12 +20,14 @@ def _first(row: dict[str, str], *names: str) -> str:
 
 
 def normalize_row(row: dict[str, str]) -> dict[str, Any]:
+    row.pop(None, None)
     org = _first(row, "organisasjonsnummer", "Organisasjonsnummer")
     employees_raw = _first(row, "antallAnsatte", "Antall ansatte")
     try:
         employees = int(employees_raw) if employees_raw else None
     except ValueError:
         employees = None
+    clean_raw = {str(k): v for k, v in row.items() if k is not None}
     return {
         "organisation_number": org,
         "name": _first(row, "navn", "Navn"),
@@ -39,7 +41,7 @@ def normalize_row(row: dict[str, str]) -> dict[str, Any]:
         "industry_label": _first(row, "naeringskode1.beskrivelse", "Næringskode1.beskrivelse"),
         "website": _first(row, "hjemmeside", "Hjemmeside"),
         "latest_submitted_accounts": _first(row, "sisteInnsendteAarsregnskap", "Siste innsendte årsregnskap"),
-        "raw": row,
+        "raw": clean_raw,
     }
 
 
@@ -152,10 +154,11 @@ def _open_bulk(path: str | Path):
 
 def iter_bulk(path: str | Path) -> Iterable[dict[str, Any]]:
     with _open_bulk(path) as handle:
-        sample = handle.read(8192)
+        first_line = handle.readline()
         handle.seek(0)
-        dialect = csv.Sniffer().sniff(sample, delimiters=";,\t")
-        for row in csv.DictReader(handle, dialect=dialect):
+        delim = ";" if (";" in first_line and "," not in first_line) else ","
+        for row in csv.DictReader(handle, delimiter=delim, quotechar='"', doublequote=True):
+            row.pop(None, None)
             record = normalize_row(row)
             if len(record["organisation_number"]) == 9:
                 yield record
